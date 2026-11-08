@@ -87,3 +87,24 @@ describe('voicings', () => {
     expect(tops.size).toBe(4);
   });
 });
+
+import { quartalStack, rootlessA, rootlessB } from './chords';
+
+describe('voicings avancés', () => {
+  it('quartal sur C : C F Bb Eb', () => {
+    expect(quartalStack(parseNote('C')).map(noteName)).toEqual(['C', 'F', 'Bb', 'Eb']);
+  });
+  it('quartal sur E : E A D G', () => {
+    expect(quartalStack(parseNote('E')).map(noteName)).toEqual(['E', 'A', 'D', 'G']);
+  });
+  it('rootless A de C9 : E G Bb D (sans fondamentale)', () => {
+    expect(rootlessA(buildChord(parseNote('C'), '9')).map(noteName)).toEqual(['E', 'G', 'Bb', 'D']);
+  });
+  it('rootless B de C13 : E Bb A (7e, 13e, 3e) — sans C ni G', () => {
+    const r = rootlessB(buildChord(parseNote('C'), '13')).map(noteName);
+    expect(r).not.toContain('C');
+    expect(r).not.toContain('G');
+    expect(r).toContain('Bb');
+    expect(r).toContain('A');
+  });
+});

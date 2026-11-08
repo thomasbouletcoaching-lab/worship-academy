@@ -123,3 +123,30 @@ export function isWellFormed(chord: Chord): boolean {
   });
 }
 
+
+/**
+ * Accord quartal : on empile des quartes justes (5 demi-tons) à partir de la fondamentale.
+ * Renvoie les notes orthographiées (lettres à 3 pas de distance).
+ */
+export function quartalStack(root: Note, count = 4): Note[] {
+  const out: Note[] = [];
+  let letterIdx = LETTERS.indexOf(root.letter);
+  for (let i = 0; i < count; i++) {
+    const letter = LETTERS[(letterIdx + 3 * i) % 7];
+    const want = (pc(root) + 5 * i) % 12;
+    let acc = (((want - LETTER_PC[letter]) % 12) + 12) % 12;
+    if (acc > 6) acc -= 12;
+    out.push({ letter, acc });
+  }
+  return out;
+}
+
+/** Rootless A : tierce, quinte, septième, neuvième (sans fondamentale). */
+export function rootlessA(chord: Chord): Note[] {
+  return chord.notes.filter((_, i) => [1, 2, 3, 4].includes(i) && chord.degrees[i] !== 1);
+}
+
+/** Rootless B : tierce, septième, neuvième, treizième (sans fondamentale ni quinte). */
+export function rootlessB(chord: Chord): Note[] {
+  return chord.notes.filter((_, i) => [3, 5, 7, 9, 13].includes(chord.degrees[i]) && chord.degrees[i] !== 1 && chord.degrees[i] !== 5);
+}
