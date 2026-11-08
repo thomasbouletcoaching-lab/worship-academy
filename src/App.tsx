@@ -8,6 +8,9 @@ import EarTrainer from './features/ear/EarTrainer';
 import VirtualBand from './features/band/VirtualBand';
 import PadPage from './features/pad/PadPage';
 import FrequencesPage from './features/frequences/FrequencesPage';
+import ParcoursPage from './features/parcours/ParcoursPage';
+import DimanchePage from './features/dimanche/DimanchePage';
+import CultePage from './features/culte/CultePage';
 
 const fiches = loadFiches();
 const NIVEAUX = [
@@ -48,6 +51,7 @@ function Shell({ children }: { children: React.ReactNode }) {
         <div className="mx-auto flex max-w-5xl flex-wrap items-center gap-2 px-4 py-3">
           <Link to="/" className="mr-auto font-serif text-lg font-semibold text-or">Worship Academy</Link>
           <nav className="flex flex-wrap items-center gap-1 text-sm">
+            <NavLink to="/parcours" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Parcours</NavLink>
             <NavLink to="/bibliotheque" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Bibliothèque</NavLink>
             <NavLink to="/accords" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Accords</NavLink>
             <NavLink to="/nashville" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Grilles</NavLink>
@@ -143,6 +147,9 @@ export default function App() {
           <Route path="/groupe" element={<VirtualBand />} />
           <Route path="/pad" element={<PadPage />} />
           <Route path="/frequences" element={<FrequencesPage />} />
+          <Route path="/parcours" element={<ParcoursPage />} />
+          <Route path="/dimanche" element={<DimanchePage />} />
+          <Route path="/culte" element={<CultePage />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </Shell>
