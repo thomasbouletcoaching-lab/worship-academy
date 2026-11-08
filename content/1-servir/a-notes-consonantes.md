@@ -66,11 +66,11 @@ Notes indiquées avec octave (C4 = Do central). Chaque exemple donne l'accord su
 
 Vérification : E4 à A4 fait 5 demi-tons (quarte juste), A4 à B4 fait 2, B4 à C5 fait 1. Le mouvement est un petit escalier. Chaque note est dans l'accord de sa mesure, donc chaque temps fort est un pilier.
 
-Dans cette mélodie, la note B4 sur le premier temps de la mesure 2 (accord de F) serait à risque : B est la septième majeure de C, et sur F elle est la note de passage vers C. Évite-la sur temps fort.
+Dans cette mélodie, une note B4 (Si) posée sur le premier temps de la mesure 2 (accord de F) serait à risque : B est à 6 demi-tons de F, un triton, le frottement le plus fort possible avec la fondamentale. Évite-la sur temps fort.
 
 **Exemple en G majeur, I – IV – V – I.** La mélodie devient : D5 (Ré) sur G (I), E5 (Mi) sur C (IV), F#5 (Fa dièse) sur D (V), G5 (Sol) sur G (I). Vérification : G majeur contient D, E n'est pas dans G, mais E est dans C majeur : E5 est donc une note sûre sur l'accord de C. F# est la tierce de D majeur, donc sûre sur la dominante. D5 et G5 sont sûres sur G. Vérifie la transposition : la mélodie est la même que celle de la gamme de G, avec un F# obligatoire.
 
-**Note de passage.** Sur le temps 2 de la mesure 1 (accord de G), tu peux ajouter A4 (La) : elle relie B4 et G4, c'est une note de passage. Elle ne tombe pas sur temps fort, donc elle reste libre.
+**Note de passage.** Après D5 sur le temps 1 de la mesure 1 (accord de G), tu peux glisser C5 (Do) sur le temps 2 : elle est à risque sur G, mais tolérée sur temps faible, car elle descend vers la note sûre B4 (Si). Elle ne tombe pas sur temps fort, donc elle reste libre.
 
 **Note sur la tonalité de référence.** Les exemples sont donnés en C majeur puis en G majeur. En G, retiens que F# est la tierce de D majeur : sans F#, la dominante sonne comme une D mineur ou un D neutre.
 
@@ -80,7 +80,7 @@ Dans cette mélodie, la note B4 sur le premier temps de la mesure 2 (accord de F
 
 **Un refrain simple.** Une assemblée chante un refrain court sur I – IV – V – I. Tu dois accompagner la mélodie qu'elle chante : la note tenue sur le premier temps de chaque mesure doit être sûre. Si le refrain pose un F sur un accord de C, tu peux le soutenir en changeant l'accord en F, ou en gardant le C et en ne plaquant pas la note F dans ta main droite.
 
-**Un couplet intime.** Pendant un couplet à voix seule, la mélodie est souvent plus libre et tient des notes sur plusieurs temps. Une note longue doit d'autant plus être consonante. Sur un accord de C, une note D tenue deux temps peut créer une colorazione douce, mais à la fin d'un chant elle peut laisser une attente qui n'est pas résolue.
+**Un couplet intime.** Pendant un couplet à voix seule, la mélodie est souvent plus libre et tient des notes sur plusieurs temps. Une note longue doit d'autant plus être consonante. Sur un accord de C, une note D tenue deux temps peut créer une couleur douce, mais à la fin d'un chant elle peut laisser une attente qui n'est pas résolue.
 
 **Un appel ou une prière.** Quand le leader appelle « Venez à lui », la phrase se termine souvent sur une note longue. Choisis la note sûre de l'accord final, généralement la tonique. Ainsi la fin de phrase est un repos, et l'assemblée reprend sa respiration.
 
@@ -95,7 +95,7 @@ Joue, à 60 BPM, la mélodie E4 – A4 – B4 – C5 sur les accords C – F –
 
 ### 🟡 Palier 2 — Maîtrise
 
-Joue la mélodie du palier 1 à 80 BPM, puis ajoute une note de passage A4 sur le temps 2 de la mesure 1 (accord de G, en G majeur ou en C). Enregistre huit mesures : quatre sur C et quatre sur G, en alternant les tonalités.
+Joue la mélodie du palier 1 à 80 BPM, puis ajoute une note de passage F4 (Fa) sur le temps 2 de la mesure 1 (accord de C) : elle est à risque sur C, tolérée sur temps faible, et elle mène vers A4. Enregistre huit mesures : quatre sur C et quatre sur G, en alternant les tonalités.
 **Critère de réussite** : sur les 16 temps forts enregistrés, zéro note étrangère à l'accord ; une note de passage audible par mesure ; écoute validée à l'oreille.
 
 ### 🔴 Palier 3 — Virtuose

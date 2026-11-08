@@ -38,7 +38,7 @@ Enfin, un set est une chose vivante. Le dimanche, il faut parfois laisser la pla
 
 **Les accords pivots.** Un pivot est un accord commun à deux tonalités ou deux chants. Entre C majeur et A mineur (son relatif), tous les accords partagent deux notes : C et E. Entre G et E mineur, les notes communes sont G et B. Le pivot permet de passer d'un chant à l'autre sans rupture : on termine le premier sur un accord commun, puis on démarre le second dessus.
 
-**Les notes communes.** Quand deux accords se suivent, les notes qui restent en place et celles qui bougent d'un demi-ton ou d'un ton donnent une transition souple. Une note qui monte d'un demi-ton vers sa résolution est dite « sensible ». Dans un enchaînement C–Am, la note G monte d'un ton jusqu'à A : c'est un mouvement doux.
+**Les notes communes.** Quand deux accords se suivent, les notes qui restent en place et celles qui bougent d'un demi-ton ou d'un ton donnent une transition souple. Une note qui monte d'un demi-ton vers la note suivante s'appelle souvent une note sensible (la septième degré en gamme majeure, qui monte vers la tonique). Dans un enchaînement C–Am, la note G monte d'un ton jusqu'à A : c'est un mouvement doux.
 
 **Le plan d'un set.** Un set de quatre chants peut suivre un arc en quatre temps : une entrée intime (un chant plus calme), une montée (un chant plus ouvert), un moment de prière ou de silence, puis une conclusion qui relance l'élan. Les repères de longueur sont simples : pas plus de trois chants en tempo rapide d'affilée, un chant lent après un chant rapide pour souffler.
 
@@ -65,7 +65,7 @@ Pour la basse MG, joue la fondamentale de chaque accord au doigt 5 : C3, A2, F3,
 |---|---|---|---|---|---|
 | G | G | G4 – B4 – D5 | 1 – 3 – 5 | | |
 | G → Em | Em | G4 – B4 – E5 | 1 – 3 – 5 | G4, B4 | D5 → E5 (un ton) |
-| Em → C | C | C4 – E4 – G4 | 1 – 3 – 5 | E4, G4 | B4 → descend dans C, en registre grave |
+| Em → C | C | E4 – G4 – C5 | 1 – 3 – 5 | E4, G4 | B4 → C5 (un demi-ton) |
 | C → D | D | D4 – F#4 – A4 | 1 – 3 – 5 | aucune | triade déplacée d'un ton |
 
 Dans la tonalité de G, le Fa dièse (F#4) apparaît dès l'accord de D : c'est la marque du passage à une tonalité à un dièse. Vérifie avant le set que le chanteur connaît ce dièse, ou prévois une transposition d'avance.

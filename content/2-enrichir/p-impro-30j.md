@@ -43,7 +43,7 @@ Vérifions les tierces : dans C, C vers E = 4 demi-tons (tierce majeure), E vers
 - **Notes de couleur** : les notes de la gamme qui ne sont pas dans l'accord mais qui sonnent bien sur un temps faible, ou qui se résolvent par degré conjoint. Sur C, par exemple, D (9e) est une couleur agréable.
 - **Notes à éviter** : une note qui frotte la tierce ou la septième sur un temps fort. Ici, le E est la septième majeure de F : il sonne tendu sur l'accord de F. On peut le jouer, à condition de le faire sur un temps faible et de le résoudre vers F ou D.
 
-**La pentatonique comme filet de sécurité.** Les notes de la pentatonique de Do majeur (C, D, E, G, A) ne contiennent aucun demi-ton, donc aucune tension dure. Elles se combinent bien avec C, Am, F et G. Attention toutefois à la note E sur F, qui vient d'être évoquée, et à la note D sur G, qui forme une quarte avec G et doit être vite résolue (G vers D est une quinte, pas une quarte, mais D vers G est une quarte : tout dépend de la basse).
+**La pentatonique comme filet de sécurité.** Les notes de la pentatonique de Do majeur (C, D, E, G, A) ne contiennent aucun demi-ton, donc aucune tension dure. Elles se combinent bien avec C, Am, F et G. Attention toutefois à la note E sur F, déjà évoquée. Sur G, seule la note C (une quarte juste au-dessus de G, donc une tension de type sus4) demande une précaution : elle se résout naturellement vers B ou vers D.
 
 **La progression de 30 jours.**
 
@@ -60,11 +60,11 @@ Vérifions les tierces : dans C, C vers E = 4 demi-tons (tierce majeure), E vers
 
 **Tonalité de référence : Do majeur (C).** Les exemples utilisent les lettres anglo-saxonnes, avec C4 = Do central.
 
-**Jour 1 — fondamentales (main droite au registre médian).** Mesure 1 : C4 (1) sur quatre temps. Mesure 2 : A3 (1) en dessous de la portée ? Non : pour rester dans la même zone, prends A4 (1). Mesure 3 : F4 (1). Mesure 4 : G4 (1). Doigté conseillé : toujours le pouce, pour ne pas bouger la main.
+**Jour 1 — fondamentales (main droite au registre médian).** Mesure 1 : C4 (1) sur quatre temps. Mesure 2 : A4 (1). Mesure 3 : F4 (1). Mesure 4 : G4 (1). Doigté conseillé : toujours le pouce, pour ne pas bouger la main.
 
 **Jour 6 — arpèges.** Mesure 1 : C4 (1), E4 (2), G4 (3), C5 (5). Mesure 2 : A3 (1), C4 (2), E4 (3), A4 (5). Mesure 3 : F3 (1), A3 (2), C4 (3), F4 (5). Mesure 4 : G3 (1), B3 (2), D4 (3), G4 (5). Les intervalles des arpèges sont ceux des accords vus plus haut.
 
-**Jour 16 — pentatonique.** Le motif C4 (1), D4 (2), E4 (3), G4 (5) est un bon point de départ. Sur F, on peut jouer A4 (1), G4 (3), F4 (2), C5 (5). Vérifie que la note d'arrivée de chaque mesure appartient à l'accord suivant.
+**Jour 16 — pentatonique.** Le motif C4 (1), D4 (2), E4 (3), G4 (5) est un bon point de départ. Sur F, on peut jouer A4 (1), G4 (3), F4 (2), puis la note de l'accord suivant. Vérifie que la note d'arrivée de chaque mesure appartient à l'accord suivant.
 
 **Jour 26 — question et réponse.** Question (deux mesures sur C) : G4 (5), E4 (3), D4 (2), C4 (1) ; réponse (deux mesures sur G) : D5 (5), B4 (3), A4 (2), G4 (1). Vérification : le motif de la réponse est le même que celui de la question, décalé d'une quinte. C'est un moyen simple et puissant de donner une forme à ton improvisation.
 
