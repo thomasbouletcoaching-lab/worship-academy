@@ -11,3 +11,6 @@
 9. **Licences** : toutes les dépendances sont MIT ou BSD/Apache. Aucune dépendance AGPL.
 10. **Paroles** : aucune parole et aucune partition protégée. Grilles, structures et exemples originaux uniquement.
 11. **Fiche modèle Drop 2** : la version Notion contient une erreur (tableau I–vi–IV–V, Cmaj7 « C3 + B3 »). Le rédacteur doit vérifier chaque voicing.
+12. **Notation des noms** : on écrit la lettre d'abord, le nom français entre parenthèses à la première occurrence : « C (Do) ». Une fiche qui écrit « Do (C) » (ex. t-conduire) est à normaliser lors de la relecture finale.
+13. **Niveau des fiches transversales** : sn-*, mt-*, sp-* sont classées en niveau 2 dans leur frontmatter quand le CURRICULUM ne donne pas de niveau ; à valider au réveil.
+14. **Logiciels cités** : Prime (mt-logiciels) n'est pas dans le sommaire ; mention gardée, renvoi à la doc officielle.

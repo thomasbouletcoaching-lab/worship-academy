@@ -61,6 +61,25 @@ Repère : C4 est le Do central. Tonalité de référence : Do majeur. Seconde to
 | C7(♭9) | C2 | E3 Bb3 Db4 | Fondamentale C2 ; tierce E3, septième Bb3, ♭9 Db4 (un demi-ton au-dessus de la fondamentale, à la neuvième). |
 | Fmaj9 | F2 | A3 C4 E4 G4 | Fondamentale F2 ; tierce A3, quinte C4, septième E4 et 9e G4. |
 
+**Les douze tonalités.** Le schéma est identique : ii9, V7(♭9), I maj9. Chaque ii est un ton au-dessus de la tonique, chaque V une quinte au-dessus. Les tonalités à bémols sont écrites avec bémols, celles à dièses avec dièses ; la note ajoutée est indiquée après le « + ».
+
+| Tonalité | ii9 | V7(♭9) | I maj9 |
+|---|---|---|---|
+| C (Do) | Dm9 (D F A C E) | G7(♭9) : G B D F + Ab | Cmaj9 (C E G B D) |
+| F (Fa) | Gm9 (G Bb D F A) | C7(♭9) : C E G Bb + Db | Fmaj9 (F A C E G) |
+| Bb (Sib) | Cm9 (C Eb G Bb D) | F7(♭9) : F A C Eb + Gb | Bbmaj9 (Bb D F A C) |
+| Eb (Mib) | Fm9 (F Ab C Eb G) | Bb7(♭9) : Bb D F Ab + Cb (= B) | Ebmaj9 (Eb G Bb D F) |
+| Ab (Lab) | Bbm9 (Bb Db F Ab C) | Eb7(♭9) : Eb G Bb Db + Fb (= E) | Abmaj9 (Ab C Eb G Bb) |
+| Db (Réb) | Ebm9 (Eb Gb Bb Db F) | Ab7(♭9) : Ab C Eb Gb + A | Dbmaj9 (Db F Ab C Eb) |
+| Gb (Solb) | Abm9 (Ab Cb Eb Gb Bb) | Db7(♭9) : Db F Ab Cb + D | Gbmaj9 (Gb Bb Db F Ab) |
+| G (Sol) | Am9 (A C E G B) | D7(♭9) : D F# A C + Eb | Gmaj9 (G B D F# A) |
+| D (Ré) | Em9 (E G B D F#) | A7(♭9) : A C# E G + Bb | Dmaj9 (D F# A C# E) |
+| A (La) | Bm9 (B D F# A C#) | E7(♭9) : E G# B D + F | Amaj9 (A C# E G# B) |
+| E (Mi) | F#m9 (F# A C# E G#) | B7(♭9) : B D# F# A + C | Emaj9 (E G# B D# F#) |
+| B (Si) | C#m9 (C# E G# B D#) | F#7(♭9) : F# A# C# E + G | Bmaj9 (B D# F# A# C#) |
+
+Vérifie chaque ligne : la ii9 est un accord mineur 7 plus la 9e (un ton au-dessus de la fondamentale) ; la V7(♭9) a sa ♭9 à un demi-ton au-dessus de la fondamentale (Sol → Lab, Fa → Solb, Do → Réb, et ainsi de suite) ; la I maj9 a sa 9e à un ton au-dessus de la tonique.
+
 Joue chaque accord en plaqué, puis en arpège montant, en gardant la basse seule. Vérifie que la note de la 9e reste au-dessus de la tierce et de la septième.
 
 ## 5 · Dans la louange
