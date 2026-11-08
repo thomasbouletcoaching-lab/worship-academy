@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+:root.dark { color-scheme: dark; }
+
+.prose-fiche h2 { @apply text-xl font-semibold mt-8 mb-3 text-or; }
+.prose-fiche h3 { @apply text-lg font-semibold mt-6 mb-2; }
+.prose-fiche p { @apply mb-3 leading-relaxed; }
+.prose-fiche ul { @apply list-disc pl-6 mb-3 space-y-1; }
+.prose-fiche ol { @apply list-decimal pl-6 mb-3 space-y-1; }
+.prose-fiche blockquote { @apply border-l-4 border-or pl-4 py-2 my-4 bg-or/10 rounded-r; }
+.prose-fiche code { @apply bg-black/10 dark:bg-white/10 px-1 rounded font-mono text-sm; }
+.prose-fiche .table-wrap { @apply overflow-x-auto my-4; }
+.prose-fiche table { @apply w-full text-sm border-collapse; }
+.prose-fiche th, .prose-fiche td { @apply border border-black/10 dark:border-white/10 px-2 py-1 text-left align-top; }
+.prose-fiche th { @apply bg-black/5 dark:bg-white/5; }
+.prose-fiche hr { @apply my-6 border-black/10 dark:border-white/10; }
+.prose-fiche a { @apply text-or underline; }

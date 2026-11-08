@@ -1,0 +1,10 @@
+{
+  "name": "Worship Academy",
+  "short_name": "Worship Academy",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f1424",
+  "theme_color": "#0f1424",
+  "lang": "fr",
+  "icons": []
+}
