@@ -42,7 +42,7 @@ Une image de la vie quotidienne : une étagère trop serrée, dont on déplace u
 - On descend G4 d'une octave : G3. Résultat : G3, C4, E4, B4.
 - Contrôle : G3 est à 55, G4 à 67 : écart de 12 demi-tons, c'est bien une octave. Les notes sont G, C, E, B : c'est bien un Cmaj7.
 
-**Les quatre drop 2 d'un même accord.** Chaque accord à quatre notes possède quatre positions serrées, donc quatre drop 2 possibles, selon la note placée en haut. Pour Cmaj7 : si la mélodie est B, on descend G (drop 2 = G3 C4 E4 B4). Si la mélodie est C (fondamentale), on descend E (drop 2 = E3 G4 B4 C5, mais en serré C4 E4 G4 B4 au départ). Choisir la note du haut revient à choisir la mélodie.
+**Les quatre drop 2 d'un même accord.** Chaque accord à quatre notes possède quatre positions serrées, donc quatre drop 2 possibles, selon la note placée en haut. Pour Cmaj7 : si la mélodie est B, on part de C4 E4 G4 B4 et l'on descend G (drop 2 = G3 C4 E4 B4). Si la mélodie doit être C, on part de E4 G4 B4 C5 : la 2e note en partant du haut est B4, qu'on descend en B3 (drop 2 = B3 E4 G4 C5). Choisir la note du haut revient à choisir la mélodie.
 
 **Vérification sur Dm7 et G7.**
 - Dm7 en position serrée : D4, F4, A4, C5. Partant du haut : C5, A4, F4, D4. On descend A4 : A3. Résultat : A3, D4, F4, C5. Notes : A, D, F, C : Dm7 correct.
@@ -65,11 +65,11 @@ Une image de la vie quotidienne : une étagère trop serrée, dont on déplace u
 
 Pour Cmaj7, la main gauche joue C3 (basse) et G3 (la note descendue) ; la main droite joue C4, E4, B4. Le doigté 5-1 signifie auriculaire sur la note la plus grave (C3), pouce sur la note la plus haute (G3).
 
-**Enchaînement I – vi – IV – V en Do majeur.** Cmaj7 (G3, C4, E4, B4), Am7 (E3, A3, C4, G4), Fmaj7 (C3, F3, A3, E4), G7 (D3, G3, B3, F4). Vérifie les notes communes : C4 est commun entre Cmaj7 et Am7 ; A3 entre Am7 et Fmaj7 ; F3 entre Fmaj7 et G7 ; G3 entre G7 et Cmaj7. Chaque enchaînement partage au moins une note au même endroit.
+**Enchaînement I – vi – IV – V en Do majeur.** Cmaj7 (G3, C4, E4, B4), Am7 (E3, A3, C4, G4), Fmaj7 (C3, F3, A3, E4), G7 (D3, G3, B3, F4). Vérifie les notes communes : C4 est commun entre Cmaj7 et Am7 ; A3 entre Am7 et Fmaj7 ; G3 entre G7 et Cmaj7. Fmaj7 vers G7 ne partage aucune note à la même octave : seule la main gauche change de place.
 
 **Exemple en Sol majeur : I – vi – IV – V.** Gmaj7 (D3, G3, B3, F#4), Em7 (B2, E3, G3, D4) (position serrée E3 G3 B3 D4, drop 2 : B2 E3 G3 D4), Cmaj7 (G3, C4, E4, B4), D7 (A2, D3, F#3, C4) (position serrée D3 F#3 A3 C4, drop 2 : A2 D3 F#3 C4).
 
-**Repère.** G3 se trouve à une octave sous le G4 du milieu du clavier : c'est la touche blanche située quatre touches blanches sous C4 à l'aigu... plus simplement, c'est le Sol situé juste en dessous de C4 en passant par F3 et E3. B4 est la touche blanche juste à gauche du Do de l'octave supérieure.
+**Repère.** G3 est le Sol une octave sous G4 ; en partant de C4, il se trouve trois touches blanches plus bas (B3, A3, G3). B4 est la touche blanche juste à gauche du Do de l'octave supérieure (C5).
 
 ## 5 · Dans la louange
 
@@ -90,7 +90,7 @@ Pour Cmaj7, la main gauche joue C3 (basse) et G3 (la note descendue) ; la main d
 
 - Joue I – vi – IV – V en drop 2 en Do majeur, puis en Sol majeur. Garde la main droite aussi immobile que possible.
 - Joue ii – V – I (Dm7, G7, Cmaj7) en drop 2 dans les mêmes tonalités.
-- **Critère de réussite** : quatre tonalités enchaînées sans arrêt à 75 BPM, et la note du haut ne saute jamais de plus d'une tierce entre deux accords.
+- **Critère de réussite** : deux tonalités enchaînées quatre fois chacune, sans arrêt à 75 BPM, et la note du haut ne saute jamais de plus d'une tierce entre deux accords.
 
 ### 🔴 Palier 3 — Virtuose (80 BPM)
 

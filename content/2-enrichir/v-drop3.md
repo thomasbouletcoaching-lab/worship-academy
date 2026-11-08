@@ -49,7 +49,7 @@ Une image de la vie quotidienne : une étagère avec trois niveaux. Si l'on desc
 
 **Vérification sur G7.** Position serrée : G3, B3, D4, F4. Partant du haut : F4 (1re), D4 (2e), B3 (3e), G3 (4e). On descend B3 : B2. Résultat : B2, G3, D4, F4. Notes : B, G, D, F : G7 correct.
 
-**Comparaison drop 2 et drop 3.** Sur Cmaj7, le drop 2 donne G3, C4, E4, B4 : l'écart le plus grand est entre G3 et C4. Le drop 3 donne E3, C4, G4, B4 : l'écart le plus grand est entre E3 et C4, puis entre C4 et G4. Le drop 3 a donc un intervalle plus large en bas, et un son plus « large » et plus vide dans le médium.
+**Comparaison drop 2 et drop 3.** Sur Cmaj7, le drop 2 donne G3, C4, E4, B4 : entre la basse et la voix suivante, l'écart est une quarte juste (5 demi-tons). Le drop 3 donne E3, C4, G4, B4 : cet écart est une sixte mineure (8 demi-tons). Le drop 3 ouvre donc davantage le bas, et laisse le médium plus creux.
 
 **Cas limites.** Le drop 3 peut tomber trop bas : B2 (sur G7) est déjà très grave, et un accord qui descend trop sous C3 se confond avec la basse. Vérifie toujours la note descendue. Le drop 3 se joue mieux dans une tonalité où la basse est tenue par une autre main ou un autre instrument.
 
@@ -66,11 +66,11 @@ Une image de la vie quotidienne : une étagère avec trois niveaux. Si l'on desc
 
 Pour Cmaj7, la main gauche joue E3 (la note descendue), et la main droite joue C4, G4, B4. Pour la basse fondamentale, on peut ajouter un C2 en dessous, à la main gauche, sans toucher à la structure.
 
-**Enchaînement I – vi – IV – V en Do majeur.** Cmaj7 (E3, C4, G4, B4), Am7 (C3, A3, E4, G4), Fmaj7 (A2, F3, C4, E4), G7 (B2, G3, D4, F4). Vérifie les notes communes : G4 est commun entre Cmaj7 et Am7, E4 entre Am7 et Fmaj7, C4 entre Fmaj7 et Cmaj7 (par la main droite), et D4 entre G7 et Cmaj7 si l'on remonte le voicing.
+**Enchaînement I – vi – IV – V en Do majeur.** Cmaj7 (E3, C4, G4, B4), Am7 (C3, A3, E4, G4), Fmaj7 (A2, F3, C4, E4), G7 (B2, G3, D4, F4). Vérifie les notes communes : G4 est commun entre Cmaj7 et Am7, E4 entre Am7 et Fmaj7, et C4 entre Fmaj7 et Cmaj7 (la note appartient aux deux accords, à la même octave).
 
-**Exemple en Sol majeur : I – vi – IV – V.** Gmaj7 (B2, G3, D4, F#4) — drop 3 de la position serrée G3 B3 D4 F#4 : on descend B3 vers B2. Em7 (B2, E3, G3, D4), Cmaj7 (E3, C4, G4, B4), D7 (A2, D3, F#3, C4).
+**Exemple en Sol majeur : I – vi – IV – V.** Gmaj7 (B2, G3, D4, F#4) — drop 3 de la position serrée G3 B3 D4 F#4 : on descend B3 vers B2. Em7 (G2, E3, B3, D4), Cmaj7 (E3, C4, G4, B4), D7 (F#2, D3, A3, C4).
 
-**Repère.** Le Si2 (B2) est la touche blanche située juste à gauche du Do de l'octave 2, c'est-à-dire un demi-ton sous C3. Le La2 (A2) est la touche blanche située un ton sous B2 ; compte deux touches blanches vers la gauche depuis B2 pour le trouver.
+**Repère.** Le Si2 (B2) est la touche blanche juste à gauche de C3, un demi-ton plus bas. Le La2 (A2) est la touche blanche située juste à gauche de B2 : c'est un ton plus bas.
 
 **Doigté pratique.** En main gauche, le drop 3 est souvent confortable avec le pouce sur la note la plus haute et l'auriculaire sur la plus basse. En main droite, le pouce garde la note la plus grave, l'auriculaire la plus aiguë.
 

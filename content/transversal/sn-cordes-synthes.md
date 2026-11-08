@@ -42,21 +42,21 @@ Ces deux techniques demandent de l'écoute. Une couche trop forte masque le pian
 
 ## 4 · Au clavier
 
-Notation : C4 = do central. Tonalité de référence : **do majeur**. Les exemples supposent un split placé à B3 (246,9 Hz) : tout ce qui est au-dessous de B3 est joué sur la basse, tout ce qui est au-dessus sur le piano et les cordes.
+Notation : C4 = do central. Tonalité de référence : **do majeur**. Les exemples supposent un split placé à B3 (246,9 Hz) : tout ce qui est en dessous de B3 est joué sur la basse (MG), tout ce qui est à partir de B3 sur le piano et les cordes (MD).
 
-| Accord (do majeur) | Main gauche, sous B3 (basse) | Main droite, au-dessus de B3 (piano et cordes) |
+| Accord (do majeur) | Main gauche, sous B3 (basse) | Main droite, à partir de B3 (piano et cordes) |
 |---|---|---|
 | C | C2 (Do) + G2 (Sol) | C4 (Do) + E4 (Mi) + G4 (Sol), doigts 1, 3, 5 |
-| F | F2 (Fa) + C3 (Do) | A3 (La) + C4 (Do) + F4 (Fa), doigts 1, 3, 5 |
+| F | F2 (Fa) + C3 (Do) | C4 (Do) + F4 (Fa) + A4 (La), doigts 1, 3, 5 |
 
-Vérifie : C2 = 65,4 Hz, G2 = 98 Hz, F2 = 87,3 Hz, C3 = 130,8 Hz, A3 = 220 Hz, C4 = 261,6 Hz, E4 = 329,6 Hz, G4 = 392 Hz, F4 = 349,2 Hz. Toutes les notes de la MG sont bien en dessous de B3 ; toutes celles de la MD sont au-dessus. Le split tombe entre G3 (196 Hz) et C4 (261,6 Hz), dans un espace sans note, parfait pour une séparation nette.
+Vérifie : C2 = 65,4 Hz, G2 = 98 Hz, F2 = 87,3 Hz, C3 = 130,8 Hz, C4 = 261,6 Hz, E4 = 329,6 Hz, G4 = 392 Hz, F4 = 349,2 Hz, A4 = 440 Hz. Toutes les notes de la MG sont bien en dessous de B3 ; toutes celles de la MD sont au-dessus. Le point de split se place juste sous C4 : la basse s'arrête à C3, le piano commence à C4.
 
-| Accord (sol majeur) | Main gauche, sous B3 (basse) | Main droite, au-dessus de B3 (piano et cordes) |
+| Accord (sol majeur) | Main gauche, sous B3 (basse) | Main droite, à partir de B3 (piano et cordes) |
 |---|---|---|
 | G | G1 (Sol) + D2 (Ré) | B3 (Si) + D4 (Ré) + G4 (Sol), doigts 1, 3, 5 |
-| D | D2 (Ré) + A2 (La) | F#3 (Fa dièse) + A3 (La) + D4 (Ré), doigts 1, 3, 5 |
+| D | D2 (Ré) + A2 (La) | D4 (Ré) + F#4 (Fa dièse) + A4 (La), doigts 1, 3, 5 |
 
-Vérifie : G1 = 49 Hz, D2 = 73,4 Hz, A2 = 110 Hz, F#3 = 185 Hz, B3 = 246,9 Hz, D4 = 293,7 Hz, G4 = 392 Hz. Pour D, F#3, A3 et D4 forment un accord de ré majeur (D, F#, A). Note bien que la note B3 est exactement à la limite : si tu la joues sur la MG ou sur la MD, reste cohérent.
+Vérifie : G1 = 49 Hz, D2 = 73,4 Hz, A2 = 110 Hz, B3 = 246,9 Hz, D4 = 293,7 Hz, F#4 = 370 Hz, A4 = 440 Hz, G4 = 392 Hz. D4, F#4 et A4 forment un accord de ré majeur (D, F#, A). La note B3 est la limite du split : fixe une règle et tiens-la, la MG ne la joue jamais.
 
 **Le layering en do.** Superpose à la MD un son de cordes à 35 % de volume, en gardant le piano à 65 %. Joue C4 - E4 - G4 : tu dois entendre le piano en premier plan et une nappe qui l'élargit.
 
