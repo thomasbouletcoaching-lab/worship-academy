@@ -48,7 +48,7 @@ Cette fiche n'est pas une liste de recettes à suivre à la lettre. C'est un inv
 
 **Tonalité de référence : Do majeur (C), avec un passage en La mineur.** Lettres anglo-saxonnes, C4 = Do central.
 
-**Intimité — progression Am – F – C – G.** Voicings serrés en main droite : Am = C4 (1), E4 (3), A4 (5) ; F = C4 (1), F4 (3), A4 (5) ; C = C4 (1), E4 (3), G4 (5) ; G = B3 (1), D4 (3), G4 (5). La main gauche pose la fondamentale (A2, F2, C3, G2) au doigt 5. Tempo 60 à 70 BPM, dynamique pp à p, pédale légère qui change à chaque accord. Note : le Csus2 (C4, D4, G4 en main droite) peut remplacer le C final pour une ouverture encore plus douce.
+**Intimité — progression Am – F – C – G.** Voicings serrés en main droite : Am = C4 (1), E4 (2), A4 (5) ; F = C4 (1), F4 (3), A4 (5) ; C = C4 (1), E4 (3), G4 (5) ; G = B3 (1), D4 (2), G4 (5). La main gauche pose la fondamentale (A2, F2, C3, G2) au doigt 5. Tempo 60 à 70 BPM, dynamique pp à p, pédale légère qui change à chaque accord. Note : le Csus2 (C4, D4, G4 en main droite) peut remplacer le C final pour une ouverture encore plus douce.
 
 **Victoire — progression C – F – G – C.** Voicings ouverts : C = C3 (MG 5) puis C4, E4, G4 (MD 1, 3, 5) ; F = F3 (MG) puis F4, A4, C5 ; G = G3 (MG) puis G4, B4, D5 ; C final = C4, E4, G4, C5. Tempo 112 à 124 BPM, dynamique f, avec des chops sur le « et » de 2 et de 4 (voir la fiche sur les runs gospel). Passage possible : Csus4 (C4, F4, G4) pour l'élan, puis résolution sur C majeur.
 
@@ -70,7 +70,7 @@ Cette fiche n'est pas une liste de recettes à suivre à la lettre. C'est un inv
 - **La gratitude en fin de culte.** C – Am – F – C, en mf, avec la cadence plagale finale, remercie sans exubérance.
 - **L'attente pendant une intercession.** La pédale de G, avec des accords qui tournent autour, laisse l'espace pour que l'assemblée attende la réponse. Le piano ne résout pas : il porte la question.
 
-Jargon : « pédale de dominante » désigne une note tenue en basse sous des harmonies qui changent ; « plagale » désigne une cadence IV vers I ; « sensible » désigne la note qui tire vers la tonique (ici G♯ vers A).
+Jargon : « pédale de dominante » désigne la dominante (ici G) tenue en basse sous des harmonies qui changent ; « plagale » désigne une cadence IV vers I ; « sensible » désigne la note qui tire vers la tonique (ici G♯ vers A).
 
 ## 6 · Exercices
 

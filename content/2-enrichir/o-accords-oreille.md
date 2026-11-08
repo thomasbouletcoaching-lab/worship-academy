@@ -82,7 +82,7 @@ Dans un chant en Do majeur, les accords les plus fréquents sont C (majeur), F (
 
 Les accords sus sont précieux dans un accompagnement de prière : un Csus2 ou un Csus4 tenu sous la voix crée une attente, sans trancher entre majeur et mineur. Le groupe reste dans le flou, et la phrase peut se résoudre sur le C. C'est un outil très utilisé dans les moments d'attente.
 
-Pour un accord de dominante 7 (G7 en Do majeur), la sensation est plus tendue : le Si bémol (la septième) pousse vers le Do. Si tu reconnais cet accord à l'oreille, tu sais que la résolution est proche, et tu peux préparer la fin de la phrase.
+Pour un accord de dominante 7 (G7 en Do majeur), la sensation est plus tendue : le Fa (la septième) tire vers le Mi, et le Si (la tierce) pousse vers le Do. Si tu reconnais cet accord à l'oreille, tu sais que la résolution est proche, et tu peux préparer la fin de la phrase.
 
 ## 6 · Exercices
 
@@ -102,7 +102,7 @@ Joue une progression de quatre accords en Do majeur (par exemple C, F, G, C) ave
 
 Ce qu'il faut entendre : la tierce d'abord. Une tierce majeure sonne claire et stable ; une tierce mineure sonne plus sombre. Ensuite, la quinte : juste dans la plupart des accords, diminuée dans le diminué, augmentée dans l'augmenté. Enfin, la septième, qui apporte la couleur finale.
 
-Comment l'identifier : écoute la note la plus grave (la basse, ou fondamentale si elle est en position fondamentale), puis cherche la note qui « donne le ton ». Si la tierce est haute et ouverte, c'est majeur. Si elle est basse et serrée, c'est mineur. Si la quinte manque, tu peux soupçonner un sus.
+Comment l'identifier : écoute la note la plus grave (la basse, ou fondamentale si elle est en position fondamentale), puis cherche la note qui « donne le ton ». Si la tierce est haute et ouverte, c'est majeur. Si elle est basse et serrée, c'est mineur. Si la tierce manque, tu peux soupçonner un sus.
 
 Petit test : enregistre quatre accords (C, Cm, C7, Csus4), joués dans un ordre aléatoire. Écoute-les une fois, puis note la qualité de chacun. Tu dois distinguer le majeur du mineur à coup sûr, et reconnaître le sus comme un son sans tierce.
 
@@ -110,7 +110,7 @@ Petit test : enregistre quatre accords (C, Cm, C7, Csus4), joués dans un ordre 
 
 - **Confondre majeur et mineur.** La tierce est mal entendue, et l'accord est nommé à l'envers. Correction : chante la fondamentale et cherche la tierce : haute et ouverte pour majeur, basse et serrée pour mineur.
 - **Confondre sus et majeur.** Un Csus4 sonne proche d'un C à l'oreille. Correction : cherche l'absence de tierce : si tu n'entends ni E ni Eb, mais un F, c'est un sus.
-- **Ignorer la septième.** Un C7 est pris pour un C majeur. Correction : écoute la note la plus basse de la septième (le Bb), et compare avec l'accord majeur seul.
+- **Ignorer la septième.** Un C7 est pris pour un C majeur. Correction : écoute la septième (le Bb, un ton sous l'octave de C), et compare avec l'accord majeur seul.
 - **Se fier à la basse seule.** Un accord renversé peut tromper. Correction : écoute l'accord complet, et cherche la structure des intervalles au-dessus de la basse.
 
 ## 9 · Liens

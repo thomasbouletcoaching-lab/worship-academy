@@ -38,7 +38,7 @@ Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (
 
 **Vérification des accords en C majeur.** 1 = C (C E G, 0-4-7) ; 2m = Dm (D F A, 0-3-7) ; 3m = Em (E G B, 0-3-7) ; 4 = F (F A C, 0-4-7) ; 5 = G (G B D, 0-4-7) ; 6m = Am (A C E, 0-3-7) ; 7° = Bdim (B D F, 0-3-6). Contrôle des tierces : C vers E = 4, E vers G = 3, D vers F = 3, F vers A = 4, G vers B = 4, A vers C = 3, B vers D = 3. Les qualités sont cohérentes.
 
-**La transposition.** Pour passer de C à G, on remplace chaque note par sa correspondante dans la gamme de G. En G majeur : G A B C D E F#. Donc 1 = G, 4 = C, 5 = D, 6m = Em. Vérification : G A B C D E F# est bien la gamme de G (T T ½T T T ½T). Le 7° devient F#dim (F#, A, C), car la septième de G est F#.
+**La transposition.** Pour passer de C à G, on remplace chaque note par sa correspondante dans la gamme de G. En G majeur : G A B C D E F#. Donc 1 = G, 4 = C, 5 = D, 6m = Em. Vérification : G A B C D E F# est bien la gamme de G (T T ½ T T T ½). Le 7° devient F#dim (F#, A, C), car la septième de G est F#.
 
 **Autres tonalités utiles.** En D majeur (D E F# G A B C#) : 1 = D, 4 = G, 5 = A, 6m = Bm. En F majeur (F G A Bb C D E) : 1 = F, 4 = Bb (Si bémol), 5 = C, 6m = Dm. Vérification : dans F, la quarte est Bb (5 demi-tons au-dessus de F), donc Bb est bien le 4 ; la sixte est D (9 demi-tons au-dessus de F), donc Dm est bien le 6m.
 

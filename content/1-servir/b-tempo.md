@@ -80,7 +80,7 @@ Pendant une prière, le tempo peut ralentir fortement, vers 60 BPM. Le pianiste 
 ### 🟢 Palier 1 — Découverte
 
 À 60 BPM, joue la note C4 sur chaque battement, pendant trente secondes, en gardant la régularité du son. Compte à voix haute « un, deux, trois, quatre » à chaque mesure.
-**Critère de réussite** : trente secondes sans décalage audible, avec au moins quatre-vingts battements justes au total (le métronome joue en même temps).
+**Critère de réussite** : trente secondes sans décalage audible, avec au moins vingt-huit battements justes sur trente (le métronome joue en même temps).
 
 ### 🟡 Palier 2 — Maîtrise
 

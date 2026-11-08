@@ -46,7 +46,7 @@ Chaque mode suit la même logique : on garde les mêmes sept notes, mais on les 
 
 Vérification : chaque ligne de demi-tons doit finir à 12. Pour le dorien, par exemple, D → E = 2, E → F = 1, F → G = 2, G → A = 2, A → B = 2, B → C = 1, C → D = 2. Total : 12. Tu peux refaire ce calcul pour les six autres ; c'est la meilleure façon de ne jamais te tromper.
 
-Le mode se reconnaît surtout par son harmonie. L'accord construit sur la tonique de chaque mode (les notes superposées de un en un, de deux en deux) est la signature du mode. Sur les degrés de Do majeur, on obtient : ionien, CΔ7 (C E G B) ; dorien, Dm7 (D F A C) ; phrygien, Em7 (E G B D) ; lydien, FΔ7 (F A C E) ; mixolydien, G7 (G B D F) ; éolien, Am7 (A C E G) ; locrien, Bm7♭5 (B D F A).
+Le mode se reconnaît surtout par son harmonie. L'accord construit sur la tonique de chaque mode (en superposant une note sur deux de la gamme) est la signature du mode. Sur les degrés de Do majeur, on obtient : ionien, CΔ7 (C E G B) ; dorien, Dm7 (D F A C) ; phrygien, Em7 (E G B D) ; lydien, FΔ7 (F A C E) ; mixolydien, G7 (G B D F) ; éolien, Am7 (A C E G) ; locrien, Bm7♭5 (B D F A).
 
 Cas limites. Le locrien n'a pas de tonique stable : son accord de base est diminué, donc il sert surtout de passage, pas de point de repos. Le lydien, lui, a une note « tendue » (le B sur F) que l'oreille vit comme une lumière et non comme une dissonance à résoudre. Enfin, les sept modes partagent l'armure de la gamme parente : jouer en D dorien sur Do majeur ne demande aucune altération à la clé.
 

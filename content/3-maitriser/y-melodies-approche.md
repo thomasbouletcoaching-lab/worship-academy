@@ -57,7 +57,7 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Exemple sur la p
 |---|---|---|---|---|
 | 1 | C | F4, puis E4 | 4, 3 | approche chromatique par le haut sur la tierce |
 | 2 | Am | Bb4, puis A4 | 4, 3 | approche chromatique sur la fondamentale |
-| 3 | F | Bb4, Ab4, puis A4 | 5, 4, 2 | encadrement de la tierce A |
+| 3 | F | Bb4, Ab4, puis A4 | 5, 3, 4 | encadrement de la tierce A |
 | 4 | G | C5, puis B4 | 5, 3 | approche par le haut sur la tierce B |
 
 | Main | Doigts | Notes | Remarque |

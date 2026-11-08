@@ -66,7 +66,7 @@ Pour une seconde tonalité, joue le lydien sur C dans Sol majeur : C4 D4 E4 F#4 
 
 Doigtés conseillés pour le lydien sur F, en main droite : F4 (1), G4 (2), A4 (3), B4 (1), C5 (2), D5 (3), E5 (4), F5 (5). Le pouce passe sur la 4e note, le B4. Le passage est identique à celui du mode de Do, mais tu entends la tension du B immédiatement.
 
-Doigtés en main gauche, montée depuis F3 : F3 (5), G3 (4), A3 (3), B3 (2), C4 (1), D4 (3), E4 (2), F4 (1). Le pouce passe sous le 3e doigt sur C4.
+Doigtés en main gauche, montée depuis F3 : F3 (5), G3 (4), A3 (3), B3 (2), C4 (1), D4 (3), E4 (2), F4 (1). Après le pouce sur C4, le 3e doigt passe par-dessus pour jouer D4.
 
 ## 5 · Dans la louange
 

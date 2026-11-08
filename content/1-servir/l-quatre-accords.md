@@ -56,7 +56,7 @@ Ce parcours est une boucle de quatre accords, qu'on appelle souvent I–V–vi�
 
 Pour Am, la note du haut est A4 (doigt 5) et les deux notes du bas C4 et E4 restent en place. Pour F, la main droite pose C4 et F4 sur 1 et 3, A4 sur 5.
 
-**Enchaînement de la boucle.** Joue C pendant deux temps, puis G, Am et F, chacun pendant un temps, puis revient sur C. Pour le passage de C à G, garde G4 (le doigt 5 de C devient le doigt 1 de G, ou inversement) : c'est une note commune.
+**Enchaînement de la boucle.** Joue C, puis G, Am et F, chacun pendant une mesure, puis reviens sur C. Pour le passage de C à G, garde G4 (le doigt 5 de C devient le doigt 1 de G, ou inversement) : c'est une note commune.
 
 **Exemple en Sol majeur (G).** Les quatre accords deviennent G – D – Em – C. Voicings : G = G4, B4, D5 ; D = D4, F♯4, A4 ; Em = E4, G4, B4 ; C = C4, E4, G4. Vérifions D majeur : D vers F♯ = 4 (tierce majeure), F♯ vers A = 3 (tierce mineure). Les doigtés restent les mêmes : 1, 3, 5.
 
@@ -71,7 +71,7 @@ Pour Am, la note du haut est A4 (doigt 5) et les deux notes du bas C4 et E4 rest
 - **La prière.** On réduit la boucle à C – Am – F – G joués très lentement, une note par accord, sans attaque sèche. La simplicité laisse la place à la parole.
 - **L'accompagnement d'une voix seule.** Quand une personne chante seule, la boucle est une base solide : elle tient le temps et la tonalité, sans encombrer.
 
-Jargon : « tonique » désigne le premier degré, le centre de la tonalité ; « boucle » désigne une suite d'accords qui se répète ; « fondamentale » désigne la note la plus grave d'un accord, celle qui donne son nom.
+Jargon : « tonique » désigne le premier degré, le centre de la tonalité ; « boucle » désigne une suite d'accords qui se répète ; « fondamentale » désigne la note qui donne son nom à l'accord (la plus grave quand l'accord est en position fondamentale).
 
 ## 6 · Exercices
 

@@ -55,9 +55,9 @@ Notes avec octave (C4 = Do central). Les accords sont joués en plaqué : main g
 
 **Exemple en C majeur, le frottement à éviter.** Si tu joues E4 à la main droite et que tu appuies F4 sans relâcher la pédale, les deux notes forment une seconde mineure et sonnent comme un choc. Cet exemple te montre pourquoi la pédale ne doit pas traverser un changement d'accord de C vers un accord contenant F.
 
-**Exemple en G majeur.** Accord de G : G2 à la main gauche ; G3, B3, D4 à la main droite. Pédale enfoncée. Change vers C : R, attaque de C3 et C4, E4, G4 ; P. Change vers D : R, attaque de D2 et D3, F#3, A3 ; P. Vérification des intervalles de D : D3 vers F#3 = 4 demi-tons, F#3 vers A3 = 3, D3 vers A3 = 7. La F# est la note de la tierce, et elle sonne proprement si la pédale a été relâchée avant.
+**Exemple en G majeur.** Accord de G : G2 à la main gauche ; G3, B3, D4 à la main droite. Pédale enfoncée. Change vers C : R, attaque de C3 et C4, E4, G4 ; P. Change vers D : R, attaque de D2 et D3, F#3, A3 ; P. Vérification des intervalles de D : D3 vers F#3 = 4 demi-tons, F#3 vers A3 = 3, D3 vers A3 = 7. Le F# est la note de la tierce, et elle sonne proprement si la pédale a été relâchée avant.
 
-**Note sur la tonalité de référence.** En C majeur, le changement de la pédale vers un accord contenant F (F, Dm) demande une attention particulière : les notes E et F se côtoient souvent. En G, la F# de l'accord de D demande la même précaution.
+**Note sur la tonalité de référence.** En C majeur, le changement de la pédale vers un accord contenant F (F, Dm) demande une attention particulière : les notes E et F se côtoient souvent. En G, le F# de l'accord de D demande la même précaution.
 
 ## 5 · Dans la louange
 

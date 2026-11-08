@@ -104,12 +104,12 @@ Pour Cmaj7, la main gauche joue E3 (la note descendue), et la main droite joue C
 
 - **Ce qu'il faut entendre** : un son très ouvert, avec un grand espace entre la basse et les notes intermédiaires. Le drop 3 sonne plus large que le drop 2.
 - **Comment l'identifier** : écoute la note la plus grave. Dans un drop 3, elle est souvent seule en bas, et il y a un vide au-dessus avant la masse des trois autres notes.
-- **Petit test** : joue Cmaj7 en drop 2 (G3, C4, E4, B4), puis en drop 3 (E3, C4, G4, B4). Le second est plus ouvert en bas et plus creux au milieu. Demande-toi laquelle des deux version tu préfères sous une mélodie chantée.
+- **Petit test** : joue Cmaj7 en drop 2 (G3, C4, E4, B4), puis en drop 3 (E3, C4, G4, B4). Le second est plus ouvert en bas et plus creux au milieu. Demande-toi laquelle des deux versions tu préfères sous une mélodie chantée.
 
 ## 8 · Erreurs fréquentes
 
 - **Compter depuis le bas.** On descend la mauvaise note. **Correction** : compte toujours depuis la note la plus aiguë, la 3e note est celle à descendre.
-- **Descendre trop bas.** Sous C3, le drop 3 devient flou. **Correction** : vérifie la note descendue, elle doit rester au-dessus de B2 si possible.
+- **Descendre trop bas.** Sous C3, le drop 3 devient flou. **Correction** : vérifie la note descendue, évite de la placer sous F#2 (la note la plus grave de la grille en Sol).
 - **Confondre drop 2 et drop 3.** Les deux accords se ressemblent à l'oreille. **Correction** : écris la position serrée et compte les notes avant de descendre.
 - **Ne pas tenir la basse fondamentale.** Le drop 3 perd son ancrage. **Correction** : garde la fondamentale à la main gauche ou au bassiste.
 

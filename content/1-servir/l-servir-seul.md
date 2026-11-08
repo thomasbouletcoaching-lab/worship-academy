@@ -38,7 +38,7 @@ Attention : la transposition ne doit pas casser la boucle. C'est l'ordre des acc
 
 **Suivre l'oreille.** Servir seul, c'est aussi écouter. Si le chanteur tient une note qui n'est pas dans l'accord que tu joues, il faut soit adapter l'accord, soit tolérer la différence pendant une seconde. L'oreille est ton guide : elle décide quand changer, et quand rester.
 
-**Cas limites.** Une voix qui hésite ou qui perd la tonalité demande une pulsation plus claire et des accords plus simples. Une voix qui s'élève soudain demande que tu t'ouvres, en montant d'une demi-note ou en ajoutant une note aiguë à la main droite.
+**Cas limites.** Une voix qui hésite ou qui perd la tonalité demande une pulsation plus claire et des accords plus simples. Une voix qui s'élève soudain demande que tu t'ouvres, en montant d'un demi-ton ou en ajoutant une note aiguë à la main droite.
 
 ## 4 · Au clavier
 
@@ -61,7 +61,7 @@ Attention : la transposition ne doit pas casser la boucle. C'est l'ordre des acc
 - **La prière.** Tu joues lentement, en tenant chaque accord, et tu cèdes souvent la place au silence. Servir seul, c'est aussi savoir se taire.
 - **L'appel.** Quand le chanteur monte soudain, tu montes avec lui : tu transposes la boucle d'un demi-ton, ou tu ajoutes une note aiguë à la main droite.
 
-Jargon : « servir seul » désigne le fait de tenir un chant sans autre instrument ; « transposer » signifie décaler toute la musique du même écart ; « dominante » désigne l'accord de la quinte degré, qui tire vers la tonique.
+Jargon : « servir seul » désigne le fait de tenir un chant sans autre instrument ; « transposer » signifie décaler toute la musique du même écart ; « dominante » désigne l'accord du cinquième degré, qui tire vers la tonique.
 
 ## 6 · Exercices
 

@@ -55,7 +55,7 @@ Notation : le Do central est C4 (Do central). Notes utilisées : C3 (Do grave), 
 
 Exercice 1, Do majeur (I-V-vi-IV) : joue dans l'ordre C, G, A mineur, F, chaque accord sur une mesure, à la MD (en position fondamentale), avec la basse à la MG. Garde la voix du haut la plus stable possible : c'est elle qui se déplace le moins. C'est une progression courante de la louange, à 72 BPM.
 
-Exercice 2, Sol majeur (I-IV-V-vi) : la tonique est Sol. Joue G (G4-B4-D5, basse G2), C (C4-E4-G4, basse C3), D (D4-F#4-A4, basse D3), Em (E4-G4-B4, basse E3). Le fa dièse de l'accord de Ré (F#4) est la note qui distingue la tonalité de Sol de celle de Do : tu peux la sentir sur le V.
+Exercice 2, Sol majeur (I-IV-V-vi) : la tonique est Sol. Joue G (G4-B4-D5, basse G2), C (C4-E4-G4, basse C3), D (D4-F#4-A4, basse D3), Em (E4-G4-B4, basse E3). Le fa dièse de l'accord de Ré (F#4) est la note qui distingue la tonalité de Sol de celle de Do : tu peux le sentir sur le V.
 
 La tonalité de référence est Do majeur. C'est la tonalité où tout se vérifie sur les touches blanches. En Sol majeur, les mêmes degrés se déplacent et l'unique dièse, le fa, entre dans l'accord de Ré : c'est un très bon exercice pour sentir les degrés plutôt que les notes.
 

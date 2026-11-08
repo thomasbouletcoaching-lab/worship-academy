@@ -101,7 +101,7 @@ Le vocabulaire utile : *consonance* désigne un intervalle stable et agréable ;
 
 Ce qu'il faut entendre : la tierce d'ensemble (légèrement trop haute ou trop basse dans un groupe désaccordé), les battements (un frémissement quand deux notes sont presque à l'unisson), et la stabilité d'un tempo partagé.
 
-**Test.** Joue un La à 440 Hz, puis un La légèrement plus haut (445 Hz, par exemple sur un accordeur). Tu dois percevoir un battement, un frémissement lent. Écoute ensuite une octave juste, puis une octave désaccordée : la première se fond, la seconde vibre. Tu auras ainsi appris à distinguer une note juste d'un groupe qui se désaccorde.
+**Test.** Fais sonner ensemble un La à 440 Hz et un La légèrement plus haut (445 Hz, par exemple sur un accordeur). Tu dois percevoir un battement, un frémissement d'environ cinq pulsations par seconde (445 − 440 = 5). Écoute ensuite une octave juste, puis une octave désaccordée : la première se fond, la seconde vibre. Tu auras ainsi appris à distinguer une note juste d'un groupe qui se désaccorde.
 
 ## 8 · Erreurs fréquentes
 

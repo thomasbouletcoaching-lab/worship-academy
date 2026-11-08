@@ -32,7 +32,7 @@ Il faut d'abord fixer les intervalles. Une quarte juste (P4) vaut 5 demi-tons. U
 
 Empilons trois quartes successives. Prenons D (Ré), G (Sol), C (Do) : de D à G, 5 demi-tons ; de G à C, 5 demi-tons. L'accord D-G-C ne contient ni F ni F# : il n'a donc ni tierce majeure ni tierce mineure qui le qualifie. Ajoutons la note suivante, F (Fa) : de C à F, 5 demi-tons encore. Nous obtenons D-G-C-F, avec des intervalles de 5, 5, 5. Vérifions deux fois, en numérotation MIDI : D4 = 62, G4 = 67, C5 = 72, F5 = 77. Les écarts sont 67 - 62 = 5, 72 - 67 = 5, 77 - 72 = 5. C'est juste.
 
-Que contient cet accord, relu dans la tonalité de Do majeur ? D est la fondamentale, F est la tierce mineure (D vers F, 3 demi-tons), G est l'onzième (une quarte au-dessus de D, plus une octave), C est la septième mineure (D vers C, 10 demi-tons). Il manque l'accord de quinte A. On obtient donc un Dm7(11) sans quinte : la quinte est retirée, ce qui le rend plus ouvert encore.
+Que contient cet accord, relu dans la tonalité de Do majeur ? D est la fondamentale, F est la tierce mineure (D vers F, 3 demi-tons), G est l'onzième (une quarte au-dessus de D, plus une octave), C est la septième mineure (D vers C, 10 demi-tons). Il manque la quinte A. On obtient donc un Dm7(11) sans quinte : la quinte est retirée, ce qui le rend plus ouvert encore.
 
 Le problème pratique est l'étendue. Quatre notes empilées en quartes couvrent 15 demi-tons (une dixième mineure), ce qui est très large pour une seule main. C'est pourquoi, dans la pratique, on utilise surtout des voicings à trois notes, qui tiennent dans une septième mineure (10 demi-tons). L'accord D3-G3-C4, par exemple, couvre 10 demi-tons, soit une confortable septième.
 
@@ -66,7 +66,7 @@ Le geste tient donc dans une seule main, sans besoin de l'autre.
 
 Vérification : 57 - 52 = 5, 62 - 57 = 5. Même étendue de dix demi-tons, même geste.
 
-La main droite peut reprendre le même motif, une octave plus haut (D4, G4, C5 en Do), mais seulement si la main est large : le motif tient alors dans une dixième, ce qui demande déjà de l'aisance. Mieux vaut le réserver à la main gauche dans un premier temps.
+La main droite peut reprendre le même motif, une octave plus haut (D4, G4, C5 en Do). Avec la quarte suivante (F5), le motif couvre une dixième, ce qui demande une main large : mieux vaut réserver cette version à quatre notes pour plus tard.
 
 ## 5 · Dans la louange
 
@@ -109,7 +109,7 @@ Petit test : un ami joue deux accords, l'un majeur, l'autre quartal, sans te le 
 ## 8 · Erreurs fréquentes
 
 1. **Confondre quarte et tierce.** Certains empilent D-F-A (une triade mineure) en pensant faire un quartal. Correction : compte les demi-tons. Une quarte fait 5 demi-tons, une tierce mineure seulement 3.
-2. **Empiler quatre quartes d'un seul geste.** Un accord de quatre notes en quartes couvre 15 demi-tons, trop large pour une main. Correction : reste sur trois notes, ou répartis les notes entre les deux mains.
+2. **Empiler quatre notes en quartes d'un seul geste.** Un accord de quatre notes en quartes couvre 15 demi-tons, trop large pour une main. Correction : reste sur trois notes, ou répartis les notes entre les deux mains.
 3. **Placer la fondamentale trop bas.** Une basse grave dans un quartal rend le son trouble. Correction : monte la fondamentale vers C3 ou D3, et garde les quartes au-dessus.
 4. **Ajouter une tierce « pour rassurer ».** La tierce ramène la couleur majeure ou mineure et annule l'effet. Correction : ne joue aucune note qui ferait une tierce avec la fondamentale.
 5. **Laisser le quartal flotter sans contexte.** Un quartal posé sans préparation sonne vague. Correction : prépare-le par un accord qui a une tierce clairement dessinée, puis reviens-y.

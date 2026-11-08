@@ -33,9 +33,9 @@ L'improvisation n'est donc pas une suite de notes libres. C'est une progression 
 | Accord | Pentatonique | Notes | Vérification |
 |---|---|---|---|
 | C (I) | do majeur | C, D, E, G, A | aucun F ni B |
-| Am (vi) | la mineure | A, C, D, E, G | aucun F# ni B |
+| Am (vi) | la mineure | A, C, D, E, G | aucun F ni B |
 | F (IV) | fa majeure | F, G, A, C, D | aucun E ni B |
-| G (V) | sol majeure | G, A, B, D, E | aucun F ni C# |
+| G (V) | sol majeure | G, A, B, D, E | aucun C ni F# |
 
 Vérification des intervalles : la pentatonique de do a des intervalles 2, 2, 3, 2, 3 demi-tons, comme la pentatonique de fa (F→G = 2, G→A = 2, A→C = 3, C→D = 2, D→F = 3) et celle de sol (G→A = 2, A→B = 2, B→D = 3, D→E = 2, E→G = 3). Aucune de ces gammes ne contient de demi-ton.
 
@@ -46,7 +46,7 @@ Vérification des intervalles : la pentatonique de do a des intervalles 2, 2, 3,
 - **Sommet** : forte, accords pleins à la main droite, la pentatonique en arpèges rapides.
 - **Retour** : piano, retour à une note par temps, puis silence.
 
-**Le tempo.** Le tempo tient à 66 BPM pour l'entrée et le retour. Au sommet, on peut monter à 76 ou 80 BPM, mais pas au-delà : l'assemblée ne suit plus au-delà. Un accelerando de quelques BPM suffit à marquer l'élan ; l'accélération brutale fait sursauter.
+**Le tempo.** Le tempo tient à 66 BPM pour l'entrée et le retour. Au sommet, on peut monter à 72 ou 76 BPM, mais pas au-delà : l'assemblée ne suit plus au-delà. Un accelerando de quelques BPM suffit à marquer l'élan ; l'accélération brutale fait sursauter.
 
 **La règle de la phrase.** Une phrase fait quatre mesures : deux de question, deux de réponse. La question monte ; la réponse redescend vers la tonique. Cette règle protège de la divagation.
 
@@ -61,7 +61,7 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Boucle I – vi 
 | MG | 5 | C2 | basse, tenue |
 | MD | 1 | E4 | une note par temps, pentatonique de do |
 | MD | 2 | G4 | |
-| MD | 1 | A4 | retour sur la tierce de Am |
+| MD | 1 | A4 | retour sur la fondamentale de Am |
 
 **Sommet (forte), sur F puis G.** Main gauche en octaves : F2 (doigt 5) et F3 (doigt 1) sur F, puis G2 (doigt 5) et G3 (doigt 1) sur G. Main droite en accords pleins sur la pentatonique : sur F, F4 (1), A4 (3), C5 (5) ; sur G, G4 (1), B4 (3), D5 (5). Les accords sont des triades de F et de G, pas de la pentatonique seule : au sommet, on a besoin de la tierce pour que le sommet sonne.
 
@@ -97,7 +97,7 @@ Le spontané de culte n'est jamais une démonstration. S'il attire l'attention s
 
 ### 🔴 Palier 3 — Virtuose
 
-**Tempo : 66 à 80 BPM.** Simule un temps de louange de cinq minutes : entrée (une minute), montée (une minute), sommet (une minute), redescente (une minute), prière silencieuse (une minute, avec seulement une note par mesure ou rien). Joue la boucle en do majeur puis, au milieu du sommet, passe en fa majeur par la boucle F – Dm – Bb – C.
+**Tempo : 66 à 76 BPM.** Simule un temps de louange de cinq minutes : entrée (une minute), montée (une minute), sommet (une minute), redescente (une minute), prière silencieuse (une minute, avec seulement une note par mesure ou rien). Joue la boucle en do majeur puis, au milieu du sommet, passe en fa majeur par la boucle F – Dm – Bb – C.
 
 **Critère de réussite** : cinq minutes sans rupture ; la modulation vers fa est audible et tenue deux mesures ; le retour sur la prière est calme ; aucune note hors pentatonique sur les quatre accords de la boucle.
 

@@ -42,7 +42,7 @@ Cas limite : la pentatonique majeure et la pentatonique mineure ne sonnent pas p
 
 ## 4 · Au clavier
 
-Tonalité de référence : Do majeur. Les doigtés sont ceux d'un schéma en 1-2-3-5, qui se répète une octave plus haut. Le pouce passe sous la main lorsqu'on monte.
+Tonalité de référence : Do majeur. Les doigtés sont ceux d'un schéma en 1-2-3-1-2, qui se répète une octave plus haut. Le pouce passe sous la main lorsqu'on monte (après le doigt 3, et de nouveau après le doigt 2).
 
 **Pentatonique de Do majeur (C, D, E, G, A) à la main droite**
 
@@ -51,10 +51,10 @@ Tonalité de référence : Do majeur. Les doigtés sont ceux d'un schéma en 1-2
 | C4 (60) | 1 | point de départ |
 | D4 (62) | 2 | seconde majeure au-dessus |
 | E4 (64) | 3 | tierce majeure |
-| G4 (67) | 5 | quinte |
-| A4 (69) | 1 | le pouce passe sous la main, puis reprend le schéma |
+| G4 (67) | 1 | quinte : le pouce passe sous la main |
+| A4 (69) | 2 | sixte majeure, puis le pouce repasse sur C5 |
 
-Une fois ce schéma posé, répète-le une octave plus haut : C5 (1), D5 (2), E5 (3), G5 (5), A5 (1). Vérifie que chaque écart entre le doigt 3 et le doigt 5 est bien d'une tierce mineure (E4 à G4, 3 demi-tons).
+Une fois ce schéma posé, répète-le une octave plus haut : C5 (1), D5 (2), E5 (3), G5 (1), A5 (2). Vérifie que chaque passage du pouce entre le doigt 3 et le pouce couvre bien une tierce mineure (E4 à G4, 3 demi-tons).
 
 **Pentatonique de La mineur (A, C, D, E, G) : même notes, autre tonique**
 
@@ -63,8 +63,8 @@ Une fois ce schéma posé, répète-le une octave plus haut : C5 (1), D5 (2), E5
 | A3 (57) | 1 | tonique |
 | C4 (60) | 2 | tierce mineure |
 | D4 (62) | 3 | quarte |
-| E4 (64) | 5 | quinte |
-| G4 (67) | 1 | septième mineure |
+| E4 (64) | 1 | quinte : le pouce passe sous la main |
+| G4 (67) | 2 | septième mineure |
 
 Vérifications : de A3 à C4, 3 demi-tons (tierce mineure) ; de C4 à D4, 2 ; de D4 à E4, 2 ; de E4 à G4, 3. C'est la même gamme que Do majeur pentatonique, mais avec A pour tonique.
 
@@ -75,12 +75,12 @@ Vérifications : de A3 à C4, 3 demi-tons (tierce mineure) ; de C4 à D4, 2 ; de
 | G4 (67) | 1 | tonique |
 | A4 (69) | 2 | seconde majeure |
 | B4 (71) | 3 | tierce majeure |
-| D5 (74) | 5 | quinte |
-| E5 (76) | 1 | sixte majeure |
+| D5 (74) | 1 | quinte : le pouce passe sous la main |
+| E5 (76) | 2 | sixte majeure |
 
 Vérifications : de G4 à A4, 2 ; de A4 à B4, 2 ; de B4 à D5, 3 ; de D5 à E5, 2 ; de E5 à G5 (à l'octave), 3. Le schéma est le même que pour Do, transposé d'une quinte.
 
-Dans la main gauche, la pentatonique peut descendre en 5-3-2-1 sur les mêmes notes, une octave plus bas : par exemple, C3 (5), A2 (3), G2 (2), E2 (1) pour la version de Do. Cela donne une basse mélodique lente, très appréciée dans la louange.
+Dans la main gauche, la pentatonique peut descendre en 1-2-3-5 sur les mêmes notes, une octave plus bas : par exemple, C3 (1), A2 (2), G2 (3), E2 (5) pour la version de Do. Cela donne une basse mélodique lente, très appréciée dans la louange.
 
 ## 5 · Dans la louange
 
@@ -94,7 +94,7 @@ Dernier cas : la mélodie d'un enfant ou d'un chant traditionnel. Beaucoup de ch
 
 ### 🟢 Palier 1 — Découverte
 
-Tempo : 60 BPM, une noire par temps. Joue la pentatonique de Do majeur à la main droite, en montant puis en descendant sur deux octaves, en suivant le schéma 1-2-3-5 (puis 1-2-3-5 une octave plus haut).
+Tempo : 60 BPM, une noire par temps. Joue la pentatonique de Do majeur à la main droite, en montant puis en descendant sur deux octaves, en suivant le schéma 1-2-3-1-2 (puis 1-2-3-1-2 une octave plus haut).
 
 Critère de réussite : deux octaves montées et descendues sans erreur, chaque note est juste, et tu peux dire les cinq notes sans regarder (C, D, E, G, A).
 

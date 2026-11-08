@@ -41,7 +41,7 @@ On distingue deux familles de mesures :
 
 Le piège classique consiste à confondre 3/4 et 6/8. Ils contiennent la même durée totale (trois noires, soit six croches), mais leur découpage diffère. En 3/4, tu as trois temps égaux. En 6/8, tu as seulement deux temps, chacun composé de trois croches, et l'accent principal ne tombe que sur le premier et le quatrième.
 
-Calculs. À 60 BPM en noire, chaque temps dure 1 seconde. Une mesure de 3/4 dure 3 secondes, une mesure de 4/4 dure 4 secondes, une croche dure 0,5 seconde. En 6/8, on compte souvent la pulsation à la noire pointée : à 60 BPM pointée, chaque temps composé dure 1 seconde, une croche dure 1/3 de seconde, et une mesure de 6/8 dure 2 secondes. Si tu passes de 3/4 à 6/8 au même tempo de noire pointée, tu ralentis donc la sensation de mesure, sans changer le pouls de base.
+Calculs. À 60 BPM en noire, chaque temps dure 1 seconde. Une mesure de 3/4 dure 3 secondes, une mesure de 4/4 dure 4 secondes, une croche dure 0,5 seconde. En 6/8, on compte souvent la pulsation à la noire pointée : à 60 BPM pointée, chaque temps composé dure 1 seconde, une croche dure 1/3 de seconde, et une mesure de 6/8 dure 2 secondes. Si tu passes de 3/4 (noire à 60) à 6/8 (noire pointée à 60), la mesure passe de 3 à 2 secondes : elle se resserre, alors que le pouls reste à 60.
 
 Cas limites : les mesures à 5/4 (groupées 2+3 ou 3+2) et 7/8 (groupées 2+2+3) apparaissent dans beaucoup de chants modernes. Le groupement fixe la place des accents : sans lui, on perd le fil. Compter par groupes évite la panique.
 

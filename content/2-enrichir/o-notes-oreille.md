@@ -22,7 +22,7 @@ duree_min: 25
 
 ## 2 · Comprendre
 
-Imagine une échelle de douze barreaux, serrés les uns contre les autres. Chaque barreau est une note, et le douzième barreau est une octave plus haut, répétition du premier. Reconnaître une note, c'est savoir sur quel barreau tu te trouves. Tu n'as pas besoin de compter les barreaux un à un : il suffit de connaître un point d'appui, par exemple le Do, et de sentir combien de marches tu montes ou descends.
+Imagine une échelle de douze barreaux, serrés les uns contre les autres. Chaque barreau est une note, et après douze marches tu arrives une octave plus haut, sur la répétition du premier. Reconnaître une note, c'est savoir sur quel barreau tu te trouves. Tu n'as pas besoin de compter les barreaux un à un : il suffit de connaître un point d'appui, par exemple le Do, et de sentir combien de marches tu montes ou descends.
 
 Dans la louange, cette compétence est précieuse. Un chanteur commence un chant sans te dire la tonalité. L'assemblée attend une note de départ. Si tu entends la note et que tu la retrouves sur le clavier, tu peux accompagner immédiatement. Plus encore, quand un chant est déjà lancé et que la voix pousse une note aiguë, tu dois savoir si elle est un Sol, un La ou un Si, pour ne pas t'enfoncer dans une harmonie fausse.
 
@@ -49,11 +49,11 @@ Notation : le Do central est C4 (Do central). Notes utilisées : C4 (Do), C#4 (D
 | C4 | MD | 1 |
 | D4 | MD | 2 |
 | E4 | MD | 3 |
-| F4 | MD | 4 |
-| G4 | MD | 5 |
-| A4 | MD | 5 |
-| B4 | MD | 3 |
-| C5 | MD | 1 |
+| F4 | MD | 1 (passage du pouce) |
+| G4 | MD | 2 |
+| A4 | MD | 3 |
+| B4 | MD | 4 |
+| C5 | MD | 5 |
 | G3 | MG | 5 |
 | B3 | MG | 3 |
 | D4 | MG | 1 |

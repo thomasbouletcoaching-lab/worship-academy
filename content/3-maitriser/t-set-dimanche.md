@@ -36,7 +36,7 @@ Enfin, un set est une chose vivante. Le dimanche, il faut parfois laisser la pla
 
 **Les tonalités proches.** Deux tonalités se suivent facilement quand elles partagent beaucoup de notes. C majeur et G majeur ne diffèrent que par un F (Fa) remplacé par un Fa dièse (F#). Un enchaînement de C à G est donc une quinte ascendante, un mouvement très naturel : c'est le même passage qu'un enchaînement de I à V. Une transposition de C à D (un ton) exige plus d'attention, car elle ajoute deux dièses.
 
-**Les accords pivots.** Un pivot est un accord commun à deux tonalités ou deux chants. Entre C majeur et A mineur (son relatif), tous les accords partagent deux notes : C et E. Entre G et E mineur, les notes communes sont G et B. Le pivot permet de passer d'un chant à l'autre sans rupture : on termine le premier sur un accord commun, puis on démarre le second dessus.
+**Les accords pivots.** Un pivot est un accord commun à deux tonalités ou deux chants. Entre C majeur et A mineur (son relatif), les accords de tonique C et Am partagent deux notes : C et E. Entre G et E mineur, les notes communes sont G et B. Le pivot permet de passer d'un chant à l'autre sans rupture : on termine le premier sur un accord commun, puis on démarre le second dessus.
 
 **Les notes communes.** Quand deux accords se suivent, les notes qui restent en place et celles qui bougent d'un demi-ton ou d'un ton donnent une transition souple. Une note qui monte d'un demi-ton vers la note suivante s'appelle souvent une note sensible (le septième degré en gamme majeure, qui monte vers la tonique). Dans un enchaînement C–Am, la note G monte d'un ton jusqu'à A : c'est un mouvement doux.
 
@@ -74,7 +74,7 @@ Dans la tonalité de G, le Fa dièse (F#4) apparaît dès l'accord de D : c'est 
 
 **Un dimanche matin.** Tu prépares un set de quatre chants pour une assemblée de cent personnes. Le premier chant est calme, en C, à 66 BPM : c'est l'entrée, on laisse les familles s'installer. Le deuxième monte à 84 BPM avec un refrain ouvert. Le troisième est un chant de prière à 60 BPM, sans batterie, avec un pont de quatre mesures pour le pasteur. Le dernier, en G, relance la louange à 96 BPM et se termine par un tag répété trois fois.
 
-**Le pivot entre deux chants.** Le premier chant se termine sur C, le second commence sur C : pas besoin de pause. Si le second chant est en G, la dernière mesure du premier pose une dominante (un D ou un G) qui prépare le passage.
+**Le pivot entre deux chants.** Le premier chant se termine sur C, le second commence sur C : pas besoin de pause. Si le second chant est en G, la dernière mesure du premier pose la dominante de G (un D ou un D7) qui prépare le passage.
 
 **Une répétition de set.** Le samedi, tu fais jouer le set en entier, sans t'arrêter, puis tu chronomètres. Si le total dépasse vingt-cinq minutes, tu supprimes un couplet, jamais le pont ni le tag.
 

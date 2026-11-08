@@ -116,7 +116,7 @@ Pour le bloc de Em, la mélodie est B4 (71) : le bloc E4-G4-B4 a bien B4 au somm
 
 ### 🔴 Palier 3 — Virtuose
 
-Tempo : 100 BPM. Harmonise un chant de quatre mesures que tu inventes en Do majeur, avec une mélodie qui reste dans l'octave G4-C5, en blocs de trois notes, et une basse en MG qui marque la fondamentale. Pas plus de deux changements de blocs par mesure.
+Tempo : 100 BPM. Harmonise un chant de quatre mesures que tu inventes en Do majeur, avec une mélodie qui reste dans la plage G4-C5, en blocs de trois notes, et une basse en MG qui marque la fondamentale. Pas plus de deux changements de blocs par mesure.
 
 Critère de réussite : deux minutes sans interruption, la mélodie est toujours au sommet, aucun bloc ne contient de note étrangère sans justification, et une personne qui écoute ne perçoit que la mélodie et la basse.
 

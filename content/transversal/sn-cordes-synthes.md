@@ -97,7 +97,7 @@ Joue un chant complet de trois minutes avec un split et deux couches (piano et c
 - **Couche trop forte.** Le piano disparaît derrière le synthé. *Correction* : baisse la couche à 30 % et réécoute depuis la salle.
 - **Désaccord excessif.** Plus de 20 à 30 cents, le son devient deux notes. *Correction* : ramène le désaccord à 5 - 10 cents.
 - **Split mal placé.** Une note sur la mauvaise zone produit une basse qui sonne comme un piano aigu. *Correction* : vérifie le point de split avec une note de référence (B3 ou C4) avant le set.
-- **Basse trop épaisse.** La couche de basse et la MG se doublent et boucher le grave. *Correction* : coupe la couche de basse au-dessus de C3 et laisse la MG tenir la fondamentale.
+- **Basse trop épaisse.** La couche de basse et la MG se doublent et bouchent le grave. *Correction* : coupe la couche de basse au-dessus de C3 et laisse la MG tenir la fondamentale.
 - **Changer les couches en plein chant.** Un saut de volume ou de son déstabilise la voix. *Correction* : fais les changements entre deux phrases, ou sur un silence.
 
 ## 9 · Liens

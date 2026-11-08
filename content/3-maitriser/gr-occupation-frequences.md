@@ -32,10 +32,10 @@ Le problème le plus fréquent en groupe n'est pas le manque de notes mais l'exc
 
 | Zone | Fréquences | Ce qu'elle porte | Où le piano la rencontre |
 |---|---|---|---|
-| Grave | 40 – 250 Hz | basse, grosse caisse, poids | sous C3 (130,8 Hz) |
+| Grave | 40 – 250 Hz | basse, grosse caisse, poids | sous C4 (261,6 Hz) |
 | Bas-médium | 250 – 500 Hz | chaleur, corps, risque de boue | de C4 (261,6 Hz) à B4 (493,9 Hz) |
-| Médium | 500 Hz – 2 kHz | voix, mélodie, intelligibilité | de C5 (523,3 Hz) à C6 (1 046,5 Hz) |
-| Présence | 2 – 5 kHz | clarté, attaque, consonnes | de C6 à E7 (environ 2 637 Hz) |
+| Médium | 500 Hz – 2 kHz | voix, mélodie, intelligibilité | de C5 (523,3 Hz) à B6 (1 975,5 Hz) |
+| Présence | 2 – 5 kHz | clarté, attaque, consonnes | de C7 (2 093 Hz) à C8 (4 186 Hz), la note la plus aiguë |
 | Brillance | au-delà de 5 kHz | air, scintillement, cymbales | harmoniques lointaines seulement |
 
 Les fréquences des notes se calculent à partir du **la 440** : A4 = 440 Hz, et chaque demi-ton multiplie la fréquence par 2 puissance 1/12 (environ 1,0595). Une octave double la fréquence. Ainsi C3 = 130,8 Hz, C4 = 261,6 Hz, C5 = 523,3 Hz, et G4 = 392 Hz. Attention : 500 Hz tombe entre B4 (493,9) et C5 (523,3). Le piano commence donc sa zone médium juste au-dessus de la zone bas-médium.
@@ -60,7 +60,7 @@ Notation : C4 = do central. Tonalité de référence : **do majeur**. Les exempl
 
 Lecture : la version « large » place sa basse en grave (C3, G3) et ses notes médium au-dessus de C4. La version « groupe » ne garde que la tierce et la septième en médium-aigu : elle n'occupe presque pas la bas-médium. La troisième version monte pour s'éloigner de la voix grave ; elle n'est à utiliser que si le chanteur ne se tient pas dans la zone G4 - E5.
 
-Vérifie : E4 = 329,6 Hz, B4 = 493,9 Hz : toutes deux dans des zones correctes. G4 = 392 Hz, C5 = 523 Hz, E5 = 659 Hz : la troisième version démarre dans le médium supérieur.
+Vérifie : E4 = 329,6 Hz, B4 = 493,9 Hz : toutes deux dans des zones correctes. G4 = 392 Hz, C5 = 523 Hz, E5 = 659 Hz : la troisième version part du haut de la bas-médium et monte dans le médium.
 
 | Configuration (sol majeur) | Main gauche (MG) | Main droite (MD) |
 |---|---|---|
@@ -73,7 +73,7 @@ Vérifie : G2 = 98 Hz, D3 = 146,8 Hz, B3 = 246,9 Hz (dans le grave, tout juste s
 
 ## 5 · Dans la louange
 
-**Le refrain avec basse et guitare.** Le refrain monte en intensité. La basse tient le grave, la guitare joue des accords ouverts dans le médium, la batterie attaque la pulsation. Si ton piano joue un voicing serré en bas-médium, le tout devient une bouillie. Tu descends le voicing d'une octave pour le placer au-dessus de la basse et tu le resserres en haut : la moitié des notes suffit.
+**Le refrain avec basse et guitare.** Le refrain monte en intensité. La basse tient le grave, la guitare joue des accords ouverts dans le médium, la batterie attaque la pulsation. Si ton piano joue un voicing serré en bas-médium, le tout devient une bouillie. Tu montes le voicing d'une octave pour l'éloigner de la basse et tu le resserres en haut : la moitié des notes suffit.
 
 **Le couplet avec la voix.** Quand le chanteur principal s'avance, le groupe se retire. Ton piano n'occupe que la zone médium-grave ou se limite à deux notes autour de C4. La voix est alors l'unique occupant de la médium.
 

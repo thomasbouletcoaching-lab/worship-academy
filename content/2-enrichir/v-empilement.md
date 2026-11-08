@@ -118,7 +118,7 @@ Petit test : joue Cmaj9 (C + Em7), puis Cm9 (C + Ebmaj7). Dis lequel est plus so
 
 1. **Superposer deux accords au hasard.** Un accord quelconque sur un autre donne rarement une couleur claire. Correction : vérifie la réunion des notes, et nomme-la. Si tu ne peux pas la nommer, ce n'est pas un empilement utile.
 2. **Oublier la fondamentale à gauche.** Sans basse, la couleur flotte. Correction : la MG tient toujours la racine de l'accord de base.
-3. **Coller les deux mains.** Un écart trop petit donne de la boue. Correction : garde au moins une octave entre la note la plus haute de la MG et la plus basse de la MD.
+3. **Coller les deux mains.** Un écart trop petit donne de la boue. Correction : garde au moins une sixte entre la note la plus haute de la MG et la plus basse de la MD (G3 à E4, 9 demi-tons, dans Cmaj9).
 4. **Jouer la MD trop fort.** L'accord du haut écrase la fondamentale. Correction : joue la MD plus doucement, la MG garde le volume.
 5. **Mal lire la tierce.** Dans C7b9, la racine du haut est C#, et non une tierce de C. Correction : ne généralise jamais la règle ; vérifie la réunion de chaque cas.
 

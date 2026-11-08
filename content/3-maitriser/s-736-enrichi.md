@@ -72,10 +72,10 @@ Joue les trois accords en plaqué, la basse seule en premier, puis les voix de l
 |---|---|---|---|
 | C (Do) | B7(♭9) : B D# F# A + C | E7(♭9) : E G# B D + F | Am9 : A C E G B |
 | G (Sol) | F#7(♭9) : F# A# C# E + G | B7(♭9) : B D# F# A + C | Em9 : E G B D F# |
-| D (Ré) | C#7(♭9) : C# F G# B + D | F#7(♭9) : F# A# C# E + G | Bm9 : B D F# A C# |
-| A (La) | G#7(♭9) : G# C D# F# + A | C#7(♭9) : C# F G# B + D | F#m9 : F# A C# E G# |
-| E (Mi) | Eb7(♭9) (= D#7) : Eb G Bb Db + E | G#7(♭9) : G# C D# F# + A | C#m9 : C# E G# B D# |
-| B (Si) | Bb7(♭9) (= A#7) : Bb D F Ab + Cb (= B) | Eb7(♭9) (= D#7) : Eb G Bb Db + E | G#m9 (= Abm9) : Ab Cb Eb Gb Bb |
+| D (Ré) | C#7(♭9) : C# E# (= F) G# B + D | F#7(♭9) : F# A# C# E + G | Bm9 : B D F# A C# |
+| A (La) | G#7(♭9) : G# B# (= C) D# F# + A | C#7(♭9) : C# E# (= F) G# B + D | F#m9 : F# A C# E G# |
+| E (Mi) | Eb7(♭9) (= D#7) : Eb G Bb Db + Fb (= E) | G#7(♭9) : G# B# (= C) D# F# + A | C#m9 : C# E G# B D# |
+| B (Si) | Bb7(♭9) (= A#7) : Bb D F Ab + Cb (= B) | Eb7(♭9) (= D#7) : Eb G Bb Db + Fb (= E) | G#m9 (= Abm9) : Ab Cb Eb Gb Bb |
 | F (Fa) | E7(♭9) : E G# B D + F | A7(♭9) : A C# E G + Bb | Dm9 : D F A C E |
 | Bb (Sib) | A7(♭9) : A C# E G + Bb | D7(♭9) : D F# A C + Eb | Gm9 : G Bb D F A |
 | Eb (Mib) | D7(♭9) : D F# A C + Eb | G7(♭9) : G B D F + Ab | Cm9 : C Eb G Bb D |
@@ -119,7 +119,7 @@ Test. Un ami joue B7 avec ou sans C. Question : la tension est-elle plus forte a
 
 1. **Mettre la ♭9 sur la mauvaise dominante.** B7(♭9) a un C, E7(♭9) a un F. Correction : calcule un demi-ton au-dessus de la fondamentale de chaque dominante.
 2. **Utiliser la 11e naturelle.** Le E7(11) ajoute un A qui frotte la tierce G#. Correction : remplace la 11e par la ♯11, ou ne l'utilise pas.
-3. **Oublier la sensible dans la transposition.** Sans le VII (un demi-ton sous la tonique), la chaîne ne monte plus vers le III. Correction : calcule les trois degrés avant de jouer.
+3. **Oublier la sensible dans la transposition.** Sans le VII (un demi-ton sous la tonique), la chaîne ne conduit plus vers le III. Correction : calcule les trois degrés avant de jouer.
 4. **Mettre la 9e à la basse du Am9.** La 9e doit rester dans les voix supérieures. Correction : garde A en basse, B au-dessus.
 5. **Empiler trop de tensions.** Une chaîne à trois ou quatre couleurs par accord devient confuse. Correction : une ♭9 par dominante suffit, la 9e ne s'ajoute qu'au VI.
 

@@ -100,7 +100,7 @@ Donc Cm7 = C – Eb – G – Bb. Recontrôle : de Eb à G il y a 4 demi-tons (E
 - **Oublier la tierce mineure.** On joue C – E – G – Bb : c'est une dominante, pas un mineur 7. **Correction** : le Eb doit être présent, et on le compte à 3 demi-tons de C.
 - **Confondre Eb et E sur le clavier.** Les touches noires sont faciles à rater dans le feu d'une louange. **Correction** : repère le Eb comme la touche noire juste au-dessus de D.
 - **Mettre trop de mineurs 7 à la suite.** Le résultat est pesant. **Correction** : alterne avec des accords majeurs et des triades, surtout dans un chant joyeux.
-- **Jouer la basse une octave trop haute.** Le mineur 7 perd sa profondeur. **Correction** : garde la fondamentale dans le registre de D3 à A2 pour un son posé.
+- **Jouer la basse une octave trop haute.** Le mineur 7 perd sa profondeur. **Correction** : garde la fondamentale dans le registre de E2 à D3 pour un son posé.
 
 ## 9 · Liens
 

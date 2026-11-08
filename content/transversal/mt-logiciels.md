@@ -42,7 +42,7 @@ Dans la louange, on utilise rarement un logiciel seul. Le plus fréquent est un 
 
 **La polyphonie.** C'est le nombre maximal de notes que le logiciel joue en même temps. Une nappe étirée sur plusieurs voix peut en consommer beaucoup. Si la polyphonie est atteinte, les premières notes sont coupées : prévois une marge.
 
-**Le panic (all notes off).** Une commande d'urgence qui coupe toutes les notes bloquées. Un « note bloquée » est une note qui continue de sonner parce que sa fin n'a pas été reçue ; c'est fréquent après une déconnexion. Connais le raccourci de ton logiciel avant le dimanche.
+**Le panic (all notes off).** Une commande d'urgence qui coupe toutes les notes bloquées. Une « note bloquée » est une note qui continue de sonner parce que sa fin n'a pas été reçue ; c'est fréquent après une déconnexion. Connais le raccourci de ton logiciel avant le dimanche.
 
 **Cas limites.** Une mise à jour de système peut changer la sortie audio par défaut : vérifie-la avant chaque répétition. Un plugin non installé sur le second ordinateur fait échouer tout un projet : sauvegarde les sons et les dépendances.
 
@@ -52,7 +52,7 @@ La tonalité de référence de cette fiche est **C (Do) majeur**. Voici une conf
 
 | Zone | Son | Registre | Canal MIDI | Transposition |
 |---|---|---|---|---|
-| Basse | Piano | C2 à B3 | 1 | 0 |
+| Basse | Piano | C1 à B2 | 1 | 0 |
 | Piano principal | Piano | C3 à C6 | 1 | 0 |
 | Nappe | Pad | C4 à C6 | 2 | 0 |
 

@@ -18,7 +18,7 @@ duree_min: 35
 
 ## 1 · L'idée en une phrase
 
-**Une dominante secondaire est une dominante 7 qui prépare, non pas la tonique, mais un autre degré de la gamme : elle emprunte la tension d'un accord de tonique pour le temps d'une mesure.**
+**Une dominante secondaire est une dominante 7 qui prépare, non pas la tonique, mais un autre degré de la gamme : elle traite ce degré comme une tonique provisoire, le temps d'une mesure.**
 
 ## 2 · Comprendre
 

@@ -45,9 +45,9 @@ Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (
 - **Douces** : la sixte A, dans la plupart des contextes, et la neuvième D lorsqu'elle est en fin de phrase ou sur un temps faible.
 - **À risque** : la quarte F, qui frotte avec la tierce E, et la septième B, qui tend vers C.
 
-**Le cas de la quarte.** La quarte juste (F sur C) est dite « consonante » en théorie, mais elle devient dissonante lorsqu'elle se trouve au-dessus d'une basse qui n'est pas la fondamentale de l'accord. Ici, elle frotte avec la tierce E, ce qui la rend désagréable sur un temps fort.
+**Le cas de la quarte.** La quarte juste (F sur C) est dite « consonante » en théorie, mais elle est traitée comme dissonante lorsqu'elle se forme au-dessus de la basse. Ici, elle frotte avec la tierce E, ce qui la rend désagréable sur un temps fort.
 
-**Un accord de G majeur.** Les notes sûres sont G (0), B (4), D (7). Vérifions : G vers B = 4, B vers D = 3, G vers D = 7. Les notes douces sont E (sixte, 9 demi-tons depuis G) et l'autre note de la gamme, C, qui est une quarte (5 demi-tons). Vérification : G vers E = 4 + 5 = 9 ; G vers C = 5 ; donc C est une quarte, et elle frotte avec B (un demi-ton entre B et C). La même logique qu'en C majeur : la quarte frotte avec la tierce.
+**Un accord de G majeur.** Les notes sûres sont G (0), B (4), D (7). Vérifions : G vers B = 4, B vers D = 3, G vers D = 7. La note douce est E (sixte, 9 demi-tons depuis G) ; l'autre note de la gamme, C, est une quarte (5 demi-tons). Vérification : G vers E = 4 + 5 = 9 ; G vers C = 5 ; donc C est une quarte, et elle frotte avec B (un demi-ton entre B et C). La même logique qu'en C majeur : la quarte frotte avec la tierce.
 
 **Un accord de D majeur (dominante).** Les notes sûres sont D (0), F# (4), A (7). Vérifions : D vers F# = 4 (tierce majeure), F# vers A = 3, D vers A = 7. La septième mineure C (10 demi-tons) est une tension qui appelle D : c'est pourquoi la dominante attire vers la tonique.
 
@@ -66,9 +66,9 @@ Notes indiquées avec octave (C4 = Do central). Chaque exemple donne l'accord su
 
 Vérification : E4 à A4 fait 5 demi-tons (quarte juste), A4 à B4 fait 2, B4 à C5 fait 1. Le mouvement est un petit escalier. Chaque note est dans l'accord de sa mesure, donc chaque temps fort est un pilier.
 
-Dans cette mélodie, une note B4 (Si) posée sur le premier temps de la mesure 2 (accord de F) serait à risque : B est à 6 demi-tons de F, un triton, le frottement le plus fort possible avec la fondamentale. Évite-la sur temps fort.
+Dans cette mélodie, une note B4 (Si) posée sur le premier temps de la mesure 2 (accord de F) serait à risque : B est à 6 demi-tons de F, un triton, l'intervalle le plus instable avec la fondamentale. Évite-la sur temps fort.
 
-**Exemple en G majeur, I – IV – V – I.** La mélodie devient : D5 (Ré) sur G (I), E5 (Mi) sur C (IV), F#5 (Fa dièse) sur D (V), G5 (Sol) sur G (I). Vérification : G majeur contient D, E n'est pas dans G, mais E est dans C majeur : E5 est donc une note sûre sur l'accord de C. F# est la tierce de D majeur, donc sûre sur la dominante. D5 et G5 sont sûres sur G. Vérifie la transposition : la mélodie est la même que celle de la gamme de G, avec un F# obligatoire.
+**Exemple en G majeur, I – IV – V – I.** Une autre mélodie possible : D5 (Ré) sur G (I), E5 (Mi) sur C (IV), F#5 (Fa dièse) sur D (V), G5 (Sol) sur G (I). Vérification : G majeur contient D, E n'est pas dans G, mais E est dans C majeur : E5 est donc une note sûre sur l'accord de C. F# est la tierce de D majeur, donc sûre sur la dominante. D5 et G5 sont sûres sur G. La mélodie monte les degrés 5-6-7-1 de la gamme de G, avec un F# obligatoire.
 
 **Note de passage.** Après D5 sur le temps 1 de la mesure 1 (accord de G), tu peux glisser C5 (Do) sur le temps 2 : elle est à risque sur G, mais tolérée sur temps faible, car elle descend vers la note sûre B4 (Si). Elle ne tombe pas sur temps fort, donc elle reste libre.
 

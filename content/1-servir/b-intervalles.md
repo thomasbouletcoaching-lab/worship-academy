@@ -55,7 +55,7 @@ Le nom d'un intervalle se compose de deux éléments : un nombre (seconde, tierc
 
 **Le renversement.** Quand on inverse un intervalle (on déplace la note grave une octave plus haut ou la note aiguë une octave plus bas), la somme des nombres de demi-tons fait 12. Ainsi, m2 et M7 (1 + 11 = 12), M2 et m7 (2 + 10 = 12), m3 et M6 (3 + 9 = 12), M3 et m6 (4 + 8 = 12), P4 et P5 (5 + 7 = 12). Le triton reste triton (6 + 6 = 12).
 
-**Une précision sur le calcul.** Compte toujours les demi-tons entre la note grave et la note aiguë. De C à E, c'est 4 demi-tons, donc une tierce majeure. De C à Eb, c'est 3, donc une tierce mineure. Ne te fie pas aux lettres seules : un Eb et un E sont à une demi-tonalité d'écart.
+**Une précision sur le calcul.** Compte toujours les demi-tons entre la note grave et la note aiguë. De C à E, c'est 4 demi-tons, donc une tierce majeure. De C à Eb, c'est 3, donc une tierce mineure. Ne te fie pas aux lettres seules : un Eb et un E sont à un demi-ton d'écart.
 
 ## 4 · Au clavier
 
@@ -94,7 +94,7 @@ Un intervalle de quarte juste peut ouvrir un refrain ou suspendre une phrase : c
 
 ### 🔴 Palier 3 — Virtuose
 
-À 100 BPM, un partenaire donne un intervalle (par exemple « sixte majeure ») depuis une note au hasard entre C3 et C4. Tu joues la note aiguë et annonces la note de départ.
+À 100 BPM, un partenaire donne un intervalle (par exemple « sixte majeure ») depuis une note au hasard entre C3 et C4. Tu joues la note aiguë et annonces son nom.
 **Critère de réussite** : vingt intervalles donnés au hasard, dont au moins dix-huit joués juste en moins de deux secondes.
 
 ## 7 · Oreille

@@ -28,7 +28,7 @@ En musique, les deux escaliers sont G7 et Db7. Ils sont à un triton de distance
 
 ## 3 · Sous le capot
 
-Le triton est un intervalle de 6 demi-tons, la distance la plus éloignée dans l'octave. Dans un accord de dominante 7, la tierce et la septième forment un triton : c'est la note qui crée la tension, et c'est ce qui pousse vers la tonique.
+Le triton est un intervalle de 6 demi-tons, la distance la plus éloignée dans l'octave. Dans un accord de dominante 7, la tierce et la septième forment un triton : c'est l'intervalle qui crée la tension, et c'est ce qui pousse vers la tonique.
 
 Vérification pour G7 : G B D F.
 - G → B = 4 (tierce majeure), B → D = 3, D → F = 3, G → F = 10 (septième mineure).
@@ -56,7 +56,7 @@ Repère : C4 est le Do central. Tonalité de référence : Do majeur. Seconde to
 | Db7 (à la place de G7) | Db2 | F3 Ab3 B3 | Fondamentale Db2 ; tierce F3 (qui descend sur E), septième B3 (qui monte sur C), quinte Ab3. Le triton F – B est présent. |
 | Cmaj7 | C2 | E3 G3 B3 | Fondamentale C2 ; tierce E3 (reçoit le F), quinte G3, septième B3 (septième majeure). |
 
-Joue la progression Dm7 – Db7 – Cmaj7. Garde le F3 de la main droite : il reste en place pendant les deux premiers accords, puis descend sur E. Le B3 monte sur C. Tu entends une descente chromatique dans la basse, D → Db → C, qui est le signe de la substitution.
+Joue la progression Dm7 – Db7 – Cmaj7. Garde le F3 de la main droite : il reste en place pendant les deux premiers accords, puis descend sur E. Le B3 reste en place et devient la septième majeure de Cmaj7 (sa résolution vers C est portée par la basse). Tu entends une descente chromatique dans la basse, D → Db → C, qui est le signe de la substitution.
 
 **Dans Sol majeur :** la dominante D7 (D F# A C) se remplace par Ab7 (Ab C Eb Gb). Voicings : Am7 (A2 en basse ; C3 E3 G3), Ab7 (Ab2 en basse ; C3 Eb3 Gb3), Gmaj7 (G2 en basse ; B2 D3 F#3). La tierce C3 de Ab7 descend sur B, la septième Gb3 est enharmonique au F#3 de Gmaj7 : elle reste en place, et la basse suit la descente Ab → G.
 
@@ -78,7 +78,7 @@ Joue G7 – C, puis Db7 – C, à 60 BPM, en accords plaqués, chaque accord ten
 
 ### 🟡 Palier 2 — Maîtrise
 
-Joue Dm7 – Db7 – Cmaj7 et Am7 – Ab7 – Gmaj7 avec les voicings du tableau, à 84 BPM. Critère : les deux progressions réussies sur trois essais, la basse descend chromatiquement (D → Db → C, puis A → Ab → G), et le F3 de la main droite reste en place.
+Joue Dm7 – Db7 – Cmaj7 et Am7 – Ab7 – Gmaj7 avec les voicings du tableau, à 84 BPM. Critère : les deux progressions réussies sur trois essais, la basse descend chromatiquement (D → Db → C, puis A → Ab → G), et la note commune de la main droite reste en place (F3 en Do, C3 en Sol).
 
 ### 🔴 Palier 3 — Virtuose
 
@@ -94,7 +94,7 @@ Test. Un ami joue une dominante, puis une tonique. Question : la dominante étai
 
 1. **Oublier le Cb pour B.** Db7 contient Cb, enharmoniquement B. Correction : écris la note Cb, et lis-la comme B.
 2. **Utiliser la substitution sur un accord qui n'est pas une dominante.** Elle ne marche que sur une dominante 7. Correction : vérifie que l'accord a bien une tierce majeure et une septième mineure.
-3. **Déplacer la mauvaise voix.** Le F de Db7 descend sur E, pas sur F. Correction : vérifie que la tierce descend et que la septième monte.
+3. **Déplacer la mauvaise voix.** Le F de Db7 descend sur E, il ne monte pas sur G. Correction : vérifie que la tierce descend et que la septième monte.
 4. **Garder la basse sur la fondamentale d'origine.** La basse doit suivre Db, sinon l'effet est perdu. Correction : place Db en basse, puis descends sur C.
 5. **Substituer partout.** Une substitution tritonique par phrase suffit. Correction : réserve-la aux moments de finale ou de respiration.
 

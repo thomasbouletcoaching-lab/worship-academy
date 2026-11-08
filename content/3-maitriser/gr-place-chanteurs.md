@@ -76,7 +76,7 @@ Vérifie : D2 = 73,4 Hz, F#3 = 185 Hz, A3 = 220 Hz (D, F#, A : accord de ré maj
 
 ### 🟢 Palier 1 — Découverte
 
-Joue la progression I - V - vi - IV en do majeur, avec les voicings du tableau, à **66 BPM**, en chantant une mélodie de ton choix sur les accords (sans la jouer au piano). **Critère de réussite** : tu tiens seize mesures sans jouer une seule note au-dessus de E4 dans la main droite, et ta voix reste à l'aise.
+Joue la progression I - V - vi - IV en do majeur, avec les voicings du tableau, à **66 BPM**, en chantant une mélodie de ton choix sur les accords (sans la jouer au piano). **Critère de réussite** : tu tiens seize mesures sans jouer une seule note au-dessus de G4 dans la main droite, et ta voix reste à l'aise.
 
 ### 🟡 Palier 2 — Maîtrise
 

@@ -55,7 +55,7 @@ Notes avec octave (C4 = Do central). Exemple d'une mélodie originale en C majeu
 
 **Vérification des intervalles de la mélodie.** E4 vers A4 = 5 demi-tons (quarte juste), A4 vers B4 = 2 (seconde majeure), B4 vers C5 = 1 (seconde mineure). Chaque note de la mélodie appartient à l'accord de la mesure où elle tombe.
 
-**Exemple en G majeur.** La même structure en G : mélodie D5 (Ré), E5 (Mi), F#5 (Fa dièse), G5 (Sol). Accords G – C – D – G. La main gauche joue G2, C3, D2, G2 sur le temps 1 ; la main droite plaque G4 – B4 – D5, C4 – E4 – G4, D4 – F#4 – A4, G4 – B4 – D5. Vérification : D4 vers F#4 = 4 demi-tons, F#4 vers A4 = 3 ; le F# est indispensable.
+**Exemple en G majeur.** La même structure en G : mélodie B4 (Si), E5 (Mi), F#5 (Fa dièse), G5 (Sol), soit chaque note transposée d'une quinte juste vers le haut (7 demi-tons). Accords G – C – D – G. La main gauche joue G2, C3, D2, G2 sur le temps 1 ; la main droite plaque G4 – B4 – D5, C4 – E4 – G4, D4 – F#4 – A4, G4 – B4 – D5. Vérification : D4 vers F#4 = 4 demi-tons, F#4 vers A4 = 3 ; le F# est indispensable.
 
 **Note sur la tonalité de référence.** En C, la mélodie est dans la gamme sans altération. En G, la mélodie contient F#, qu'il faut chanter juste : c'est la note la plus facile à manquer, car elle n'appartient pas à la gamme naturelle de la voix sans effort.
 
@@ -90,7 +90,7 @@ Chante ton chant de huit mesures en G majeur (transposé depuis C) puis en C maj
 
 Ce qu'il faut entendre : la voix doit sonner comme le centre de la musique, avec le piano qui l'entoure. Une note chantée juste sur son accord sonne comme un repos ; une note chantée faux se remarque immédiatement, car elle frotte avec l'accord.
 
-**Petit test.** Chante la note E4 sur un accord de C, puis la note F4 sur le même accord. Écoute la différence : E4 se pose, F4 frotte. Ensuite, joue les accords et chante la mélodie seule, sans piano. Tu dois retrouver la mélodie de mémoire.
+**Petit test.** Chante la note E4 sur un accord de C, puis la note F4 sur le même accord. Écoute la différence : E4 se pose, F4 frotte. Ensuite, chante la mélodie seule, sans piano. Tu dois retrouver la mélodie de mémoire.
 
 **Deuxième test.** Enregistre-toi chantant un chant de huit mesures avec accompagnement. Écoute-le une fois en te concentrant sur la voix, une fois en te concentrant sur le piano. Si la voix est couverte, baisse le volume de la main droite d'un cran.
 

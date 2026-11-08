@@ -47,7 +47,7 @@ Le chiffre « 8 » désigne l'octave de la fondamentale ; le numéro « 1 » la 
 
 **Le rôle de la fondamentale.** Dans un arpège, la fondamentale est souvent la première et la dernière note du motif. Cela donne au motif un point d'arrivée clair. Si tu finis sur la tierce ou la quinte, l'oreille attend encore la résolution, et c'est un choix expressif, pas une erreur.
 
-**Le doigté.** Pour un arpège ascendant en C majeur, la main droite joue C4 au pouce (1), E4 au majeur (3), G4 à l'auriculaire (5), puis C5 à nouveau au pouce (1), qui passe sous le majeur. Le mouvement doit être naturel, sans crispation.
+**Le doigté.** Pour un arpège ascendant en C majeur, la main droite joue C4 au pouce (1), E4 à l'index (2), G4 au majeur (3), puis C5 à l'auriculaire (5) si le motif s'arrête à l'octave. Pour continuer vers l'octave suivante, c'est le pouce (1) qui prend C5 en passant sous le majeur. Le mouvement doit être naturel, sans crispation.
 
 ## 4 · Au clavier
 
@@ -55,16 +55,16 @@ Notes avec octave (C4 = Do central). Doigts de la main droite indiqués.
 
 | Accord | Motif 1-3-5-8 | Doigts | Motif 1-3-5-3 |
 |---|---|---|---|
-| C | C4, E4, G4, C5 | 1, 3, 5, 1 | C4, E4, G4, E4 |
-| Am | A3, C4, E4, A4 | 1, 3, 5, 1 | A3, C4, E4, C4 |
-| F | F3, A3, C4, F4 | 1, 3, 5, 1 | F3, A3, C4, A3 |
-| G | G3, B3, D4, G4 | 1, 3, 5, 1 | G3, B3, D4, B3 |
+| C | C4, E4, G4, C5 | 1, 2, 3, 5 | C4, E4, G4, E4 |
+| Am | A3, C4, E4, A4 | 1, 2, 3, 5 | A3, C4, E4, C4 |
+| F | F3, A3, C4, F4 | 1, 2, 3, 5 | F3, A3, C4, A3 |
+| G | G3, B3, D4, G4 | 1, 2, 3, 5 | G3, B3, D4, B3 |
 
 **Vérification.** Am : A3 vers C4 = 3 demi-tons, C4 vers E4 = 4, E4 vers A4 = 5 ; total 12. F : F3 vers A3 = 4, A3 vers C4 = 3, C4 vers F4 = 5 ; total 12. G : G3 vers B3 = 4, B3 vers D4 = 3, D4 vers G4 = 5 ; total 12. Chaque motif couvre bien une octave.
 
 **Exemple en C majeur.** Progression C – Am – F – G, à raison d'un motif 1-3-5-3 en croches par mesure. Tu joues huit croches par mesure : les quatre premières avec le motif de l'accord, les quatre suivantes avec le même motif répété. Les accords changent sur le temps 1.
 
-**Exemple en G majeur.** Progression G – Em – C – D. Pour G : G3 – B3 – D4 – G4 (motif 1-3-5-8). Pour Em : E3 – G3 – B3 – E4. Pour C : C4 – E4 – G4 – C5. Pour D : D3 – F#3 – A3 – D4 (vérification : D3 vers F#3 = 4, F#3 vers A3 = 3, A3 vers D4 = 5 ; total 12). La F# est nécessaire pour que D soit majeur.
+**Exemple en G majeur.** Progression G – Em – C – D. Pour G : G3 – B3 – D4 – G4 (motif 1-3-5-8). Pour Em : E3 – G3 – B3 – E4. Pour C : C4 – E4 – G4 – C5. Pour D : D3 – F#3 – A3 – D4 (vérification : D3 vers F#3 = 4, F#3 vers A3 = 3, A3 vers D4 = 5 ; total 12). Le F# est nécessaire pour que D soit majeur.
 
 **Note sur la tonalité de référence.** En C, les motifs ne contiennent aucune altération. En G, le motif de D doit inclure F#. Nomme les notes du motif avant de le jouer pour éviter le F naturel.
 
@@ -109,7 +109,7 @@ Ce qu'il faut entendre : un arpège majeur sonne clair et ouvert, un arpège min
 - **Frapper trop fort le premier doigt.** Correction : joue en détente, en laissant le poids du bras guider chaque note. Un arpège doit être égal, pas accentué.
 - **Oublier le passage du pouce sur le C5.** Correction : entraîne-toi lentement au passage du pouce, le majeur doit glisser au-dessus pour éviter les crispations.
 - **Changer de motif au mauvais endroit.** Correction : change de motif au début de la mesure, avec le changement d'accord, jamais au milieu.
-- **Oublier la F# en G majeur.** Correction : nomme les notes du motif avant de le jouer, surtout dans l'accord de D.
+- **Oublier le F# en G majeur.** Correction : nomme les notes du motif avant de le jouer, surtout dans l'accord de D.
 
 ## 9 · Liens
 

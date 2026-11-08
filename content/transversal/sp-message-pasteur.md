@@ -50,11 +50,11 @@ La tonalité de référence de cette fiche est **C (Do) majeur**. Voici trois ac
 
 | Accord | Couleur | Basse MG | Doigts MG | Notes MD | Doigts MD |
 |---|---|---|---|---|---|
-| C ouvert | stabilité | C2 – G2 | 5 – 1 | C4 – G4 – E5 | 1 – 3 – 5 |
+| C ouvert | stabilité | C2 – G2 | 5 – 1 | G4 – C5 – E5 | 1 – 3 – 5 |
 | Am ouvert | intimité | A2 – E3 | 5 – 1 | A4 – C5 – E5 | 1 – 3 – 5 |
-| G (sus4) | attente | G2 – D3 | 5 – 1 | C4 – G4 – D5 | 1 – 4 – 5 |
+| G (sus4) | attente | G2 – D3 | 5 – 1 | G4 – C5 – D5 | 1 – 4 – 5 |
 
-Le G sus4 (G, C, D) se joue avec les notes C4, G4 et D5 : il contient la quarte (C) à la place de la tierce, ce qui le rend ouvert. Pour le résoudre, il suffit de remplacer le C4 par un B4 : tu retrouves G majeur, qui revient ensuite vers C.
+Le G sus4 (G, C, D) se joue avec les notes G4, C5 et D5 : il contient la quarte (C) à la place de la tierce, ce qui le rend ouvert. Pour le résoudre, il suffit de remplacer le C5 par un B4 (doigt 3) : tu retrouves G majeur, qui revient ensuite vers C.
 
 Pour accompagner un passage de message, change lentement entre C ouvert et Am ouvert, chacun tenu au moins quatre mesures, et garde le volume en dessous de la voix. Réserve le G sus4 pour la fin d'une idée, puis reviens à C.
 
@@ -62,9 +62,9 @@ Pour accompagner un passage de message, change lentement entre C ouvert et Am ou
 
 | Accord | Couleur | Basse MG | Doigts MG | Notes MD | Doigts MD |
 |---|---|---|---|---|---|
-| G ouvert | stabilité | G2 – D3 | 5 – 1 | G3 – D4 – B4 | 1 – 3 – 5 |
+| G ouvert | stabilité | G2 – D3 | 5 – 1 | D4 – G4 – B4 | 1 – 3 – 5 |
 | Em ouvert | intimité | E2 – B2 | 5 – 1 | E4 – G4 – B4 | 1 – 3 – 5 |
-| D (sus4) | attente | D2 – A2 | 5 – 1 | G3 – D4 – A4 | 1 – 3 – 5 |
+| D (sus4) | attente | D2 – A2 | 5 – 1 | D4 – G4 – A4 | 1 – 4 – 5 |
 
 Le D sus4 contient G, D et A : il sonne ouvert, sans tierce, et il se résout sur G ouvert. Le Fa dièse n'apparaît dans aucun de ces trois accords, ce qui convient à une parole longue.
 

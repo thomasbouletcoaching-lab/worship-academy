@@ -52,7 +52,7 @@ Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (
 
 **L'accord slash.** Quand la basse n'est pas la fondamentale, on écrit le nom de l'accord, puis une barre oblique, puis la note de basse. C/E = accord de C dont la basse est E (notes E, G, C dans le grave-aigu). C/G = accord de C avec G à la basse (G, C, E). Vérification : le contenu reste C – E – G, seule la basse change.
 
-**Les cas piégeux.** Le sus2 et le sus4 peuvent ressembler à un accord mineur ou majeur si l'on n'entend pas la tierce. Csus4 (C – F – G) ne contient pas de E : il est ouvert, il attend une résolution vers la tierce. Un E G# C est un C augmenté (C/E), pas un E majeur : la quinte, de C à G#, est augmentée.
+**Les cas piégeux.** Le sus2 et le sus4 peuvent ressembler à un accord mineur ou majeur si l'on n'entend pas la tierce. Csus4 (C – F – G) ne contient pas de E : il est ouvert, il attend une résolution vers la tierce. Un E – G# – C est un C augmenté renversé (Caug/E, soit C – E – G#), pas un E majeur : de C à G#, il y a 8 demi-tons, une quinte augmentée.
 
 **Les septièmes.** Ce qui suit la triade (septième, neuvième) fera l'objet d'une étude séparée. Pour l'instant, reste sur les triades et les sus.
 
@@ -107,7 +107,7 @@ Un partenaire (ou toi-même, en enregistrant) joue huit accords au hasard parmi 
 ### 🔴 Palier 3 — Virtuose
 
 Joue huit mesures en G majeur (G – Em – C/G – D – G – Am – Csus4 – D) puis huit en C majeur (C – Am – F/C – G – C – Dm – Gsus4 – C), en utilisant des accords slash, des mineurs et des sus. Nomme chaque accord avant de le jouer, et écris les noms, sans partition, sur une feuille de brouillon.
-**Critère de réussite** : seize mesures sans erreur de nom, avec au moins deux accords slash, deux accords mineurs et un sus dans chaque tonalité.
+**Critère de réussite** : seize mesures sans erreur de nom, avec au moins un accord slash, deux accords mineurs et un sus dans chaque tonalité.
 
 ## 7 · Oreille
 

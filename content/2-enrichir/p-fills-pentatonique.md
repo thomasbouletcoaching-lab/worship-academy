@@ -24,7 +24,7 @@ duree_min: 25
 
 Pense à la réponse d'un chœur entre deux strophes. Le soliste chante une ligne, puis le chœur répond par une phrase courte, qui fait le lien et annonce la suite. Cette réponse ne dure pas longtemps, mais elle structure tout le chant : on sait où l'on en est, on sent que la phrase est finie et qu'une autre commence.
 
-Un fill fonctionne de la même façon au piano. C'est une petite figure, souvent deux ou quatre temps, jouée à la fin d'une phrase. Elle utilise les notes de la gamme pentatonique, parce qu'elles sonnent sans friction, et elle se termine sur une note qui appartient au prochain accord. Cette note d'atterrissage est le repère : l'oreille reconnaît le nouvel accord et comprend la fin du fill.
+Un fill fonctionne de la même façon au piano. C'est une petite figure, souvent deux temps, jouée à la fin d'une phrase. Elle utilise les notes de la gamme pentatonique, parce qu'elles sonnent sans friction, et elle se termine sur une note qui appartient au prochain accord. Cette note d'atterrissage est le repère : l'oreille reconnaît le nouvel accord et comprend la fin du fill.
 
 ## 3 · Sous le capot
 
@@ -56,13 +56,13 @@ Cas limite : si le fill ne tombe pas sur une note de l'accord, il sonne comme un
 
 Tonalité de référence : Do majeur. Les doigtés s'appuient sur le schéma 1-2-3-5 de la pentatonique, avec le pouce qui passe sous la main pour monter.
 
-**Fill 1 (de C vers Am) : G4 (5), A4 (1), C5 (2), atterrissage C5 au premier temps de Am**
+**Fill 1 (de C vers Am) : G4 (1), A4 (2), C5 (3), atterrissage C5 au premier temps de Am**
 
 | Note | Doigt | Rôle |
 |---|---|---|
-| G4 (67) | 5 | départ, sur la dernière moitié de la mesure |
-| A4 (69) | 1 | passage du pouce sous la main |
-| C5 (72) | 2 | atterrissage, tierce de Am |
+| G4 (67) | 1 | départ, sur la dernière moitié de la mesure |
+| A4 (69) | 2 | passage |
+| C5 (72) | 3 | atterrissage, tierce de Am |
 
 **Fill 2 (de Am vers F) : E5 (5), D5 (3), C5 (2), A4 (1), atterrissage A4 au premier temps de F**
 
@@ -77,7 +77,7 @@ Tonalité de référence : Do majeur. Les doigtés s'appuient sur le schéma 1-2
 
 Vérifications : A4 à C5, 3 demi-tons (tierce mineure) ; C5 à D5, 2 demi-tons. L'atterrissage D5 est la quinte de G.
 
-**Encadrement vers G4 (fill en C) : A4 (1), F#4 (2), G4 (3), atterrissage G4 au premier temps de la mesure suivante**
+**Encadrement vers G4 (fill en C) : A4 (4), F#4 (2), G4 (3), atterrissage G4 au premier temps de la mesure suivante**
 
 Vérifications : A4 (69) à F#4 (66) : 3 demi-tons, c'est une tierce mineure descendante. Puis F#4 à G4 : 1 demi-ton. L'atterrissage sur G4 est la quinte de C. Le doigté 2 sur F# (une touche noire) demande une attention particulière.
 

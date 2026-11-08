@@ -60,15 +60,15 @@ Notes en lettres anglo-saxonnes, avec octave. Toutes les paires sont construites
 
 | Intervalle | Note aiguë | Doigtés MD suggérés |
 |---|---|---|
-| m3 | D#4 (Eb4) | 1-3 (noire au doigt 3) |
+| m3 | Eb4 | 1-3 (noire au doigt 3) |
 | M3 | E4 | 1-3 |
 | P4 | F4 | 1-4 |
 | P5 | G4 | 1-5 |
-| m6 | G#4 (Ab4) | 1-5 (main légèrement étirée) |
+| m6 | Ab4 | 1-5 (main légèrement étirée) |
 | M6 | A4 | 1-5 |
 | P8 | C5 | 1-5 (étirement) |
 
-**Paires dans la tonalité de G majeur.** Depuis G3 : G3 – Bb3 (m3), G3 – B3 (M3), G3 – C4 (P4), G3 – D4 (P5). Remarque que la paire G3 – Bb3 correspond à la paire C4 – Eb4 transposée d'une quarte : tu reproduis le même intervalle, pas les mêmes touches.
+**Paires dans la tonalité de G majeur.** Depuis G3 : G3 – Bb3 (m3), G3 – B3 (M3), G3 – C4 (P4), G3 – D4 (P5). Remarque que la paire G3 – Bb3 correspond à la paire C4 – Eb4 transposée d'une quarte vers le bas : tu reproduis le même intervalle, pas les mêmes touches.
 
 **Note sur la tonalité de référence.** La référence est C majeur. Les exemples de G majeur servent seulement à montrer qu'un intervalle se transpose sans changer sa couleur. Une tierce majeure reste quatre demi-tons, qu'on la joue en C, en G ou en F.
 
@@ -99,7 +99,7 @@ Dans une montée d'intensité, une tierce majeure qui s'ajoute à la quinte fait
 
 ## 7 · Oreille
 
-Quand tu entends une quinte juste (C4 – G4), tu perçois une stabilité particulière, comme un sol ferme. Quand tu entends une quarte juste (C4 – F4), la même paire renversée semble suspendue. Quand tu entends une tierce majeure (C4 – E4), la paire sonne lumineuse ; la mineure (C4 – Eb4) sonne plus grave.
+Quand tu entends une quinte juste (C4 – G4), tu perçois une stabilité particulière, comme un sol ferme. Quand tu entends une quarte juste (C4 – F4, renversement de la quinte F3 – C4), la paire semble suspendue. Quand tu entends une tierce majeure (C4 – E4), la paire sonne lumineuse ; la mineure (C4 – Eb4) sonne plus grave.
 
 **Petit test.** Un ami joue une paire parmi quatre choisies (m3, M3, P4, P5), deux fois. Tu la nommes. Répète sept fois : tu dois réussir au moins six fois pour valider cette étape.
 

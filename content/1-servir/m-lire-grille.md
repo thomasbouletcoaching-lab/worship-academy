@@ -26,7 +26,7 @@ Imagine un plan de métro. Chaque ligne est une suite de stations, et chaque sta
 
 Dans la louange, la grille est très utile. Beaucoup de chants sont transmis sous forme de grille, sans portée de mélodie : le chanteur connaît la mélodie, le pianiste suit l'harmonie. Tu dois donc savoir où tombent les changements d'accord, combien de temps dure chaque accord, et quand une reprise arrive. Ce savoir te permet de rester dans la pulsation même si la mélodie est improvisée ou inconnue.
 
-Une grille se lit donc par colonnes, pas par lignes. Chaque colonne est une mesure, chaque ligne est une phrase. Quand tu regardes une case, tu te demandes : combien de temps dure cet accord, et est-ce le dernier de la phrase ?
+Une grille se lit donc case par case, de gauche à droite. Chaque colonne est une mesure, chaque ligne est une phrase. Quand tu regardes une case, tu te demandes : combien de temps dure cet accord, et est-ce le dernier de la phrase ?
 
 ## 3 · Sous le capot
 
@@ -36,7 +36,7 @@ Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (
 
 **La répartition des accords.** Un accord occupe en général une mesure entière (quatre temps). Lorsqu'il occupe deux temps, deux accords se partagent la mesure : on écrit alors les deux symboles dans la même case, séparés par un espace. Vérification : dans une mesure « G Am », G dure deux temps (1 et 2), Am dure deux temps (3 et 4).
 
-**Le symbole de répétition.** Le signe % indique que l'on répète la mesure précédente. Une reprise est indiquée par |: :| : on rejoue la section comprise entre les deux signes. Avant de jouer, repère toujours les reprises et les casses (une fin différente à la deuxième fois).
+**Le symbole de répétition.** Le signe % indique que l'on répète la mesure précédente. Une reprise est indiquée par |: :| : on rejoue la section comprise entre les deux signes. Avant de jouer, repère toujours les reprises et les cases (une fin différente à la deuxième fois).
 
 **Le symbole N.C.** Lorsque la grille indique N.C. (no chord), tu ne joues pas d'accord : une mélodie ou une parole est seule. Tu peux soit te taire, soit tenir une note de la tonique très discrète.
 
@@ -71,7 +71,7 @@ Vérification des intervalles : C4 vers E4 = 4 demi-tons (tierce majeure), E4 ve
 
 **Une prière sur une grille répétée.** Pendant une prière, la grille peut tourner plusieurs fois. Joue plus lentement, plaque moins souvent, et laisse de l'espace. La grille te donne la structure : tu sais quand la prière arrive à une fin de phrase.
 
-**Une reprise qui change.** Dans beaucoup de chants, la deuxième reprise d'une grille amène une fin différente (une casse). Repère-la avant de jouer, pour ne pas enchaîner la mauvaise mesure et désorienter le chanteur.
+**Une reprise qui change.** Dans beaucoup de chants, la deuxième reprise d'une grille amène une fin différente (une case). Repère-la avant de jouer, pour ne pas enchaîner la mauvaise mesure et désorienter le chanteur.
 
 **Une transition entre deux chants.** Quand deux grilles se suivent, cherche la mesure de transition : souvent le dernier accord du premier chant (le V) annonce la tonalité du second chant (le I). Tu peux ainsi enchaîner sans coupure.
 
@@ -104,7 +104,7 @@ Ce qu'il faut entendre : le passage du V au I sonne comme une fin de phrase ; le
 
 - **Compter les accords au lieu de compter les mesures.** Correction : une mesure, quel que soit le nombre d'accords, dure quatre temps en 4/4. Compte les temps, pas les symboles.
 - **Changer d'accord au mauvais moment.** Correction : repère toujours le temps 1 de chaque mesure. Un accord à deux temps commence au temps 1 et change au temps 3.
-- **Sauter la reprise ou la casse.** Correction : repère les symboles de reprise (|: :|) et les casses avant de commencer. Une grille se lit dans l'ordre, pas dans le sens qui te semble naturel.
+- **Sauter la reprise ou la case.** Correction : repère les symboles de reprise (|: :|) et les cases avant de commencer. Une grille se lit dans l'ordre, pas dans le sens qui te semble naturel.
 - **Ignorer les N.C.** Correction : quand la grille indique N.C., reste silencieux ou discret. Le silence est une harmonie à part entière.
 - **Lire la grille sans anticiper.** Correction : regarde toujours une mesure en avance. Ta main doit être prête à changer d'accord avant que le temps ne tombe.
 

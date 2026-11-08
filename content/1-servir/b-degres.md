@@ -77,7 +77,7 @@ Doigts indicatifs : 1, 2, 3, 1, 2, 3, 4, 5 (voir la fiche sur les doigtés des g
 
 ## 5 · Dans la louange
 
-Un pasteur demande à l'équipe de chanter un refrain sur la sous-dominante, c'est-à-dire le IV, avant de revenir à la tonique. Si le morceau est en Sol, le IV est un Do. Le pianiste joue le Do, puis le Sol (V), puis revient au Sol (I) : une cadence qui sonne naturellement comme une réponse.
+Un pasteur demande à l'équipe de chanter un refrain sur la sous-dominante, c'est-à-dire le IV, avant de revenir à la tonique. Si le morceau est en Sol, le IV est un Do. Le pianiste joue le Do, puis le Ré (V), puis revient au Sol (I) : une cadence qui sonne naturellement comme une réponse.
 
 Dans une prière, le leader peut dire « restons sur le VI ». Il indique un accord de couleur plus sombre, qui rapproche et rend le moment intime. Le pianiste joue alors le sixième degré (en Do majeur, la note La) sans que l'équipe ait besoin de partition.
 

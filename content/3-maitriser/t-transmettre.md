@@ -32,7 +32,7 @@ Dans la louange, on confond souvent transmettre et montrer. Montrer, c'est jouer
 
 **Comment on apprend un geste.** Le cerveau apprend d'abord par morceaux. Un enchaînement de quatre accords se mémorise plus facilement en trois blocs : une cellule de deux accords, puis une seconde, puis l'assemblage. Ce découpage s'appelle le *chunking*. Pour un débutant, une triade (trois notes) est déjà une unité ; une progression de quatre mesures est une suite de quatre unités.
 
-**La répétition espacée.** Un apprentissage tient mieux quand il est répété à intervalles croissants : aujourd'hui, demain, dans trois jours, dans une semaine. Une séance de trente minutes répartie sur trois jours est plus efficace qu'une seule séance d'une heure et demie. C'est une règle précieuse pour une équipe qui n'a qu'une répétition hebdomadaire.
+**La répétition espacée.** Un apprentissage tient mieux quand il est répété à intervalles croissants : aujourd'hui, demain, dans trois jours, dans une semaine. Trois séances de trente minutes réparties sur trois jours sont plus efficaces qu'une seule séance d'une heure et demie. C'est une règle précieuse pour une équipe qui n'a qu'une répétition hebdomadaire.
 
 **Une progression d'enseignement.** L'ordre compte. Il est logique de commencer par l'intervalle (la tierce, qui donne la couleur), puis la triade (les trois notes), puis le renversement (la basse change, la triade reste), puis la progression (la suite d'accords). Une tierce majeure fait 4 demi-tons (C–E) ; une tierce mineure, 3 demi-tons (A–C) ; une quinte juste, 7 demi-tons (C–G). Une triade majeure s'écrit 0–4–7 ; une mineure 0–3–7. Quand l'élève maîtrise ces deux formules, il peut trouver seul la plupart des accords de la louange.
 

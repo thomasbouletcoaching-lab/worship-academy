@@ -90,14 +90,14 @@ Joue I – IV – V – I en C majeur puis en G majeur à 80 BPM, en choisissant
 
 ### 🔴 Palier 3 — Virtuose
 
-Joue la progression vi – IV – I – V en C majeur (Am – F – C – G), puis en G majeur (Em – C – G – D), à 96 BPM, en tenant les tons en registre moyen. Ajoute au palier une variante : au deuxième cycle, joue un premier renversement sur l'accord de F (A à la basse, puis F, C au-dessus), en gardant la même qualité de son.
+Joue la progression vi – IV – I – V en C majeur (Am – F – C – G), puis en G majeur (Em – C – G – D), à 96 BPM, en tenant les tons en registre moyen. Ajoute au palier une variante : au deuxième cycle, joue un premier renversement sur l'accord de F (A à la basse, puis C, F au-dessus), en gardant la même qualité de son.
 **Critère de réussite** : seize mesures par tonalité, aucune note de l'accord manquante, et une écoute enregistrée qui permet de reconnaître chaque accord à la première note.
 
 ## 7 · Oreille
 
 Ce qu'il faut entendre : la tierce donne la couleur. Une tierce majeure (E sur C) sonne lumineuse ; une tierce mineure (Eb sur C) sonne sombre. La quinte stabilise l'ensemble ; la fondamentale dit où l'on se trouve.
 
-**Petit test.** Joue C – E – G, puis C – Eb – G. Ferme les yeux : tu dois sentir le passage de « clair » à « sombre » sans voir la touche. Recommence avec Am (A – C – E) puis Dm (D – F – A) : tu dois reconnaître le même schéma, deux tierces mineures ou deux tierces majeures.
+**Petit test.** Joue C – E – G, puis C – Eb – G. Ferme les yeux : tu dois sentir le passage de « clair » à « sombre » sans voir la touche. Recommence avec Am (A – C – E) puis Dm (D – F – A) : tu dois reconnaître le même schéma mineur, tierce mineure en bas (3 demi-tons) et tierce majeure au-dessus (4 demi-tons).
 
 **Deuxième test.** Demande à un ami de jouer, sans que tu voies, l'un des trois accords C, F, G. Tu dois dire la fondamentale à voix haute dans les trois secondes. Si tu te trompes, écoute la basse : elle donne souvent la réponse.
 

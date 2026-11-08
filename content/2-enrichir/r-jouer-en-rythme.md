@@ -48,7 +48,7 @@ Notation : le Do central est C4 (Do central). Notes utilisées : C3 (Do grave), 
 |---|---|---|
 | C3 | MG | 5 |
 | D3 | MG | 5 |
-| A3 | MG | 3 |
+| A3 | MG | 1 |
 | C4 | MD | 1 |
 | E4 | MD | 3 |
 | G4 | MD | 5 |
@@ -58,7 +58,7 @@ Notation : le Do central est C4 (Do central). Notes utilisées : C3 (Do grave), 
 
 Exercice 1, Do majeur (pouls et contretemps) : la MG joue C3 (doigt 5) sur chaque temps, en noires. La MD joue E4 (doigt 3) et G4 (doigt 5) ensemble sur chaque « et » (croches à contretemps). Le pouls est porté par la basse, le contretemps par la main droite. Compte « un-et, deux-et, trois-et, quatre-et ».
 
-Exercice 2, Ré majeur : la MG joue D3 (doigt 5) sur les temps 1 et 3, puis A3 (doigt 3) sur les temps 2 et 4. La MD joue un accord D4-F#4-A4 (1-3-5) sur chaque « et ». Ré majeur est la tonalité plus exigeante : le fa dièse impose un doigté précis, et la basse alterne sur la quinte.
+Exercice 2, Ré majeur : la MG joue D3 (doigt 5) sur les temps 1 et 3, puis A3 (doigt 1) sur les temps 2 et 4. La MD joue un accord D4-F#4-A4 (1-3-5) sur chaque « et ». Ré majeur est la tonalité plus exigeante : le fa dièse impose un doigté précis, et la basse alterne sur la quinte.
 
 La tonalité de référence est Do majeur. C'est elle qui te sert à vérifier que la pulsation est stable : si tu peux jouer l'exercice 1 sans regarder tes mains, ton pouls est installé. Passe ensuite à Ré majeur pour sentir que le geste change sans que le temps ne bouge.
 

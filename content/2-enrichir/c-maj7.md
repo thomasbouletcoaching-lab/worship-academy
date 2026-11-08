@@ -51,7 +51,7 @@ Donc Cmaj7 = C – E – G – B. On recompte depuis B : B vers C au-dessus fait
 | C7 | 7m (Bb) | 10 | tendu, appelle la résolution |
 | Cm7 | 7m (Bb) | 10 | feutré, plus sombre |
 
-**Cas limites.** Le maj7 perd son identité si la basse prend une autre note : un Cmaj7 joué sur une basse de B devient un accord de B, au son bien différent. Il ne faut pas non plus le confondre avec le 6 (C – E – G – A), dont la sixte, à 9 demi-tons, reste plus sereine. Enfin, un Eb dans la main gauche transforme C – E – G – B en C – Eb – G – B, une couleur rare et tendue qu'on évite en louange, sauf intention précise.
+**Cas limites.** Le maj7 perd son identité si la basse prend une autre note : un Cmaj7 joué sur une basse de B devient Cmaj7/B (troisième renversement), au son bien différent, car la septième frotte à la basse. Il ne faut pas non plus le confondre avec le 6 (C – E – G – A), dont la sixte, à 9 demi-tons, reste plus sereine. Enfin, un Eb dans la main gauche transforme C – E – G – B en C – Eb – G – B, une couleur rare et tendue qu'on évite en louange, sauf intention précise.
 
 ## 4 · Au clavier
 
@@ -69,7 +69,7 @@ Le doigté 5 désigne l'auriculaire, le 1 le pouce. En main droite, on compte de
 
 **Exemple 1, en Do majeur (C) : I – IV.** Cmaj7 pendant quatre temps, puis Fmaj7 pendant quatre temps. Les deux accords partagent deux notes, C et E. La main droite peut donc garder la tierce E en place et déplacer le reste de l'accord, ce qui rend l'enchaînement fluide.
 
-**Exemple 2, en Sol majeur (G) : I – IV.** Gmaj7 puis Cmaj7, où Cmaj7 est le IV de la tonalité de Sol. La basse passe de G2 à C3 et la main droite joue les mêmes accords qu'en Do : seule la basse change de place.
+**Exemple 2, en Sol majeur (G) : I – IV.** Gmaj7 puis Cmaj7, où Cmaj7 est le IV de la tonalité de Sol. La basse passe de G2 à C3 et la main droite passe de B3, D4, F#4 à E4, G4, B4 : les deux accords partagent G et B.
 
 **Repère clavier.** C4 est le Do du milieu du piano. C3 se trouve une octave en dessous, et E4, G4, B4 sont tous au-dessus de C4. Garde ces points de repère en tête quand tu cherches les notes.
 
@@ -90,7 +90,7 @@ Le doigté 5 désigne l'auriculaire, le 1 le pouce. En main droite, on compte de
 ### 🟡 Palier 2 — Maîtrise (75 BPM)
 
 - Enchaîne le couple I – IV dans trois tonalités : Do (Cmaj7 vers Fmaj7), Sol (Gmaj7 vers Cmaj7), puis Fa (Fmaj7 vers Bbmaj7). Pour Bbmaj7 : basse Bb2, main droite D4, F4, A4.
-- Dans le couple Fmaj7 et Bbmaj7, les deux accords partagent F et A : garde-les en place, tu n'auras qu'une note à déplacer.
+- Dans le couple Fmaj7 et Bbmaj7, les deux accords partagent F et A : garde-les en place, tu n'auras que deux notes à déplacer (C vers Bb, E vers D).
 - **Critère de réussite** : trois tonalités enchaînées pendant 90 secondes sans arrêt, sans note étrangère et sans que la main droite quitte l'octave centrale.
 
 ### 🔴 Palier 3 — Virtuose (90 BPM)

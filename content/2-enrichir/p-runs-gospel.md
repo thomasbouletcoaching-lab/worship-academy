@@ -32,7 +32,7 @@ Le run gospel est presque toujours un fragment de gamme **pentatonique majeure**
 
 **La pentatonique majeure.** Pour la gamme de Do majeur pentatonique (C, D, E, G, A), calculons les intervalles entre notes successives en demi-tons : C vers D = 2, D vers E = 2, E vers G = 3, G vers A = 2, A vers C = 3. La somme fait 2 + 2 + 3 + 2 + 3 = 12, soit exactement une octave. C'est la signature de la pentatonique : deux tons, une tierce mineure, un ton, une tierce mineure, et jamais de demi-ton. Comme il n'y a aucun demi-ton, il n'y a aucune tension à résoudre, et tout le monde peut jouer par-dessus sans risque.
 
-**La blue note.** La gamme blues de C ajoute à la pentatonique deux notes : la **b3** (Mi bémol, Eb, à 3 demi-tons de C) et la **b5** (Sol bémol, Gb, à 6 demi-tons de C). Vérifions la gamme complète : C (0), Eb (3), F (5), Gb (6), G (7), Bb (10), puis C (12). Les écarts successifs sont 3, 2, 1, 1, 3, 2 ; leur somme fait 12, c'est juste. Le demi-ton entre Gb et G, et surtout le voisinage entre Eb et E (une seule note blanche d'écart, soit un demi-ton), créent ce grain typique du blues et du gospel : on hésite entre la tierce majeure joyeuse et la tierce mineure plaintive.
+**La blue note.** La gamme blues de C (la pentatonique mineure de C, plus la b5) contient deux notes bleues : la **b3** (Mi bémol, Eb, à 3 demi-tons de C) et la **b5** (Sol bémol, Gb, à 6 demi-tons de C). Vérifions la gamme complète : C (0), Eb (3), F (5), Gb (6), G (7), Bb (10), puis C (12). Les écarts successifs sont 3, 2, 1, 1, 3, 2 ; leur somme fait 12, c'est juste. Le demi-ton entre Gb et G, et surtout le voisinage entre Eb et E (deux touches voisines, soit un demi-ton), créent ce grain typique du blues et du gospel : on hésite entre la tierce majeure joyeuse et la tierce mineure plaintive.
 
 **La sixte majeure.** L'accord de C6 se compose de C, E, G et A. Les intervalles sont : C vers E = 4, E vers G = 3, G vers A = 2, A vers C (à l'octave) = 3. Somme 4 + 3 + 2 + 3 = 12. La sixte, qui est à 9 demi-tons de C, donne une couleur lumineuse et « d'église » que les pianistes gospel aiment poser sur leurs chops.
 
@@ -51,7 +51,7 @@ Le run gospel est presque toujours un fragment de gamme **pentatonique majeure**
 | Run montant pentatonique | C4 · D4 · E4 · G4 | 1 · 2 · 3 · 5 | Quatre notes, aucun passage de pouce |
 | Run descendant | G4 · E4 · D4 · C4 | 5 · 3 · 2 · 1 | Retour sur la tonique |
 | Chop C6 | C4 · E4 · G4 · A4 | 1 · 2 · 3 · 5 | Coup court sur le « et » de 2 et de 4 |
-| Tierces parallèles | C4-E4, D4-F4, E4-G4 | 1-3 puis 2-4 | Tierce majeure puis mineure |
+| Tierces parallèles | C4-E4, D4-F4, E4-G4 | 1-3, 2-4, 3-5 | Tierce majeure, puis deux tierces mineures |
 
 | Main gauche | Notes | Doigtés MG | Usage |
 |---|---|---|---|

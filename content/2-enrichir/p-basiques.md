@@ -65,7 +65,7 @@ Tonalité de référence : Do majeur. Le principe est le même que pour les prog
 
 Vérifications des triades : F4 à A4 : 4 demi-tons (tierce majeure) ; A4 à C5 : 3 demi-tons (tierce mineure). G4 à B4 : 4 demi-tons ; B4 à D5 : 3 demi-tons. Les triades sont bien F et G majeurs.
 
-Une note sur la voix du haut : sur la cadence G – C, la note B4 (71) monte vers C5 (72), soit un demi-ton. Joue ce mouvement avec le doigt 1 au-dessus, pour que la résolution soit audible.
+Une note sur la voix du haut : sur la cadence G – C, si tu joues le C final en E4-G4-C5, la note B4 (71) monte vers C5 (72), soit un demi-ton. Joue ce mouvement avec le doigt 5 au-dessus, pour que la résolution soit audible.
 
 **I – IV – V – I en G (Sol) : G – C – D – G**
 

@@ -28,7 +28,7 @@ Aucun n'est meilleur. Un piano acoustique dans une petite salle peut être trop 
 
 ## 3 · Sous le capot
 
-**Le piano acoustique.** Une touche, en s'abaissant, lance un marteau qui frappe une corde. La corde vibre ; sa vibration est transmise à la table d'harmonie, un panneau de bois qui amplifie le son. Une corde vibre en produisant sa fondamentale (la note jouée) et des harmoniques, des multiples de sa fréquence : 2f, 3f, 4f… Les cordes réelles sont légèrement plus tendues que des multiples exacts ; c'est l'inharmonicité, plus marquée dans les graves épais et les aigus fins. C'est une des raisons pour lesquelles un bon piano sonne « vivant ».
+**Le piano acoustique.** Une touche, en s'abaissant, lance un marteau qui frappe une corde. La corde vibre ; sa vibration est transmise à la table d'harmonie, un panneau de bois qui amplifie le son. Une corde vibre en produisant sa fondamentale (la note jouée) et des harmoniques, des multiples de sa fréquence : 2f, 3f, 4f… Sur une corde réelle, ces harmoniques sont légèrement plus hautes que des multiples exacts, à cause de la raideur de l'acier ; c'est l'inharmonicité, plus marquée dans les graves épais et les aigus fins. C'est une des raisons pour lesquelles un bon piano sonne « vivant ».
 
 **Le tempérament égal.** Le piano est accordé en tempérament égal : chaque demi-ton multiplie la fréquence par 2 puissance 1/12, soit environ 1,0595. L'octave (12 demi-tons) double la fréquence. Avec le la 440 comme référence, la (A4) vaut 440 Hz, la (A3) vaut 220 Hz, la (A5) vaut 880 Hz. Un piano standard compte 88 touches, de A0 (27,5 Hz) à C8 (environ 4 186 Hz).
 

@@ -51,14 +51,14 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Trois transition
 | Mesure | Accord | Main gauche | Main droite | Rôle |
 |---|---|---|---|---|
 | 1 | C | C2 (5) | C4 (1), E4 (3), G4 (5) | fin du chant 1 |
-| 2 | Am | A2 (5) | A3 (1), C4 (2), E4 (3) | début du chant 2 |
+| 2 | Am | A2 (5) | A3 (1), C4 (3), E4 (5) | début du chant 2 |
 
-**Transition 2, dominante : C – A7 – D (deux mesures).**
+**Transition 2, dominante : C – A7 – D (trois mesures).**
 
 | Mesure | Accord | Main gauche | Main droite | Rôle |
 |---|---|---|---|---|
 | 1 | C | C2 (5) | C4 (1), E4 (3), G4 (5) | fin du chant 1 |
-| 2 | A7 | A2 (5) | C#4 (2), E4 (3), G4 (4) | dominante de ré, C# annonce |
+| 2 | A7 | A2 (5) | C#4 (1), E4 (3), G4 (5) | dominante de ré, C# annonce |
 | 3 | D | D2 (5) | D4 (1), F#4 (3), A4 (5) | début du chant 2 |
 
 **Transition 3, pivot et dominante : D – Em – D7 – G.**
@@ -70,7 +70,7 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Trois transition
 | 3 | D7 | D2 (5) | D4 (1), F#4 (2), A4 (4), C5 (5) | dominante de sol, F# annonce |
 | 4 | G | G2 (5) | G4 (1), B4 (3), D5 (5) | début du chant 2 |
 
-**Note sur la tonalité de référence.** Les transitions sont données dans des tonalités proches (do, ré, sol) pour faciliter la lecture. Pour refaire la transition 2 en sol majeur, transpose d'une quinte : G devient D, A7 devient E7, D devient A. Vérifie toujours que le pont tient avec la tonalité de départ réelle.
+**Note sur la tonalité de référence.** Les transitions sont données dans des tonalités proches (do, ré, sol) pour faciliter la lecture. Pour refaire la transition 2 en sol majeur, transpose d'une quinte : C devient G, A7 devient E7, D devient A. Vérifie toujours que le pont tient avec la tonalité de départ réelle.
 
 ## 5 · Dans la louange
 
@@ -88,7 +88,7 @@ Ne relie jamais deux chants avec un pont plus long que le temps d'attention de l
 
 **Tempo : 70 BPM.** Joue la transition 1 (C – Am) quatre fois de suite, en tenant chaque accord une mesure. Puis joue la transition 1 à l'envers (Am – C), quatre fois.
 
-**Critère de réussite** : les huit enchaînements sont sans arrêt, la note commune (C-E ou A-C) est tenue lors du passage, et la tonique d'arrivée tombe au premier temps.
+**Critère de réussite** : les huit enchaînements sont sans arrêt, les notes communes (C et E) sont tenues lors du passage, et la tonique d'arrivée tombe au premier temps.
 
 ### 🟡 Palier 2 — Maîtrise
 

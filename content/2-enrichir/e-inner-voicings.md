@@ -46,16 +46,16 @@ Au piano, cela signifie qu'au lieu de plaquer des accords qui sautent de positio
 
 | Accord | Fondamentale (MG) | Notes-guides (MD) | Doigtés MD | Justification |
 |---|---|---|---|---|
-| C7 | C3 (doigt 5) | E4 · B♭4 | 3 · 5 | Tierce et septième, les deux notes qui définissent C7 |
+| C7 | C3 (doigt 5) | E4 · B♭4 | 1 · 4 | Tierce et septième, les deux notes qui définissent C7 |
 | F | F2 (doigt 5) | F4 · A4 | 1 · 3 | Fondamentale et tierce de F, qui reçoivent la résolution |
 
 **Progression C7 vers F.** La voix de E4 monte d'un demi-ton vers F4 (4 vers 5). La voix de B♭4 descend d'un demi-ton vers A4 (10 vers 9). Les deux voix guides se déplacent en un pas. La main gauche passe de C3 à F2, ce qui demande un petit déplacement.
 
 **Progression C vers Am.** Voicing de C : C4 (1), E4 (3), G4 (5). Voicing de Am : A2 (main gauche, doigt 5), puis C4 (1), E4 (3), A4 (5) en main droite. Le C4 et le E4 restent en place, et seule la voix du G4 monte vers A4. Vérification : G (7) vers A (9) = 2 demi-tons, mouvement d'un ton.
 
-**Exemple en Sol majeur (G).** Voicing de D7 (D, F♯, A, C) avec les notes-guides F♯ et C : F♯4 (3) et C5 (5). Résolution vers G (G, B, D) : F♯4 monte vers G4 (1 demi-ton), C5 descend vers B4 (1 demi-ton). Voicing de G : G4 (1), B4 (3), D5 (5). Les notes-guides se déplacent en deux pas courts, et la fondamentale reste en main gauche.
+**Exemple en Sol majeur (G).** Voicing de D7 (D, F♯, A, C) avec les notes-guides F♯ et C : F♯4 (1) et C5 (4). Résolution vers G (G, B, D) : F♯4 monte vers G4 (1 demi-ton), C5 descend vers B4 (1 demi-ton). Voicing de G : G4 (1), B4 (3), D5 (5). Les notes-guides se déplacent en deux pas courts, et la fondamentale reste en main gauche.
 
-**Note sur la tonalité de référence.** En Do majeur, les notes-guides de la dominante (E pour C7, B♭ pour C7) s'organisent naturellement vers F et Am. Entraîne-toi à déplacer une seule voix à la fois avant de faire bouger deux voix ensemble.
+**Note sur la tonalité de référence.** En Do majeur, les notes-guides de la dominante (E et B♭ pour C7) s'organisent naturellement vers F et Am. Entraîne-toi à déplacer une seule voix à la fois avant de faire bouger deux voix ensemble.
 
 **Exercice de conduite des voix.** Joue la progression C – Am – F – G – C avec la main droite sur trois notes à la fois, en gardant une voix intérieure qui bouge au maximum d'un demi-ton ou d'un ton à chaque changement d'accord. La main gauche tient la fondamentale.
 
@@ -90,7 +90,7 @@ Jargon : « voix guide » désigne la note qui définit le caractère d'un accor
 
 ## 7 · Oreille
 
-Ce qu'il faut entendre : la **continuité** des voix intérieures. Joue C majeur puis Am en sautant les voix (C4, E4, G4 puis A3, C5, E5) : l'oreille perçoit un saut. Refais le même passage avec les voix qui se déplacent d'un ton (C4, E4, G4 puis A3, C4, E4) : la progression paraît liée.
+Ce qu'il faut entendre : la **continuité** des voix intérieures. Joue C majeur puis Am en sautant les voix (C4, E4, G4 puis A3, C5, E5) : l'oreille perçoit un saut. Refais le même passage avec une seule voix qui se déplace d'un ton (C4, E4, G4 puis C4, E4, A4) : la progression paraît liée.
 
 **Test à l'oreille.** Demande à un partenaire de jouer deux progressions : l'une avec des voicings à sauts, l'autre avec des inner voicings. Ferme les yeux et désigne la plus fluide. Viser huit bonnes réponses sur dix.
 

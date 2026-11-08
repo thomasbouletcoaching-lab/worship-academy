@@ -66,7 +66,7 @@ Joue chaque accord sur quatre mesures, en diminuant le volume à chaque passage.
 | Am | A2 | 5 | A3 – C4 – E4 | 1 – 3 – 5 |
 | F | F2 | 5 | F3 – A3 – C4 | 1 – 3 – 5 |
 
-**Transposition en G majeur (+7 demi-tons)** : la cène devient G – Em – C – G, avec basses G2, E2, C3, G2 ; l'offrande devient G – D – Em – C, avec basses G2, D2, E2, C3. Le Fa dièse n'apparaît que dans l'accord de D (F#3 dans sa triade, en MD : D3 – F#3 – A3). Il convient de le jouer avec douceur pendant la cène, car il ajoute une couleur un peu plus brillante.
+**Transposition en G majeur (+7 demi-tons)** : la cène devient G – Em – C – G, avec basses G2, E2, C3, G2 ; l'offrande devient G – D – Em – C, avec basses G2, D2, E2, C3. Le Fa dièse n'apparaît que dans l'accord de D (F#3 dans sa triade, en MD : D3 – F#3 – A3). Il convient de le jouer avec douceur pendant l'offrande, car il ajoute une couleur un peu plus brillante.
 
 ## 5 · Dans la louange
 
@@ -85,7 +85,7 @@ Le vocabulaire utile : une *cène* est le repas du Seigneur, un moment de mémoi
 ### 🟢 Palier 1 — Découverte
 
 **Tempo : 60 BPM.** Joue la pédale de C ouvert pendant une prière simulée de deux minutes, avec un silence de dix secondes au milieu.
-**Critère de réussite :** la pédale est tenue sans interruption pendant les deux minutes, et tu arrêtes net au signal du silence.
+**Critère de réussite :** la pédale est tenue sans interruption en dehors du silence, et tu arrêtes net au signal du silence.
 
 ### 🟡 Palier 2 — Maîtrise
 

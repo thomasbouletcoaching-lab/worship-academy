@@ -53,9 +53,9 @@ La quarte juste est consonante en soi, mais elle devient instable quand elle se 
 
 Pour jouer G7 vers C en main droite, pose le pouce sur G4 et le deuxième doigt sur B4. Le F5 demande le cinquième doigt, qu'il faut relever pour aller sur E5. Vérifie que la résolution se fait sans bouger la main.
 
-**Exemple en Sol majeur (G).** La dominante de Sol est D7 (D, F♯, A, C). La tension est F♯ (tierce majeure), la septième est C (septième mineure). Résolution : F♯4 vers G4 (monte d'un demi-ton), C5 vers B4 (descend d'un demi-ton). Doigtés main droite : D4 (1), F♯4 (2), A4 (4), C5 (5). Pour résoudre : G4 (1), B4 (2), D5 (3), G5 (5)…
+**Exemple en Sol majeur (G).** La dominante de Sol est D7 (D, F♯, A, C). La tension est F♯ (tierce majeure), la septième est C (septième mineure). Résolution : F♯4 vers G4 (monte d'un demi-ton), C5 vers B4 (descend d'un demi-ton). Doigtés main droite : D4 (1), F♯4 (2), A4 (4), C5 (5). Pour résoudre : D4 (1), G4 (3), B4 (5) ; D reste, F♯ monte vers G, C descend vers B.
 
-Plus simple : en Sol majeur, le retard se joue avec C sus4 transposé, soit G sus4 = G, C, D. Le C sur le haut descend vers B, la quarte devient tierce : G, C, D vers G, B, D.
+Plus simple : en Sol majeur, le retard se joue avec C sus4 transposé, soit G sus4 = G, C, D. Le C descend vers B, la quarte devient tierce : G, C, D vers G, B, D.
 
 **Note sur la tonalité de référence.** En Do majeur, les deux résolutions à retenir sont B vers C (sensible) et F vers E (septième de dominante, comme dans le retard de C sus4). Ces deux mouvements se font par demi-ton, ce qui les rend très fiables.
 
@@ -79,7 +79,7 @@ Jargon : « sus4 » désigne un accord où la tierce est remplacée par la quart
 ### 🟡 Palier 2 — Maîtrise
 
 - **Tempo** : 72 BPM.
-- **Consigne** : joue G7 puis C en Do majeur, la basse en G2 puis C3 en main gauche, la main droite en G4, B4, D5, F5 puis C4, E4, G4. Répète huit fois, puis fais la même chose en Sol majeur avec D7 puis G.
+- **Consigne** : joue G7 puis C en Do majeur, la basse en G2 puis C3 en main gauche, la main droite en G4, B4, D5, F5 puis G4, C5, E5. Répète huit fois, puis fais la même chose en Sol majeur avec D7 puis G.
 - **Critère de réussite** : huit cadences justes, avec le F descendant vers le E et le B montant vers le C audibles à l'enregistrement.
 
 ### 🔴 Palier 3 — Virtuose

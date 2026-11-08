@@ -32,7 +32,7 @@ L'idée à retenir : toutes les notes que tu connais se séparent par des demi-t
 
 **Définitions précises.** Un **demi-ton** est l'intervalle entre deux touches voisines, blanche ou noire, sans aucune autre touche entre elles. Un **ton** est la somme de deux demi-tons. On compte la distance en demi-tons : c'est le nombre de touches qui séparent les deux notes, en incluant la seconde.
 
-**La suite chromatique.** En partant de C (Do) et en montant touche par touche, on obtient les 13 notes de l'octave (chromatique), soit 12 intervalles de demi-ton :
+**La suite chromatique.** En partant de C (Do) et en montant touche par touche, on obtient 13 touches (les 12 notes de la gamme chromatique, plus l'octave), soit 12 intervalles de demi-ton :
 
 C (0) – C# (1) – D (2) – D# (3) – E (4) – F (5) – F# (6) – G (7) – G# (8) – A (9) – A# (10) – B (11) – C (12).
 
@@ -42,7 +42,7 @@ Chaque nombre entre parenthèses indique le nombre de demi-tons depuis C. Un ton
 
 **Vérification par le calcul.** De C à E : C (0) puis D (2), E (4). Donc 4 demi-tons, soit deux tons. De E à F : 5 − 4 = 1 demi-ton. De F à G : 7 − 5 = 2 demi-tons, un ton. Tous les calculs se font par soustraction des valeurs du tableau ci-dessus. Vérifie toujours deux fois avec le tableau : c'est une erreur fréquente.
 
-**Cas limites.** Un intervalle de 12 demi-tons (C vers C) est l'octave. Un intervalle de 0 demi-ton (C vers C) est l'unisson, c'est-à-dire la même note. Un demi-ton peut aussi s'écrire entre une touche noire et une touche blanche voisines : C# vers D, D vers D# ; dans ce cas, la lettre change mais le nombre de demi-tons reste 1.
+**Cas limites.** Un intervalle de 12 demi-tons (C vers C) est l'octave. Un intervalle de 0 demi-ton (C vers C) est l'unisson, c'est-à-dire la même note. Un demi-ton peut aussi s'écrire entre une touche noire et une touche blanche voisines : C# vers D (la lettre change), D vers D# (la lettre reste) ; dans les deux cas, le nombre de demi-tons reste 1.
 
 ## 4 · Au clavier
 
@@ -53,18 +53,18 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : C majeur, dont toute
 | Position | Note | Demi-tons depuis C4 | Doigté MD indicatif |
 |---|---|---|---|
 | 1 | C4 (Do) | 0 | 1 |
-| 2 | C#4 (Do dièse) | 1 | 2 |
-| 3 | D4 (Ré) | 2 | 3 |
-| 4 | D#4 (Ré dièse) | 3 | 4 |
-| 5 | E4 (Mi) | 4 | 3 |
+| 2 | C#4 (Do dièse) | 1 | 3 |
+| 3 | D4 (Ré) | 2 | 1 |
+| 4 | D#4 (Ré dièse) | 3 | 3 |
+| 5 | E4 (Mi) | 4 | 1 |
 | 6 | F4 (Fa) | 5 | 2 |
 | 7 | F#4 (Fa dièse) | 6 | 3 |
-| 8 | G4 (Sol) | 7 | 4 |
+| 8 | G4 (Sol) | 7 | 1 |
 | 9 | G#4 (Sol dièse) | 8 | 3 |
-| 10 | A4 (La) | 9 | 2 |
+| 10 | A4 (La) | 9 | 1 |
 | 11 | A#4 (La dièse) | 10 | 3 |
-| 12 | B4 (Si) | 11 | 4 |
-| 13 | C5 (Do) | 12 | 5 |
+| 12 | B4 (Si) | 11 | 1 |
+| 13 | C5 (Do) | 12 | 2 |
 
 Les doigtés indiqués sont une suggestion, à ajuster pour que la main reste calme. L'essentiel est de compter les demi-tons.
 
@@ -109,7 +109,7 @@ Astuce : pour t'entraîner, chante la seconde note après avoir entendu la premi
 
 - **Compter le demi-ton entre E et F comme un ton.** Correction : E-F est un seul demi-ton, sans noire entre les deux. Retiens que le trou naturel du clavier se trouve là.
 - **Compter les touches blanches au lieu des demi-tons.** Correction : compte les touches, noires incluses. De C à D, il y a deux demi-tons (C, C#, D), pas un.
-- **Oublier de compter la note de départ.** Correction : de C à D, on compte la distance (2), pas le nombre de touches (3). La formule est : nombre de touches après la départ = nombre de demi-tons.
+- **Compter la note de départ.** Correction : de C à D, on compte la distance (2), pas le nombre de touches (3). La formule est : nombre de touches après la départ = nombre de demi-tons.
 - **Croire qu'un ton fait toujours deux touches blanches.** Correction : un ton peut traverser une noire (C à D) ou non (F# à G# passe par G). Ne t'appuie jamais sur la couleur des touches.
 - **Jouer le demi-ton trop fort.** Correction : un demi-ton se joue avec une douceur particulière, comme un frôlement. Joue légèrement la seconde note pour garder la tension sans la rendre agressive.
 

@@ -34,7 +34,7 @@ Le piano se trouve souvent entre les deux premières : il peut jouer l'harmonie,
 
 ## 3 · Sous le capot
 
-**Les notes-guides.** Toute la richesse harmonique tient dans la tierce et la septième. Prenons la progression ii-V-I en do majeur, la plus utilisée dans la musique de louange moderne :
+**Les notes-guides.** Toute la richesse harmonique tient dans la tierce et la septième. Prenons la progression ii-V-I en do majeur, très utilisée dans la musique de louange moderne :
 
 - Dm7 : **D** (Ré), **F** (Fa), **A** (La), **C** (Do). Intervalles depuis D : tierce mineure (3), quinte (7), septième mineure (10). Soit 0 - 3 - 7 - 10.
 - G7 : **G** (Sol), **B** (Si), **D** (Ré), **F** (Fa). Intervalles depuis G : tierce majeure (4), quinte (7), septième mineure (10). Soit 0 - 4 - 7 - 10.

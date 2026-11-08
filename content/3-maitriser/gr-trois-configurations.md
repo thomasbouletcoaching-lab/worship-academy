@@ -54,7 +54,7 @@ Notation : C4 = do central. Tonalité de référence : **do majeur**. Les exempl
 
 | Configuration (sol majeur) | Main gauche (MG) | Main droite (MD) |
 |---|---|---|
-| Piano seul | G2 + D3 (doigts 5 et 1) | B3 + D4 + G4 (doigts 1, 3, 5) |
+| Piano seul | G2 + D3 (doigts 5 et 1) | B3 + D4 + G4 (doigts 1, 2, 5) |
 | Piano-voix | G2 + D3 (doigts 5 et 1) | B3 + F#4 (doigts 1 et 5) |
 | Groupe | silence (la basse tient G) | B3 + F#4 (doigts 1 et 5) |
 
@@ -76,7 +76,7 @@ Joue la grille de 8 mesures en do majeur (C, Am, F, G, deux mesures par accord) 
 
 ### 🟡 Palier 2 — Maîtrise
 
-Reprends la même grille à **80 BPM** en piano-voix : chante la ligne mélodique à voix haute ou fredonne-la pendant que la MD joue seulement les notes-guides (tierce et septième : E et B sur C, C et A sur Am, A et E sur F, B et F sur G). **Critère de réussite** : sur quatre mesures, au moins une mesure entière sans rien dans la MD, et aucun accord plaqué plus fort que la voix.
+Reprends la même grille à **80 BPM** en piano-voix : chante la ligne mélodique à voix haute ou fredonne-la pendant que la MD joue seulement les notes-guides (tierce et septième : E et B sur C, C et G sur Am, A et E sur F, B et F sur G). **Critère de réussite** : sur quatre mesures, au moins une mesure entière sans rien dans la MD, et aucun accord plaqué plus fort que la voix.
 
 ### 🔴 Palier 3 — Virtuose
 

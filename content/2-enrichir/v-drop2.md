@@ -35,7 +35,7 @@ Une image de la vie quotidienne : une étagère trop serrée, dont on déplace u
 2. Compte les notes depuis la plus aiguë : 1re, 2e, 3e, 4e.
 3. Descends la 2e note d'une octave (12 demi-tons).
 
-**Pourquoi ça marche.** En position serrée, les notes voisines sont à un ton ou un demi-ton de distance : elles se heurtent et le son perd en clarté, surtout dans le médium. En descendant la 2e note, on crée un écart plus grand entre la basse et les notes du haut. C'est la disposition naturelle des chorales à quatre voix (soprano, alto, ténor, basse), des sections de cordes et de nombreux pianistes de jazz.
+**Pourquoi ça marche.** En position serrée, les notes voisines sont à une tierce, parfois à une seconde, de distance : elles se tassent et le son perd en clarté, surtout dans le médium. En descendant la 2e note, on crée un écart plus grand entre la basse et les notes du haut. C'est la disposition naturelle des chorales à quatre voix (soprano, alto, ténor, basse), des sections de cordes et de nombreux pianistes de jazz.
 
 **Vérification sur Cmaj7, deux fois.**
 - Position serrée : C4, E4, G4, B4. Notes en partant du haut : B4 (1re), G4 (2e), E4 (3e), C4 (4e).
@@ -67,7 +67,7 @@ Pour Cmaj7, la main gauche joue C3 (basse) et G3 (la note descendue) ; la main d
 
 **Enchaînement I – vi – IV – V en Do majeur.** Cmaj7 (G3, C4, E4, B4), Am7 (E3, A3, C4, G4), Fmaj7 (C3, F3, A3, E4), G7 (D3, G3, B3, F4). Vérifie les notes communes : C4 est commun entre Cmaj7 et Am7 ; A3 entre Am7 et Fmaj7 ; G3 entre G7 et Cmaj7. Fmaj7 vers G7 ne partage aucune note à la même octave : seule la main gauche change de place.
 
-**Exemple en Sol majeur : I – vi – IV – V.** Gmaj7 (D3, G3, B3, F#4), Em7 (B2, E3, G3, D4) (position serrée E3 G3 B3 D4, drop 2 : B2 E3 G3 D4), Cmaj7 (G3, C4, E4, B4), D7 (A2, D3, F#3, C4) (position serrée D3 F#3 A3 C4, drop 2 : A2 D3 F#3 C4).
+**Exemple en Sol majeur : I – vi – IV – V.** Gmaj7 (D3, G3, B3, F#4), Em7 (B3, E4, G4, D5) (position serrée E4 G4 B4 D5, drop 2 : B3 E4 G4 D5), Cmaj7 (G3, C4, E4, B4), D7 (A3, D4, F#4, C5) (position serrée D4 F#4 A4 C5, drop 2 : A3 D4 F#4 C5). Les notes descendues restent ainsi dans le registre conseillé, au-dessus de E3.
 
 **Repère.** G3 est le Sol une octave sous G4 ; en partant de C4, il se trouve trois touches blanches plus bas (B3, A3, G3). B4 est la touche blanche juste à gauche du Do de l'octave supérieure (C5).
 

@@ -84,7 +84,7 @@ Un premier cas est la prière de repentance. Pendant qu'une assemblée prie en s
 
 Un deuxième cas est l'attente, en tonalité de Sol. Le cluster F#4-G4-A4 est joué en arrière-plan d'une intro, lentement, pendant que le chanteur s'approche du micro. Le frottement de la note F# fait sentir qu'il y a une porte à franchir. Au moment de l'entrée, tu lâches la pédale et tu joues un accord de Sol majeur (G-B-D) qui ouvre le chant.
 
-Un troisième cas concerne l'appel. Sur un passage où l'assemblée est invitée à répondre, tu peux jouer un cluster bref, en huitièmes, pour créer une pulsation sonore. Dans ce cas, réduis-le à deux notes pour que la voix reste lisible.
+Un troisième cas concerne l'appel. Sur un passage où l'assemblée est invitée à répondre, tu peux jouer un cluster bref, en croches, pour créer une pulsation sonore. Dans ce cas, réduis-le à deux notes pour que la voix reste lisible.
 
 Mise en garde : le cluster se fait entendre fort. Il recouvre facilement la voix. Joue-le toujours plus doux que le chant, et garde la mélodie au-dessus de la grappe, jamais au milieu.
 

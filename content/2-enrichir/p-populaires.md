@@ -50,7 +50,7 @@ Cas limite : les mêmes accords peuvent se jouer dans un autre ordre, et sonner 
 
 ## 4 · Au clavier
 
-Tonalité de référence : Do majeur. La main gauche joue la fondamentale, la main droite joue la triade en position serrée, avec un doigté 1-3-5.
+Tonalité de référence : Do majeur. La main gauche joue la fondamentale, la main droite joue la triade en position serrée, avec un doigté 1-3-5 (1-2-5 pour les renversements à tierce en bas).
 
 **I – V – vi – IV en Do : main gauche C3, G2, A2, F2 ; main droite C4-E4-G4, B3-D4-G4, A3-C4-E4, A3-C4-F4**
 
@@ -59,17 +59,17 @@ Tonalité de référence : Do majeur. La main gauche joue la fondamentale, la ma
 | C | MG | C3 (48) | 5 |
 | C | MD | C4 (60), E4 (64), G4 (67) | 1, 3, 5 |
 | G | MG | G2 (43) | 5 |
-| G | MD | B3 (59), D4 (62), G4 (67) | 1, 3, 5 |
+| G | MD | B3 (59), D4 (62), G4 (67) | 1, 2, 5 |
 | Am | MG | A2 (45) | 5 |
 | Am | MD | A3 (57), C4 (60), E4 (64) | 1, 3, 5 |
 | F | MG | F2 (41) | 5 |
-| F | MD | A3 (57), C4 (60), F4 (65) | 1, 3, 5 |
+| F | MD | A3 (57), C4 (60), F4 (65) | 1, 2, 5 |
 
 Vérifications : l'accord de G donné ici (B3, D4, G4) est en position de tierce à la basse. De B3 à D4, 3 demi-tons (tierce mineure) ; de D4 à G4, 5 demi-tons (quarte juste). Les trois notes sont bien G, B et D : c'est un G majeur en renversement. Pour un G majeur, la tierce majeure se trouve entre G et B, soit 4 demi-tons, ce que l'on retrouve en écartant la basse : G à B fait bien 4 demi-tons.
 
-Pour l'accord de F (A3, C4, F4), de A3 à C4, 3 demi-tons (tierce mineure) ; de C4 à F4, 5 demi-tons (quarte juste). La triade est F majeur, en position fondamentale au-dessus.
+Pour l'accord de F (A3, C4, F4), de A3 à C4, 3 demi-tons (tierce mineure) ; de C4 à F4, 5 demi-tons (quarte juste). La triade est F majeur, en premier renversement (tierce A en bas de la main droite).
 
-Les mouvements de voix sont doux. Entre C (C4, E4, G4) et G (B3, D4, G4), la note G4 reste en place, et les deux autres voix descendent d'un demi-ton (C4 vers B3) ou d'un ton (E4 vers D4). Entre G et Am (A3, C4, E4), chaque voix descend d'un ou deux demi-tons. Pour éviter les sauts, garde les notes communes et déplace les autres au plus près.
+Les mouvements de voix sont doux. Entre C (C4, E4, G4) et G (B3, D4, G4), la note G4 reste en place, et les deux autres voix descendent d'un demi-ton (C4 vers B3) ou d'un ton (E4 vers D4). Entre G et Am (A3, C4, E4), chaque voix descend de deux ou trois demi-tons. Pour éviter les sauts, garde les notes communes et déplace les autres au plus près.
 
 **I – V – vi – IV en G (Sol) : G – D – Em – C**
 

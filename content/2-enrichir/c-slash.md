@@ -99,7 +99,7 @@ Le slash est donc une information sur la basse : il dit au pianiste et au bassis
 - **Oublier la basse.** On joue C/E comme un C majeur, sans la note E en basse. **Correction** : pose la note Y dans la main gauche avant de placer le reste de l'accord.
 - **Confondre basse et fondamentale.** Dans Am/G, la fondamentale est A et la basse est G ; on joue G en bas, pas A. **Correction** : compte la fondamentale à partir de la lettre à gauche du slash, la basse à partir de la lettre à droite.
 - **Mal choisir la basse.** Un F/B crée une tension inutile si l'on ne prépare pas la résolution. **Correction** : vérifie l'intervalle entre la basse et la tierce de l'accord avant de jouer.
-- **Basse trop grave ou trop aiguë.** Une basse sous B1 devient floue ; une basse au-dessus de C4 perd son rôle de fondation. **Correction** : reste entre G1 et C4 pour la plupart des slash.
+- **Basse trop grave ou trop aiguë.** Une basse sous G1 devient floue ; une basse au-dessus de C4 perd son rôle de fondation. **Correction** : reste entre G1 et C4 pour la plupart des slash.
 
 ## 9 · Liens
 

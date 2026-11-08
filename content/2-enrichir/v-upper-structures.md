@@ -32,7 +32,7 @@ Le principe est une lecture par intervalles. Une extension se mesure à partir d
 
 Prenons C7 (Do septième de dominante). Il contient C (Do), E (Mi), G (Sol) et Bb (Si bémol). Sa fondamentale est C. Si l'on pose au-dessus la triade de Ré majeur, formée de D (Ré), F# (Fa dièse) et A (La), que se passe-t-il ? D est à 2 demi-tons de C, c'est une neuvième. F# est à 6 demi-tons de C, c'est la onzième augmentée. A est à 9 demi-tons de C, c'est la treizième. La triade de Ré majeur sur une basse de Do dominant donne donc C7(9, #11, 13).
 
-Vérifions les intervalles dans la triade elle-même : D vers F# fait 4 demi-tons (tierce majeure, 62 - 66 = 4), F# vers A fait 3 demi-tons (tierce mineure, 69 - 66 = 3). Confirmé : c'est bien une triade majeure. Et le total, de C à A, vaut 9 demi-tons pour la treizième.
+Vérifions les intervalles dans la triade elle-même : D vers F# fait 4 demi-tons (tierce majeure, 66 - 62 = 4), F# vers A fait 3 demi-tons (tierce mineure, 69 - 66 = 3). Confirmé : c'est bien une triade majeure. Et le total, de C à A, vaut 9 demi-tons pour la treizième.
 
 Deuxième exemple, en tonalité de G (Sol) : G7 contient G (Sol), B (Si), D (Ré) et F (Fa). Posons au-dessus la triade de La majeur (A, C#, E). A est à 2 demi-tons de G, c'est la neuvième. C# est à 6 demi-tons de G, c'est la #11. E est à 9 demi-tons de G, c'est la treizième. Donc G7(9, #11, 13), sans quinte, car la quinte D n'apparaît pas dans la triade : c'est un accord dense où la quinte se laisse deviner.
 
@@ -90,21 +90,21 @@ Critère de réussite : huit mesures sans fausse note, et tu peux nommer les tro
 
 ### 🟡 Palier 2 — Maîtrise
 
-Tempo : 80 BPM. Alterne C7(9, #11, 13) et C(9, 11, 13) sur la basse C3, en remplaçant la triade de Ré majeur par la triade de Ré mineur D4-F4-A4. Deux mesures chacun, quatre fois.
+Tempo : 80 BPM. Alterne C7(9, #11, 13) et C(9, 11, 13) sur la basse C3, en retirant E3 de la MG pour C(9, 11, 13) (il frotterait d'une neuvième mineure contre F4) et en remplaçant la triade de Ré majeur par la triade de Ré mineur D4-F4-A4. Deux mesures chacun, quatre fois.
 
 Critère de réussite : tu entends le passage de la couleur lumineuse (#11) à la couleur suspendue (11) sans que la basse bouge, et la tierce mineure de Dm (F4) est audible.
 
 ### 🔴 Palier 3 — Virtuose
 
-Tempo : 100 BPM. Sur une grille en Do puis en Sol : C7(9, #11, 13) vers C majeur (C4-E4-G4), puis G7(9, #11, 13) vers C majeur à nouveau, avec la triade de La majeur à la MD. Une mesure par accord.
+Tempo : 100 BPM. Sur une grille en Do puis en Sol : C7(9, #11, 13) vers F majeur (C4-F4-A4, basse F2), puis G7(9, #11, 13) vers C majeur (C4-E4-G4), avec la triade de La majeur à la MD. Une mesure par accord.
 
-Critère de réussite : deux minutes sans interruption, la résolution sur C majeur est nette, et la basse G3 ou C3 est tenue par la MG sans trou.
+Critère de réussite : deux minutes sans interruption, les résolutions sur F et sur C majeur sont nettes, et la basse C3 ou G3 est tenue par la MG sans trou.
 
 ## 7 · Oreille
 
 Ce qu'il faut entendre : une structure supérieure sonne riche, mais elle a une couleur de « brillance ». La onzième augmentée (#11) donne un éclat particulier, comme une lumière qui traverse une vitre. Elle se distingue de la onzième juste (11), qui sonne plus doucement, presque plus repos.
 
-Comment l'identifier : joue la basse seule (C3-E3-Bb3, c'est-à-dire un C7), puis ajoute la triade de Ré majeur. Écoute la couleur ajoutée, et demande-toi si le son devient plus brillant ou plus sombre. Puis remplace le Ré majeur par le Ré mineur : la brillance disparaît, la couleur devient plus douce.
+Comment l'identifier : joue la basse seule (C3-E3-Bb3, c'est-à-dire un C7), puis ajoute la triade de Ré majeur. Écoute la couleur ajoutée, et demande-toi si le son devient plus brillant ou plus sombre. Puis remplace le Ré majeur par le Ré mineur, en ne gardant que C3 et Bb3 à gauche (E3 frotterait contre F4) : la brillance disparaît, la couleur devient plus douce.
 
 Petit test : demande à un ami de jouer, sans te prévenir, soit la triade majeure au-dessus de la basse, soit la mineure. Tu réponds « brillant » ou « doux ». Fais dix essais. En cas d'erreur, réécoute la note F# (majeur) puis F (mineur) au-dessus de la basse, et repère la différence d'un demi-ton.
 

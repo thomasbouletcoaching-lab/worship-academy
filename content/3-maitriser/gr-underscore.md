@@ -62,7 +62,7 @@ Vérifie : C3 = 130,8 Hz, C4 = 261,6 Hz, F4 = 349,2 Hz, G4 = 392 Hz, A3 = 220 Hz
 
 Vérifie : G2 = 98 Hz, G3 = 196 Hz, B3 = 246,9 Hz, C4 = 261,6 Hz, D4 = 293,7 Hz, E4 = 329,6 Hz, G4 = 392 Hz. Gsus4 : G, C, D. Em : E, G, B (la pédale sol est la tierce mineure de Em, ici G au-dessus de E). Le dernier accord, do majeur sur pédale sol, est un accord de passage : la basse sol y joue la quinte de do, ce qui allège la couleur et prépare le retour.
 
-**Tonalité de référence.** Dans les deux tonalités, la MG tient une seule note et la MD ne joue que trois notes. Si tu veux un son plus ouvert, déplace la MD d'une octave ; si tu veux plus d'intimité, descends la MD d'une tierce.
+**Tonalité de référence.** Dans les deux tonalités, la MG tient une seule note et la MD ne joue que trois notes. Si tu veux un son plus ouvert, déplace la MD d'une octave ; si tu veux plus d'intimité, ne garde que deux notes de l'accord à la MD (une tierce).
 
 ## 5 · Dans la louange
 
@@ -90,7 +90,7 @@ Joue un underscore complet d'une minute : entrée en pp après la première phra
 
 ## 7 · Oreille
 
-**Ce qu'il faut entendre.** La tenue : la note de la basse reste, elle donne un sol stable à la parole. Le soupir : un accord sus4 qui se résout vers la tierce, comme une respiration. La tension douce : une quinte à vide qui n'indique pas encore le mode.
+**Ce qu'il faut entendre.** La tenue : la note de la basse reste, elle donne un socle stable à la parole. Le soupir : un accord sus4 qui se résout vers la tierce, comme une respiration. La tension douce : une quinte à vide qui n'indique pas encore le mode.
 
 **Test à faire.** Joue un accord de do majeur avec la pédale do (MG) et sans pédale (MG silencieuse). Demande à un partenaire de dire dans quelle version l'accord « tient » mieux. Puis joue Csus4 sans pédale : la plupart des personnes entendent qu'il attend une résolution. Si tu reconnais cette attente à coup sûr, tu entends les accords suspendus.
 

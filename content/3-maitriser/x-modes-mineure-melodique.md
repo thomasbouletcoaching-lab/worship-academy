@@ -42,7 +42,7 @@ Les sept modes se calculent à partir de cette gamme, avec le même principe que
 | Lydien dominant | F (Fa) | F G A B C D Eb | T T T S T S T | 0 2 4 6 7 9 10 | F7 ♯11 (F A C Eb, B) |
 | Mixolydien ♭6 | G (Sol) | G A B C D Eb F | T T S T S T T | 0 2 4 5 7 8 10 | G7 ♭13 (G B D F, Eb) |
 | Locrien ♮2 | A (La) | A B C D Eb F G | T S T S T T T | 0 2 3 5 6 8 10 | Am7 ♭5 9 (A C Eb G, B) |
-| Super-locrien | B (Si) | B C D Eb F G A | S T S T T T T | 0 1 3 4 6 8 10 | Bm7♭5 (B D F A) avec tensions ♭9 (C) et ♭13 (G) |
+| Super-locrien | B (Si) | B C D Eb F G A | S T S T T T T | 0 1 3 4 6 8 10 | B7alt (B D# F A, le D# s'écrivant Eb dans la gamme) avec tensions ♭9 (C), ♯9 (D) et ♭13 (G) |
 
 Chaque ligne de formule se vérifie note à note. Pour le lydien dominant : F → G = 2, G → A = 2, A → B = 2, B → C = 1, C → D = 2, D → Eb = 1, Eb → F = 2. Total : 12. Comme la formule est en demi-tons, tu peux vérifier chaque ligne en comptant les touches noires ; deux touches blanches voisines sans touche noire entre elles forment un demi-ton ; avec une noire entre elles, c'est un ton.
 
@@ -76,7 +76,7 @@ Le pouce passe sous le 3e doigt sur F4, qui est la 4e note de la gamme. Le 4e do
 |---|---|---|---|---|---|---|---|---|
 | Main gauche | 5 | 4 | 3 | 2 | 1 | 3 | 2 | 1 |
 
-Le pouce passe sous le 3e doigt sur A3 ; c'est exactement le même mouvement qu'en main droite, en miroir.
+Le 3e doigt passe par-dessus le pouce sur A3 ; c'est le même mouvement qu'en main droite, en miroir.
 
 ## 5 · Dans la louange
 
@@ -96,11 +96,11 @@ Joue la mineure mélodique sur Do montante puis descendante, une octave, en noir
 
 ### 🟡 Palier 2 — Maîtrise
 
-Joue les modes ♭2, lydien dominant et mixolydien ♭6 sur C (en tonalité de référence Do mineur mélodique), en croches, sur deux octaves, à 84 BPM. Critère : les trois modes sans erreur, avec le pouce passé correctement sur la 4e note, sur trois essais de suite.
+Joue les modes dorien ♭2, lydien dominant et mixolydien ♭6 sur leurs toniques D, F et G (dans la tonalité de référence Do mineur mélodique), en croches, sur deux octaves, à 84 BPM. Critère : les trois modes sans erreur, avec le pouce passé correctement sur la 4e note, sur trois essais de suite.
 
 ### 🔴 Palier 3 — Virtuose
 
-Sur une pédale de Do tenue dans la main gauche, enchaîne le mode ♭2 sur D, le lydien dominant sur F et le mixolydien ♭6 sur G, à 112 BPM, en changeant de mode toutes les quatre mesures. Critère : enregistrement de deux minutes où chaque changement de mode est audible, sans rupture de pulsation, et tu peux nommer le mode après l'avoir écouté.
+Sur une pédale de Do tenue dans la main gauche, enchaîne le mode ♭2 sur D, le lydien dominant sur F et le mixolydien ♭6 sur G, à 96 BPM, en changeant de mode toutes les quatre mesures. Critère : enregistrement de deux minutes où chaque changement de mode est audible, sans rupture de pulsation, et tu peux nommer le mode après l'avoir écouté.
 
 ## 7 · Oreille
 

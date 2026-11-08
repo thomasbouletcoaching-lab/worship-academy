@@ -30,7 +30,7 @@ Le « gospel » ajoute une couleur : l'accord de IV devient parfois mineur (IV m
 
 ## 3 · Sous le capot
 
-**La cadence plagale.** En Do majeur, la cadence plagale est F-C : accord de fa majeur (F-A-C) suivi de l'accord de do majeur (C-E-G). Vérification : F à A = 4 demi-tons, A à C = 3 demi-tons ; C à E = 4, E à G = 3. La fondamentale monte de F à C, soit de 5 demi-tons : c'est une quarte juste vers le haut, ce qui revient à descendre d'une quinte juste (C descend de 7 demi-tons jusqu'à F).
+**La cadence plagale.** En Do majeur, la cadence plagale est F-C : accord de fa majeur (F-A-C) suivi de l'accord de do majeur (C-E-G). Vérification : F à A = 4 demi-tons, A à C = 3 demi-tons ; C à E = 4, E à G = 3. La fondamentale descend de F à C, soit de 5 demi-tons : c'est une quarte juste vers le bas, ce qui revient à monter d'une quinte juste (de F à C au-dessus, 7 demi-tons).
 
 **Le mouvement des voix.** Entre F-A-C et C-E-G, la note C est commune et reste en place. Les deux autres voix bougent par demi-ton ou par ton : A descend vers G (2 demi-tons), F descend vers E (1 demi-ton). Ce mouvement mou et doux est la raison de la paix de la cadence.
 
@@ -96,7 +96,7 @@ Petit test : écoute trois conclusions, la première F-C, la deuxième G-C (parf
 ## 8 · Erreurs fréquentes
 
 - **Jouer F et C comme une cadence parfaite.** On attend une tension qui ne vient pas. Correction : joue le F sans le pousser, et laisse la note C se poser sans accent.
-- **Oublier le La bémol du Fm.** L'accord sonne comme un F majeur, et la teinte disparaît. Correction : vérifie que la tierce est Ab (note noire), et joue-la légèrement plus bas que le La naturel.
+- **Oublier le La bémol du Fm.** L'accord sonne comme un F majeur, et la teinte disparaît. Correction : vérifie que la tierce est Ab (note noire), et joue-la un demi-ton sous le La naturel.
 - **Jouer le bVII trop fort.** L'accord prend toute la place. Correction : joue-le piano, et ne l'accentue que si la voix monte.
 - **Répéter la cadence sans fin.** Le « amen » perd son sens à force d'être répété. Correction : garde la cadence pour la fin d'une phrase, et évite de la jouer en boucle sous une parole.
 

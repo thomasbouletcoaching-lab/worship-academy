@@ -53,15 +53,15 @@ Notation : C4 = do central. Tonalité de référence : **do majeur**. Les exempl
 
 | Accord (do majeur) | Main gauche (MG) | Main droite (MD) | Doigts |
 |---|---|---|---|
-| C ouvert | C2 (Do) + G2 (Sol) | E4 (Mi) + G4 (Sol) + C5 (Do) | MG 5 et 1, MD 1, 3, 5 |
+| C ouvert | C2 (Do) + G2 (Sol) | E4 (Mi) + G4 (Sol) + C5 (Do) | MG 5 et 1, MD 1, 2, 5 |
 | Csus2 ouvert | C2 (Do) + G2 (Sol) | D4 (Ré) + G4 (Sol) + C5 (Do) | MG 5 et 1, MD 1, 3, 5 |
 
 Vérifie : C2 = 65,4 Hz, G2 = 98 Hz (quinte juste), E4 = 329,6 Hz, G4 = 392 Hz, C5 = 523,3 Hz. Csus2 : C, D, G (0 - 2 - 7 demi-tons depuis C). Le sus2 garde une couleur ouverte, sans trancher majeur ou mineur, adaptée à l'attente.
 
 | Accord (sol majeur) | Main gauche (MG) | Main droite (MD) | Doigts |
 |---|---|---|---|
-| G ouvert | G1 (Sol) + D2 (Ré) | B3 (Si) + D4 (Ré) + G4 (Sol) | MG 5 et 1, MD 1, 3, 5 |
-| Gsus4 ouvert | G1 (Sol) + D2 (Ré) | C4 (Do) + D4 (Ré) + G4 (Sol) | MG 5 et 1, MD 1, 3, 5 |
+| G ouvert | G1 (Sol) + D2 (Ré) | B3 (Si) + D4 (Ré) + G4 (Sol) | MG 5 et 1, MD 1, 2, 5 |
+| Gsus4 ouvert | G1 (Sol) + D2 (Ré) | C4 (Do) + D4 (Ré) + G4 (Sol) | MG 5 et 1, MD 1, 2, 5 |
 
 Vérifie : G1 = 49 Hz, D2 = 73,4 Hz, B3 = 246,9 Hz, C4 = 261,6 Hz, D4 = 293,7 Hz, G4 = 392 Hz. Gsus4 : G, C, D (0 - 5 - 7 demi-tons). Dans cette version, la MG descend très bas ; si le son perd de la netteté, monte la MG à G2 + D3.
 

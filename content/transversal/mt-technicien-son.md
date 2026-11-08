@@ -59,7 +59,7 @@ La tonalité de référence de cette fiche est **C (Do) majeur**. L'exercice sui
 
 Joue la progression en trois passages : doux (*piano*), moyen (*mezzo-forte*), franc (*forte*). Le technicien doit voir un niveau stable sur chaque passage, sans pic qui touche le rouge. Si le piano passe du doux au franc et que le niveau monte de plus de 12 dB, il faut une compression ou une dynamique plus contrôlée.
 
-**Transposition en G majeur** : la même progression devient G – C – D – G, avec les notes basses G2, C3, D3, G2. Le Fa dièse de l'accord de D (F#4) est une note à surveiller pour l'égalisation : c'est une fréquence présente dans l'aigu moyen, qui peut devenir agressive si la nappe est forte.
+**Transposition en G majeur** : la même progression devient G – C – D – G, avec les notes basses G2, C3, D3, G2. Le Fa dièse de l'accord de D (F#4) est une note à surveiller pour l'égalisation : c'est une fréquence du médium (environ 370 Hz), qui peut devenir agressive si la nappe est forte.
 
 Vérifie que le technicien entend la même chose dans les deux tonalités. Une tonalité en G peut sonner plus « étroite » si la basse est trop grave ; un écart de cet ordre se corrige par un ajustement de l'égalisation.
 

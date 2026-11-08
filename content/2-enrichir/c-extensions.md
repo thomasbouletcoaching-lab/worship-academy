@@ -60,7 +60,7 @@ Vérification sur Do, deux fois : D est à +14 depuis C (2 + 12), F à +17 (5 + 
 
 **Exemple 1, en Do majeur : Cmaj9 – Fmaj9.** Cmaj9 pendant deux mesures puis Fmaj9 pendant deux mesures. Fmaj9 contient F, A, C, E, G : la neuvième est G, ajoutée à un accord de F maj7. La main droite reste dans un registre resserré, de A3 à G4, pour que la neuvième ne se perde pas.
 
-**Exemple 2, en Sol majeur : Gmaj9 – Cmaj9.** Gmaj9 = G – B – D – F# – A (la neuvième est A). En Sol, l'accord de IV est Cmaj9 ; l'enchaînement reste le même, seule la basse change.
+**Exemple 2, en Sol majeur : Gmaj9 – Cmaj9.** Gmaj9 = G – B – D – F# – A (la neuvième est A). En Sol, l'accord de IV est Cmaj9 ; l'enchaînement I – IV reste le même, transposé une quinte plus haut.
 
 **Repère.** A4 est la touche blanche située un ton au-dessus de G4 ; Bb4 est la touche noire juste au-dessus de A4. Repère-les avant de les jouer ensemble, sinon le C13 devient un bloc dont la septième et la treizième se confondent.
 
@@ -69,7 +69,7 @@ Vérification sur Do, deux fois : D est à +14 depuis C (2 + 12), F à +17 (5 + 
 - **Une couleur de gratitude** : Cmaj9 tenu sous une phrase de remerciement, avec la neuvième qui ouvre le son. L'accord ressemble à un ciel dégagé.
 - **Un refrain de victoire** : C9 ou C13 sur un accord d'intensité, à la place d'une triade simple. La neuvième donne de l'éclat sans fausser la tonalité.
 - **Un passage intime** : Cm11 sous une prière lente, où la onzième ajoute une profondeur et une attente qui se résolvent en une tonique plus claire.
-- **Prudence** : dans un chant simple, huit extensions dans le même accord rendent la musique illisible pour le chanteur. Choisis une seule extension par accord, au maximum deux.
+- **Prudence** : dans un chant simple, trois extensions empilées dans le même accord rendent la musique illisible pour le chanteur. Choisis une seule extension par accord, au maximum deux.
 
 ## 6 · Exercices
 
@@ -92,7 +92,7 @@ Vérification sur Do, deux fois : D est à +14 depuis C (2 + 12), F à +17 (5 + 
 
 - **Ce qu'il faut entendre** : une couleur enrichie, plus riche qu'un accord de quatre notes. La neuvième ajoute une brillance ; la treizième une douceur ; la onzième une profondeur qui cherche la tierce.
 - **Comment l'identifier** : écoute la note la plus aiguë par rapport à la fondamentale. Si elle est à un ton au-dessus de l'octave, c'est une neuvième ; si elle est à une quarte au-dessus de l'octave, une onzième ; si elle est à une sixte au-dessus de l'octave, une treizième.
-- **Petit test** : joue C majeur, puis Cmaj9 (D ajouté). Le premier est une triade, le second brille davantage. Ajoute ensuite F à Cmaj9, sans retirer le D : tu entendras le frottement avec E. C'est la onzième contre la tierce majeure.
+- **Petit test** : joue C majeur, puis Cmaj9 (B et D ajoutés). Le premier est une triade, le second brille davantage. Ajoute ensuite F à Cmaj9, sans retirer le D : tu entendras le frottement avec E. C'est la onzième contre la tierce majeure.
 
 ## 8 · Erreurs fréquentes
 

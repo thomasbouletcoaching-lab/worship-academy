@@ -40,15 +40,15 @@ Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (
 
 **Le mouvement oblique.** Une voix tient sa note, l'autre se déplace. C'est le plus simple et le plus stable.
 
-**Le voice leading minimal.** Entre deux accords, on cherche la solution qui déplace le moins possible les notes. Exemple en C majeur : l'accord de I, C – E – G, puis l'accord de IV, F – A – C. La note C est commune : elle reste sur place. E vers F : un demi-ton vers le haut. G vers A : deux demi-tons vers le haut. Total du déplacement : 0 + 1 + 2 = 3 demi-tons. Vérification : C vers F, la note commune n'est pas un mouvement ; E4 vers F4 = 65 − 64 = 1 ; G4 vers A4 = 69 − 67 = 2 ; somme 3. Les deux calculs concordent.
+**Le voice leading minimal.** Entre deux accords, on cherche la solution qui déplace le moins possible les notes. Exemple en C majeur : l'accord de I, C – E – G, puis l'accord de IV, F – A – C. La note C est commune : elle reste sur place. E vers F : un demi-ton vers le haut. G vers A : deux demi-tons vers le haut. Total du déplacement : 0 + 1 + 2 = 3 demi-tons. Vérification : C reste C, la note commune n'est pas un mouvement ; E4 vers F4 = 65 − 64 = 1 ; G4 vers A4 = 69 − 67 = 2 ; somme 3. Les deux calculs concordent.
 
 **Exemple en G majeur.** L'accord de I, G – B – D, puis l'accord de IV, C – E – G. La note commune est G. Plaçons les voix ainsi : basse G3, voix intermédiaire B3, voix haute D4. Vers C – E – G : la basse reste sur G3 (oblique, le G est commun), B3 vers C4 (+1 demi-ton), D4 vers E4 (+2 demi-tons). Vérification des intervalles avant et après : au départ, basse–voix intermédiaire = G3–B3 = 4 (tierce majeure) ; après, basse–voix intermédiaire = G3–C4 = 5 (quarte juste) ; pas de parallèle de quinte ni d'octave. La basse reste sur la quinte de l'accord de C : c'est un renversement, ce qui est cohérent avec l'idée de la fiche « Renversements ».
 
-**Les cas à éviter.** Les sauts trop grands dans la voix du dessus (plus d'une sixte mineure, environ 8 demi-tons, sauf pour une raison expressive) ; le croisement des voix (la voix basse qui passe au-dessus de la voix haute) ; les unissons inutiles (deux voix sur la même note sans raison).
+**Les cas à éviter.** Les sauts trop grands dans la voix du dessus (plus d'une sixte mineure, soit 8 demi-tons, sauf pour une raison expressive) ; le croisement des voix (la voix basse qui passe au-dessus de la voix haute) ; les unissons inutiles (deux voix sur la même note sans raison).
 
 ## 4 · Au clavier
 
-Notes indiquées avec octave (C4 = Do central). Les accords sont joués en position fermée : trois notes proches, dans un espace d'une octave, avec la note basse à la main gauche.
+Notes indiquées avec octave (C4 = Do central). Les accords sont joués à trois voix, avec la note basse à la main gauche : position ouverte dans l'exemple 1, position fermée (trois notes dans une octave) dans l'exemple 2.
 
 **Exemple 1, en C majeur.** Accord de I : voix haute C5, voix intermédiaire E4 (Mi), basse G3, soit C – E – G. Accord de IV : la voix haute reste sur C5 (note commune), la voix intermédiaire monte de E4 vers F4 (Fa), la basse monte de G3 vers A3 (La), soit F – A – C avec A à la basse, c'est-à-dire le premier renversement de F. Le tableau ci-dessous résume ce mouvement.
 
@@ -83,8 +83,8 @@ Joue, en main droite, l'accord C4 – E4 – G4 puis l'accord C4 – F4 – A4, 
 
 ### 🟡 Palier 2 — Maîtrise
 
-Joue la progression I – IV – V – I en C majeur à 80 BPM, en plaçant les trois voix comme suit : voix haute toujours sur la note la plus aiguë, voix intermédiaire et basse se déplaçant d'un ton maximum entre deux accords. Chaque changement doit comporter au moins une voix tenue.
-**Critère de réussite** : quatre accords, aucun saut de plus de deux demi-tons pour une voix donnée, et au moins une voix commune à chaque transition ; vérifie à l'oreille, en enregistrant.
+Joue la progression I – IV – V – I en C majeur à 80 BPM, en plaçant les trois voix comme suit : voix haute toujours sur la note la plus aiguë, voix intermédiaire et basse se déplaçant d'un ton maximum entre deux accords. Chaque changement doit comporter au moins une voix tenue, sauf IV → V : F et G n'ont aucune note commune, fais-y bouger chaque voix d'un ton au plus (C4 – F4 – A4 vers D4 – G4 – B4).
+**Critère de réussite** : quatre accords, aucun saut de plus de deux demi-tons pour une voix donnée, et au moins une voix commune à chaque transition sauf IV → V ; vérifie à l'oreille, en enregistrant.
 
 ### 🔴 Palier 3 — Virtuose
 

@@ -66,17 +66,17 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Deux exemples : 
 
 | Accord | Main gauche | Main droite | Doigts (MD) |
 |---|---|---|---|
-| Dm7 | D2 | F3, A3, C4 | 1, 2, 3 |
-| G7 | G2 | B3, D4, F4 | 1, 2, 4 |
-| Cmaj7 | C2 | E3, G3, B3 | 1, 2, 3 |
+| Dm7 | D2 | F3, A3, C4 | 1, 3, 5 |
+| G7 | G2 | B3, D4, F4 | 1, 3, 5 |
+| Cmaj7 | C2 | E3, G3, B3 | 1, 3, 5 |
 
 **Exemple 2, ii – V – I en mi bémol (Eb) : Fm7 – Bb7 – Ebmaj7.**
 
 | Accord | Main gauche | Main droite | Doigts (MD) |
 |---|---|---|---|
-| Fm7 | F2 | Ab3, C4, Eb4 | 1, 2, 3 |
-| Bb7 | Bb2 | D3, F3, Ab3 | 1, 2, 4 |
-| Ebmaj7 | Eb2 | G3, Bb3, D4 | 1, 2, 3 |
+| Fm7 | F2 | Ab3, C4, Eb4 | 1, 3, 5 |
+| Bb7 | Bb2 | D3, F3, Ab3 | 1, 3, 5 |
+| Ebmaj7 | Eb2 | G3, Bb3, D4 | 1, 3, 5 |
 
 Lecture : la main gauche joue toujours la fondamentale seule, au doigt 5. La main droite reste en position resserrée, avec les mêmes doigts d'une tonalité à l'autre. Ce qui change, ce sont les notes, pas les gestes.
 

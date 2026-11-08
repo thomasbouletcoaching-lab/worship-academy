@@ -82,19 +82,19 @@ Joue la progression C – F – G – C à la main gauche, à 60 BPM : fondament
 
 ### 🟡 Palier 2 — Maîtrise
 
-Joue I – vi – IV – V en C majeur (C – Am – F – G) à 80 BPM, à la main gauche seule, en croches : fondamentale, quinte, fondamentale, quinte, sur chaque mesure. Enchaîne ensuite avec les accords de G majeur (G – Em – C – D).
+Joue I – vi – IV – V en C majeur (C – Am – F – G) à 80 BPM, à la main gauche seule, en croches : fondamentale, quinte en alternance, huit croches par mesure. Enchaîne ensuite avec les accords de G majeur (G – Em – C – D).
 **Critère de réussite** : seize mesures par tonalité, pulsation régulière en croches, aucune fondamentale manquée, et une écoute enregistrée validée à l'oreille.
 
 ### 🔴 Palier 3 — Virtuose
 
-Joue la progression de douze mesures du palier 2 (I – vi – IV – V) à 96 BPM, à la main gauche, avec des silences sur le temps 2 et le temps 4 pour un effet plus léger. Sur chaque retour à C, alterne fondamentale et octave (C3 puis C4) pour varier la couleur.
+Joue la progression du palier 2 (I – vi – IV – V) à 96 BPM, à la main gauche, avec des silences sur le temps 2 et le temps 4 pour un effet plus léger. Sur chaque retour à C, alterne fondamentale et octave (C3 puis C4) pour varier la couleur.
 **Critère de réussite** : vingt-quatre mesures sans perte de pulsation, silences placés correctement, octaves justes, aucun accord mal identifié.
 
 ## 7 · Oreille
 
 Ce qu'il faut entendre : la basse porte l'accord. Quand la fondamentale change, l'oreille sent un déplacement de la maison. La quinte stabilise sans changer le lieu : elle sonne comme un second pilier de la même maison.
 
-**Petit test.** Joue, à la main gauche, la fondamentale puis la quinte de C (C3, G3), puis celle de F (F2, C3). Ferme les yeux. Tu dois sentir que la basse ne se déplace pas beaucoup : la quinte d'un accord reste proche de la fondamentale du suivant.
+**Petit test.** Joue, à la main gauche, la fondamentale puis la quinte de C (C3, G3), puis celle de F (F2, C3). Ferme les yeux. Tu dois sentir le lien entre les deux : la quinte de F (C3) est la même note que la fondamentale de C.
 
 **Deuxième test.** Fais jouer quelqu'un une progression de deux accords à la main gauche seule. Tu dois nommer les deux fondamentales. Si tu hésites, écoute la note la plus grave : c'est la fondamentale qui donne le nom.
 
@@ -104,7 +104,7 @@ Ce qu'il faut entendre : la basse porte l'accord. Quand la fondamentale change, 
 - **Confondre fondamentale et quinte.** Correction : la fondamentale est la note de nom de l'accord ; la quinte est sept demi-tons plus haut. Vérifie à chaque accord.
 - **Basse irrégulière.** Correction : compte à voix haute, et frappe la fondamentale exactement sur le temps 1. Un décalage de la basse fait tout dériver.
 - **Descendre trop bas.** Correction : évite les notes en dessous de C2 pour un débutant ; la basse devient boueuse et ne s'entend plus.
-- **Oublier la basse pendant une prière.** Correction : une fondamentale tenue sur toute la mesure est déjà une basse complète. Ne la retire pas en prétextant la calme.
+- **Oublier la basse pendant une prière.** Correction : une fondamentale tenue sur toute la mesure est déjà une basse complète. Ne la retire pas en prétextant le calme.
 
 ## 9 · Liens
 

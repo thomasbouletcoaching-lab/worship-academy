@@ -63,7 +63,7 @@ Dans Do majeur, voici les accords : C (I), Dm (ii), Em (iii), F (IV), G (V), Am 
 
 En main gauche, pose la fondamentale de l'accord (C2, F2, G2) sur le temps 1, et laisse la main droite jouer les notes supérieures.
 
-**Progression T–S–D–T en Do majeur.** C (deux temps), F (un temps), G7 (un temps), C (quatre temps). Le passage de G7 vers C utilise le mouvement B4 vers C5 (un demi-ton, montant) et F4 vers E4 (un demi-ton, descendant). C'est le cœur de la cadence parfaite.
+**Progression T–S–D–T en Do majeur.** C (deux temps), F (un temps), G7 (un temps), C (quatre temps). Le passage de G7 vers C utilise le mouvement B3 vers C4 (un demi-ton, montant) et F4 vers E4 (un demi-ton, descendant). C'est le cœur de la cadence parfaite.
 
 **La même progression en Sol majeur (G).** G (T), C (S), D7 (D), G (T). Les notes de D7 sont D4, F♯4, A4, C5. Le mouvement sensible est F♯4 vers G4 (montant) et C5 vers B4 (descendant). Remarque importante : la tonalité de référence est Do, mais la structure fonctionnelle reste identique en Sol, ce qui prouve que la fonction compte plus que la note.
 

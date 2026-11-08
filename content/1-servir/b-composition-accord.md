@@ -32,7 +32,7 @@ Retiens la règle d'or : la fondamentale nomme, la tierce qualifie, la quinte st
 
 **La fondamentale.** C'est la note qui donne son nom à l'accord : C pour un accord de Do, G pour un accord de Sol. Dans un accord en position fondamentale, c'est aussi la note la plus grave. Elle n'est pas forcément la première jouée dans la main : elle est la racine.
 
-**La tierce.** Elle se trouve à une tierce au-dessus de la fondamentale, c'est-à-dire trois ou quatre demi-tons plus haut. Trois demi-tons (tierce mineure) donnent un accord mineur ; quatre demi-tons (tierce majeure) donnent un accord majeur. Une tierce mal orthographiée modifie totalement l'accord : C – E – G se lit Do majeur, C – E – G# ne se lit ni majeur ni mineur, mais augmenté.
+**La tierce.** Elle se trouve à une tierce au-dessus de la fondamentale, c'est-à-dire trois ou quatre demi-tons plus haut. Trois demi-tons (tierce mineure) donnent un accord mineur ; quatre demi-tons (tierce majeure) donnent un accord majeur. Une tierce mal choisie modifie totalement l'accord : C – E – G se lit Do majeur, C – Eb – G se lit Do mineur.
 
 **La quinte.** Elle se trouve sept demi-tons au-dessus de la fondamentale (quinte juste), ou six (quinte diminuée) ou huit (quinte augmentée). La quinte juste est la plus courante. Elle stabilise, elle sonne plein et fort. La quinte diminuée sert aux accords diminués ; la quinte augmentée sert aux accords augmentés.
 
@@ -40,7 +40,7 @@ Retiens la règle d'or : la fondamentale nomme, la tierce qualifie, la quinte st
 
 **La construction par tierces empilées.** Pour construire une triade à partir de sa fondamentale, on empile deux tierces : une tierce de la fondamentale, puis une tierce au-dessus de la tierce. On obtient ainsi trois notes séparées de tierces, d'où le nom de triade (trois notes). C'est la méthode de référence pour toutes les extensions que tu verras plus tard.
 
-**Les noms d'accords.** On note la fondamentale, puis la qualité : C (majeur par défaut), Cm ou Cmin (mineur), C+ ou Caug (augmenté), Cdim ou C° (diminué). Une fondamentale seule peut parfois se lire « C5 » : c'est une quinte juste à vide, sans tierce, donc ni majeure ni mineure.
+**Les noms d'accords.** On note la fondamentale, puis la qualité : C (majeur par défaut), Cm ou Cmin (mineur), C+ ou Caug (augmenté), Cdim ou C° (diminué). Une fondamentale et sa quinte seules peuvent se lire « C5 » : c'est une quinte juste à vide, sans tierce, donc ni majeure ni mineure.
 
 ## 4 · Au clavier
 
@@ -48,7 +48,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : tonalité de C majeu
 
 **Construire C majeur par empilement.** Fondamentale C4 (Do). Tierce : quatre demi-tons plus haut, E4 (Mi). Quinte : sept demi-tons plus haut, G4 (Sol). Résultat : C4 – E4 – G4, en main droite : 1-3-5.
 
-**Construire C mineur.** Fondamentale C4. Tierce : trois demi-tons plus haut, Eb4 (Mi bémol). Quinte : G4. Résultat : C4 – Eb4 – G4, en main droite : 1-3-5. La seule différence avec le majeur est la tierce : une touche noire en moins de distance.
+**Construire C mineur.** Fondamentale C4. Tierce : trois demi-tons plus haut, Eb4 (Mi bémol). Quinte : G4. Résultat : C4 – Eb4 – G4, en main droite : 1-3-5. La seule différence avec le majeur est la tierce : un demi-ton plus bas.
 
 **Dans la tonalité de G majeur.** Fondamentale G3, tierce B3, quinte D4 : G3 – B3 – D4 (accord de Sol majeur). Pour la mineure, G3 – Bb3 – D4 (Sol mineur, avec un Bb hors de la gamme de G majeur). Dans ces deux exemples, la main gauche peut tenir la fondamentale G2 (une octave plus bas), la main droite le reste, pour un accord plus large.
 
@@ -74,7 +74,7 @@ Pendant un appel ou une transition, une tierce qui disparaît crée une incertit
 ### 🟡 Palier 2 — Maîtrise
 
 À 80 BPM, pour une fondamentale donnée au hasard parmi C, D, E, F, G, A, B, construis la triade majeure puis mineure par empilement de tierces, en nommant chaque note à voix haute. Joue ensuite l'accord.
-**Critère de réussite** : quatorze accords construits juste en moins de dix secondes au total, sans erreur de tierce.
+**Critère de réussite** : quatorze accords construits juste, chacun en moins de dix secondes, sans erreur de tierce.
 
 ### 🔴 Palier 3 — Virtuose
 
@@ -93,7 +93,7 @@ Astuce : chante la fondamentale avant d'écouter l'accord. C'est la note de repo
 
 - **Oublier la tierce et ne jouer que fondamentale et quinte.** Correction : si la tierce manque, l'accord n'est ni majeur ni mineur. Ajoute la tierce ou assume explicitement un accord « sans couleur » (et nomme-le ainsi).
 - **Prendre la quinte pour la tierce.** Correction : une tierce est à trois ou quatre demi-tons, une quinte à sept. Compte toujours les demi-tons avant de nommer.
-- **Écrire une tierce mal orthographiée.** Correction : une tierce mineure de C est Eb, pas D#, car une tierce utilise la lettre qui suit celle de la fondamentale (ici E).
+- **Écrire une tierce mal orthographiée.** Correction : une tierce mineure de C est Eb, pas D#, car une tierce utilise la troisième lettre à partir de la fondamentale (C, D, E : ici E).
 - **Confondre fondamentale et basse.** Correction : la fondamentale nomme l'accord, la basse est la note la plus grave jouée. Les deux coïncident en position fondamentale, mais pas en renversement.
 - **Jouer toutes les notes avec la même force.** Correction : la fondamentale doit être posée, la tierce doit ressortir légèrement, la quinte peut rester discrète.
 

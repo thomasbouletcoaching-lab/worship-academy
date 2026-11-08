@@ -51,10 +51,10 @@ Pense aussi à un chœur qui s'appuie sur une voix grave : les basses ne chanten
 
 | Accord | Basse fondamentale | Basse root-quinte | Basse en marche |
 |---|---|---|---|
-| C | C3 | C2, G2 | C3, D3 |
-| Am | A2 | A2, E3 | E3, F3 |
-| F | F2 | F2, C3 | G2, A2 |
-| G | G2 | G2, D3 | A2, B2 |
+| C | C3 | C2, G2 | C3, B2 |
+| Am | A2 | A2, E3 | A2, G2 |
+| F | F2 | F2, C3 | F2, F#2 |
+| G | G2 | G2, D3 | G2, B2 |
 
 Les doigtés pratiques pour la main gauche : pouce (1) sur la note la plus haute de la basse, auriculaire (5) sur la plus grave. Pour une basse root-quinte, le pouce tient la quinte et l'auriculaire la fondamentale : ta main reste ouverte en permanence.
 
@@ -78,7 +78,7 @@ Les doigtés pratiques pour la main gauche : pouce (1) sur la note la plus haute
 ### 🟢 Palier 1 — Découverte (60 BPM)
 
 - Joue la progression C – Am – F – G avec la basse fondamentale, une note par accord, à 60 BPM.
-- **Critère de réussite** : huit mesures sans erreur, en gardant une basse régulière et en changeant de note exactement sur chaque temps.
+- **Critère de réussite** : huit mesures sans erreur, en gardant une basse régulière et en changeant de note exactement sur le temps 1 de chaque mesure.
 
 ### 🟡 Palier 2 — Maîtrise (75 BPM)
 

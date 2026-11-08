@@ -78,7 +78,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : C majeur (tonalité 
 - vi : E4 – G4 – B4
 - vii° : F#4 – A4 – C5
 
-Pour la main gauche, joue la fondamentale une octave plus bas : C2, D2, E2, F2, G2, A2, B2 en C majeur.
+Pour la main gauche, joue la fondamentale deux octaves plus bas : C2, D2, E2, F2, G2, A2, B2 en C majeur.
 
 **Exemple concret : la boucle I – V – vi – IV.** En C majeur : C, G, Am, F. Main droite : C4-E4-G4, puis G4-B4-D5, puis A4-C5-E5, puis F4-A4-C5. Cette boucle est l'une des plus utilisées en louange : elle reprend quatre accords de la famille, sans sortir de la tonalité.
 

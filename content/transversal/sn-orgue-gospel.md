@@ -42,7 +42,7 @@ Un Leslie, enceinte tournante, fait ensuite vivre ce son, en le faisant vibrer p
 
 Vérifie : 1 3/5' correspond bien à 5f, car 5/4 de 4f est une tierce majeure au-dessus de deux octaves. Chaque tirette ajoute donc un son pur à un rang précis d'harmonique : la somme des tirettes dessine le timbre.
 
-**Les presets.** Un preset est un réglage de tirettes mémorisé ou choisi comme point de départ. Un réglage classique de départ est « 888000000 » : les trois premières tirettes (16', 5 1/3', 8') à fond. Il donne une masse pleine, un corps ronde. Ajouter la 4' (la quatrième tirette) ouvre le son et le rend plus brillant. Ces réglages ne sont pas des règles : ils servent de départ pour ton oreille.
+**Les presets.** Un preset est un réglage de tirettes mémorisé ou choisi comme point de départ. Un réglage classique de départ est « 888000000 » : les trois premières tirettes (16', 5 1/3', 8') à fond. Il donne une masse pleine, un corps rond. Ajouter la 4' (la quatrième tirette) ouvre le son et le rend plus brillant. Ces réglages ne sont pas des règles : ils servent de départ pour ton oreille.
 
 **Le Leslie.** Le Leslie fait tourner un haut-parleur (et souvent un pavillon aigu) devant le son. Le mouvement crée un vibrato, un tremolo et une modulation de l'espace stéréo. Il a deux vitesses principales : lente (une lenteur qui ondule doucement, de l'ordre de quelques dizaines de tours par minute) et rapide (un effet très animé, de l'ordre de plusieurs centaines de tours par minute). Passer de l'une à l'autre prend quelques secondes, ce qui permet des montées progressives.
 
@@ -78,7 +78,7 @@ Vérifie : G2 = 98 Hz, D3 = 146,8 Hz, B3 = 246,9 Hz, D4 = 293,7 Hz, G4 = 392 Hz.
 
 **Le refrain qui se lève.** L'assemblée monte. Tu passes le Leslie en vitesse rapide sur quatre mesures, tu actives la percussion sur la première note de chaque mesure, et tu ouvres la tirette 4'. Le son devient une vague qui porte la voix.
 
-**Le shout.** Dans une louange de cri de joie, l'orgue prend le devant : presets pleins, Leslie rapide, percussion sur chaque temps forts. Attention : le shout doit rester un moment, pas une habitude, et la voix doit rester audible.
+**Le shout.** Dans une louange de cri de joie, l'orgue prend le devant : presets pleins, Leslie rapide, percussion sur chaque temps fort. Attention : le shout doit rester un moment, pas une habitude, et la voix doit rester audible.
 
 **Le relâchement.** Après le sommet, tu redescends : tirettes plus basses, Leslie lent, percussion coupée. L'orgue redevient un tapis.
 
@@ -94,7 +94,7 @@ Joue la grille C - Am - F - G à **80 BPM** avec un Leslie lent. Au deuxième to
 
 ### 🔴 Palier 3 — Virtuose
 
-Joue une montée de seize mesures à **84 BPM** : tirettes qui montent progressivement de 4 4 4 à 8 8 8 (un cran de plus sur les trois tirettes toutes les deux mesures), Leslie lent qui devient rapide à la huitième mesure, percussion qui s'active à la douzième. **Critère de réussite** : la courbe de masse et de vitesse est lisse, un enregistrement ne montre aucune crête brutale, et l'auditeur entend un crescendo clair.
+Joue une montée de seize mesures à **84 BPM** : tirettes qui montent progressivement de 4 4 4 à 8 8 8 (un cran de plus sur les trois tirettes toutes les quatre mesures), Leslie lent qui devient rapide à la huitième mesure, percussion qui s'active à la douzième. **Critère de réussite** : la courbe de masse et de vitesse est lisse, un enregistrement ne montre aucune crête brutale, et l'auditeur entend un crescendo clair.
 
 ## 7 · Oreille
 

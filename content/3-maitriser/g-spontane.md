@@ -36,7 +36,7 @@ Le piège est de vouloir « faire quelque chose » en permanence. Un bon spontan
 
 **La pentatonique comme refuge.** La gamme pentatonique majeure de do est C, D, E, G, A : cinq notes, aucun demi-ton. Les demi-tons sont les sources de tension ; sans eux, tout ce que l'on joue est consonant avec un accord de do majeur. Vérification : les intervalles entre notes successives sont 2, 2, 3, 2, 3 demi-tons (C→D = 2, D→E = 2, E→G = 3, G→A = 2, A→C = 3). Aucun n'est un demi-ton.
 
-Sur un accord de La mineur (Am), la pentatonique mineure de La est A, C, D, E, G (la, do, ré, mi, sol). Elle contient la fondamentale A, la tierce mineure C, la quarte D, la quinte E et la septième mineure G, sans la seconde B ni la sixte F#. Cette gamme est donc également sûre sur Am.
+Sur un accord de La mineur (Am), la pentatonique mineure de La est A, C, D, E, G (la, do, ré, mi, sol). Elle contient la fondamentale A, la tierce mineure C, la quarte D, la quinte E et la septième mineure G, sans la seconde B ni la sixte F. Cette gamme est donc également sûre sur Am.
 
 **Le piège du Fa.** Sur C, le F (Fa) est la quarte. Il n'est pas dans la pentatonique de do, et il frotte la tierce E d'un demi-ton. Si la tierce est tenue, le Fa sonne sale. Si l'accord est en Csus4 (C, F, G), en revanche, le Fa devient la note de l'accord, et tout change.
 
@@ -55,10 +55,10 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Deux exemples : 
 | MD | 1 | C4 | point de départ |
 | MD | 2 | D4 | seconde, couleur douce |
 | MD | 3 | E4 | tierce, présence |
-| MD | 5 | G4 | quinte |
-| MD | 1 | A4 | sixte, retour |
+| MD | 4 | G4 | quinte |
+| MD | 5 | A4 | sixte, retour |
 
-Lecture : la main gauche tient C2 sans bouger. La main droite joue une phrase de cinq notes, en descente ou en montée, avec des silences. Le pouce passe sur A4 : on a donc un déplacement de la main vers le haut, avec un retour possible sur C4.
+Lecture : la main gauche tient C2 sans bouger. La main droite joue une phrase de cinq notes, en descente ou en montée, avec des silences. Cinq doigts pour cinq notes : la main reste en place, avec un retour possible sur C4.
 
 **Exemple 2, pentatonique de fa sur F : F – G – A – C – D.**
 
@@ -69,8 +69,8 @@ Lecture : la main gauche tient C2 sans bouger. La main droite joue une phrase de
 | MD | 1 | F4 | point de départ |
 | MD | 2 | G4 | seconde |
 | MD | 3 | A4 | tierce |
-| MD | 5 | C5 | quinte |
-| MD | 1 | D5 | sixte |
+| MD | 4 | C5 | quinte |
+| MD | 5 | D5 | sixte |
 
 Vérification : la pentatonique de fa est exactement celle de do transposée de cinq demi-tons (C devient F, D devient G, E devient A, G devient C, A devient D). Les intervalles sont les mêmes ; seule la tonalité change.
 
@@ -104,7 +104,7 @@ Vérification : la pentatonique de fa est exactement celle de do transposée de 
 
 ### 🔴 Palier 3 — Virtuose
 
-**Tempo : 80 BPM.** Une séquence spontanée de trois minutes : tiens Cadd9 pendant une minute, puis Csus4 pendant une minute (le Fa devient une note d'accord), puis reviens à Cadd9. Écoute une voix imaginaire et répond par une note toutes les deux mesures.
+**Tempo : 80 BPM.** Une séquence spontanée de trois minutes : tiens Cadd9 pendant une minute, puis Csus4 pendant une minute (le Fa devient une note d'accord), puis reviens à Cadd9. Écoute une voix imaginaire et réponds par une note toutes les deux mesures.
 
 **Critère de réussite** : trois minutes sans arrêt, les trois couleurs audibles, aucune note sale sur la tierce E pendant Csus4, et une fin qui revient sur Cadd9 sans rupture.
 

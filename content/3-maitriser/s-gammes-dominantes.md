@@ -36,11 +36,11 @@ Une gamme se décrit par sa formule en demi-tons (H = demi-ton, T = ton). Cinq g
 | Diminuée demi-ton/ton | 1-2-1-2-1-2-1-2 | G Ab Bb B Db D E F | symétrique, mécanique | b9, #9, #11, quinte, 13 |
 | Ton entier | 2-2-2-2-2-2 | G A B Db Eb F | flottante, sans centre | 9, #11, #5 |
 | Mixolydien b9 b13 (phrygien dominant) | 1-3-1-2-1-2-2 | G Ab B C D Eb F | orientale, appel | b9, b13 |
-| Lydien dominant | 2-2-2-1-2-1-2 | G A B Db D E F | lumineuse, ouverte | #11, 13 |
+| Lydien dominant | 2-2-2-1-2-1-2 | G A B C# D E F | lumineuse, ouverte | #11, 13 |
 
 **Vérifications.** Altérée : G→Ab (1), Ab→Bb (2), Bb→B (1), B→Db (2), Db→Eb (2), Eb→F (2), F→G (2), soit 12. Diminuée : 1, 2, 1, 2, 1, 2, 1, 2, soit 12. Ton entier : six tons, soit 12. Phrygien dominant : 1, 3, 1, 2, 1, 2, 2, soit 12. Lydien dominant : 2, 2, 2, 1, 2, 1, 2, soit 12.
 
-**D'où viennent-elles ?** La gamme altérée est le septième mode de la mineure mélodique, un demi-ton au-dessus de la fondamentale : la mineure mélodique de Ab (La♭) donne G altéré. Le phrygien dominant est le cinquième mode de la mineure harmonique de la tonique située une quinte en dessous : la mineure harmonique de C (Do) donne G phrygien dominant (G Ab B C D Eb F). Le lydien dominant est le quatrième mode de la mineure mélodique de Ré (D) : D mélodique mineure donne G lydien dominant (G A B Db D E F). La gamme diminuée demi-ton/ton est symétrique : elle se superpose à elle-même tous les trois demi-tons, ce qui explique son côté mécanique.
+**D'où viennent-elles ?** La gamme altérée est le septième mode de la mineure mélodique, un demi-ton au-dessus de la fondamentale : la mineure mélodique de Ab (La♭) donne G altéré. Le phrygien dominant est le cinquième mode de la mineure harmonique de la tonique située une quinte en dessous : la mineure harmonique de C (Do) donne G phrygien dominant (G Ab B C D Eb F). Le lydien dominant est le quatrième mode de la mineure mélodique de Ré (D) : D mélodique mineure donne G lydien dominant (G A B C# D E F). La gamme diminuée demi-ton/ton est symétrique : elle se superpose à elle-même tous les trois demi-tons, ce qui explique son côté mécanique.
 
 **Ce qui se joue et ce qui se pose.** Le critère n'est pas la gamme mais la note cible. Une note de la gamme qui tombe sur un temps fort doit être une note de l'accord (la tierce, la septième) ou une tension choisie. Les autres notes sont des notes de passage, jouées vite et rarement sur un temps fort. Le ton entier, par exemple, n'a pas de note fondamentale claire : il vaut pour des suspensions, jamais pour une cadence.
 
@@ -104,7 +104,7 @@ Garde en tête que la gamme est une couleur. Dans une cène ou un moment de paro
 
 ## 7 · Oreille
 
-Le ton entier se reconnaît à son absence de centre : on ne sait pas où l'on est, la musique flotte. La diminuée demi-ton/ton se reconnaît à sa répétition régulière, à la manière d'un escalier mécanique. Le phrygien dominant se reconnaît à son accent orientale, avec une seconde mineure bien audible au début. Le lydien dominant sonne lumineux, un peu comme un chœur qui s'ouvre.
+Le ton entier se reconnaît à son absence de centre : on ne sait pas où l'on est, la musique flotte. La diminuée demi-ton/ton se reconnaît à sa répétition régulière, à la manière d'un escalier mécanique. Le phrygien dominant se reconnaît à son accent oriental, avec une seconde mineure bien audible au début. Le lydien dominant sonne lumineux, un peu comme un chœur qui s'ouvre.
 
 Test : demande à quelqu'un de jouer une gamme sur G7 sans la nommer. Tu dois dire si elle flotte (ton entier), sonne mécanique (diminuée), oriente (phrygien) ou brille (lydien). Trois essais sur quatre suffisent.
 

@@ -90,7 +90,7 @@ Retiens : un lick de louange se joue doux, sur une dynamique piano, avec une not
 
 ### 🔴 Palier 3 — Virtuose
 
-**Tempo : 100 BPM.** Enchaîne quatre licks (deux en do majeur, deux en fa majeur, deux en si bémol majeur avec F7 vers Bb) comme une réponse à une phrase chantée imaginaire de huit mesures. Garde une dynamique piano.
+**Tempo : 100 BPM.** Enchaîne quatre licks (deux en do majeur, un en fa majeur, un en si bémol majeur avec F7 vers Bb) comme une réponse à une phrase chantée imaginaire de huit mesures. Garde une dynamique piano.
 
 **Critère de réussite** : seize mesures sans arrêt, quatre licks distincts, un silence d'une mesure entre chaque réponse, et une dynamique qui ne dépasse jamais mezzo-piano.
 

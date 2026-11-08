@@ -34,7 +34,7 @@ Dans une église, cela sert souvent à rendre un refrain connu plus ouvert, ou �
 
 1. **La substitution relative.** Un accord majeur et son relatif mineur partagent deux notes sur trois. C = C E G et Am = A C E partagent C et E. Donc remplacer C par Am, ou Am par C, garde la mélodie en place sur les notes communes.
 2. **La substitution tritonique.** Un accord de dominante G7 (G B D F) peut être remplacé par Db7 (Db F Ab B). Les deux accords sont séparés d'un triton : Db et G sont à six demi-tons l'un de l'autre. Le point essentiel : la tierce B de G7 devient la septième (Cb = B) de Db7, et la septième F de G7 devient la tierce de Db7. Les deux notes-guides changent de rôle mais restent présentes, donc la résolution sur C fonctionne toujours.
-3. **L'accord de passage (walk-up).** Entre deux accords, on glisse une basse chromatique. Entre C et Am, on peut écrire C – C/B – Am : la basse descend de C vers B, puis de B vers A, deux demi-tons successifs. C/B signifie « accord de do majeur joué sur une basse de si ».
+3. **L'accord de passage (walk-up).** Entre deux accords, on glisse une basse chromatique. Entre C et Am, on peut écrire C – C/B – Am : la basse descend de C vers B (un demi-ton), puis de B vers A (un ton). C/B signifie « accord de do majeur joué sur une basse de si ».
 
 **La méthode de vérification.** Pour chaque note de la mélodie, pose trois questions : cette note est-elle un son de l'accord (fondamentale, tierce, quinte, septième) ? Est-elle une tension acceptable (9, 11, 13) et est-elle résolue dans la mesure suivante ? Si la réponse est non deux fois, change l'accord.
 
@@ -53,10 +53,10 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Progression d'or
 | MG | 5 | E2 | fondamentale de E7 |
 | MG | 2 | B2 | quinte de E7, tenue sous la phrase |
 | MD | 1 | G#3 | tierce de E7, pousse vers A |
-| MD | 2 | D4 | septième de E7 |
-| MD | 3 | E4 | note de la mélodie, fondamentale de E7 |
+| MD | 3 | D4 | septième de E7 |
+| MD | 4 | E4 | note de la mélodie, fondamentale de E7 |
 
-Mélodie : la note E4 est la fondamentale de E7 ; tenue, elle devient une tension qui se résout sur Am. Le passage vers Am est une résolution naturelle de G# vers A.
+Mélodie : la note E4 est la fondamentale de E7 ; tenue, elle reste juste sur Am, dont elle est la quinte. Le passage vers Am est une résolution naturelle de G# vers A.
 
 **Version réharmonisée 2 (tritonique) :** C – Am – F – Db7 – C.
 
@@ -71,7 +71,7 @@ Dans cette version, le G7 d'origine devient Db7 : la mélodie B reste sur le mê
 
 **Note sur la tonalité de référence.** Toutes les réharmonisations sont données en do majeur (C). Pour passer en sol majeur (G), transpose l'ensemble d'une quinte : C devient G, Am devient Em, F devient C, G devient D. La substitution tritonique change elle aussi : la dominante de sol est D7, et son triton est Ab7 (Ab C Eb Gb), qui résout sur G. Vérifie chaque substitution à la main, car la transposition ne suffit pas toujours à garder la même couleur.
 
-**Le walk-up en pratique.** La progression C – C/B – Am se joue en trois mesures : la basse C, B, A forme deux demi-tons successifs, et la main droite tient les notes communes (C et E) pendant le mouvement. Le walk-up relie deux accords sans leur donner de nouvelle fonction.
+**Le walk-up en pratique.** La progression C – C/B – Am se joue en trois mesures : la basse C, B, A descend d'un demi-ton puis d'un ton, et la main droite tient les notes communes (C et E) pendant le mouvement. Le walk-up relie deux accords sans leur donner de nouvelle fonction.
 
 ## 5 · Dans la louange
 
@@ -95,7 +95,7 @@ Dans tous les cas, la voix du chanteur est le juge : si la note qu'il tient se m
 
 **Tempo : 80 BPM.** Sur huit mesures : ajoute un V/V (D7) avant le G (Sol), fais descendre la basse par demi-ton entre deux accords (walk-up), et change au plus deux accords sur quatre.
 
-**Critère de réussite** : les quatre mesures réharmonisées ont une cadence claire, la mélodie tombe sur une note de l'accord sur 3 temps forts sur 4, et la basse ne saute pas de plus d'une quinte.
+**Critère de réussite** : les huit mesures réharmonisées ont une cadence claire, la mélodie tombe sur une note de l'accord sur 3 temps forts sur 4, et la basse ne saute pas de plus d'une quinte.
 
 ### 🔴 Palier 3 — Virtuose
 

@@ -39,7 +39,7 @@ La tessiture est le mot clé : c'est la zone de notes où une voix est à l'aise
 | Ténor | do3 à do5 | ré3 à sol4 |
 | Basse | mi2 à mi4 | la2 à ré4 |
 
-Pour une assemblée mixte, la zone la plus fréquente se situe entre ré4 et ré5. Un chant dont la note la plus haute dépasse sol5 ou la note la plus basse descend sous la2 mettra en difficulté une large partie du groupe.
+Pour une assemblée mixte, la zone la plus fréquente se situe entre ré4 et ré5. Un chant dont la note la plus haute dépasse ré5 ou la note la plus basse descend sous la3 mettra en difficulté une large partie du groupe.
 
 **La mesure de l'écart.** Pour une mélodie donnée, on repère la note la plus grave et la note la plus aiguë (dans l'exemple qui suit, do4 et la4). L'écart entre les deux, mesuré en demi-tons, est la largeur mélodique. Par exemple, de do4 à la4, il y a 9 demi-tons : do dièse, ré, ré dièse, mi, fa, fa dièse, sol, sol dièse, la. Vérification : do4 à do#4 = 1, à ré4 = 2, à ré#4 = 3, à mi4 = 4, à fa4 = 5, à fa#4 = 6, à sol4 = 7, à sol#4 = 8, à la4 = 9.
 
@@ -72,7 +72,7 @@ Version 3, montée de deux demi-tons (Ré) : D4 - F#4 - A4 - B4. La note la plus
 | F4 | MD | 3 |
 | G4 | MD | 5 |
 | A4 | MD | 5 |
-| B4 | MD | 3 |
+| B4 | MD | 5 |
 
 Exercice 1, Do majeur (référence) : joue la mélodie de la version 1 à la MD, avec un accompagnement simple à la MG : C3 au premier temps. Vérifie que la mélodie tient dans la zone du chant.
 

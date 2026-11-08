@@ -56,7 +56,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : tonalité de C majeu
 |---|---|---|---|
 | Fondamentale (C) | C4 – E4 – G4 | 1 – 3 – 5 | C4 |
 | Premier renversement (C/E) | E4 – G4 – C5 | 1 – 2 – 5 | E4 |
-| Second renversement (C/G) | G4 – C5 – E5 | 1 – 2 – 4 | G4 |
+| Second renversement (C/G) | G4 – C5 – E5 | 1 – 3 – 5 | G4 |
 
 Ces doigtés sont une proposition, pas une règle absolue. L'essentiel est de garder la main ronde et de ne pas forcer l'écart.
 
@@ -72,7 +72,7 @@ Une progression simple est I – IV – V – I, en C : C – F – G – C. Si 
 
 Pendant une prière, les renversements créent une douceur particulière : la tierce en basse sonne comme une main qui en soutient une autre. Un pianiste qui accompagne la parole, où le silence compte autant que la note, préfère souvent le premier renversement, plus léger.
 
-Le second renversement, lui, sert à créer une tension avant la résolution. Dans une cadence, un accord C/G (sol en basse, C dans l'accord) peut précéder C : la basse qui se pose ensuite sur la fondamentale produit un sentiment de retour, de réponse. Un chant de louange qui se termine sur ce type de cadence paraît conclure avec naturel.
+Le second renversement, lui, sert à créer une tension avant la résolution. Dans une cadence, un accord C/G (sol en basse, C dans l'accord) précède souvent G, puis C : la basse G, tenue sous les deux premiers accords, qui se pose ensuite sur la fondamentale C produit un sentiment de retour, de réponse. Un chant de louange qui se termine sur ce type de cadence paraît conclure avec naturel.
 
 ## 6 · Exercices
 
@@ -83,7 +83,7 @@ Le second renversement, lui, sert à créer une tension avant la résolution. Da
 
 ### 🟡 Palier 2 — Maîtrise
 
-À 80 BPM, joue la progression C – F – G – C en fondamentale, puis en renversements choisis pour que la basse monte par degrés (C – C/E – F – G ; F – F/A – G – G/B – C).
+À 80 BPM, joue la progression C – F – G – C en fondamentale, puis en renversements choisis pour que la basse monte par petits intervalles, une tierce au maximum (C – C/E – F – G ; C/E – F – G – G/B – C).
 **Critère de réussite** : deux progressions jouées sans rupture de basse, chaque renversement justifié à voix haute (basse et intervalle).
 
 ### 🔴 Palier 3 — Virtuose

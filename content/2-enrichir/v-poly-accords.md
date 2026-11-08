@@ -92,7 +92,7 @@ Critère de réussite : huit mesures sans fausse note, et tu peux nommer le dess
 
 ### 🟡 Palier 2 — Maîtrise
 
-Tempo : 80 BPM. Joue D/G en Sol (MG G2-B2-D3, MD D4-F#4-A4), puis enchaîne avec la tonique de Sol (G3-B3-D4 à la MG, G4-B4-D5 à la MD). Deux mesures chacun.
+Tempo : 80 BPM. Joue D/G en Sol (MG G2-B2-D3, MD D4-F#4-A4), puis enchaîne avec la tonique de Sol (G2-B2-D3 à la MG, G4-B4-D5 à la MD). Deux mesures chacun.
 
 Critère de réussite : la transition de Gmaj9 vers la tonique de Sol est audible, la MG tient la fondamentale G sans changement, et la différence entre les deux couleurs est reconnaissable.
 

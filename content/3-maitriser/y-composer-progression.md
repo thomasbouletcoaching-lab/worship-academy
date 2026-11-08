@@ -38,7 +38,7 @@ Le pianiste de louange n'invente pas la route à chaque fois. Il connaît quelqu
 
 Une progression sonne juste quand elle suit cette logique : T → SD → D → T, avec des variations. Le mouvement classique est I – IV – V – I ; le mouvement intime est I – vi – IV – V.
 
-**Le rythme harmonique.** C'est la vitesse à laquelle les accords changent. Un accord par deux temps donne un mouvement calme ; un accord par mesure donne un mouvement plus franc ; deux accords par mesure donne une urgence. Pour une prière, prends un accord par deux ou quatre temps. Pour un élan, un accord par mesure.
+**Le rythme harmonique.** C'est la vitesse à laquelle les accords changent. Un accord toutes les deux mesures donne un mouvement calme ; un accord par mesure donne un mouvement plus franc ; deux accords par mesure (un par deux temps) donnent une urgence. Pour une prière, prends un accord par mesure ou toutes les deux mesures. Pour un élan, un accord par mesure.
 
 **La cadence.** Une progression se ferme sur une cadence. La cadence parfaite est V – I (G – C) : la dominante résout sur la tonique. La cadence plagale est IV – I (F – C). La cadence rompue est V – vi (G – Am) : on attend la tonique, mais on arrive ailleurs, ce qui crée une surprise.
 
@@ -52,9 +52,9 @@ Une progression sonne juste quand elle suit cette logique : T → SD → D → T
 
 **Les progressions types, en do majeur.** Voici quatre chemins, chacun associé à une émotion.
 
-- **Intimité** : C – Am – F – G (I – vi – IV – V), un accord par deux temps, la basse qui descend par tierces.
+- **Intimité** : C – Am – F – G (I – vi – IV – V), un accord toutes les deux mesures, la basse qui descend par tierces.
 - **Victoire** : C – F – G – C (I – IV – V – I), un accord par mesure, cadences franches.
-- **Repentance** : Am – F – Dm – E7 – Am (vi – IV – ii – V7 – vi), la mineure domine ; le E7 pousse vers Am, avec la tension du G# (Sol♯).
+- **Repentance** : Am – F – Dm – E7 – Am (vi – IV – ii – V7/vi – vi), la mineure domine ; le E7 pousse vers Am, avec la tension du G# (Sol♯).
 - **Gratitude** : F – C/E – Dm – G (IV – I/E – ii – V), une basse qui descend de F vers E, puis une montée douce vers G.
 
 **La progression d'attente.** Am – Em – F – G (vi – iii – IV – V) laisse la dernière mesure sur G sans résoudre sur C. C'est le principe de l'attente : la progression est volontairement ouverte, et le pianiste reste sur le V jusqu'au signal.
@@ -75,7 +75,7 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Trois progressio
 
 ## 5 · Dans la louange
 
-**Un chant d'intimité.** Pour une prière du soir, la progression I – vi – IV – V, un accord par deux temps, laisse la voix respirer. Le pianiste joue doux, la basse tient les mouvements.
+**Un chant d'intimité.** Pour une prière du soir, la progression I – vi – IV – V, un accord toutes les deux mesures, laisse la voix respirer. Le pianiste joue doux, la basse tient les mouvements.
 
 **Un chant de victoire.** Pour un refrain d'élan, I – IV – V – I, un accord par mesure, avec la cadence V – I bien audible. C'est une progression qui se chante debout, avec l'assemblée.
 
@@ -89,7 +89,7 @@ Choisir sa progression, c'est aussi tenir compte de la voix : si le chanteur n'a
 
 ### 🟢 Palier 1 — Découverte
 
-**Tempo : 70 BPM.** Joue les quatre progressions types en do majeur (intimité, victoire, repentance, gratitude), chacune quatre fois, avec un accord par deux temps pour l'intimité et un accord par mesure pour la victoire.
+**Tempo : 70 BPM.** Joue les quatre progressions types en do majeur (intimité, victoire, repentance, gratitude), chacune quatre fois, avec un accord toutes les deux mesures pour l'intimité et un accord par mesure pour la victoire.
 
 **Critère de réussite** : les quatre progressions sont jouées sans arrêt, chacune se termine par une cadence claire, et tu peux nommer la fonction de chaque accord (T, SD, D).
 

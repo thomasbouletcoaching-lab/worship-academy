@@ -55,7 +55,7 @@ Notation : le Do central est C4 (Do central). Notes utilisées : C3 (Do grave), 
 | C | C3 (5) | C4-E4-G4 | 1-3-5 |
 | C#dim7 | C#3 (5) | E4-G4-Bb4 | 2-3-5 |
 | Dm | D3 (5) | D4-F4-A4 | 1-3-5 |
-| C/E | E2 (5) | E4-G4-C5 | 1-3-5 |
+| C/E | E2 (5) | E4-G4-C5 | 1-2-5 |
 | F | F2 (5) | F4-A4-C5 | 1-3-5 |
 | G (Sol) | G2 (5) | G4-B4-D5 | 1-3-5 |
 | G/B (Sol) | B2 (5) | D4-G4-B4 | 1-3-5 |
@@ -80,7 +80,7 @@ Dans un temps spontané, un walk-up peut servir de fil conducteur : le pianiste 
 
 ### 🟢 Palier 1 — Découverte
 
-Joue la forme par inversion C - C/E - F à 66 BPM, en 4/4, sur huit mesures, avec la basse MG exacte (C3, E2, F2). Critère : la basse monte nettement de C à E, puis de E à F, sans bruit parasite, sur huit mesures d'affilée.
+Joue la forme par inversion C - C/E - F à 66 BPM, en 4/4, sur huit mesures, avec la basse MG exacte (C2, E2, F2). Critère : la basse monte nettement de C à E, puis de E à F, sans bruit parasite, sur huit mesures d'affilée.
 
 ### 🟡 Palier 2 — Maîtrise
 

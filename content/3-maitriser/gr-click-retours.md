@@ -63,7 +63,7 @@ Vérifie : C4 = 261,6 Hz, E4 = 329,6 Hz, G4 = 392 Hz. De C4 à G4, on compte 7 d
 
 Vérifie : G3 = 196 Hz, B3 = 246,9 Hz, D4 = 293,7 Hz. Les intervalles G-B (tierce majeure : 4 demi-tons) et B-D (tierce mineure : 3 demi-tons) s'enchaînent bien dans l'arpège.
 
-**Régler un delay au tempo.** Si ton delay doit suivre le click à 72 BPM, une noire dure 833 ms. Une croche pointée (3/4 de noire) dure 625 ms. Règle le delay sur ces valeurs pour que chaque écho tombe sur le temps.
+**Régler un delay au tempo.** Si ton delay doit suivre le click à 72 BPM, une noire dure 833 ms. Une croche pointée (3/4 de noire) dure 625 ms. Règle le delay sur ces valeurs pour que chaque écho reste calé sur la grille du tempo (sur le temps avec la noire, en décalé avec la croche pointée).
 
 ## 5 · Dans la louange
 
@@ -91,7 +91,7 @@ Joue une piste de nappe qui passe de **90 à 96 BPM** au fil de huit mesures, en
 
 **Ce qu'il faut entendre.** La dérive : le click reste constant, mais tu te mets à le devancer ou à le suivre à retardement. Tu entends aussi le « flou » d'un son retardé : ton propre jeu sonne en décalage par rapport au click, comme un écho proche.
 
-**Test à faire.** Enregistre-toi en jouant un accord par mesure sur un click à 80 BPM pendant seize mesures, puis réécoute en même temps que le click. Compte combien d'accords sont en avance ou en retard. Si l'écart dépasse une croche, travaille la palier 1 avant de continuer.
+**Test à faire.** Enregistre-toi en jouant un accord par mesure sur un click à 80 BPM pendant seize mesures, puis réécoute en même temps que le click. Compte combien d'accords sont en avance ou en retard. Si l'écart dépasse une croche, travaille le palier 1 avant de continuer.
 
 ## 8 · Erreurs fréquentes
 

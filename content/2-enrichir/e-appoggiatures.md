@@ -32,7 +32,7 @@ Le mot vient de l'italien « appoggiare », qui signifie « s'appuyer ». La not
 
 **Vérifions par les intervalles.** Dans Do majeur, prenons l'accord de C (C, E, G). La note D est à 2 demi-tons au-dessus de C : c'est une seconde majeure, une neuvième par rapport à la fondamentale. Elle n'appartient pas à l'accord de C majeur. Placée sur un temps fort, elle devient une appoggiature. Elle se résout vers C en descendant d'un ton : D (2) vers C (0) = −2 demi-tons, degré conjoint.
 
-**Le retard, cousin de l'appoggiature.** Un retard (vu dans la fiche sur la résolution) est une note de l'accord précédent qui reste pendant le nouvel accord, puis descend. Il diffère de l'appoggiature par son origine : la note retardée est une note commune, alors que l'appoggiature est une note étrangère au nouvel accord.
+**Le retard, cousin de l'appoggiature.** Un retard (vu dans la fiche sur la résolution) est une note de l'accord précédent qui reste pendant le nouvel accord, puis descend. Il diffère de l'appoggiature par son origine : la note retardée est préparée (elle sonnait déjà dans l'accord précédent), alors que l'appoggiature arrive sans préparation, directement sur le temps fort.
 
 **L'appoggiature de degré montant.** Il existe aussi des appoggiatures qui montent, mais elles sont plus rares. Le mouvement le plus naturel reste la descente, car la tension se détend en allant vers le bas.
 
@@ -44,12 +44,12 @@ Le mot vient de l'italien « appoggiare », qui signifie « s'appuyer ». La not
 
 **Tonalité de référence : Do majeur (C).** Lettres anglo-saxonnes, C4 = Do central.
 
-**Appoggiature de base.** Accord de C tenu à la main gauche (C3, avec le doigt 5) et à la main droite (C4 doigt 1, E4 doigt 3, G4 doigt 5). Sur le temps 1, joue D5 avec le doigt 2 de la main droite, en appoggiature, puis relâche sur C5 avec le doigt 1 (ou relâche sur C4 à l'octave). Le mouvement D5 vers C5 descend d'un ton.
+**Appoggiature de base.** Accord de C tenu à la main gauche (C3, avec le doigt 5) et à la main droite (E4 doigt 1, G4 doigt 2). Sur le temps 1, joue D5 avec le doigt 5 de la main droite, en appoggiature, puis relâche sur C5 avec le doigt 4. Le mouvement D5 vers C5 descend d'un ton.
 
 | Étape | Note | Doigt MD | Durée |
 |---|---|---|---|
-| 1 | D5 (appoggiature) | 2 | environ la moitié de la valeur |
-| 2 | C5 (note de l'accord) | 1 | le reste de la valeur |
+| 1 | D5 (appoggiature) | 5 | environ la moitié de la valeur |
+| 2 | C5 (note de l'accord) | 4 | le reste de la valeur |
 
 **Exemple en Sol majeur (G).** Accord de G (G, B, D). L'appoggiature est A4, à 2 demi-tons au-dessus de G (sa neuvième). Elle se résout vers G4 par degré conjoint descendant. Doigts : A4 avec le doigt 2, puis G4 avec le doigt 1. Le mouvement dure un ton.
 

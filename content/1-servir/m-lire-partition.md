@@ -63,7 +63,7 @@ Les notes sont indiquées avec octave (C4 = Do central). Tableau de correspondan
 
 Vérification des intervalles de la colonne : de C4 à E4 = 4 demi-tons (tierce majeure), de C4 à G4 = 7 (quinte juste), de E4 à G4 = 3 (tierce mineure), de G4 à B4 = 4 (tierce majeure). Deuxième vérification par addition : 4 + 3 = 7 entre C4 et G4 ; le tableau est cohérent.
 
-**Exemple en C majeur.** Une mélodie de quatre notes écrites sur des lignes et espaces : E4, G4, C5, A4. Lis-les sans regarder le clavier : le E4 sur la première ligne, le G4 sur la deuxième, le C5 dans l'espace supérieur, le A4 dans l'espace central. Joue-les ensuite à la main droite, en vérifiant chaque intervalle (E4 – G4 = 3 demi-tons, G4 – C5 = 5, C5 – A4 = 3).
+**Exemple en C majeur.** Une mélodie de quatre notes écrites sur des lignes et espaces : E4, G4, C5, A4. Lis-les sans regarder le clavier : le E4 sur la première ligne, le G4 sur la deuxième, le C5 dans le troisième espace, le A4 dans le deuxième espace. Joue-les ensuite à la main droite, en vérifiant chaque intervalle (E4 – G4 = 3 demi-tons, G4 – C5 = 5, C5 – A4 = 3).
 
 **Exemple en G majeur.** Même principe, avec une armure à un dièse : chaque F devient F#. Une mélodie simple G4, B4, A4, F#4, G4 se lit avec le dièse placé sur la ligne du Fa et sur chaque F rencontré.
 
