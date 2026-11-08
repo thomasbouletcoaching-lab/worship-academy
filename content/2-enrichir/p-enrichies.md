@@ -44,7 +44,7 @@ Cas limite : une septième ajoutée à un accord qui a déjà une couleur forte 
 
 Pour la tonalité de Sol majeur, la version enrichie du I – vi – ii – V est Gmaj7 – Em7 – Am7 – D7. Vérifions : Gmaj7 contient G, B, D, F# (F# = septième majeure, 11 demi-tons au-dessus de G). Em7 contient E, G, B, D (E vers D, 10 demi-tons). Am7 contient A, C, E, G. D7 contient D, F#, A, C : de D à F#, 4 demi-tons ; de D à C, 10 demi-tons (septième mineure, donc dominante). Confirmé.
 
-Une dernière variante, en Fa majeur : Fmaj7 – Dm7 – Gm7 – C7. Fmaj7 contient F, A, C, E (E est la septième majeure, 11 demi-tons au-dessus de F). Gm7 contient G, Bb, D, F. C7 contient C, E, G, Bb. La progression de Fa en I – vi – ii – V est donc Fmaj7 – Dm7 – Gm7 – C7.
+Une dernière variante, en Fa majeur, donne Fmaj7 – Dm7 – Gm7 – C7 : la même logique, dans une autre tonalité.
 
 ## 4 · Au clavier
 
@@ -76,22 +76,7 @@ Vérifications : Cmaj7 : MD E4-G4-B4 forme une tierce mineure (E-G, 3 demi-tons)
 | Dm7 | MG | D3 (50) | 5 |
 | Dm7 | MD | F4 (65), A4 (69), C5 (72) | 1, 3, 5 |
 
-Vérifications de C#dim7 : C#3 (49) à E4 (64) ; E4 (64) à G4 (67) = 3 ; G4 à Bb4 (70) = 3 ; la note Bb4 au-dessus de C#3 forme un triton-diminué. L'accord est juste. La note C#3 monte d'un demi-ton vers D3.
-
-**Fmaj7 – Dm7 – Gm7 – C7 (I – vi – ii – V en Fa)**
-
-| Accord | Main | Notes | Doigts |
-|---|---|---|---|
-| Fmaj7 | MG | F3 (53) | 5 |
-| Fmaj7 | MD | A4 (69), C5 (72), E5 (76) | 1, 3, 5 |
-| Dm7 | MG | D3 (50) | 5 |
-| Dm7 | MD | F4 (65), A4 (69), C5 (72) | 1, 3, 5 |
-| Gm7 | MG | G2 (43) | 5 |
-| Gm7 | MD | Bb4 (70), D5 (74), F5 (77) | 1, 3, 5 |
-| C7 | MG | C3 (48) | 5 |
-| C7 | MD | E4 (64), G4 (67), Bb4 (70) | 1, 3, 5 |
-
-Vérifications : Fmaj7 : A4 à C5 (3), C5 à E5 (4), avec F3 : F, A, C, E. Gm7 : Bb4 à D5 (4), D5 à F5 (3), avec G2 : G, Bb, D, F. C7 : E4 à G4 (3), G4 à Bb4 (3), avec C3 : C, E, G, Bb, septième de dominante.
+Vérifications de C#dim7 : C#3 (49) à E4 (64) ; E4 (64) à G4 (67) = 3 ; G4 à Bb4 (70) = 3 ; de C#3 à Bb4 la distance réduite à l'octave est de 9 demi-tons, une septième diminuée, ce qui confirme la structure de l'accord. La note C#3 monte d'un demi-ton vers D3.
 
 **Gmaj7 – Em7 – Am7 – D7 (I – vi – ii – V en Sol)**
 
@@ -116,7 +101,6 @@ Le passage chromatique C#dim7 est très utile pour une montée vers un refrain. 
 
 La version en Sol, Gmaj7 – Em7 – Am7 – D7, convient à un moment de gratitude. Elle est lumineuse, elle ouvre la voix, et la dominante D7 pousse vers le retour à Gmaj7, qui sonne comme une action de grâce.
 
-Pour une prière en Fa, Fmaj7 – Dm7 – Gm7 – C7 sert une progression lente : on pose la maison (Fmaj7), on s'éloigne (Dm7), on s'approche du V (Gm7, C7), puis on revient. C'est un parcours clair pour une assemblée qui prie sans texte imprimé.
 
 ## 6 · Exercices
 
@@ -134,7 +118,7 @@ Critère de réussite : le passage chromatique est nettement audible, la note C#
 
 ### 🔴 Palier 3 — Virtuose
 
-Tempo : 100 BPM. Enchaîne deux progressions : Fmaj7 – Dm7 – Gm7 – C7 en Fa, puis Gmaj7 – Em7 – Am7 – D7 en Sol. Chaque accord est tenu une mesure, la basse en MG suit les fondamentales (F, D, G, C, puis G, E, A, D).
+Tempo : 100 BPM. Enchaîne Cmaj7 – C#dim7 – Dm7 – G7 en Do, puis Gmaj7 – Em7 – Am7 – D7 en Sol. Chaque accord est tenu une mesure, la basse en MG suit les fondamentales (C, C#, D, G, puis G, E, A, D).
 
 Critère de réussite : deux minutes sans arrêt, les quatre notes de chaque accord sont audibles, et une personne qui n'écoute que la basse reconnaît les deux suites.
 

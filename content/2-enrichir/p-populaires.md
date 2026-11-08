@@ -14,7 +14,7 @@ tempo_cible: "60-100 BPM"
 duree_min: 25
 ---
 
-> **Niveau** : 2 · Intermédiaire · **Catégorie** : Accords · **Module** : M10 · **Prérequis** : Degrés de la gamme, Relation gamme-accords
+> **Niveau** : 2 · Intermédiaire · **Catégorie** : Accords · **Module** : M10 · **Prérequis** : Les degrés de la gamme et leurs fonctions, Relation gamme-accords : quel accord sur chaque degré
 
 ## 1 · L'idée en une phrase
 
@@ -125,5 +125,5 @@ Petit test : demande à un ami de jouer une des quatre progressions, sans te pr�
 
 ## 9 · Liens
 
-- Avant : Degrés de la gamme ; Relation gamme-accords ; Les 4 accords de la louange (I–V–vi–IV)
+- Avant : Les degrés de la gamme et leurs fonctions ; Relation gamme-accords : quel accord sur chaque degré ; Les 4 accords de la louange (I–V–vi–IV)
 - Ensuite : Progressions de base ; Progressions enrichies

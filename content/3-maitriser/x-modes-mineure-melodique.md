@@ -90,11 +90,17 @@ Pour un accompagnement de parole, évite d'utiliser un mode complet sous une voi
 
 ## 6 · Exercices
 
-**🟢 Palier 1 — Découverte.** Joue la mineure mélodique sur Do montante puis descendante, une octave, en noires, à 60 BPM. Au moment de la descente, reviens sans erreur à la mineure naturelle (C Bb Ab G F Eb D C), donc sans A ni B. Critère : une montée et une descente parfaites, trois fois de suite, sans hésitation sur le Eb ni sur le Bb.
+### 🟢 Palier 1 — Découverte
 
-**🟡 Palier 2 — Maîtrise.** Joue les modes ♭2, lydien dominant et mixolydien ♭6 sur C (en tonalité de référence Do mineur mélodique), en croches, sur deux octaves, à 84 BPM. Critère : les trois modes sans erreur, avec le pouce passé correctement sur la 4e note, sur trois essais de suite.
+Joue la mineure mélodique sur Do montante puis descendante, une octave, en noires, à 60 BPM. Au moment de la descente, reviens sans erreur à la mineure naturelle (C Bb Ab G F Eb D C), donc sans A ni B. Critère : une montée et une descente parfaites, trois fois de suite, sans hésitation sur le Eb ni sur le Bb.
 
-**🔴 Palier 3 — Virtuose.** Sur une pédale de Do tenue dans la main gauche, enchaîne le mode ♭2 sur D, le lydien dominant sur F et le mixolydien ♭6 sur G, à 112 BPM, en changeant de mode toutes les quatre mesures. Critère : enregistrement de deux minutes où chaque changement de mode est audible, sans rupture de pulsation, et tu peux nommer le mode après l'avoir écouté.
+### 🟡 Palier 2 — Maîtrise
+
+Joue les modes ♭2, lydien dominant et mixolydien ♭6 sur C (en tonalité de référence Do mineur mélodique), en croches, sur deux octaves, à 84 BPM. Critère : les trois modes sans erreur, avec le pouce passé correctement sur la 4e note, sur trois essais de suite.
+
+### 🔴 Palier 3 — Virtuose
+
+Sur une pédale de Do tenue dans la main gauche, enchaîne le mode ♭2 sur D, le lydien dominant sur F et le mixolydien ♭6 sur G, à 112 BPM, en changeant de mode toutes les quatre mesures. Critère : enregistrement de deux minutes où chaque changement de mode est audible, sans rupture de pulsation, et tu peux nommer le mode après l'avoir écouté.
 
 ## 7 · Oreille
 

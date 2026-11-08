@@ -90,11 +90,17 @@ Pour le culte, garde les modes harmoniques pour les passages, pas pour le corps 
 
 ## 6 · Exercices
 
-**🟢 Palier 1 — Découverte.** Joue la majeure harmonique de Do, montante puis descendante, une octave, en noires, à 60 BPM. Critère : le Ab est joué à chaque passage, et l'augmentée seconde Ab → B est exécutée sans glissade, deux fois de suite.
+### 🟢 Palier 1 — Découverte
 
-**🟡 Palier 2 — Maîtrise.** Joue les modes ♭5 sur D, ♭4 sur E et ♭2 sur G, en croches, sur deux octaves, à 84 BPM. Critère : trois essais de suite sans erreur, avec le Ab bien audible dans chacun des modes.
+Joue la majeure harmonique de Do, montante puis descendante, une octave, en noires, à 60 BPM. Critère : le Ab est joué à chaque passage, et l'augmentée seconde Ab → B est exécutée sans glissade, deux fois de suite.
 
-**🔴 Palier 3 — Virtuose.** Enchaîne une grille de quatre mesures : CΔ7 ♭6 – Em7 ♭9 – G7 ♭9 13 – CΔ7 ♭6 à 112 BPM, avec une improvisation de la main droite sur les modes correspondants. Critère : enregistrement de deux minutes dans lequel chaque accord est identifiable, la tension du G7 se résout clairement sur le retour à C, et le Ab reste présent.
+### 🟡 Palier 2 — Maîtrise
+
+Joue les modes ♭5 sur D, ♭4 sur E et ♭2 sur G, en croches, sur deux octaves, à 84 BPM. Critère : trois essais de suite sans erreur, avec le Ab bien audible dans chacun des modes.
+
+### 🔴 Palier 3 — Virtuose
+
+Enchaîne une grille de quatre mesures : CΔ7 ♭6 – Em7 ♭9 – G7 ♭9 13 – CΔ7 ♭6 à 112 BPM, avec une improvisation de la main droite sur les modes correspondants. Critère : enregistrement de deux minutes dans lequel chaque accord est identifiable, la tension du G7 se résout clairement sur le retour à C, et le Ab reste présent.
 
 ## 7 · Oreille
 

@@ -82,11 +82,17 @@ Le phrygien et le locrien sont les plus sombres : tu les utilises pour une suppl
 
 ## 6 · Exercices
 
-**🟢 Palier 1 — Découverte.** Joue les sept modes de Do avec la main droite, une octave, en noires, à 60 BPM, en les rangeant du plus clair au plus sombre. Critère : sept modes joués sans erreur de note, et l'ordre de la liste est juste à l'oreille (lydien, ionien, mixolydien, dorien, éolien, phrygien, locrien).
+### 🟢 Palier 1 — Découverte
 
-**🟡 Palier 2 — Maîtrise.** Joue chaque mode sur deux octaves, en croches, à 84 BPM, avec une tonique tenue dans la main gauche. Critère : les sept modes réussis, à pulsation constante, et chaque mode est nommé avant d'être joué, sur trois essais de suite.
+Joue les sept modes de Do avec la main droite, une octave, en noires, à 60 BPM, en les rangeant du plus clair au plus sombre. Critère : sept modes joués sans erreur de note, et l'ordre de la liste est juste à l'oreille (lydien, ionien, mixolydien, dorien, éolien, phrygien, locrien).
 
-**🔴 Palier 3 — Virtuose.** Prends une tonique de Do tenue à la main gauche et enchaîne trois modes, du plus clair au plus sombre (lydien, dorien, locrien), en quatre mesures chacun, à 112 BPM. Critère : enregistrement de deux minutes où la progression de luminosité est audible, sans rupture de pulsation, et tu peux expliquer en une phrase pourquoi chaque mode est plus sombre que le précédent.
+### 🟡 Palier 2 — Maîtrise
+
+Joue chaque mode sur deux octaves, en croches, à 84 BPM, avec une tonique tenue dans la main gauche. Critère : les sept modes réussis, à pulsation constante, et chaque mode est nommé avant d'être joué, sur trois essais de suite.
+
+### 🔴 Palier 3 — Virtuose
+
+Prends une tonique de Do tenue à la main gauche et enchaîne trois modes, du plus clair au plus sombre (lydien, dorien, locrien), en quatre mesures chacun, à 112 BPM. Critère : enregistrement de deux minutes où la progression de luminosité est audible, sans rupture de pulsation, et tu peux expliquer en une phrase pourquoi chaque mode est plus sombre que le précédent.
 
 ## 7 · Oreille
 

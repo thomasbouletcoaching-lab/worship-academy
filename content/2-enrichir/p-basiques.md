@@ -14,7 +14,7 @@ tempo_cible: "60-90 BPM"
 duree_min: 25
 ---
 
-> **Niveau** : 2 · Intermédiaire · **Catégorie** : Accords · **Module** : M10 · **Prérequis** : Degrés de la gamme, Relation gamme-accords, Triades majeure, mineure, augmentée, diminuée
+> **Niveau** : 2 · Intermédiaire · **Catégorie** : Accords · **Module** : M10 · **Prérequis** : Les degrés de la gamme et leurs fonctions, Relation gamme-accords : quel accord sur chaque degré, Triades majeure, mineure, augmentée, diminuée
 
 ## 1 · L'idée en une phrase
 
@@ -127,5 +127,5 @@ Petit test : demande à un ami de jouer soit une cadence parfaite (G – C), soi
 
 ## 9 · Liens
 
-- Avant : Degrés de la gamme ; Relation gamme-accords
+- Avant : Les degrés de la gamme et leurs fonctions ; Relation gamme-accords : quel accord sur chaque degré
 - Ensuite : Progressions enrichies

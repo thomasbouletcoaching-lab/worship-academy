@@ -36,7 +36,7 @@ Vérifions la relation entre les deux. La pentatonique mineure de La (A, C, D, E
 
 Un deuxième exemple, en Sol majeur : G, A, B, D, E. Intervalles : de G à A, 2 ; de A à B, 2 ; de B à D, 3 ; de D à E, 2 ; de E à G, 3. Total : 12. La pentatonique de Mi mineur (E, G, A, B, D) contient les mêmes notes. Confirmation : E à G, 3 demi-tons (tierce mineure) ; G à A, 2 ; A à B, 2 ; B à D, 3 ; D à E, 2.
 
-Pourquoi ces cinq notes sont-elles compatibles avec la plupart des accords ? Parce que les degrés retirés sont justement ceux qui ont le plus de risque de friction. En Do majeur, la gamme pentatonique exclut le F (la quarte) et le B (la septième majeure). Sur un accord de Do, de Am ou de G, ces absences ne gênent pas. Sur un accord de F, la quarte F est une note de l'accord qui manque : la pentatonique de Do peut encore servir, mais il faut éviter de finir sur E, qui sonne en tension avec F majeur 7.
+Pourquoi ces cinq notes sont-elles compatibles avec la plupart des accords ? Parce que les degrés retirés sont justement ceux qui ont le plus de risque de friction. En Do majeur, la gamme pentatonique exclut le F (la quarte) et le B (la septième majeure). Sur un accord de Do ou de Am, ces absences ne gênent pas. Sur G, c'est la tierce B qui manque : on finit alors plutôt sur G, D ou A. Sur F, la fondamentale F manque : la pentatonique de Do peut encore servir, mais il faut éviter de finir sur E, septième majeure de F.
 
 Cas limite : la pentatonique majeure et la pentatonique mineure ne sonnent pas pareil, car la tonique change. Sur un accord de Do, la version de Do sonne lumineuse ; sur un accord de La mineur, la même gamme sonne triste, parce que la tonique est A. C'est la tonique qui décide de l'émotion, pas la gamme seule.
 
@@ -102,7 +102,7 @@ Critère de réussite : deux octaves montées et descendues sans erreur, chaque 
 
 Tempo : 80 BPM. Improvise huit mesures sur les accords C – Am – F – G (une mesure par accord, deux tours), en n'utilisant que la pentatonique de Do majeur. Sur F, évite de finir sur E.
 
-Critère de réussite : tu ne joues aucune note hors gamme, tu finis chaque phrase sur une note de l'accord (C, A, A ou G), et tu entends que la phrase sur F reste propre.
+Critère de réussite : tu ne joues aucune note hors gamme, tu finis chaque phrase sur une note de l'accord (C sur C, A sur Am, A ou C sur F, G sur G), et tu entends que la phrase sur F reste propre.
 
 ### 🔴 Palier 3 — Virtuose
 

@@ -94,11 +94,17 @@ Dans un set de louange où les tonalités changent, applique la recette dans la 
 
 ## 6 · Exercices
 
-**🟢 Palier 1 — Découverte.** Joue Dm9 – G7(♭9) – Cmaj9 en plaqué, à 60 BPM, en tenant chaque accord une mesure. Critère : la progression est jouée trois fois de suite, la ♭9 du G7 est audible et la 9e de chaque accord est présente.
+### 🟢 Palier 1 — Découverte
 
-**🟡 Palier 2 — Maîtrise.** Joue le 2-5-1 enrichi en Do, Fa, Sib et Mib (accords du tableau de Fa adaptés, avec la recette de transposition), en arpège montant, à 84 BPM. Critère : les quatre tonalités réussies sur trois essais, les 9e sont audibles au-dessus de la mélodie, et la basse suit la racine.
+Joue Dm9 – G7(♭9) – Cmaj9 en plaqué, à 60 BPM, en tenant chaque accord une mesure. Critère : la progression est jouée trois fois de suite, la ♭9 du G7 est audible et la 9e de chaque accord est présente.
 
-**🔴 Palier 3 — Virtuose.** Joue le 2-5-1 enrichi dans les douze tonalités, en progression continue (chaque 2-5-1 se termine sur sa tonique qui devient le ii suivant), à 112 BPM. Critère : enregistrement de trois minutes où les douze progressions sont jouées sans pause, et tu peux, à l'écoute, dire quelle est la tonique de chacune.
+### 🟡 Palier 2 — Maîtrise
+
+Joue le 2-5-1 enrichi en Do, Fa, Sib et Mib (accords du tableau de Fa adaptés, avec la recette de transposition), en arpège montant, à 84 BPM. Critère : les quatre tonalités réussies sur trois essais, les 9e sont audibles au-dessus de la mélodie, et la basse suit la racine.
+
+### 🔴 Palier 3 — Virtuose
+
+Joue le 2-5-1 enrichi dans les douze tonalités, en progression continue (chaque 2-5-1 se termine sur sa tonique qui devient le ii suivant), à 112 BPM. Critère : enregistrement de trois minutes où les douze progressions sont jouées sans pause, et tu peux, à l'écoute, dire quelle est la tonique de chacune.
 
 ## 7 · Oreille
 

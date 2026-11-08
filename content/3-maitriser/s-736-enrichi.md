@@ -95,11 +95,17 @@ Pour un passage entre deux chants en tonalités proches, la chaîne enrichie ser
 
 ## 6 · Exercices
 
-**🟢 Palier 1 — Découverte.** Joue B7(♭9) – E7(♭9) – Am9 en accords plaqués, à 60 BPM, chaque accord tenu une mesure. Critère : les trois accords sont joués trois fois de suite, la ♭9 du B7 (C) et celle du E7 (F) sont audibles, et la 9e du Am9 (B) est présente.
+### 🟢 Palier 1 — Découverte
 
-**🟡 Palier 2 — Maîtrise.** Joue la chaîne enrichie en Do, puis en Sol, avec les voicings du tableau, en arpège descendant, à 84 BPM. Critère : les deux tonalités réussies sur trois essais, la ♭9 de chaque dominante est audible au-dessus de la basse, et les résolutions sont nettes.
+Joue B7(♭9) – E7(♭9) – Am9 en accords plaqués, à 60 BPM, chaque accord tenu une mesure. Critère : les trois accords sont joués trois fois de suite, la ♭9 du B7 (C) et celle du E7 (F) sont audibles, et la 9e du Am9 (B) est présente.
 
-**🔴 Palier 3 — Virtuose.** Joue la chaîne enrichie dans les douze tonalités, en enchaînant les tonalités par quintes descendantes (Do, Fa, Sib, Mib, etc.), en gardant la basse seule au début de chaque chaîne, à 112 BPM. Critère : enregistrement de trois minutes sans pause, dans lequel la tonalité change toutes les deux mesures et où tu peux nommer le VII, le III et le VI à chaque changement.
+### 🟡 Palier 2 — Maîtrise
+
+Joue la chaîne enrichie en Do, puis en Sol, avec les voicings du tableau, en arpège descendant, à 84 BPM. Critère : les deux tonalités réussies sur trois essais, la ♭9 de chaque dominante est audible au-dessus de la basse, et les résolutions sont nettes.
+
+### 🔴 Palier 3 — Virtuose
+
+Joue la chaîne enrichie dans les douze tonalités, en enchaînant les tonalités par quintes descendantes (Do, Fa, Sib, Mib, etc.), en gardant la basse seule au début de chaque chaîne, à 112 BPM. Critère : enregistrement de trois minutes sans pause, dans lequel la tonalité change toutes les deux mesures et où tu peux nommer le VII, le III et le VI à chaque changement.
 
 ## 7 · Oreille
 

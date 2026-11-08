@@ -88,11 +88,17 @@ Quand la parole est dite par un intervenant, garde un seul accord de mode (Dm7 o
 
 ## 6 · Exercices
 
-**🟢 Palier 1 — Découverte.** Joue les sept modes de Do (C) avec la seule main droite, une octave, en noires, à 60 BPM. Tu annonces le nom du mode avant de le jouer. Critère : sept modes joués sans erreur de note, dans l'ordre, sur deux passages consécutifs.
+### 🟢 Palier 1 — Découverte
 
-**🟡 Palier 2 — Maîtrise.** Joue chaque mode de Do en croches, sur deux octaves, à 84 BPM, avec la main gauche qui tient la tonique (C3 pour le mode sur C, D3 pour le dorien, etc.) pendant la montée. Critère : sept modes réussis, à la pulsation exacte, avec un son égal entre les notes (aucune note plus forte que les autres), sur trois essais de suite.
+Joue les sept modes de Do (C) avec la seule main droite, une octave, en noires, à 60 BPM. Tu annonces le nom du mode avant de le jouer. Critère : sept modes joués sans erreur de note, dans l'ordre, sur deux passages consécutifs.
 
-**🔴 Palier 3 — Virtuose.** Enchaîne trois modes sur une pédale de Do tenue dans la main gauche, à 112 BPM : dorien, mixolydien, ionien. Enregistre deux minutes. Critère : le changement de mode est audible à chaque passage, sans interruption de la pulsation, et tu peux nommer chaque mode à l'écoute de l'enregistrement.
+### 🟡 Palier 2 — Maîtrise
+
+Joue chaque mode de Do en croches, sur deux octaves, à 84 BPM, avec la main gauche qui tient la tonique (C3 pour le mode sur C, D3 pour le dorien, etc.) pendant la montée. Critère : sept modes réussis, à la pulsation exacte, avec un son égal entre les notes (aucune note plus forte que les autres), sur trois essais de suite.
+
+### 🔴 Palier 3 — Virtuose
+
+Enchaîne trois modes sur une pédale de Do tenue dans la main gauche, à 112 BPM : dorien, mixolydien, ionien. Enregistre deux minutes. Critère : le changement de mode est audible à chaque passage, sans interruption de la pulsation, et tu peux nommer chaque mode à l'écoute de l'enregistrement.
 
 ## 7 · Oreille
 

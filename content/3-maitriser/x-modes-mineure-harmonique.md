@@ -90,11 +90,17 @@ Pour le culte, la mineure harmonique est un outil de transition. Passe par le ph
 
 ## 6 · Exercices
 
-**🟢 Palier 1 — Découverte.** Joue la mineure harmonique de Do, montante et descendante, une octave, en noires, à 60 BPM. Critère : l'augmentée seconde (Ab → B) est jouée sans glissade, deux fois de suite sans erreur.
+### 🟢 Palier 1 — Découverte
 
-**🟡 Palier 2 — Maîtrise.** Joue le phrygien dominant sur G et le locrien ♮6 sur D, en croches, sur deux octaves, à 84 BPM. Ajoute un accord de tonique (G7♭9, puis Cm) à la fin de chaque mode. Critère : trois essais réussis de suite, avec la tension du ♭9 clairement audible et l'accord de Do qui se pose sans hésitation.
+Joue la mineure harmonique de Do, montante et descendante, une octave, en noires, à 60 BPM. Critère : l'augmentée seconde (Ab → B) est jouée sans glissade, deux fois de suite sans erreur.
 
-**🔴 Palier 3 — Virtuose.** Enchaîne une grille de quatre mesures : Cm – G7♭9 – Cm – Dm7♭5 (en locrien ♮6), à 112 BPM, avec une improvisation dans la main droite sur les trois modes. Critère : enregistrement de deux minutes où la tension de chaque accord est identifiable et où tu résous toujours la tension sur Cm.
+### 🟡 Palier 2 — Maîtrise
+
+Joue le phrygien dominant sur G et le locrien ♮6 sur D, en croches, sur deux octaves, à 84 BPM. Ajoute un accord de tonique (G7♭9, puis Cm) à la fin de chaque mode. Critère : trois essais réussis de suite, avec la tension du ♭9 clairement audible et l'accord de Do qui se pose sans hésitation.
+
+### 🔴 Palier 3 — Virtuose
+
+Enchaîne une grille de quatre mesures : Cm – G7♭9 – Cm – Dm7♭5 (en locrien ♮6), à 112 BPM, avec une improvisation dans la main droite sur les trois modes. Critère : enregistrement de deux minutes où la tension de chaque accord est identifiable et où tu résous toujours la tension sur Cm.
 
 ## 7 · Oreille
 

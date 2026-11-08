@@ -75,11 +75,17 @@ Dans une section où le piano accompagne la parole, choisis un seul emprunt, pas
 
 ## 6 · Exercices
 
-**🟢 Palier 1 — Découverte.** Joue la progression Do – Fa – Fm – Do à 60 BPM, avec des accords plaqués à la main droite et la basse en main gauche. Critère : le Fm se distingue nettement du Fa, deux fois de suite, sans que la basse saute.
+### 🟢 Palier 1 — Découverte
 
-**🟡 Palier 2 — Maîtrise.** Joue Do – Ab – Bb – Do et Do – Eb – Ab – Do à 76 BPM, avec les voicings du tableau. Critère : chaque accord est nommé avant d'être joué, la basse se déplace de demi-ton en demi-ton là où c'est possible, sur trois essais de suite.
+Joue la progression Do – Fa – Fm – Do à 60 BPM, avec des accords plaqués à la main droite et la basse en main gauche. Critère : le Fm se distingue nettement du Fa, deux fois de suite, sans que la basse saute.
 
-**🔴 Palier 3 — Virtuose.** Improvise un couplet de huit mesures en Do majeur, avec au moins deux emprunts (Fm, Ab, Bb ou Eb) bien placés, à 88 BPM. Critère : enregistrement où tu expliques, au moment du retour à Do, l'emprunt que tu as fait et la note qui a changé ; l'auditeur doit pouvoir identifier au moins un emprunt à l'oreille.
+### 🟡 Palier 2 — Maîtrise
+
+Joue Do – Ab – Bb – Do et Do – Eb – Ab – Do à 76 BPM, avec les voicings du tableau. Critère : chaque accord est nommé avant d'être joué, la basse se déplace de demi-ton en demi-ton là où c'est possible, sur trois essais de suite.
+
+### 🔴 Palier 3 — Virtuose
+
+Improvise un couplet de huit mesures en Do majeur, avec au moins deux emprunts (Fm, Ab, Bb ou Eb) bien placés, à 88 BPM. Critère : enregistrement où tu expliques, au moment du retour à Do, l'emprunt que tu as fait et la note qui a changé ; l'auditeur doit pouvoir identifier au moins un emprunt à l'oreille.
 
 ## 7 · Oreille
 
