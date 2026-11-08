@@ -54,7 +54,7 @@ Une progression sonne juste quand elle suit cette logique : T → SD → D → T
 
 - **Intimité** : C – Am – F – G (I – vi – IV – V), un accord par deux temps, la basse qui descend par tierces.
 - **Victoire** : C – F – G – C (I – IV – V – I), un accord par mesure, cadences franches.
-- **Repentance** : Am – F – Dm – E7 – Am (vi – IV – ii – V7 – i), la mineure domine ; le E7 pousse vers Am, avec la tension du G# (Sol♯).
+- **Repentance** : Am – F – Dm – E7 – Am (vi – IV – ii – V7 – vi), la mineure domine ; le E7 pousse vers Am, avec la tension du G# (Sol♯).
 - **Gratitude** : F – C/E – Dm – G (IV – I/E – ii – V), une basse qui descend de F vers E, puis une montée douce vers G.
 
 **La progression d'attente.** Am – Em – F – G (vi – iii – IV – V) laisse la dernière mesure sur G sans résoudre sur C. C'est le principe de l'attente : la progression est volontairement ouverte, et le pianiste reste sur le V jusqu'au signal.
@@ -66,7 +66,7 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Trois progressio
 | Émotion | Progression | Notes de basse (MG) | Accords (MD, position resserrée) |
 |---|---|---|---|
 | Intimité | C – Am – F – G | C2, A2, F2, G2 | C E G ; A C E ; F A C ; G B D |
-| Repentance | Am – F – Dm – E7 – Am | A2, F2, D2, E2, A2 | A C E ; F A C ; D F A ; E G# B D |
+| Repentance | Am – F – Dm – E7 – Am | A2, F2, D2, E2, A2 | A C E ; F A C ; D F A ; E G# B D ; A C E |
 | Gratitude | F – C/E – Dm – G | F2, E2, D2, G2 | F A C ; E G C ; D F A ; G B D |
 
 **Doigtés de la main droite.** Pour les accords de trois notes, utilise les doigts 1, 3, 5 en position resserrée (par exemple C E G : 1 sur C4, 3 sur E4, 5 sur G4). Pour E7 (quatre notes), le doigt 2 se place sur G#4, le pouce reste sur E4. La main gauche garde toujours la basse seule, doigt 5 ou 4.

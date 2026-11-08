@@ -54,7 +54,7 @@ Cette fiche n'est pas une liste de recettes à suivre à la lettre. C'est un inv
 
 **Repentance — progression Am – Dm – E7 – Am.** Am = A3, C4, E4 ; Dm = D3, A3, F4 ; E7 = E3, G♯3, B3, D4 ; Am final = A3, C4, E4. Vérifions E7 : E vers G♯ = 4 demi-tons (tierce majeure), G♯ vers B = 3 (tierce mineure), B vers D = 3 (tierce mineure). Le G♯ de E7 est une note sensible qui tire vers A : c'est la plus forte tension de la progression. Tempo 56 à 66 BPM, dynamique p à mp, voicings serrés dans le registre grave, sans pédale longue.
 
-**Gratitude — progression C – Am – F – C.** Voicings médians : C = C4, E4, G4 ; Am = A3, C4, E4 ; F = F3, A3, C4 ; C final = C4, E4, G4. La cadence F vers C est plagale : elle s'appelle « amen » dans la tradition, car elle descend d'une quarte juste (F vers C, de 5 vers 0 ou 12, soit une quinte descendante ou une quarte montante). Tempo 76 à 88 BPM, dynamique mf, legato.
+**Gratitude — progression C – Am – F – C.** Voicings médians : C = C4, E4, G4 ; Am = A3, C4, E4 ; F = F3, A3, C4 ; C final = C4, E4, G4. La cadence F vers C est plagale : elle s'appelle « amen » dans la tradition. Le mouvement F vers C descend d'une quarte juste (5 demi-tons), ce qui revient à monter d'une quinte juste vers le C suivant. Tempo 76 à 88 BPM, dynamique mf, legato.
 
 **Attente — pédale de G.** Basse tenue : G2 (MG, doigt 5) pendant toute la section. Accords au-dessus : Csus2 (C4, D4, G4), Em (E4, G4, B4), Csus2 à nouveau, puis G (G4, B4, D5). Tempo 60 BPM, dynamique p avec un léger crescendo sur la mesure 4. La section se termine sur G, la dominante : le repos ne vient pas.
 

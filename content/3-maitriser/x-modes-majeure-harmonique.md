@@ -38,7 +38,7 @@ Par rapport au Do majeur, une seule note change : la sixte, A devient Ab. Tous l
 | Dorien ♭5 | D (Ré) | D E F G Ab B C | T S T S A2 S T | 0 2 3 5 6 9 11 | Dm7 ♭5 (D F Ab C) |
 | Phrygien ♭4 | E (Mi) | E F G Ab B C D | S T S A2 S T T | 0 1 3 4 7 8 10 | Em7 ♭9 (E G B D, F) |
 | Lydien ♭3 | F (Fa) | F G Ab B C D E | T S A2 S T T S | 0 2 3 6 7 9 11 | FmΔ7 ♯11 (F Ab C E, B) |
-| Mixolydien ♭2 | G (Sol) | G Ab B C D E F | S A2 S T T S T | 0 1 4 5 7 9 10 | G7 ♭9 ♭13 (G B D F, Ab, E) |
+| Mixolydien ♭2 | G (Sol) | G Ab B C D E F | S A2 S T T S T | 0 1 4 5 7 9 10 | G7 ♭9 13 (G B D F, Ab, E) |
 | Lydien ♯2 ♯5 | Ab (La♭) | Ab B C D E F G | A2 S T T S T S | 0 3 4 6 8 9 11 | AbΔ7 ♯5 (Ab C E G), avec B (♯2) |
 | Locrien ♭♭7 | B (Si) | B C D E F G Ab | S T T S T S A2 | 0 1 3 5 6 8 9 | Bdim7 (B D F Ab) |
 
@@ -84,7 +84,7 @@ La majeure harmonique n'est pas un mode de refrain, mais une teinte. Un accord d
 
 Le phrygien ♭4 (Em7 ♭9) est tendre et un peu triste. Il convient à une parole de gratitude nuancée, par exemple au moment où l'on rend grâce pour une épreuve traversée. Le F (la ♭9 de l'accord) ouvre la voix, mais le B la ramène au centre.
 
-Le mixolydien ♭2 (G7 ♭9 ♭13) est le plus utile pour l'approche : il conduit au Do avec une tension forte. Joue-le deux mesures avant le retour à C, et tu obtiens une arrivée nette qui s'entend dans toute l'église.
+Le mixolydien ♭2 (G7 ♭9 13) est le plus utile pour l'approche : il conduit au Do avec une tension forte. Joue-le deux mesures avant le retour à C, et tu obtiens une arrivée nette qui s'entend dans toute l'église.
 
 Pour le culte, garde les modes harmoniques pour les passages, pas pour le corps du chant. Un mode complet pendant tout un couplet fatigue l'oreille et brouille la mélodie.
 
@@ -94,7 +94,7 @@ Pour le culte, garde les modes harmoniques pour les passages, pas pour le corps 
 
 **🟡 Palier 2 — Maîtrise.** Joue les modes ♭5 sur D, ♭4 sur E et ♭2 sur G, en croches, sur deux octaves, à 84 BPM. Critère : trois essais de suite sans erreur, avec le Ab bien audible dans chacun des modes.
 
-**🔴 Palier 3 — Virtuose.** Enchaîne une grille de quatre mesures : CΔ7 ♭6 – Em7 ♭9 – G7 ♭9 ♭13 – CΔ7 ♭6 à 112 BPM, avec une improvisation de la main droite sur les modes correspondants. Critère : enregistrement de deux minutes dans lequel chaque accord est identifiable, la tension du G7 se résout clairement sur le retour à C, et le Ab reste présent.
+**🔴 Palier 3 — Virtuose.** Enchaîne une grille de quatre mesures : CΔ7 ♭6 – Em7 ♭9 – G7 ♭9 13 – CΔ7 ♭6 à 112 BPM, avec une improvisation de la main droite sur les modes correspondants. Critère : enregistrement de deux minutes dans lequel chaque accord est identifiable, la tension du G7 se résout clairement sur le retour à C, et le Ab reste présent.
 
 ## 7 · Oreille
 

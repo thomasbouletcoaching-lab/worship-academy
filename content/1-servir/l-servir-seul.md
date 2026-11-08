@@ -28,7 +28,7 @@ Servir seul n'est donc pas jouer seul : c'est accompagner une voix sans la couvr
 
 ## 3 · Sous le capot
 
-**Enchaîner.** Un enchaînement fluide garde les notes communes et déplace les voix de peu. Prenons la boucle C – G – Am – F. Entre C (C, E, G) et G (G, B, D), la note G reste en place ; la voix de C monte vers B (1 + 4 + ... = 11 demi-tons, soit un demi-ton montant de C à B... ), et la voix de E monte vers D (4 vers 2, soit deux demi-tons descendants). Pour un débutant, retiens simplement : garde une note commune, et déplace les autres de peu.
+**Enchaîner.** Un enchaînement fluide garde les notes communes et déplace les voix de peu. Prenons la boucle C – G – Am – F. Entre C (C, E, G) et G (G, B, D), la note G reste en place ; la voix de C descend d'un demi-ton vers B (0 vers 11), et la voix de E descend de deux demi-tons vers D (4 vers 2). Pour un débutant, retiens simplement : garde une note commune, et déplace les autres de peu.
 
 **Transposer.** Transposer, c'est décaler toutes les notes du même nombre de demi-tons. Le chant reste le même, seule la hauteur change. Prenons la boucle I–V–vi–IV en Do majeur : C – G – Am – F. Pour la transposer en Ré majeur, on monte de 2 demi-tons : C devient D (0 vers 2), G devient A (7 vers 9), A devient B (9 vers 11), F devient G (5 vers 7). Vérifions : D majeur = D, F♯, A (D vers F♯ = 4, F♯ vers A = 3) ; A majeur = A, C♯, E (A vers C♯ = 4, C♯ vers E = 3) ; Bm = B, D, F♯ (B vers D = 3, D vers F♯ = 4) ; G majeur = G, B, D (G vers B = 4, B vers D = 3).
 
