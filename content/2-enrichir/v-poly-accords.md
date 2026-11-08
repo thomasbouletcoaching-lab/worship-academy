@@ -55,7 +55,7 @@ Tonalité de référence : Do majeur.
 | MD | F4 (65) | 3 | tierce mineure de Dm |
 | MD | A4 (69) | 5 | quinte de Dm |
 
-Vérifications : 47 - 43 = 4 (tierce majeure, G-B), 50 - 47 = 3 (tierce mineure, B-D... ici D est la quinte de G, la tierce est bien B), 62 - 50 = 12 (octave entre le D grave et le D aigu, ce qui relie les deux accords), 65 - 62 = 3 (tierce mineure, D-F), 69 - 65 = 4 (tierce majeure, F-A). La réunion des notes donne G, B, D, F, A : Gdominante avec neuvième.
+Vérifications : 47 - 43 = 4 (tierce majeure, G-B), 50 - 47 = 3 (tierce mineure, B-D, dans la triade de Sol majeur, qui est bien G-B-D), 62 - 50 = 12 (octave entre le D grave et le D aigu, qui relie les deux accords), 65 - 62 = 3 (tierce mineure, D-F), 69 - 65 = 4 (tierce majeure, F-A). La réunion des notes donne G, B, D, F, A : un G9, accord de dominante avec neuvième.
 
 Écart entre la note la plus grave de la MD et la note la plus aiguë de la MG : 62 - 50 = 12, soit une octave. C'est le seuil minimal recommandé. Il n'y a pas de croisement de mains.
 
