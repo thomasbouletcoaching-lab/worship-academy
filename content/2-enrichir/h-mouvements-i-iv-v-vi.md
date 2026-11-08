@@ -36,7 +36,7 @@ Le I est la maison, le repos. Le IV est la maison voisine, qui ouvre la porte. L
 
 **Les notes communes.** Deux accords qui partagent des notes sonnent naturellement ensemble. I et vi partagent C et E (deux notes sur trois). IV et vi partagent A et C. I et IV partagent C. IV et V n'ont aucune note commune, et V et vi n'en ont aucune non plus : c'est pourquoi on les déplace en mouvement parallèle, voix par voix.
 
-**La conduite des voix.** Pour passer de IV à V, toutes les voix montent d'une seconde majeure : F-A-C devient G-B-D, en F→G, A→B, C→D. Ce mouvement, dit parallèle, est simple et sonne net. Pour passer de I à IV, la voix la plus haute descend d'un demi-ton (E→F) et la voix du milieu monte d'un ton (G→A), pendant que C reste. Pour passer de V à I, B monte d'un demi-ton vers C, et D monte d'un demi-ton vers E, en laissant G en place.
+**La conduite des voix.** Pour passer de IV à V, toutes les voix montent d'une seconde majeure : F-A-C devient G-B-D, en F→G, A→B, C→D. Ce mouvement, dit parallèle, est simple et sonne net. Pour passer de I à IV, la note E monte d'un demi-ton vers F et la note G monte d'un ton vers A, pendant que C reste en place. Pour passer de V à I, B monte d'un demi-ton vers C et D monte d'un ton vers E, en laissant G en place (le G est la note commune).
 
 **Pourquoi ça marche.** Ces quatre accords couvrent les trois fonctions de la tonalité : tonique (I et vi), sous-dominante (IV), dominante (V). Le vi peut remplacer le I, puisqu'il partage deux notes avec lui ; il peut donc jouer le rôle d'une tonique secondaire. C'est pour cela qu'un chant peut suivre I-V-vi-IV ou vi-IV-I-V sans jamais sembler étranger.
 

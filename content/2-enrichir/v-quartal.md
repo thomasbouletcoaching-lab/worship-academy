@@ -36,7 +36,7 @@ Que contient cet accord, relu dans la tonalité de Do majeur ? D est la fondamen
 
 Le problème pratique est l'étendue. Quatre notes empilées en quartes couvrent 15 demi-tons (une dixième mineure), ce qui est très large pour une seule main. C'est pourquoi, dans la pratique, on utilise surtout des voicings à trois notes, qui tiennent dans une septième mineure (10 demi-tons). L'accord D3-G3-C4, par exemple, couvre 10 demi-tons, soit une confortable septième.
 
-Un second exemple, en tonalité de Sol majeur : E (Mi), A (La), D (Ré). De E à A, 5 demi-tons ; de A à D, 5 demi-tons. E3 = 52, A3 = 57, D4 = 62 : 57 - 52 = 5 et 62 - 57 = 5. Dans cette tonalité, E est le vi degré, donc cet accord est un Em11 sans quinte : E est la fondamentale, G est la septième mineure (E vers G, 3 demi-tons, mais ici G est absent), A est l'onzième, D est la septième mineure (E vers D, 10 demi-tons). Pour être juste, précisons : D est la septième mineure de E, A la quarte (onzième), et il n'y a pas de tierce, donc le mode n'est pas indiqué.
+Un second exemple, en tonalité de Sol majeur : E (Mi), A (La), D (Ré). De E à A, 5 demi-tons ; de A à D, 5 demi-tons. E3 = 52, A3 = 57, D4 = 62 : 57 - 52 = 5 et 62 - 57 = 5. Dans cette tonalité, E est le vi degré. Ce voicing ne garde que la fondamentale E, l'onzième A (une quarte au-dessus de E) et la septième mineure D (de E à D, 10 demi-tons). Il n'a ni tierce ni quinte : c'est un Em7(11) réduit, dont le mode n'est pas indiqué, donc parfaitement ouvert.
 
 Le cas limite à retenir : un quartal en position serrée peut sonner comme un sus4 ; la différence tient à la présence de la septième et de la neuvième. Si tu veux un accord franchement quartal, évite de superposer une tierce quelque part, sinon l'accord se mettra à pencher du côté majeur ou mineur.
 
@@ -44,7 +44,7 @@ Le cas limite à retenir : un quartal en position serrée peut sonner comme un s
 
 Tonalité de référence : Do majeur. Le voicing quartal est joué en trois notes, avec une quarte à chaque étage, dans une seule main.
 
-**Dm7(11) quartal en Do majeur : D3 (50), G3 (55), C4 (60)**
+**Le quartal D-G-C en Do majeur (D3, G3, C4), soit un Dm7(11) réduit**
 
 | Main | Note | Doigt | Rôle |
 |---|---|---|---|
@@ -54,9 +54,9 @@ Tonalité de référence : Do majeur. Le voicing quartal est joué en trois note
 
 Vérification : 55 - 50 = 5 (quarte), 60 - 55 = 5 (quarte). L'étendue totale est de 10 demi-tons, soit une septième mineure, qui se tient confortablement avec 5-1.
 
-Pour une version qui ne joue que le cœur de l'accord, il suffit de retirer l'une des notes de la main gauche.
+Le geste tient donc dans une seule main, sans besoin de l'autre.
 
-**Em11 quartal en Sol majeur : E3 (52), A3 (57), D4 (62)**
+**Le quartal E-A-D en Sol majeur (E3, A3, D4), soit un Em7(11) réduit**
 
 | Main | Note | Doigt | Rôle |
 |---|---|---|---|
@@ -88,7 +88,7 @@ Critère de réussite : huit mesures sans bruit parasite, chaque note tenue jusq
 
 ### 🟡 Palier 2 — Maîtrise
 
-Tempo : 70 BPM. Alterne Do majeur (C3, E3, G3, avec la basse en MG et la tierce en MD) et le quartal D3-G3-C4 : deux mesures chacun, en gardant la pédale de sustain enfoncée sur la basse C3.
+Tempo : 70 BPM. Alterne l'accord de Do majeur (C3-E3-G3 à la MG) et le quartal D3-G3-C4 : deux mesures chacun, pédale de sustain enfoncée.
 
 Critère de réussite : le passage d'un accord à l'autre se fait sans couper le son, la basse C3 reste tenue, et le quartal reste reconnaissable à l'oreille, c'est-à-dire qu'on n'entend pas de tierce qui ramène au Do.
 

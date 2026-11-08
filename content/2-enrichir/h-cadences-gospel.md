@@ -30,7 +30,7 @@ Le « gospel » ajoute une couleur : l'accord de IV devient parfois mineur (IV m
 
 ## 3 · Sous le capot
 
-**La cadence plagale.** En Do majeur, la cadence plagale est F-C : accord de fa majeur (F-A-C) suivi de l'accord de do majeur (C-E-G). Vérification : F à A = 4 demi-tons, A à C = 3 demi-tons ; C à E = 4, E à G = 3. La fondamentale descend d'une quarte juste, soit de 5 demi-tons vers le bas, ou monte d'une quinte juste (7 demi-tons) vers le haut. Ici, F monte à C de 5 demi-tons (une quarte juste vers le haut).
+**La cadence plagale.** En Do majeur, la cadence plagale est F-C : accord de fa majeur (F-A-C) suivi de l'accord de do majeur (C-E-G). Vérification : F à A = 4 demi-tons, A à C = 3 demi-tons ; C à E = 4, E à G = 3. La fondamentale monte de F à C, soit de 5 demi-tons : c'est une quarte juste vers le haut, ce qui revient à descendre d'une quinte juste (C descend de 7 demi-tons jusqu'à F).
 
 **Le mouvement des voix.** Entre F-A-C et C-E-G, la note C est commune et reste en place. Les deux autres voix bougent par demi-ton ou par ton : A descend vers G (2 demi-tons), F descend vers E (1 demi-ton). Ce mouvement mou et doux est la raison de la paix de la cadence.
 

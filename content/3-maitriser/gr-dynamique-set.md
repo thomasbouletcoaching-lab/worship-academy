@@ -42,7 +42,7 @@ Le pianiste est l'un des meilleurs guides de cet escalier, car il contrôle à l
 
 **La hauteur et l'octave.** Monter le registre d'un accord (ajouter l'aigu, doubler à l'octave) augmente la brillance et l'impression d'élan. Doubler la basse à l'octave dans le grave donne de la masse. Attention : ces deux moyens se combinent mal ; monter l'aigu et renforcer le grave à la fois peut saturer le son (voir gr-occupation-frequences).
 
-**Le saut de tonalité.** Une technique courante consiste à monter la tonalité d'un demi-ton pour le sommet : le chant semble « s'élever », sans que le tempo change. Un demi-ton correspond à un intervalle de 1 demi-ton ; do vers ré bémol (C vers Db) est donc un seul pas. Le chanteur doit être prévenu avant, et la transposition doit rester dans sa tessiture.
+**Le saut de tonalité.** Une technique courante consiste à monter la tonalité d'un demi-ton pour le sommet : le chant semble « s'élever », sans que le tempo change. Le demi-ton est le plus petit intervalle de la musique occidentale : do vers ré bémol (C vers Db) est donc un seul pas. Le chanteur doit être prévenu avant, et la transposition doit rester dans sa tessiture.
 
 **Le tempo.** Un set ne change pas de tempo par à-coups. Si le tempo monte, il monte de quelques BPM par chant, pour que l'assemblée suive sans secousse. Un ritardando (ralentissement) marque souvent la fin d'un chant ; un accelerando peut préparer le sommet.
 

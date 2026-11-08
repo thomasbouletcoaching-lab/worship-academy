@@ -52,9 +52,9 @@ Au piano, c'est la même logique. Tu n'as pas un bouton « volume » : tu dois d
 | mf | Son naturel, équilibré | Poids du bras transmis au doigt, sans effort |
 | ff | Son plein, ample | Bras et épaule participent, sans frapper |
 
-**Mélodie sur accompagnement.** Une ligne mélodique simple en Do majeur : E4 (3), G4 (5), A4 (5), G4 (3), E4 (1)… Joue la mélodie en mf avec la main droite (sur le doigt 5 quand la note est la plus haute), et l'accompagnement en p avec la main gauche : fondamentale C3 (5) puis G2 (1), en alternance sur les temps.
+**Mélodie sur accompagnement.** Une ligne mélodique simple en Do majeur : E4 (2), G4 (3), A4 (5), G4 (3), E4 (2)… Joue la mélodie en mf avec la main droite (sur le doigt 5 quand la note est la plus haute), et l'accompagnement en p avec la main gauche : fondamentale C3 (5) puis G2 (1), en alternance sur les temps.
 
-**Exemple en Sol majeur (G).** Mélodie : B4 (3), D5 (5), E5 (5), D5 (3), B4 (1). Accompagnement main gauche : G2 (5) puis D2 (1) en alternance. La même logique s'applique : la mélodie reste en mf, la basse soutient en p.
+**Exemple en Sol majeur (G).** Mélodie : B4 (2), D5 (3), E5 (5), D5 (3), B4 (2). Accompagnement main gauche : G2 (5) puis D2 (1) en alternance. La même logique s'applique : la mélodie reste en mf, la basse soutient en p.
 
 **Note sur la tonalité de référence.** En Do majeur, la note la plus grave de l'accord de C (C3, à la main gauche) doit être jouée plus doucement que la mélodie : elle donne le socle, pas l'information principale.
 

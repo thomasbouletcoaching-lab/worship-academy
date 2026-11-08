@@ -43,7 +43,7 @@ Vérification sur Do, deux fois : D est à +14 depuis C (2 + 12), F à +17 (5 + 
 
 **Le conflit de la onzième.** Sur un accord majeur, la onzième (F) frotte la tierce majeure (E) : la différence est d'un demi-ton. C'est une dissonance franche, que l'oreille perçoit comme une tension malsonnante. Sur un accord de dominante ou de majeur 7, on omet donc souvent la tierce ou la onzième. Sur un accord mineur, la tierce est mineure (Eb) et ne frotte pas le F : Cm11 fonctionne. Règle pratique : la onzième est compatible avec la mineure, mais pas avec la majeure.
 
-**La treizième et la septième.** La treizième (A) est à 9 demi-tons de la fondamentale. Elle n'est pas en conflit avec la tierce majeure, mais elle peut frotter la quinte diminuée si l'accord en comporte une. Sur C13, la treizième est à côté de la septième Bb (un ton plus bas), ce qui donne un effet riche et jazzy, très utilisé dans la louange moderne.
+**La treizième et la septième.** La treizième (A) est à 9 demi-tons de la fondamentale. Elle ne heurte pas la tierce majeure ; en revanche, elle entre en conflit avec une treizième mineure (Ab) ou une quinte augmentée (G#) placées dans le même accord. Sur C13, la treizième (A) est à un demi-ton sous la septième (Bb) : ce frottement serré donne un effet riche, très utilisé dans la louange moderne.
 
 **Cas limites.** Une extension est toujours plus fragile qu'une septième : si la basse joue une extension, on n'a plus un accord de base mais un accord sur une autre fondamentale. Il faut aussi ne pas empiler trop d'extensions dans la même main : quatre notes suffisent en général, et les autres doivent rester dans la basse ou tomber.
 
@@ -92,7 +92,7 @@ Vérification sur Do, deux fois : D est à +14 depuis C (2 + 12), F à +17 (5 + 
 
 - **Ce qu'il faut entendre** : une couleur enrichie, plus riche qu'un accord de quatre notes. La neuvième ajoute une brillance ; la treizième une douceur ; la onzième une profondeur qui cherche la tierce.
 - **Comment l'identifier** : écoute la note la plus aiguë par rapport à la fondamentale. Si elle est à un ton au-dessus de l'octave, c'est une neuvième ; si elle est à une quarte au-dessus de l'octave, une onzième ; si elle est à une sixte au-dessus de l'octave, une treizième.
-- **Petit test** : joue C majeur, puis Cmaj9 (D ajouté). Le premier est une triade, le second brille davantage. Ajoute ensuite F à la place du D sur Cmaj9 : tu entendras la frottement avec E. C'est la onzième contre la tierce majeure.
+- **Petit test** : joue C majeur, puis Cmaj9 (D ajouté). Le premier est une triade, le second brille davantage. Ajoute ensuite F à Cmaj9, sans retirer le D : tu entendras le frottement avec E. C'est la onzième contre la tierce majeure.
 
 ## 8 · Erreurs fréquentes
 

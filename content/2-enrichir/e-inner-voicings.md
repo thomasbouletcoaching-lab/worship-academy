@@ -51,7 +51,7 @@ Au piano, cela signifie qu'au lieu de plaquer des accords qui sautent de positio
 
 **Progression C7 vers F.** La voix de E4 monte d'un demi-ton vers F4 (4 vers 5). La voix de B♭4 descend d'un demi-ton vers A4 (10 vers 9). Les deux voix guides se déplacent en un pas. La main gauche passe de C3 à F2, ce qui demande un petit déplacement.
 
-**Progression C vers Am.** Voicing de C : C4 (1), E4 (3), G4 (5). Voicing de Am : A3 (main gauche, doigt 5), C4 (1), E4 (3). Le C4 et le E4 restent en place, seule la voix du G4 descend vers A3 ou monte vers A4 selon le voicing choisi. Vérification : G (7) vers A (9) = 2 demi-tons, mouvement d'un ton.
+**Progression C vers Am.** Voicing de C : C4 (1), E4 (3), G4 (5). Voicing de Am : A2 (main gauche, doigt 5), puis C4 (1), E4 (3), A4 (5) en main droite. Le C4 et le E4 restent en place, et seule la voix du G4 monte vers A4. Vérification : G (7) vers A (9) = 2 demi-tons, mouvement d'un ton.
 
 **Exemple en Sol majeur (G).** Voicing de D7 (D, F♯, A, C) avec les notes-guides F♯ et C : F♯4 (3) et C5 (5). Résolution vers G (G, B, D) : F♯4 monte vers G4 (1 demi-ton), C5 descend vers B4 (1 demi-ton). Voicing de G : G4 (1), B4 (3), D5 (5). Les notes-guides se déplacent en deux pas courts, et la fondamentale reste en main gauche.
 

@@ -49,25 +49,25 @@ Une croche vaut la moitié d'un battement (en 4/4, la noire est le battement) : 
 
 Notation : C4 = do central. Tonalité de référence : **do majeur**. Les exercices de click se jouent avec un arpège simple, pour que le tempo soit l'unique objet de l'attention.
 
-| Arpège (do majeur) | Notes | Doigts MD |
+| Exercice (do majeur) | Notes | Doigts MD |
 |---|---|---|
-| Arpège montant | C4 (Do), E4 (Mi), G4 (Sol), C5 (Do) | 1, 3, 5, 8 |
+| Arpège montant puis descendant | C4 (Do), E4 (Mi), G4 (Sol), E4, C4 | 1, 3, 5, 3, 1 |
 | Accord tenu | C4 + E4 + G4 | 1, 3, 5 |
 
-Vérifie : C4 = 261,6 Hz, E4 = 329,6 Hz, G4 = 392 Hz, C5 = 523,3 Hz. L'arpège monte d'une octave complète : C4 à C5 représente 12 demi-tons, ce que l'on joue en 1, 3, 5, puis le pouce, en 8 (une octave à partir du premier doigt).
+Vérifie : C4 = 261,6 Hz, E4 = 329,6 Hz, G4 = 392 Hz. De C4 à G4, on compte 7 demi-tons (une quinte juste) : l'arpège tient dans une main ouverte, et la redescente reprend les mêmes doigts.
 
-| Arpège (sol majeur) | Notes | Doigts MD |
+| Exercice (sol majeur) | Notes | Doigts MD |
 |---|---|---|
-| Arpège montant | G3 (Sol), B3 (Si), D4 (Ré), G4 (Sol) | 1, 3, 5, 8 |
+| Arpège montant puis descendant | G3 (Sol), B3 (Si), D4 (Ré), B3, G3 | 1, 3, 5, 3, 1 |
 | Accord tenu | G3 + B3 + D4 | 1, 3, 5 |
 
-Vérifie : G3 = 196 Hz, B3 = 246,9 Hz, D4 = 293,7 Hz, G4 = 392 Hz. Les intervalles G-B (tierce majeure : 4 demi-tons), B-D (tierce mineure : 3 demi-tons), D-G (quarte juste : 5 demi-tons) s'enchaînent bien dans l'arpège.
+Vérifie : G3 = 196 Hz, B3 = 246,9 Hz, D4 = 293,7 Hz. Les intervalles G-B (tierce majeure : 4 demi-tons) et B-D (tierce mineure : 3 demi-tons) s'enchaînent bien dans l'arpège.
 
 **Régler un delay au tempo.** Si ton delay doit suivre le click à 72 BPM, une noire dure 833 ms. Une croche pointée (3/4 de noire) dure 625 ms. Règle le delay sur ces valeurs pour que chaque écho tombe sur le temps.
 
 ## 5 · Dans la louange
 
-**Le chant avec piste.** Une piste de nappe enregistrée accompagne le chant d'entrée. Le click est dans les oreilles du pianiste et du batteur ; le chanteur entend la piste et sa voix. Le pianiste, lui, joue les accords en avance de quelques millisecondes à cause de la latence : il apprend à jouer légèrement avant le click, et l'oreille se règle là-dessus.
+**Le chant avec piste.** Une piste de nappe enregistrée accompagne le chant d'entrée. Le click est dans les oreilles du pianiste et du batteur ; le chanteur entend la piste et sa voix. Le pianiste, lui, doit tenir compte de la latence : si le son lui revient avec un petit retard, il apprend à anticiper légèrement, et son oreille se règle là-dessus.
 
 **Le décrochage.** Pendant un refrain, la piste s'interrompt par erreur. Un bon pianiste ne suit pas la piste mais le click et le groupe. Il garde la pulsation, il fait signe au batteur, il reprend la piste dès qu'elle revient, sans se battre contre elle.
 
@@ -77,7 +77,7 @@ Vérifie : G3 = 196 Hz, B3 = 246,9 Hz, D4 = 293,7 Hz, G4 = 392 Hz. Les intervall
 
 ### 🟢 Palier 1 — Découverte
 
-Règle ton click à **72 BPM** avec un son clair et un volume discret. Joue C4 + E4 + G4 en blanches (une note par temps), seize mesures, en laissant le click seul entendre le temps. **Critère de réussite** : tu tiens la pulsation sur seize mesures, et un enregistrement montre que chaque accord tombe sur le temps à une tolérance d'environ 20 ms.
+Règle ton click à **72 BPM** avec un son clair et un volume discret. Joue C4 + E4 + G4 en rondes (un accord par mesure), seize mesures, en laissant le click seul entendre le temps. **Critère de réussite** : tu tiens la pulsation sur seize mesures, et un enregistrement montre que chaque accord tombe sur le temps à une tolérance d'environ 20 ms.
 
 ### 🟡 Palier 2 — Maîtrise
 

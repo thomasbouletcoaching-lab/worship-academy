@@ -36,13 +36,13 @@ Le slash est donc une information sur la basse : il dit au pianiste et au bassis
 - C majeur = C – E – G. Basse C : position fondamentale. Basse E : premier renversement, C/E. Basse G : deuxième renversement, C/G.
 - Recontrôle sur les demi-tons : de C à E, 4 demi-tons ; de E à G, 3 demi-tons ; de G à C, 5 demi-tons. La basse change, pas les intervalles de l'accord.
 
-**Le cas où la basse est étrangère.** C/B = B – C – E – G. Ici la basse Si est à un demi-ton sous le Do, et l'accord contient une septième majeure entre la basse et la fondamentale : l'effet est celui d'un Cmaj7 avec le B en basse, très utilisé pour créer une tension douce. Vérifie : B vers C = 1 demi-ton ; B vers E = 4 demi-tons ; B vers G = 7 demi-tons ; B vers C (aigu) = 1 demi-ton, donc la septième majeure ressort.
+**Le cas où la basse est étrangère.** C/B = B – C – E – G. Ici la basse Si est la septième majeure de Do, à un demi-ton sous l'octave. Vérifie depuis la fondamentale C : le B est à +11, le E à +4, le G à +7. L'effet est celui d'un Cmaj7 avec le B en basse, très utilisé pour créer une tension douce.
 
 **Am/G.** Le La mineur (A – C – E) sur Sol : G – A – C – E. Depuis G, la basse, on compte A à +2, C à +5 et E à +9. Le résultat est très proche d'un Am7, car le Sol (septième mineure du La) est présent. Un Am7 et un Am/G sont souvent interchangeables à l'oreille.
 
 **Descente de basse.** Un accord slash sert souvent à créer une ligne de basse qui descend par degrés, indépendamment des accords. On peut écrire C – C/B – Am – Am/G – F – G : la basse descend C, B, A, G, F, puis remonte vers G. Chaque accord slash est un renversement ou un accord proche de l'accord de base, ce qui garde la progression cohérente.
 
-**Cas limites.** Un slash mal compris peut créer une dissonance involontaire : F/B, par exemple, est une basse de Si sous un accord de Fa, et la note Si entre en tension avec la tierce de l'accord. Vérifie toujours si la basse proposée et l'accord X forment un intervalle de seconde ou de septième qui se résout bien.
+**Cas limites.** Un slash mal compris peut créer une dissonance involontaire : F/B, par exemple, place un Si en basse sous un accord de Fa ; l'intervalle entre B et F est un triton, très instable. Vérifie toujours si la basse proposée et l'accord X forment un intervalle de seconde ou de septième qui se résout bien.
 
 ## 4 · Au clavier
 

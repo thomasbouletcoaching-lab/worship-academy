@@ -43,7 +43,7 @@ Pense aussi à un chœur qui s'appuie sur une voix grave : les basses ne chanten
 
 **La descente et la montée.** Une ligne qui descend par degrés crée un sentiment de repos ou de confidence ; une ligne qui monte crée une attente et une énergie. Les deux se combinent bien : une basse qui descend sous une mélodie qui monte produit une tension très efficace.
 
-**Cas limites.** Une ligne de basse trop active peut devenir un obstacle pour le chanteur. Le registre grave a aussi ses limites : sous C2, la plupart des pianos sonnent déjà de façon confuse, et une basse qui saute trop vite entre deux registres perd sa lisibilité.
+**Cas limites.** Une ligne de basse trop active peut devenir un obstacle pour le chanteur. Le registre grave a aussi ses limites : dans le très grave, le son devient souvent confus, et une basse qui saute trop vite entre deux registres perd sa lisibilité.
 
 ## 4 · Au clavier
 
