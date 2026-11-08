@@ -71,7 +71,7 @@ La dominante altérée (G7(♭9)) est le moment de tension. Joue-la avant une mo
 
 Le Cmaj9 est la fin de phrase la plus lumineuse. La 9e D au-dessus de l'accord rend la résolution plus ouverte : tu peux la tenir pendant une mesure, pour une conclusion qui respire.
 
-Dans un set de louange où les tonalités changent, applique la recette dans la nouvelle tonalité sans chercher la note exacte à l'oreille : calcule la fondamentale du ii (un ton au-dessous de la tonique), puis la dominante (une quinte au-dessus du ii).
+Dans un set de louange où les tonalités changent, applique la recette dans la nouvelle tonalité sans chercher la note exacte à l'oreille : pars de la tonique, puis place le ii un ton au-dessus, et le V une quinte au-dessus de la tonique.
 
 ## 6 · Exercices
 

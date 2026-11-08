@@ -28,7 +28,7 @@ Dans un culte, on enchaîne souvent deux ou trois chants sans parole. Une transi
 
 ## 3 · Sous le capot
 
-Une transition repose sur un point commun entre la fin du premier chant et le début du second. Ce point peut être un accord, une note, ou une dominante qui annonce la nouvelle tonique. Quatre outils suffisent.
+Une transition repose sur un point commun entre la fin du premier chant et le début du second. Ce point peut être un accord, une note, ou une dominante qui annonce la nouvelle tonique. Quelques outils suffisent.
 
 **L'accord commun (pivot).** Le dernier accord du premier chant appartient à la tonalité du second. Exemple : le premier chant finit sur C (do) ; le second commence en Am (la mineur). C et Am partagent deux notes (C et E) : la transition est directe, sans pont.
 
@@ -92,13 +92,13 @@ Ne relie jamais deux chants avec un pont plus long que le temps d'attention de l
 
 ### 🟡 Palier 2 — Maîtrise
 
-**Tempo : 80 BPM.** Joue la transition 2 (C – A7 – D) puis la transition 3 (D – Em – D7 – G) en un seul enchaînement de huit mesures : C – A7 – D – Em – D7 – G – C (ou G – C pour finir).
+**Tempo : 80 BPM.** Joue la transition 2 (C – A7 – D) puis la transition 3 (D – Em – D7 – G) en un seul enchaînement de huit mesures : C – A7 – D – Em – D7 – G, puis G tenu deux mesures comme fin de transition.
 
 **Critère de réussite** : les deux transitions se suivent sans pause, la dominante de chaque nouvelle tonique est audible avant la tonique, et le pont total ne dépasse pas quatre mesures.
 
 ### 🔴 Palier 3 — Virtuose
 
-**Tempo : 100 BPM.** Relie trois chants fictifs : chant A en do (quatre mesures), transition par A7 vers ré, chant B en ré (quatre mesures), transition par Em et D7 vers sol, chant C en sol (quatre mesures). Une pédale de dominante deux mesures est jouée entre B et C.
+**Tempo : 100 BPM.** Relie trois chants fictifs : chant A en do (quatre mesures), transition par A7 vers ré, chant B en ré (quatre mesures), transition par Em et D7 vers sol, chant C en sol (quatre mesures). À la fin du chant B, tiens la note ré (D) deux mesures : c'est la dominante de sol, qui annonce le chant C.
 
 **Critère de réussite** : trois chants et deux transitions sans rupture audible, pédale tenue deux mesures, dynamique qui ne baisse pas, et fin nette sur la tonique de sol.
 
