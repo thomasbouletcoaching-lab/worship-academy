@@ -90,9 +90,9 @@ Le phrygien et le locrien sont les plus sombres : tu les utilises pour une suppl
 
 ## 7 · Oreille
 
-Pour percevoir la brillance, compare deux modes qui n'ont qu'une note de différence. Le lydien et l'ionien ne diffèrent que par le B au lieu du F : ce F contre F# est la différence. Joue F lydien (F, F#) puis C ionien (F), et écoute ce qui s'ouvre.
+Pour percevoir la brillance, compare deux modes qui n'ont qu'une note de différence. Le lydien et l'ionien, sur la même tonique C (Do), ne diffèrent que par la quatrième : F# (lydien) au lieu de F (ionien). Joue C lydien (C, D, E, F#, G, A, B) puis C ionien (C, D, E, F, G, A, B), et écoute ce qui s'ouvre.
 
-Pour le locrien, écoute la tension sur le Fa bémol : le Do quinte diminuée (F bémol sur B) sonne comme un voile.
+Pour le locrien, écoute la quinte diminuée : sur B, le F sonne comme un voile, et le C, la ♭2, crée une tension vers le haut.
 
 Test. Un ami joue deux fois un accord de Do, la première fois avec un F naturel (ionien), la seconde avec un F# (lydien, sur la même basse). Question : quelle version est la plus lumineuse ? Si tu sens que la seconde s'ouvre davantage, tu entends la #4 comme une lumière.
 
@@ -100,7 +100,7 @@ Test. Un ami joue deux fois un accord de Do, la première fois avec un F naturel
 
 1. **Penser que la brillance est une règle à suivre à la lettre.** L'échelle est un repère, pas une obligation. Correction : utilise-la pour décider d'une couleur, puis écoute le résultat dans le contexte.
 2. **Oublier que la basse change la couleur.** Un lydien sur une basse de mi mineur perd sa lumière. Correction : pose la tonique du mode dans la main gauche avant d'ajouter les tensions.
-3. **Confondre le mixolydien et le dorien.** Le premier a une 7e mineure, le second une 6e majeure et une 7e mineure. Correction : compte la sixième note avant de choisir.
+3. **Confondre le mixolydien et le dorien.** Les deux ont une 7e mineure, mais le mixolydien a une 3e majeure (B sur G) et le dorien une 3e mineure (F sur D). Correction : compte la tierce avant de choisir.
 4. **Ranger les modes par ordre alphabétique.** La brillance a un ordre physique, pas un ordre de nom. Correction : utilise le total des demi-tons pour classer.
 5. **Penser que le locrien est « mauvais ».** Il est simplement plus sombre et instable. Correction : réserve-le aux passages et aux transitions, pas au repos du chant.
 
