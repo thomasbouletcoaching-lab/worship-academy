@@ -58,7 +58,7 @@ Notation : le Do central est C4 (Do central). Notes utilisées : C3 (Do grave), 
 | D4 | MD | 1 |
 | B4 | MD | 3 |
 
-Exercice 1, Do majeur : la MG joue C3 (doigt 5) sur le temps 1 (noire), puis rien sur le temps 2. La MD plaque l'accord C4-E4-G4 (1-3-5) sur le « et » du temps 2, et le tient jusqu'au temps 3 (noire liée). Au temps 4, la MG rejoue C3. Lis-le en comptant « un, deux-et, trois, quatre » : la main droite attaque sur le « et », la main gauche tient le pouls.
+Exercice 1, Do majeur : la MG joue C3 (doigt 5) sur le temps 1 (noire), puis rien sur le temps 2. La MD plaque l'accord C4-E4-G4 (1-3-5) sur le « et » du temps 2, et le tient jusqu'au début du temps 4 (croche liée à une noire). Au temps 4, la MG rejoue C3. Lis-le en comptant « un, deux-et, trois, quatre » : la main droite attaque sur le « et », la main gauche tient le pouls.
 
 Exercice 2, Sol majeur : la MG joue G3 (doigt 5) sur le temps 1. La MD attaque B4 (doigt 3) sur le « et » du temps 2, la tient jusqu'au temps 3, puis joue D5 (doigt 5) sur le « et » du 3, tenu jusqu'au 4. La syncope est donc double : deux notes qui se déplacent par rapport au pouls. La MG reste sur G3 pour la pulsation.
 

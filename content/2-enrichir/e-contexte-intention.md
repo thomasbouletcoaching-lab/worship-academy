@@ -58,7 +58,7 @@ Le pianiste de louange ne cherche pas la « bonne note » dans l'absolu. Il cher
 
 Pour l'intimité, pose les trois notes serrées sur les doigts 1, 2 et 4, en gardant la main souple. Pour la victoire, la main gauche tient la fondamentale C3 (doigt 5), et la main droite pose E4, G4, C5 avec 1, 3, 5. Pour l'attente, la basse E2 se joue avec le petit doigt de la main gauche, et la main droite garde C4 et G4.
 
-**Exemple en Sol majeur (G).** Les trois intentions se transposent : G serré (G4 · B4 · D5), G ouvert (G3 · D4 · B4 · G4 · D5 en MD, la fondamentale en MG), G/B (basse B2, avec G et D au-dessus). Le principe est identique : seule la note de basse change le sens.
+**Exemple en Sol majeur (G).** Les trois intentions se transposent : G serré (G4 · B4 · D5), G ouvert (D4 · B4 · G4 · D5 en MD, G2 en MG), G/B (basse B2, avec G et D au-dessus). Le principe est identique : seule la note de basse change le sens.
 
 **Note sur la tonalité de référence.** En Do majeur, la basse E crée un intervalle de sixte mineure vers C ; c'est la raison pour laquelle C/E demande une résolution naturelle vers la tonique. En Sol majeur, G/B produit la même sixte mineure, de B2 vers G3 (8 demi-tons), qui attend elle aussi sa résolution vers la tonique.
 

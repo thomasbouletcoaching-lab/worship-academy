@@ -97,7 +97,7 @@ Choisir sa progression, c'est aussi tenir compte de la voix : si le chanteur n'a
 
 **Tempo : 80 BPM.** Choisis une progression d'intimité et une progression de repentance, en sol majeur (G). Joue chacune huit mesures, puis explique à voix haute pourquoi tu as choisi chaque accord.
 
-**Critère de réussite** : la progression d'intimité est transposée sans erreur ; la progression de repentance garde son E7 (avec G#) qui se résout sur la tonique mineure ; chaque accord a une fonction nommée.
+**Critère de réussite** : la progression d'intimité est transposée sans erreur ; la progression de repentance garde sa dominante (B7, avec D#) qui se résout sur la tonique mineure ; chaque accord a une fonction nommée.
 
 ### 🔴 Palier 3 — Virtuose
 

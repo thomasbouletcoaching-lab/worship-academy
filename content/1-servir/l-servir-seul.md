@@ -44,7 +44,7 @@ Attention : la transposition ne doit pas casser la boucle. C'est l'ordre des acc
 
 **Tonalité de référence : Do majeur (C).** Lettres anglo-saxonnes, C4 = Do central.
 
-**Enchaînement de base.** La boucle C – G – Am – F avec des triades en position serrée (doigts 1, 3, 5) : C = C4, E4, G4 ; G = G4, B4, D5 ; Am = C4, E4, A4 ; F = C4, F4, A4. La note G4 reste sous le doigt 5 pendant le passage C vers G, et la note C4 reste sous le doigt 1 pendant le passage Am vers F. Ces notes communes rendent la transition silencieuse.
+**Enchaînement de base.** La boucle C – G – Am – F avec des triades en position serrée (doigts 1, 3, 5) : C = C4, E4, G4 ; G = G4, B4, D5 ; Am = C4, E4, A4 ; F = C4, F4, A4. La note G4 reste en place pendant le passage C vers G, mais elle change de doigt : doigt 5 dans C, doigt 1 dans G, et la note C4 reste sous le doigt 1 pendant le passage Am vers F. Ces notes communes rendent la transition silencieuse.
 
 **Transposition en Ré majeur (D).** La boucle devient D – A – Bm – G. Mêmes doigtés (1, 3, 5), notes : D = D4, F♯4, A4 ; A = A3, C♯4, E4 ; Bm = B3, D4, F♯4 ; G = G3, B3, D4. Comme en Do, la boucle reste reconnaissable. Vérifions A majeur : A vers C♯ = 4, C♯ vers E = 3.
 

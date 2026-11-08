@@ -101,7 +101,7 @@ Joue la mélodie du palier 1 à 80 BPM, puis ajoute une note de passage F4 (Fa) 
 ### 🔴 Palier 3 — Virtuose
 
 En G majeur, joue la mélodie D5 – E5 – F#5 – G5 sur les accords G – C – D – G, à 96 BPM. Ensuite, invente deux variantes : une qui passe par B5 sur un temps fort de l'accord de G, et une qui utilise A5 sur un temps faible de l'accord de D. Chaque variante doit tenir huit mesures.
-**Critère de réussite** : huit mesures par variante, aucune note à risque sur temps fort sans justification (B5 sur G est sûre ; A5 sur D est une note de passage, sur temps faible uniquement) ; chant ou sifflement de la mélodie pendant l'exercice.
+**Critère de réussite** : huit mesures par variante, aucune note à risque sur temps fort sans justification (B5 sur G est sûre ; A5 sur D est sûre, c'est la quinte de D) ; chant ou sifflement de la mélodie pendant l'exercice.
 
 ## 7 · Oreille
 

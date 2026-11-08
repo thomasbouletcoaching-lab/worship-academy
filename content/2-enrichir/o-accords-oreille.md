@@ -74,7 +74,7 @@ Exercice 1, Do majeur : joue C majeur puis C mineur, en alternance, à la MD. Ch
 
 Exercice 2, Sol majeur : joue G3 à la MG (doigt 5), puis l'accord G4-B4-D5 à la MD (1-3-5). Ensuite, joue G mineur (G4-Bb4-D5) en changeant la tierce : B4 devient Bb4. Dans Sol majeur, le Bb ne fait pas partie de la gamme, mais il est présent dans l'accord mineur d'emprunt : c'est un bon moyen de sentir la couleur sans changer de tonalité.
 
-La tonalité de référence est Do majeur : tous les accords de base sont composés de touches blanches, à part le Mi bémol et le Si bémol. Ces deux notes noires sont la clé de la couleur mineure ou de la dominante. Vérifie-les à l'oreille avant de passer au test.
+La tonalité de référence est Do majeur : tous les accords de base sont composés de touches blanches, à part le Mi bémol, le Si bémol et le Sol bémol du diminué. Ces notes noires sont la clé de la couleur mineure ou de la dominante. Vérifie-les à l'oreille avant de passer au test.
 
 ## 5 · Dans la louange
 

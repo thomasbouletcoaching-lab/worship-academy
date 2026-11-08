@@ -74,7 +74,7 @@ Le pouce passe sous le 3e doigt sur G4, qui est la 4e note du mode.
 |---|---|---|---|---|---|---|---|---|
 | Doigt | 5 | 4 | 3 | 2 | 1 | 3 | 2 | 1 |
 
-Le pouce passe sous le 3e doigt sur A3, et le 3e doigt revient sur B3. Dans Do majeur, tous les modes qui partagent les touches blanches peuvent utiliser ces doigtés ; dans Sol majeur, le F# se joue de la même façon, il suffit de garder la main sur le même repère.
+Le 3e doigt passe par-dessus le pouce après A3 pour jouer B3. Dans Do majeur, tous les modes qui partagent les touches blanches peuvent utiliser ces doigtés ; dans Sol majeur, le F# se joue de la même façon, il suffit de garder la main sur le même repère.
 
 ## 5 · Dans la louange
 

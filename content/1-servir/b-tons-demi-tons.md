@@ -42,7 +42,7 @@ Chaque nombre entre parenthèses indique le nombre de demi-tons depuis C. Un ton
 
 **Vérification par le calcul.** De C à E : C (0) puis D (2), E (4). Donc 4 demi-tons, soit deux tons. De E à F : 5 − 4 = 1 demi-ton. De F à G : 7 − 5 = 2 demi-tons, un ton. Tous les calculs se font par soustraction des valeurs du tableau ci-dessus. Vérifie toujours deux fois avec le tableau : c'est une erreur fréquente.
 
-**Cas limites.** Un intervalle de 12 demi-tons (C vers C) est l'octave. Un intervalle de 0 demi-ton (C vers C) est l'unisson, c'est-à-dire la même note. Un demi-ton peut aussi s'écrire entre deux noires consécutives : C# vers D, D vers D# ; dans ce cas, la lettre change mais le nombre de demi-tons reste 1.
+**Cas limites.** Un intervalle de 12 demi-tons (C vers C) est l'octave. Un intervalle de 0 demi-ton (C vers C) est l'unisson, c'est-à-dire la même note. Un demi-ton peut aussi s'écrire entre une touche noire et une touche blanche voisines : C# vers D, D vers D# ; dans ce cas, la lettre change mais le nombre de demi-tons reste 1.
 
 ## 4 · Au clavier
 

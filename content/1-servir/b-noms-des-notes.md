@@ -24,7 +24,7 @@ duree_min: 25
 
 Imagine une liste de prénoms qui se répète : Do, Ré, Mi, Fa, Sol, La, Si, puis de nouveau Do. C'est le même ordre que celui des lettres C, D, E, F, G, A, B, puis C. Le solfège (Do Ré Mi) et la notation anglo-saxonne (C D E) sont deux manières d'appeler les mêmes sept marches d'un escalier. En louange, on parle souvent en Do, Ré, Mi, mais les partitions, les logiciels, les grilles d'accords et les musiciens internationaux utilisent les lettres. Il faut donc savoir passer de l'un à l'autre sans effort.
 
-Le numéro d'octave joue le rôle d'un étage. Le Do central du piano est C4. Le premier Do du clavier, tout en grave, est C0 ; compter les étages, c'est donc compter les Do. Le C qui suit, C5, porte le même nom, un étage plus haut.
+Le numéro d'octave joue le rôle d'un étage. Le Do central du piano est C4. Le premier Do complet du piano, tout en grave, est C1 (la touche la plus basse est A0) ; compter les étages, c'est donc compter les Do. Le C qui suit, C5, porte le même nom, un étage plus haut.
 
 Pour les touches noires, on ajoute un signe. Le dièse (#) monte d'un demi-ton, le bémol (b) descend d'un demi-ton. La touche noire juste à droite du Do s'appelle donc C# (Do dièse) ou Db (Ré bémol) : c'est la même touche, deux noms possibles.
 

@@ -69,7 +69,7 @@ Donc Bdim7 = B – D – F – Ab. Recontrôle : chaque intervalle entre deux no
 
 **Exemple 2, en Do majeur : vii°7 – I.** Bdim7 pendant une mesure, puis C pendant trois mesures. Le dim7 mène naturellement à la tonique, car sa fondamentale est un demi-ton sous le Do, et la septième diminuée (Ab) peut descendre vers G.
 
-**Repère.** Ab se trouve une touche noire à droite du Sol et deux touches blanches au-dessous du La : c'est la note juste au-dessus du Sol. Sur le clavier, un dim7 se joue facilement en mains séparées.
+**Repère.** Ab se trouve une touche noire à droite du Sol, juste à gauche du La : c'est la note juste au-dessus du Sol. Sur le clavier, un dim7 se joue facilement en mains séparées.
 
 ## 5 · Dans la louange
 

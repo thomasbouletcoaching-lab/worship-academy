@@ -99,7 +99,7 @@ Test. Un ami joue C puis F, puis C ou Fm, puis C. Question : le deuxième accord
 
 1. **Emprunter sans fil conducteur.** Un Ab qui arrive sans préparation peut sembler une faute. Correction : lie l'emprunt à une note commune (C ou E) ou à un mouvement de basse conjoint.
 2. **Confondre ♭VII et V7.** Le Bb n'est pas une dominante de Do : il ne résout pas vers le Do. Correction : n'attends pas de tension à résoudre, joue-le comme une couleur qui retourne à la tonique.
-3. **Mal écrire la tierce du ♭III.** Eb (et non E) est la tierce de Mi bémol majeur. Correction : vérifie les trois notes de l'accord avant de jouer.
+3. **Mal écrire la fondamentale du ♭III.** Eb (et non E) est la fondamentale de Mi bémol majeur. Correction : vérifie les trois notes de l'accord avant de jouer.
 4. **Emprunter trop souvent.** Trois emprunts en huit mesures brouillent la tonalité. Correction : garde un seul emprunt par phrase musicale.
 5. **Oublier la basse.** Un Fm joué avec la fondamentale en main droite perd son sens. Correction : la fondamentale doit toujours être la note la plus basse, en main gauche.
 

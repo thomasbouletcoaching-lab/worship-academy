@@ -62,7 +62,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : tonalité de C majeu
 | Do augmenté | C4 – E4 – G#4 | 1 – 3 – 5 |
 | Do diminué | C4 – Eb4 – Gb4 | 1 – 3 – 5 |
 
-**Main gauche, les mêmes accords une octave plus bas.** Pouce sur la fondamentale, auriculaire sur la quinte, en lisant de bas en haut : C3 est doigt 5, E3 doigt 3, G3 doigt 1. La triade est jouée en partant de l'auriculaire pour la fondamentale grave.
+**Main gauche, les mêmes accords une octave plus bas.** Auriculaire sur la fondamentale, pouce sur la quinte, en lisant de bas en haut : C3 est doigt 5, E3 doigt 3, G3 doigt 1. La triade est jouée en partant de l'auriculaire pour la fondamentale grave.
 
 **Exemples dans deux tonalités.** En C majeur, les accords de base sont : C majeur (C – E – G), F majeur (F – A – C), G majeur (G – B – D). En G majeur, la même logique donne G majeur (G – B – D), C majeur (C – E – G), D majeur (D – F# – A). On voit qu'une même triade majeure revient dans plusieurs tonalités, avec les mêmes intervalles.
 

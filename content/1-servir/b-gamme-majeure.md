@@ -52,7 +52,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : C majeur (Do majeur)
 
 **Gamme de C4 à C5 (Do majeur).** C4 (Do), D4 (Ré), E4 (Mi), F4 (Fa), G4 (Sol), A4 (La), B4 (Si), C5 (Do). Main droite, doigts 1, 2, 3, 1, 2, 3, 4, 5 ; cette suite est détaillée à la fiche « Doigtés des gammes ».
 
-**Gamme de G3 à G4 (Sol majeur).** G3, A3, B3, C4, D4, E4, F#4, G4. Les touches noires se limitent à F#4, qui se joue avec la main droite au doigt 4 dans la position de la gamme. Dans le même esprit, la gamme de F majeur commence sur F3 et utilise Bb3 (touche noire entre A et C).
+**Gamme de G3 à G4 (Sol majeur).** G3, A3, B3, C4, D4, E4, F#4, G4. Les touches noires se limitent à F#4, qui se joue avec la main droite au doigt 4 dans la position de la gamme. Dans le même esprit, la gamme de F majeur commence sur F3 et utilise Bb3 (touche noire entre A et B).
 
 **Exemples dans deux tonalités.**
 

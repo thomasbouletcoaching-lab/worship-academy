@@ -45,7 +45,7 @@ Les deux types contiennent les mêmes notes, mais dans un ordre différent. Le t
 
 **Le rôle des notes.** La tierce et la septième sont les notes qui déterminent la qualité de l'accord. La neuvième ajoute la couleur, et la quinte peut être retirée sans problème. La fondamentale est absente parce que l'autre musicien la joue ; l'oreille la reconstruit par contexte.
 
-**Cas limites.** Sans fondamentale, un voicing rootless peut être ambigu : F – A – C – E peut être Dm7 ou F maj7 ou Am7 avec C en basse. Le contexte harmonique (la basse jouée ailleurs, la progression) décide. D'où l'importance de jouer rootless seulement quand la basse est assurée par un autre instrument, ou quand la progression est très claire.
+**Cas limites.** Sans fondamentale, un voicing rootless peut être ambigu : F – A – C – E peut être Dm7 ou Fmaj7, selon la basse. Le contexte harmonique (la basse jouée ailleurs, la progression) décide. D'où l'importance de jouer rootless seulement quand la basse est assurée par un autre instrument, ou quand la progression est très claire.
 
 ## 4 · Au clavier
 

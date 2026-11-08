@@ -118,7 +118,7 @@ Test. Un ami joue un G7 avec ou sans Ab. Question : l'accord contient-il une ten
 
 1. **Mettre la 9e à la basse.** Une 9e dans la main gauche change la fondamentale et brouille la fonction. Correction : garde la racine en basse, la 9e dans les voix supérieures.
 2. **Utiliser la 11e naturelle sur la dominante.** Le C sur G7 frotte le B. Correction : remplace-la par la ♯11 (C# sur G7), ou ne l'utilise pas.
-3. **Oublier la ♭9 en transposant.** Dans une nouvelle tonalité, la ♭9 suit la dominante : sur F, c'est Gb sur C7. Correction : calcule un demi-ton au-dessus de la fondamentale.
+3. **Oublier la ♭9 en transposant.** Dans une nouvelle tonalité, la ♭9 suit la dominante : sur F, c'est Db sur C7. Correction : calcule un demi-ton au-dessus de la fondamentale.
 4. **Enrichir sans changer la fonction.** Un Dm9 qui devient un Dm7(♭5) ne prépare plus la dominante. Correction : garde le mineur 7 pour le ii, ajoute la 9e sans toucher à la tierce.
 5. **Empiler toutes les tensions en même temps.** Un accord à cinq couleurs fatigue l'oreille. Correction : choisis une ou deux extensions par accord, pas plus.
 

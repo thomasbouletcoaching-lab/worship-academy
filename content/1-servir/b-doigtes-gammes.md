@@ -36,7 +36,7 @@ Le principe est simple : le pouce passe toujours sous le majeur (main droite, en
 
 **Le miroir de la main gauche.** La main gauche joue en miroir : elle monte avec les doigts 5-4-3-2-1 puis 3-2-1 (le majeur passe sur le pouce). Pour descendre, la main gauche applique la règle inverse, comme la main droite le fait en montée.
 
-**La séquence de la gamme de C majeur.** En main droite, montée de C4 à C5 : C (1), D (2), E (3), F (1), G (2), A (3), B (4), C (5). Descente de C5 à C4 : C (5), B (4), A (3), G (2), F (1), E (3), D (2), C (1). En main gauche : montée de C3 à C4, C (5), D (4), E (3), F (2), G (1), A (3), B (2), C (1). Descente : C (1), D (2), E (3), F (1), G (2), A (3), B (4), C (5).
+**La séquence de la gamme de C majeur.** En main droite, montée de C4 à C5 : C (1), D (2), E (3), F (1), G (2), A (3), B (4), C (5). Descente de C5 à C4 : C (5), B (4), A (3), G (2), F (1), E (3), D (2), C (1). En main gauche : montée de C3 à C4, C (5), D (4), E (3), F (2), G (1), A (3), B (2), C (1). Descente, de C4 vers C3 : C (1), B (2), A (3), G (1), F (2), E (3), D (4), C (5).
 
 **La gamme de G majeur.** En main droite, montée de G4 à G5 : G (1), A (2), B (3), C (1), D (2), E (3), F# (4), G (5). Le schéma reste proche de celui de C majeur, car les demi-tons tombent aux mêmes positions relatives (3-4 et 7-8 dans la gamme). Le F# se joue au doigt 4, car il est à un demi-ton de G.
 

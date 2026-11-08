@@ -60,7 +60,7 @@ Tonalité de référence : Do majeur. Les doigtés suivent la règle habituelle 
 | MD | E4 (64) | 1 (pouce) | tierce, posée sur le trou central |
 | MD | B4 (71) | 5 (auriculaire) | septième majeure, voix du dessus |
 
-Le geste est confortable : la MG tient une quinte juste (7 demi-tons, 5-1 sans effort) et la MD une septième (B4 moins E4 fait 7 demi-tons, en 1-5). Aucun croisement de mains n'est nécessaire, car le trou entre G3 et E4 sépare clairement les deux blocs.
+Le geste est confortable : la MG tient une quinte juste (7 demi-tons, 5-1 sans effort) et la MD une quinte aussi (B4 moins E4 fait 7 demi-tons, en 1-5). Aucun croisement de mains n'est nécessaire, car le trou entre G3 et E4 sépare clairement les deux blocs.
 
 **Fmaj7 en drop 2-4 (F3, C4, A4, E5), tonalité de Fa**
 

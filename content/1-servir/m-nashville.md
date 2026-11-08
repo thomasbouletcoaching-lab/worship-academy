@@ -56,7 +56,7 @@ Notes avec octave (C4 = Do central). Chaque grille est donnée en chiffres puis 
 
 **Grille « 1 5 6m 4 » en D.** D – A – Bm – G. Main gauche : D2, A2, B2, G2. Main droite : D3 – F#3 – A3 ; A3 – C#4 – E4 ; B3 – D4 – F#4 ; G3 – B3 – D4. Vérification de Bm : B3 vers D4 = 3 demi-tons (tierce mineure), D4 vers F#4 = 4 (tierce majeure), B3 vers F#4 = 7 (quinte juste).
 
-**Note sur la tonalité de référence.** La grille en C est la référence de la formation : aucune altération. En D, la grille fait apparaître F# et C#, qu'il faut anticiper : F# dans D et Bm, C# dans A et Bm. Nomme les notes avant de jouer, surtout en transposition.
+**Note sur la tonalité de référence.** La grille en C est la référence de la formation : aucune altération. En D, la grille fait apparaître F# et C#, qu'il faut anticiper : F# dans D et Bm, C# dans A. Nomme les notes avant de jouer, surtout en transposition.
 
 ## 5 · Dans la louange
 

@@ -49,7 +49,7 @@ La quarte juste est consonante en soi, mais elle devient instable quand elle se 
 | Tension | Doigtés MD | Résolution | Doigtés MD | Mouvement |
 |---|---|---|---|---|
 | C sus4 : C4 · F4 · G4 | 1 · 3 · 5 | C majeur : C4 · E4 · G4 | 1 · 3 · 5 | F4 vers E4, −1 demi-ton |
-| G7 : G4 · B4 · D5 · F5 | 1 · 2 · 4 · 5 | C majeur : C5 · E4 · G4 | 1 · 3 · 5 | F5 vers E5, B4 vers C5 |
+| G7 : G4 · B4 · D5 · F5 | 1 · 2 · 4 · 5 | C majeur : G4 · C5 · E5 | 1 · 3 · 5 | F5 vers E5, B4 vers C5 |
 
 Pour jouer G7 vers C en main droite, pose le pouce sur G4 et le deuxième doigt sur B4. Le F5 demande le cinquième doigt, qu'il faut relever pour aller sur E5. Vérifie que la résolution se fait sans bouger la main.
 

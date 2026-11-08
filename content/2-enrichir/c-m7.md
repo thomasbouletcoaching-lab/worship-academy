@@ -57,7 +57,7 @@ Donc Cm7 = C – Eb – G – Bb. Recontrôle : de Eb à G il y a 4 demi-tons (E
 | Am7 | A2 | C4, E4, G4 | MG 5 ; MD 1-3-5 |
 | Em7 (en Sol) | E2 | G4, B4, D5 | MG 5 ; MD 1-3-5 |
 
-**Exemple 1, en Do majeur : ii – vi.** Dm7 pendant quatre temps, puis Am7 pendant quatre temps. Les deux accords partagent F, A et C si l'on regarde l'ensemble des notes : garde la main droite près du même registre pour que l'enchaînement reste compact.
+**Exemple 1, en Do majeur : ii – vi.** Dm7 pendant quatre temps, puis Am7 pendant quatre temps. Les deux accords partagent A et C : garde la main droite près du même registre pour que l'enchaînement reste compact.
 
 **Exemple 2, en Sol majeur : ii – vi – iii.** Dans Sol majeur (G), les accords mineurs 7 sont Am7 (ii), Em7 (vi) et Bm7 (iii). Joue Am7 puis Em7 : la basse passe de A2 à E2, la main droite joue G4, B4, D5 sur Em7.
 

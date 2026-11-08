@@ -71,7 +71,7 @@ Note : la version de l'accord de La mineur en position fondamentale est A4-C5-E5
 
 Exercice 1, Do majeur : joue I (C), IV (F), V (G), I (C), à la MD, sur chaque temps. Chante le numéro du degré à voix haute en le jouant : « un, quatre, cinq, un ». La main gauche, en MG, joue la fondamentale sur le temps : C3 pour I, F3 pour IV, G3 pour V, C3 pour I.
 
-Exercice 2, Sol majeur : la tonique est G. Joue I (G majeur : G4-B4-D5), IV (C majeur : C4-E4-G4), V (D majeur : D4-F#4-A4), vi (E mineur : E4-G4-B4). Ici, la tonalité change tous les accords : le degré est le repère, pas la note.
+Exercice 2, Sol majeur : la tonique est G. Joue I (G majeur : G4-B4-D5), IV (C majeur : C4-E4-G4), V (D majeur : D4-F#4-A4), vi (E mineur : E4-G4-B4). Ici, la fondamentale change à chaque accord : le degré est le repère, pas la note.
 
 La tonalité de référence est Do majeur. C'est le terrain le plus simple : tu peux vérifier chaque degré sur les touches blanches, et tu entends immédiatement le passage du IV au V. En Sol majeur, le fa dièse apparaît sur le V et change la couleur de la tension.
 

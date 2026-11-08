@@ -78,7 +78,7 @@ Vérification des intervalles : la voix haute forme avec la voix intermédiaire 
 
 ### 🟢 Palier 1 — Découverte
 
-Joue, en main droite, l'accord C4 – E4 – G4 puis l'accord F4 – A4 – C5, à 60 BPM. La note C garde la même place (voix haute C5 dans les deux accords) ; seules E4 et G4 bougent. Répète le passage plusieurs fois, en laissant la note commune sonner.
+Joue, en main droite, l'accord C4 – E4 – G4 puis l'accord C4 – F4 – A4, à 60 BPM. La note C4 garde la même place (note commune des deux accords) ; seules E4 et G4 bougent, vers F4 et A4. Répète le passage plusieurs fois, en laissant la note commune sonner.
 **Critère de réussite** : huit passages de I à IV sans saut de la voix haute, avec un mouvement de E vers F et de G vers A uniquement.
 
 ### 🟡 Palier 2 — Maîtrise

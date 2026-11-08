@@ -65,7 +65,7 @@ Pour la basse MG, joue la fondamentale de chaque accord au doigt 5 : C3, A2, F3,
 |---|---|---|---|---|---|
 | G | G | G4 – B4 – D5 | 1 – 3 – 5 | | |
 | G → Em | Em | G4 – B4 – E5 | 1 – 3 – 5 | G4, B4 | D5 → E5 (un ton) |
-| Em → C | C | E4 – G4 – C5 | 1 – 3 – 5 | E4, G4 | B4 → C5 (un demi-ton) |
+| Em → C | C | E4 – G4 – C5 | 1 – 3 – 5 | G4 ; E5 descend en E4 | B4 → C5 (un demi-ton) |
 | C → D | D | D4 – F#4 – A4 | 1 – 3 – 5 | aucune | triade déplacée d'un ton |
 
 Dans la tonalité de G, le Fa dièse (F#4) apparaît dès l'accord de D : c'est la marque du passage à une tonalité à un dièse. Vérifie avant le set que le chanteur connaît ce dièse, ou prévois une transposition d'avance.

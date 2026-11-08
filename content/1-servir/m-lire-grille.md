@@ -89,7 +89,7 @@ Lis la grille de huit mesures suivante à 80 BPM : | C | G Am | F | G | C | Am F
 
 ### 🔴 Palier 3 — Virtuose
 
-Lis la grille de douze mesures, dite « blues en triades », à 96 BPM, puis joue-la deux fois sans arrêt : | C | C | C | C | F | F | C | C | G | F | C | G |. Chaque accord occupe une mesure entière. À la fin de la deuxième reprise, marque une pause sur le dernier accord, comme une fin de chant.
+Lis la grille de douze mesures, dite « blues en triades », à 96 BPM, puis joue-la deux fois sans arrêt : | C | C | C | C | F | F | C | C | G | F | C | C |. Chaque accord occupe une mesure entière. À la fin de la deuxième reprise, marque une pause sur le dernier accord, comme une fin de chant.
 **Critère de réussite** : deux passages complets de douze mesures sans arrêt, changements d'accords sur les bons temps, et une fin nette sur C.
 
 ## 7 · Oreille

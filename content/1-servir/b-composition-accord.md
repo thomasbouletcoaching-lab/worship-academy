@@ -50,7 +50,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : tonalité de C majeu
 
 **Construire C mineur.** Fondamentale C4. Tierce : trois demi-tons plus haut, Eb4 (Mi bémol). Quinte : G4. Résultat : C4 – Eb4 – G4, en main droite : 1-3-5. La seule différence avec le majeur est la tierce : une touche noire en moins de distance.
 
-**Dans la tonalité de G majeur.** Fondamentale G3, tierce B3, quinte D4 : G3 – B3 – D4 (accord de Sol majeur). Pour la mineure, G3 – Bb3 – D4 (Sol mineur). Dans ces deux exemples, la main gauche peut tenir la fondamentale G2 (une octave plus bas), la main droite le reste, pour un accord plus large.
+**Dans la tonalité de G majeur.** Fondamentale G3, tierce B3, quinte D4 : G3 – B3 – D4 (accord de Sol majeur). Pour la mineure, G3 – Bb3 – D4 (Sol mineur, avec un Bb hors de la gamme de G majeur). Dans ces deux exemples, la main gauche peut tenir la fondamentale G2 (une octave plus bas), la main droite le reste, pour un accord plus large.
 
 **Note sur la tonalité de référence.** Dans C majeur, les trois accords fondamentaux sont C (C – E – G), F (F – A – C) et G (G – B – D). Chacun se construit par le même empilement de tierces ; c'est une règle, pas un tableau à mémoriser.
 

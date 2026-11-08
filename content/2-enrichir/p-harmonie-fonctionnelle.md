@@ -38,7 +38,7 @@ Dans Do majeur, voici les accords : C (I), Dm (ii), Em (iii), F (IV), G (V), Am 
 
 **La tension de la dominante.** L'accord de G (G, B, D) peut être enrichi en septième de dominante : G7 = G, B, D, F. Vérifions les intervalles : G vers B = 4 demi-tons (tierce majeure), B vers D = 3 (tierce mineure), D vers F = 3 (tierce mineure). Le F est la septième de l'accord. Il est à 10 demi-tons de G, donc une septième mineure.
 
-**Le tritone.** Entre B (la note sensible) et F (la septième), l'intervalle est de 6 demi-tons : c'est le triton, le son le plus instable de la musique tonale. Il réclame sa résolution. Le B monte d'un demi-ton vers C (B = 11, C = 12, un demi-ton). Le F descend d'un demi-ton vers E (F = 5, E = 4). Ces deux mouvements amènent G7 vers C (C, E, G), et la tonique est atteinte.
+**Le triton.** Entre B (la note sensible) et F (la septième), l'intervalle est de 6 demi-tons : c'est le triton, le son le plus instable de la musique tonale. Il réclame sa résolution. Le B monte d'un demi-ton vers C (B = 11, C = 12, un demi-ton). Le F descend d'un demi-ton vers E (F = 5, E = 4). Ces deux mouvements amènent G7 vers C (C, E, G), et la tonique est atteinte.
 
 **Pourquoi ça marche.** Chaque fonction crée une attente. La sous-dominante s'éloigne de la tonique ; la dominante tend vers la tonique ; la tonique apaise. Les progressions les plus solides suivent l'ordre T – S – D – T, ou son raccourci T – D – T. Une progression qui inverse le sens (D vers S) peut sonner intéressante, mais elle n'est pas « fonctionnelle » au sens strict.
 

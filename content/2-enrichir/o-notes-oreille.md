@@ -32,7 +32,7 @@ Il existe deux grandes façons de reconnaître une note : l'oreille absolue, qui
 
 **La gamme chromatique.** Entre deux octaves, il y a douze demi-tons. En partant du C (Do), on obtient : C, C#/Db (Do dièse / Ré bémol), D, D#/Eb, E, F, F#/Gb, G, G#/Ab, A, A#/Bb, B, puis C à l'octave. Chaque pas est un demi-ton, et le cycle se répète à l'octave.
 
-**Les fréquences.** La note de référence internationale est le La 3 (A4 en notation anglo-saxonne), fixé à 440 Hz. Chaque demi-ton multiplie la fréquence par 2 à la puissance 1/12, soit environ 1,0595. Une octave, douze demi-tons, double la fréquence. Quelques valeurs utiles : C4 (Do central) vaut environ 261,6 Hz ; E4 environ 329,6 Hz ; G4 environ 392,0 Hz ; A4 440 Hz ; B4 environ 493,9 Hz ; C5 environ 523,3 Hz.
+**Les fréquences.** La note de référence internationale est le La 4 (A4 en notation anglo-saxonne), fixé à 440 Hz. Chaque demi-ton multiplie la fréquence par 2 à la puissance 1/12, soit environ 1,0595. Une octave, douze demi-tons, double la fréquence. Quelques valeurs utiles : C4 (Do central) vaut environ 261,6 Hz ; E4 environ 329,6 Hz ; G4 environ 392,0 Hz ; A4 440 Hz ; B4 environ 493,9 Hz ; C5 environ 523,3 Hz.
 
 **Ce qui se mesure.** En partant de C4 (261,6 Hz) jusqu'à G4 (392,0 Hz), on monte de 7 demi-tons : c'est la quinte juste. De C4 à E4, on monte de 4 demi-tons : la tierce majeure. De C4 à A4, on monte de 9 demi-tons : la sixte majeure. Ces écarts sont les intervalles, et reconnaître un intervalle, c'est reconnaître une distance en demi-tons. Reconnaître une note, c'est donc retrouver sa distance par rapport à un point de départ.
 

@@ -30,13 +30,13 @@ Le poly-accord fait exactement cela au clavier. La main gauche joue un accord co
 
 Un poly-accord s'écrit « X/Y » : l'accord X est le dessus, l'accord Y est la basse, ou plus exactement l'accord posé sur la basse. Pour déterminer la couleur résultante, on réunit les notes des deux accords et l'on regarde ce qui en sort.
 
-Premier exemple : D/C, c'est-à-dire une triade de Ré majeur (D, F#, A) au-dessus d'une triade de Do majeur (C, E, G). La triade du bas donne C, E, G. La triade du haut donne D, F#, A. La réunion donne C, D, E, F#, G, A. Cette collection de notes est exactement la gamme de Do lydien, sans la septième (B). Calculons les intervalles depuis C : D est à 2 demi-tons (neuvième), E à 4 (tierce majeure), F# à 6 (onzième augmentée), G à 7 (quinte juste), A à 9 (treizième). On obtient donc Cmaj13(#11) sans septième, une couleur lumineuse et ouverte.
+Premier exemple : D/C, c'est-à-dire une triade de Ré majeur (D, F#, A) au-dessus d'une triade de Do majeur (C, E, G). La triade du bas donne C, E, G. La triade du haut donne D, F#, A. La réunion donne C, D, E, F#, G, A. Cette collection de notes est exactement la gamme de Do lydien, sans la septième (B). Calculons les intervalles depuis C : D est à 2 demi-tons (neuvième), E à 4 (tierce majeure), F# à 6 (onzième augmentée), G à 7 (quinte juste), A à 9 (treizième). On obtient donc C(13, #11), un accord sans septième à la couleur lumineuse et ouverte.
 
 Deuxième exemple, plus typique de la louange : Dm/G, c'est-à-dire une triade de Ré mineur (D, F, A) au-dessus d'une triade de Sol majeur (G, B, D). La réunion donne G, B, D, F, A. Depuis G : B est à 4 demi-tons (tierce majeure), D à 7 (quinte juste), F à 10 (septième mineure), A à 14 (neuvième, soit 2 + 12). La réunion est donc G9, un accord de dominante avec neuvième. Vérifions les intervalles dans la triade de Ré mineur : D vers F fait 3 demi-tons (tierce mineure, 65 - 62 = 3), F vers A fait 4 demi-tons (tierce majeure, 69 - 65 = 4). Triade mineure confirmée. Et dans la triade de Sol majeur : G vers B fait 4, B vers D fait 3 ; la triade est bien majeure.
 
 Troisième exemple, dans une autre tonalité : en Sol majeur, D/G, c'est-à-dire une triade de Ré majeur (D, F#, A) au-dessus de Sol majeur (G, B, D). La réunion donne G, B, D, F#, A. Depuis G : B (tierce majeure), D (quinte), F# (septième majeure, 11 demi-tons), A (neuvième, 14 demi-tons). On obtient Gmaj9 : l'accord de tonique de Sol, en version étendue. C'est un moyen simple de rendre le I plus riche sans le transformer.
 
-Pourquoi cela fonctionne-t-il ? Parce que chacun des deux accords est complet, et que leurs notes se complètent. Si les deux triades partagent beaucoup de notes, la réunion est pauvre ; si elles n'en partagent aucune, le résultat sonne comme deux accords qui s'affrontent. Le bon poly-accord a une identité qu'on peut nommer. Ici, D/C donne Cmaj13(#11), Dm/G donne G9, et D/G donne Gmaj9.
+Pourquoi cela fonctionne-t-il ? Parce que chacun des deux accords est complet, et que leurs notes se complètent. Si les deux triades partagent beaucoup de notes, la réunion est pauvre ; si elles n'en partagent aucune, le résultat sonne comme deux accords qui s'affrontent. Le bon poly-accord a une identité qu'on peut nommer. Ici, D/C donne C(13, #11), Dm/G donne G9, et D/G donne Gmaj9.
 
 Cas limite : la différence de registre. Si les deux accords sont trop proches, le son se brouille. Il faut une distance nette entre la basse de l'accord du bas et la note la plus grave de l'accord du haut, et une octave est généralement un bon repère.
 
@@ -112,7 +112,7 @@ Petit test : demande à un ami de jouer Dm/G ou D/G, sans te prévenir. Tu répo
 
 ## 8 · Erreurs fréquentes
 
-1. **Superposer deux accords au hasard.** Deux accords choisis sans regarder leur réunion donnent un son confus. Correction : nomme la réunion des notes, et vérifie qu'elle a une identité claire (G9, Gmaj9, Cmaj13(#11)).
+1. **Superposer deux accords au hasard.** Deux accords choisis sans regarder leur réunion donnent un son confus. Correction : nomme la réunion des notes, et vérifie qu'elle a une identité claire (G9, Gmaj9, C(13, #11)).
 2. **Jouer les deux accords au même registre.** Le son se brouille. Correction : laisse une octave entre la note la plus grave du dessus et la note la plus aiguë du dessous.
 3. **Oublier la basse.** Sans la fondamentale à gauche, le poly-accord flotte. Correction : la MG tient toujours la basse de l'accord du bas.
 4. **Jouer le dessus trop fort.** Il écrase la fondation. Correction : joue la MD plus doucement, la MG garde le volume.

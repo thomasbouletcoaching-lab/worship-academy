@@ -52,7 +52,7 @@ Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (
 
 **L'accord slash.** Quand la basse n'est pas la fondamentale, on écrit le nom de l'accord, puis une barre oblique, puis la note de basse. C/E = accord de C dont la basse est E (notes E, G, C dans le grave-aigu). C/G = accord de C avec G à la basse (G, C, E). Vérification : le contenu reste C – E – G, seule la basse change.
 
-**Les cas piégeux.** Le sus2 et le sus4 peuvent ressembler à un accord mineur ou majeur si l'on n'entend pas la tierce. Csus4 (C – F – G) ne contient pas de E : il est ouvert, il attend une résolution vers la tierce. Un E G# C est un Eaug, pas un E majeur : la quinte est augmentée.
+**Les cas piégeux.** Le sus2 et le sus4 peuvent ressembler à un accord mineur ou majeur si l'on n'entend pas la tierce. Csus4 (C – F – G) ne contient pas de E : il est ouvert, il attend une résolution vers la tierce. Un E G# C est un C augmenté (C/E), pas un E majeur : la quinte, de C à G#, est augmentée.
 
 **Les septièmes.** Ce qui suit la triade (septième, neuvième) fera l'objet d'une étude séparée. Pour l'instant, reste sur les triades et les sus.
 

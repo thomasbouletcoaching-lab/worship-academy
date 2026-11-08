@@ -44,7 +44,7 @@ Les sept modes se calculent à partir de cette gamme, avec le même principe que
 | Locrien ♮2 | A (La) | A B C D Eb F G | T S T S T T T | 0 2 3 5 6 8 10 | Am7 ♭5 9 (A C Eb G, B) |
 | Super-locrien | B (Si) | B C D Eb F G A | S T S T T T T | 0 1 3 4 6 8 10 | Bm7♭5 (B D F A) avec tensions ♭9 (C) et ♭13 (G) |
 
-Chaque ligne de formule se vérifie note à note. Pour le lydien dominant : F → G = 2, G → A = 2, A → B = 2, B → C = 1, C → D = 2, D → Eb = 1, Eb → F = 2. Total : 12. Comme la formule est en demi-tons, tu peux vérifier chaque ligne en comptant les touches noires ; une seule touche noire entre deux touches blanches voisines = un demi-ton.
+Chaque ligne de formule se vérifie note à note. Pour le lydien dominant : F → G = 2, G → A = 2, A → B = 2, B → C = 1, C → D = 2, D → Eb = 1, Eb → F = 2. Total : 12. Comme la formule est en demi-tons, tu peux vérifier chaque ligne en comptant les touches noires ; deux touches blanches voisines sans touche noire entre elles forment un demi-ton ; avec une noire entre elles, c'est un ton.
 
 Pourquoi ça marche. Le lydien dominant contient le B (la 11e augmentée, ou #4) sur un accord de dominante : le F7 garde sa force de dominante tout en ajoutant une couleur lumineuse. Le mixolydien ♭6 (G, avec Eb) fait sonner un G7 de façon plus sombre et inquiétante : c'est le sol dominant dont la 13e est mineure.
 
