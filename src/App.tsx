@@ -6,6 +6,8 @@ import ChordDictionary from './features/chords/ChordDictionary';
 import NashvillePage from './features/nashville/NashvillePage';
 import EarTrainer from './features/ear/EarTrainer';
 import VirtualBand from './features/band/VirtualBand';
+import PadPage from './features/pad/PadPage';
+import FrequencesPage from './features/frequences/FrequencesPage';
 
 const fiches = loadFiches();
 const NIVEAUX = [
@@ -50,6 +52,8 @@ function Shell({ children }: { children: React.ReactNode }) {
             <NavLink to="/accords" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Accords</NavLink>
             <NavLink to="/nashville" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Grilles</NavLink>
             <NavLink to="/groupe" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Groupe</NavLink>
+            <NavLink to="/pad" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Pad</NavLink>
+            <NavLink to="/frequences" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Fréquences</NavLink>
             <NavLink to="/oreille" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Oreille</NavLink>
             <ThemeToggle />
           </nav>
@@ -137,6 +141,8 @@ export default function App() {
           <Route path="/nashville" element={<NashvillePage />} />
           <Route path="/oreille" element={<EarTrainer />} />
           <Route path="/groupe" element={<VirtualBand />} />
+          <Route path="/pad" element={<PadPage />} />
+          <Route path="/frequences" element={<FrequencesPage />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </Shell>

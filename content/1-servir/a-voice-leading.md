@@ -30,6 +30,8 @@ Il existe trois façons de bouger ensemble. Quand deux voix montent ou descenden
 
 ## 3 · Sous le capot
 
+Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (Fa), G (Sol), A (La), B (Si), avec le numéro d'octave dès que la hauteur compte.
+
 **Les distances en demi-tons.** Une tierce mineure vaut 3 demi-tons, une tierce majeure 4, une quinte juste 7, une octave 12. Ces quatre valeurs suffisent pour contrôler une bonne partie du voice leading.
 
 **Le mouvement parallèle.** Deux voix sont en parallèle quand elles gardent le même intervalle en se déplaçant. La règle classique de l'harmonie demande d'éviter les quintes justes parallèles et les octaves parallèles entre deux voix indépendantes : elles fusionnent et perdent leur autonomie, l'oreille les entend comme une seule voix doublée. Exemple concret : G3 vers A3 (+2 demi-tons, pour la basse) et D4 vers E4 (+2 demi-tons, pour la voix du dessus). Le premier intervalle était G3–D4 = 7 demi-tons, une quinte juste ; le second est A3–E4 = 7 demi-tons, encore une quinte juste. Deux quintes justes qui se suivent en mouvement parallèle : c'est exactement ce qu'on évite.
@@ -48,7 +50,7 @@ Il existe trois façons de bouger ensemble. Quand deux voix montent ou descenden
 
 Notes indiquées avec octave (C4 = Do central). Les accords sont joués en position fermée : trois notes proches, dans un espace d'une octave, avec la note basse à la main gauche.
 
-**Exemple 1, en C majeur.** Accord de I : C4 (Do), E4 (Mi), G4 (Sol) à la main droite, C3 (Do grave) à la main gauche. Puis accord de IV : C4 reste, E4 descend ? Non : E4 monte vers F4 (Fa), G4 monte vers A4 (La). Donc la voix haute reste C5, la voix du milieu passe de E4 à F4, la voix basse de G3 à A3. Schéma final pour l'accord de F : F3 (Fa grave) à la basse, A3 et C4 au-dessus, avec la voix haute C5.
+**Exemple 1, en C majeur.** Accord de I : voix haute C5, voix intermédiaire E4 (Mi), basse G3, soit C – E – G. Accord de IV : la voix haute reste sur C5 (note commune), la voix intermédiaire monte de E4 vers F4 (Fa), la basse monte de G3 vers A3 (La), soit F – A – C avec A à la basse, c'est-à-dire le premier renversement de F. Le tableau ci-dessous résume ce mouvement.
 
 | Voix | Accord de I (C) | Accord de IV (F) | Mouvement |
 |---|---|---|---|
@@ -56,7 +58,7 @@ Notes indiquées avec octave (C4 = Do central). Les accords sont joués en posit
 | Milieu | E4 | F4 | +1 demi-ton |
 | Basse | G3 | A3 | +2 demi-tons, la basse monte |
 
-Attention : la basse est ici G3 vers A3, mais l'accord de F ne contient plus G, donc c'est en réalité A3 qui devient la basse. Le tableau reste correct pour montrer les voix ; la main gauche peut plus simplement rester sur F2 et C3 comme nous le faisons dans les fiches sur les accords.
+Vérification des intervalles : la voix haute forme avec la voix intermédiaire C5–E4 = 8 demi-tons (sixte mineure) puis C5–F4 = 7 demi-tons (quinte juste) ; la voix haute et la basse ne forment ni quinte ni octave parallèle, car leur intervalle change (C5–G3 = 17, puis C5–A3 = 15). Une quinte juste apparaît bien, mais elle n'est pas répétée en mouvement parallèle : c'est exactement la nuance que l'oreille doit apprendre à percevoir.
 
 **Exemple 2, en G majeur.** Accord de I : G3 (Sol grave) à la basse, B3 (Si) et D4 (Ré) à la main droite. Accord de IV : G3 reste à la basse, B3 monte à C4 (Do), D4 monte à E4 (Mi). Ce mouvement est d'une grande simplicité au piano : la main droite n'a qu'à faire deux petits pas.
 

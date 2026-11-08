@@ -39,7 +39,7 @@ On distingue deux familles de mesures :
 - **Métrique simple** : chaque temps se divise en deux. C'est le cas de 2/4, 3/4 et 4/4. Le temps est une noire, qui se coupe en deux croches.
 - **Métrique composée** : chaque temps se divise en trois. C'est le cas de 6/8, 9/8 et 12/8. Le temps « utile » est une noire pointée, c'est-à-dire une noire plus une croche, soit 1,5 temps de noire, qui se coupe en trois croches.
 
-Le piège classique consiste à confondre 3/4 et 6/8. Ils contiennent la même durée totale (trois noires, soit six croches), mais leur découpage diffère. En 3/4, tu as trois temps égaux. En 6/8, tu as deux temps composés, et le troisième temps de la mesure « n'existe pas » au sens du poids : il ne sert qu'à diviser.
+Le piège classique consiste à confondre 3/4 et 6/8. Ils contiennent la même durée totale (trois noires, soit six croches), mais leur découpage diffère. En 3/4, tu as trois temps égaux. En 6/8, tu as seulement deux temps, chacun composé de trois croches, et l'accent principal ne tombe que sur le premier et le quatrième.
 
 Calculs. À 60 BPM en noire, chaque temps dure 1 seconde. Une mesure de 3/4 dure 3 secondes, une mesure de 4/4 dure 4 secondes, une croche dure 0,5 seconde. En 6/8, on compte souvent la pulsation à la noire pointée : à 60 BPM pointée, chaque temps composé dure 1 seconde, une croche dure 1/3 de seconde, et une mesure de 6/8 dure 2 secondes. Si tu passes de 3/4 à 6/8 au même tempo de noire pointée, tu ralentis donc la sensation de mesure, sans changer le pouls de base.
 

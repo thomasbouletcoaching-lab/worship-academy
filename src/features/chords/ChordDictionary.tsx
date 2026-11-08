@@ -2,6 +2,8 @@ import { useMemo, useState } from 'react';
 import { parseNote, toMidi, noteName, Note } from '../../theory/notes';
 import { buildChord, closeVoicing, dropVoicing, drop24Voicing, QUALITIES, invertNotes } from '../../theory/chords';
 import { playNotes } from '../../audio/synth';
+import { Keyboard } from '../keyboard/keyboard';
+import { useMidiInput } from '../midi/useMidiInput';
 
 const ROOTS = ['C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B'];
 const QUALITY_KEYS = Object.keys(QUALITIES);
@@ -15,6 +17,7 @@ export default function ChordDictionary() {
   const [root, setRoot] = useState('C');
   const [quality, setQuality] = useState('maj7');
   const [inversion, setInversion] = useState(0);
+  const midi = useMidiInput();
 
   const data = useMemo(() => {
     const chord = buildChord(parseNote(root), quality);
@@ -65,6 +68,12 @@ export default function ChordDictionary() {
           ▶ Écouter (position serrée)
         </button>
       </div>
+
+      <div className="flex items-center justify-between text-xs opacity-70">
+        <span>Clavier MIDI : {midi.status}</span>
+        <span>{midi.status === 'connecté' ? 'Joue l’accord sur ton clavier pour le voir s’allumer' : 'Sans clavier MIDI, l’accord est affiché ci-dessous'}</span>
+      </div>
+      <Keyboard from={48} octaves={2} active={midi.active.length ? midi.active : data.close} />
 
       <div className="grid gap-3 sm:grid-cols-2">
         {voicings.map(([label, midis]) => (

@@ -24,7 +24,7 @@ duree_min: 25
 
 Imagine un vitrail d'église en fin d'après-midi. Les couleurs se superposent, laissent passer la lumière et produisent une teinte à la fois claire et profonde. Un accord majeur 7 fonctionne de la même façon : c'est une triade majeure éclairée par une note de plus, la septième, qui vient glisser juste sous l'octave et y ajoute de la lumière.
 
-Pour l'entendre, joue d'abord l'accord de Do majeur, C (Do), E (Mi), G (Sol) : c'est la triade, claire et stable, bien installée. Ajoute ensuite la note B (Si) au-dessus, puis reviens à la triade. Tu entendras un halo qui n'était pas là avant. Ce halo, c'est le maj7, que l'on écrit Cmaj7.
+Les sept noms de base sont C (Do), D (Ré), E (Mi), F (Fa), G (Sol), A (La) et B (Si). Pour l'entendre, joue d'abord l'accord de Do majeur, C, E, G : c'est la triade, claire et stable, bien installée. Ajoute ensuite la note B (Si) au-dessus, puis reviens à la triade. Tu entendras un halo qui n'était pas là avant. Ce halo, c'est le maj7, que l'on écrit Cmaj7.
 
 Une autre image, de cuisine cette fois : le zeste de citron râpé en fin de cuisson. Personne ne le désigne comme l'ingrédient principal, il ne couvre pas le reste, mais il rend le plat plus vif, plus fin, et on se souvient du goût qu'il laisse.
 
@@ -71,7 +71,7 @@ Le doigté 5 désigne l'auriculaire, le 1 le pouce. En main droite, on compte de
 
 **Exemple 2, en Sol majeur (G) : I – IV.** Gmaj7 puis Cmaj7, où Cmaj7 est le IV de la tonalité de Sol. La basse passe de G2 à C3 et la main droite joue les mêmes accords qu'en Do : seule la basse change de place.
 
-**Repère clavier.** C4 est le Do du milieu du piano, celui qui se trouve juste devant le repère de la marque du clavier. C3 est une octave en dessous, et E4, G4, B4 sont tous au-dessus de lui. Garde ces points de repère en tête quand tu cherches les notes.
+**Repère clavier.** C4 est le Do du milieu du piano. C3 se trouve une octave en dessous, et E4, G4, B4 sont tous au-dessus de C4. Garde ces points de repère en tête quand tu cherches les notes.
 
 ## 5 · Dans la louange
 

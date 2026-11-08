@@ -36,7 +36,7 @@ Le motif le plus important est le **pointé-double** : une croche pointée suivi
 
 **Le triolet.** Il range trois notes égales dans la durée de deux notes de même valeur. Un triolet de croches occupe donc un temps de noire : chaque croche vaut 1/3 de temps. Trois croches de triolet valent deux croches « normales ». Un triolet de noires occupe deux temps : chaque noire vaut 2/3 de temps.
 
-Dans une mesure de 4/4, un triolet de croches répartit donc 12 notes (4 temps, 3 notes par temps). Un triolet de noires répartit 6 notes sur deux mesures. Ce dernier cas est peu courant, mais il sert dans les ballades lentes.
+Dans une mesure de 4/4, un triolet de croches répartit donc 12 notes (4 temps, 3 notes par temps). Un triolet de noires répartit 6 notes sur une mesure de 4/4 (3 notes sur deux temps). Ce cas est moins courant, mais il sert dans les ballades lentes.
 
 **Calculs.** À 60 BPM en noire, un triolet de croches dure 1/3 de seconde chacune (environ 0,33 s). À 90 BPM, chaque croche de triolet dure 0,22 s. Une noire pointée à 60 BPM dure 1,5 seconde ; à 80 BPM, elle dure 1,125 seconde. Le point et le triolet sont donc simplement des proportions de la pulsation : si tu connais la durée d'un temps, tu connais tout.
 

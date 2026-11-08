@@ -34,7 +34,7 @@ Un exemple simple : une croche sur le « et » du temps 2, liée à une noire su
 
 **Les temps forts et faibles.** En 4/4, les temps forts sont 1 (le plus fort) et 3 (plus faible, mais fort par rapport à 2 et 4). Les temps 2 et 4 sont les temps faibles, qu'on appelle aussi backbeat dans la pop et le gospel. Les subdivisions sont les croches : le « et » est la croche située entre deux temps. Compter en croches donne : 1 - et - 2 - et - 3 - et - 4 - et.
 
-**Exemples de syncopes.** Une croche sur le « et » du 2, liée à une noire sur le 3 : la note démarre sur le faible, et tient 1,5 temps (croche + noire). Une noire sur le « et » du 1, tenue jusqu'au 2 : elle dure 1 temps mais commence à la moitié du premier temps. Une croche sur le 2, liée à une noire sur le « et » du 3, qui se prolonge jusqu'au 4 : la liaison traverse le temps fort.
+**Exemples de syncopes.** Une croche sur le « et » du 2, liée à une noire sur le 3 : la note démarre sur le faible et tient 1,5 temps (croche + noire), jusqu'au début du temps 4. Une noire commencée sur le « et » du 1 : elle tient un temps et se termine sur le « et » du 2, sans attaque sur aucun temps fort. Une blanche commencée sur le « et » du 2 : elle tient deux temps, du « et » du 2 jusqu'au « et » du 4, et traverse donc le temps 3.
 
 **Calculs.** À 80 BPM en noire, un temps dure 0,75 seconde, une croche dure 0,375 seconde. Une syncope croche-noire liée (sur le « et » du 2 et le 3) dure donc 0,375 + 0,75 = 1,125 seconde. Si tu comptes en croches, tu dois sentir la note démarrer 0,375 seconde avant le temps 3, et la tenir jusqu'à lui.
 
