@@ -34,14 +34,14 @@ Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (
 
 **Le mécanisme.** Quand la pédale forte (la pédale de droite, en général) est enfoncée, elle lève les étouffoirs : ces petits feutres qui touchent les cordes et les arrêtent. Les cordes restent donc libres de vibrer après que la touche a été relâchée. Ce qui vibre aussi, ce sont les cordes voisines, qui se mettent à résonner par sympathie, un peu comme une corde de guitare qui répond à une autre.
 
-**Ce que la pédale prolonge.** Elle prolonge toutes les notes jouées pendant qu'elle est enfoncée, justes ou fausses. C'est pourquoi une note qui frotte avec une autre reste en mémoire : sur C majeur, le E4 (64 demi-tons) et le F4 (65) forment une seconde mineure. Si tu les laisses ensemble sous la pédale, le frottement dure et devient un brouillard.
+**Ce que la pédale prolonge.** Elle prolonge toutes les notes jouées pendant qu'elle est enfoncée, justes ou fausses. C'est pourquoi une note qui frotte avec une autre reste en mémoire : sur C majeur, le E4 (numéro MIDI 64) et le F4 (65) forment une seconde mineure, un seul demi-ton. Si tu les laisses ensemble sous la pédale, le frottement dure et devient un brouillard.
 
 **La règle du changement.** Pour changer d'accord proprement, il faut trois gestes dans un ordre précis :
 1. Relâcher la pédale juste avant d'attaquer le nouvel accord, pour que l'accord précédent s'arrête.
 2. Attaquer le nouvel accord.
 3. Ré-enfoncer la pédale juste après l'attaque, pour que le nouvel accord se prolonge.
 
-Le relâchement doit précéder l'attaque d'une fraction de seconde (quelques dizaines de millisecondes). La ré-enfoncement doit suivre immédiatement. Si tu ré-enfonces la pédale avant d'attaquer, tu mélanges les deux accords. Si tu la ré-enfonces trop tard, le nouvel accord perd sa tenue.
+Le relâchement doit précéder l'attaque d'une fraction de seconde (quelques dizaines de millisecondes). Le ré-enfoncement doit suivre immédiatement. Si tu ré-enfonces la pédale avant d'attaquer, tu mélanges les deux accords. Si tu la ré-enfonces trop tard, le nouvel accord perd sa tenue.
 
 **La pédale demi-course.** Une partie des pianos permet d'enfoncer la pédale à mi-course, sans lever complètement les étouffoirs. Le son reste en partie tenu, les frottements sont atténués. C'est une technique avancée, mais elle explique pourquoi la pédale n'est jamais une simple option « on/off ».
 
