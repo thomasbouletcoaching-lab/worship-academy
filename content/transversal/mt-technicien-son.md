@@ -26,7 +26,7 @@ Pense à un chef d'orchestre et à son régisseur. Le chef décide de la musique
 
 Une autre image : un cuisinier et son serveur. Le cuisinier prépare le plat ; le serveur le porte à la bonne table, à la bonne température, sans renverser. Si le cuisinier ne dit rien de la sauce, le serveur ne peut pas deviner qu'elle est très relevée. De la même façon, le technicien ne peut pas deviner qu'un patch de nappe doit rester très bas : c'est à toi de le lui dire.
 
-La relation est plus simple quand chacun connaît les mots de l'autre. Ce chapitre donne le vocabulaire et les réglages de base, pour que tes demandes soient précises et que vous perdiez moins de temps le dimanche.
+La relation est plus simple quand chacun connaît les mots de l'autre. Ce chapitre donne le vocabulaire et les réglages de base, pour que tes demandes soient précises et que l'équipe perde moins de temps le dimanche.
 
 ## 3 · Sous le capot
 

@@ -59,7 +59,7 @@ Notes avec octave (C4 = Do central). Position serrée, doigts 1, 3, 5 de la main
 
 **Vérification des accords.** Am : A4 vers C5 = 3 demi-tons (tierce mineure), C5 vers E5 = 4 (tierce majeure), A4 vers E5 = 7 (quinte juste). G : G4 vers B4 = 4, B4 vers D5 = 3, G4 vers D5 = 7. Dm : D4 vers F4 = 3, F4 vers A4 = 4, D4 vers A4 = 7. Chaque accord est bien construit.
 
-**Exemple en C majeur, avec la basse.** Main gauche sur les temps 1 et 3 (fondamentale), main droite plaquée sur les temps 2 et 4. Progression C – F – G – C : temps 1, la main gauche joue C3 ; temps 2, la main droite joue C4, E4, G4 ; temps 3, main gauche G2 ... pour la suite de la progression, la main gauche suit la fondamentale de chaque accord.
+**Exemple en C majeur, avec la basse.** Main gauche sur les temps 1 et 3 (fondamentale), main droite plaquée sur les temps 2 et 4. Mesure 1 (C) : la main gauche joue C3 sur les temps 1 et 3, la main droite plaque C4, E4, G4 sur les temps 2 et 4. Mesure 2 (F) : F2 à la main gauche, puis F4, A4, C5 à la main droite. Mesure 3 (G) : G2, puis G4, B4, D5. Mesure 4 (C) : retour à C3, puis C4, E4, G4.
 
 **Exemple en G majeur.** Progression G – C – D – G. Main droite : G4, B4, D5 ; C4, E4, G4 ; D4, F#4, A4 ; G4, B4, D5. Vérification : D4 vers F#4 = 4 demi-tons, F#4 vers A4 = 3, D4 vers A4 = 7. La F# est indispensable pour que l'accord soit un D majeur.
 
@@ -89,8 +89,8 @@ Joue I – V – vi – IV en C majeur et en G majeur à 80 BPM, avec la main ga
 
 ### 🔴 Palier 3 — Virtuose
 
-Joue la progression C – Am – F – G en position serrée, à 96 BPM, deux cycles complets, en gardant chaque note de la main droite à un écart de deux demi-tons au plus d'un accord à l'autre. Exemple : C (E4 – G4 – C5), Am (E4 – A4 – C5), F (F4 – A4 – C5), G (G4 – B4 – D5).
-**Critère de réussite** : huit mesures sans rupture de pulsation, transitions de la main droite respectant l'écart de deux demi-tons au plus, et une écoute enregistrée où la voix du haut reste nette.
+Joue la boucle C – Am – F – G (quatre mesures) à 96 BPM, deux fois de suite, en position serrée, en choisissant pour chaque accord les notes de la main droite les plus proches de l'accord précédent. Voicings conseillés : C (E4 – G4 – C5), Am (E4 – A4 – C5), F (F4 – A4 – C5), G (G4 – B4 – D5). Chaque note de la main droite ne doit bouger que de deux demi-tons au plus d'un accord à l'autre.
+**Critère de réussite** : huit mesures sans rupture de pulsation, les trois transitions C → Am, Am → F et F → G respectant l'écart de deux demi-tons au plus pour chaque note, et une écoute enregistrée où la voix du haut reste nette.
 
 ## 7 · Oreille
 

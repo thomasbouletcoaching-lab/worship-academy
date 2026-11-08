@@ -60,7 +60,7 @@ Vérifie : C3 = 130,8 Hz, C4 = 261,6 Hz, F4 = 349,2 Hz, G4 = 392 Hz, A3 = 220 Hz
 | Em | G2 (Sol), tenue | B3 (Si) + E4 (Mi) + G4 (Sol) | 1, 3, 5 |
 | C | G2 (Sol), tenue | C4 (Do) + E4 (Mi) + G4 (Sol) | 1, 3, 5 |
 
-Vérifie : G2 = 98 Hz, G3 = 196 Hz, B3 = 246,9 Hz, C4 = 261,6 Hz, D4 = 293,7 Hz, E4 = 329,6 Hz, G4 = 392 Hz. Gsus4 : G, C, D. Em : E, G, B (la pédale sol est la tierce mineure de Em, ici G au-dessus de E). Le dernier accord est do majeur, mais la pédale sol en fait une sous-dominante-like ; il est utile pour revenir vers le centre.
+Vérifie : G2 = 98 Hz, G3 = 196 Hz, B3 = 246,9 Hz, C4 = 261,6 Hz, D4 = 293,7 Hz, E4 = 329,6 Hz, G4 = 392 Hz. Gsus4 : G, C, D. Em : E, G, B (la pédale sol est la tierce mineure de Em, ici G au-dessus de E). Le dernier accord, do majeur sur pédale sol, est un accord de passage : la basse sol y joue la quinte de do, ce qui allège la couleur et prépare le retour.
 
 **Tonalité de référence.** Dans les deux tonalités, la MG tient une seule note et la MD ne joue que trois notes. Si tu veux un son plus ouvert, déplace la MD d'une octave ; si tu veux plus d'intimité, descends la MD d'une tierce.
 

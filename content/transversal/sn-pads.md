@@ -45,7 +45,7 @@ Un pad de prière a donc une attaque lente, une tenue haute et un relâchement l
 
 **Le détune et la largeur.** Un pad « large » superpose plusieurs oscillateurs légèrement désaccordés (quelques cents, voir sn-cordes-synthes). Les battements créent une ondulation lente qui donne du mouvement sans rythme marqué.
 
-**La pédale de sustain.** Sur un pad, la pédale prolonge la tenue si tu veux maintenir une nappe pendant que tu changes d'accord. Mais à l'inverse de la pédale du piano, elle accumule ; mieux vaut laisser l'enveloppe faire le travail.
+**La pédale de sustain.** Sur un pad, la pédale prolonge la tenue si tu veux maintenir une nappe pendant que tu changes d'accord. Elle accumule les sons comme sur un piano ; mieux vaut laisser l'enveloppe faire le travail.
 
 ## 4 · Au clavier
 

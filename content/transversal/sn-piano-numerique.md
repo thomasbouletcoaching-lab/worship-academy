@@ -45,7 +45,7 @@ Notation : C4 = do central. Tonalité de référence : **do majeur**. Les exempl
 | Accord (do majeur) | Notes | Doigts MD |
 |---|---|---|
 | C | C4 (Do), E4 (Mi), G4 (Sol) | 1, 3, 5 |
-| C (grave) | C3 (Do), G3 (Sol), E4 (Mi) | 5, 1, 3 (MG grave + MD aigu) |
+| C (grave) | C3 (Do) + G3 (Sol) à la MG, E4 (Mi) + G4 (Sol) à la MD | MG 5 et 1 ; MD 1 et 3 |
 | Am | A3 (La), C4 (Do), E4 (Mi) | 1, 3, 5 |
 
 Vérifie : C4 = 261,6 Hz, E4 = 329,6 Hz, G4 = 392 Hz, A3 = 220 Hz, C3 = 130,8 Hz, G3 = 196 Hz. Le C grave sur deux mains donne une attaque plus large et une fondamentale nette.

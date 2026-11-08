@@ -94,7 +94,7 @@ Joue la grille C - Am - F - G à **80 BPM** avec un Leslie lent. Au deuxième to
 
 ### 🔴 Palier 3 — Virtuose
 
-Joue une montée de seize mesures à **84 BPM** : tirettes qui passent progressivement de 4 4 4 à 8 8 8 (une tirette ajoutée toutes les deux mesures), Leslie lent qui devient rapide à la huitième mesure, percussion qui s'active à la douzième. **Critère de réussite** : la courbe de masse et de vitesse est lisse, un enregistrement ne montre aucune crête brutale, et l'auditeur entend un crescendo clair.
+Joue une montée de seize mesures à **84 BPM** : tirettes qui montent progressivement de 4 4 4 à 8 8 8 (un cran de plus sur les trois tirettes toutes les deux mesures), Leslie lent qui devient rapide à la huitième mesure, percussion qui s'active à la douzième. **Critère de réussite** : la courbe de masse et de vitesse est lisse, un enregistrement ne montre aucune crête brutale, et l'auditeur entend un crescendo clair.
 
 ## 7 · Oreille
 
