@@ -87,7 +87,7 @@ Joue l'arpège 1-3-5-3 en croches sur C – F – G – C à 60 BPM, une mesure 
 
 ### 🟡 Palier 2 — Maîtrise
 
-Joue Am – F – G – C (I – vi – IV – V puis retour) à 80 BPM, en doubles croches, avec le motif 1-3-5-8 sur chaque accord. Seize doubles croches par mesure.
+Joue C – Am – F – G (I – vi – IV – V) à 80 BPM, en doubles croches, avec le motif 1-3-5-8 sur chaque accord. Seize doubles croches par mesure.
 **Critère de réussite** : huit mesures sans décalage, doubles croches régulières (écoute enregistrée à l'appui), et la fondamentale de chaque accord bien présente à la fin du motif.
 
 ### 🔴 Palier 3 — Virtuose
