@@ -78,7 +78,7 @@ Repère : C4 est le Do central. Tonalité de référence : Do majeur. Seconde to
 | E (Mi) | F#m9 (F# A C# E G#) | B7(♭9) : B D# F# A + C | Emaj9 (E G# B D# F#) |
 | B (Si) | C#m9 (C# E G# B D#) | F#7(♭9) : F# A# C# E + G | Bmaj9 (B D# F# A# C#) |
 
-Vérifie chaque ligne : la ii9 est un accord mineur 7 plus la 9e (un ton au-dessus de la fondamentale) ; la V7(♭9) a sa ♭9 à un demi-ton au-dessus de la fondamentale (Sol → Lab, Fa → Solb, Do → Réb, et ainsi de suite) ; la I maj9 a sa 9e à un ton au-dessus de la tonique.
+Vérifie chaque ligne : la ii9 est un accord mineur 7 plus la 9e (un ton au-dessus de la fondamentale) ; la V7(♭9) a sa ♭9 à un demi-ton au-dessus de sa fondamentale (Sol → Lab en Do, Do → Réb en Fa, Fa → Solb en Sib) ; la I maj9 a sa 9e à un ton au-dessus de la tonique.
 
 Joue chaque accord en plaqué, puis en arpège montant, en gardant la basse seule. Vérifie que la note de la 9e reste au-dessus de la tierce et de la septième.
 
