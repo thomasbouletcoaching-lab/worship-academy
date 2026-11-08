@@ -32,7 +32,7 @@ Une image pour la mémoire : une porte entrebâillée. L'accord mineur 7 n'est p
 
 **La formule.** L'accord mineur 7 se compose de la fondamentale (1), de la tierce mineure (3m), de la quinte juste (5J) et de la septième mineure (7m). En demi-tons au-dessus de la fondamentale : 0, +3, +7, +10.
 
-**Vérification sur Do (C), deux fois.**
+**Vérification sur C (Do), deux fois.**
 - C (Do) vers Eb (Mi bémol) : 3 demi-tons, c'est la tierce mineure.
 - C (Do) vers G (Sol) : 7 demi-tons, c'est la quinte juste.
 - C (Do) vers Bb (Si bémol) : 10 demi-tons, c'est la septième mineure, un ton sous l'octave.

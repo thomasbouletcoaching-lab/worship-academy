@@ -38,7 +38,7 @@ Le piège est de vouloir « faire quelque chose » en permanence. Un bon spontan
 
 Sur un accord de La mineur (Am), la pentatonique mineure de La est A, C, D, E, G (la, do, ré, mi, sol). Elle contient la fondamentale A, la tierce mineure C, la quarte D, la quinte E et la septième mineure G, sans la seconde B ni la sixte F#. Cette gamme est donc également sûre sur Am.
 
-**Le piège du Fa.** Sur C, le Fa (F) est la quarte. Il n'est pas dans la pentatonique de do, et il frotte la tierce E d'un demi-ton. Si la tierce est tenue, le Fa sonne sale. Si l'accord est en Csus4 (C, F, G), en revanche, le Fa devient la note de l'accord, et tout change.
+**Le piège du Fa.** Sur C, le F (Fa) est la quarte. Il n'est pas dans la pentatonique de do, et il frotte la tierce E d'un demi-ton. Si la tierce est tenue, le Fa sonne sale. Si l'accord est en Csus4 (C, F, G), en revanche, le Fa devient la note de l'accord, et tout change.
 
 **Écouter.** En spontané, la règle qui prime sur la théorie est celle de l'oreille : ce que tu joues doit être audible pour la voix. La théorie te dit ce qui est sûr ; l'écoute te dit quand jouer.
 

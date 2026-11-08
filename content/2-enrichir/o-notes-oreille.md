@@ -30,7 +30,7 @@ Il existe deux grandes façons de reconnaître une note : l'oreille absolue, qui
 
 ## 3 · Sous le capot
 
-**La gamme chromatique.** Entre deux octaves, il y a douze demi-tons. En partant du Do (C), on obtient : C, C#/Db (Do dièse / Ré bémol), D, D#/Eb, E, F, F#/Gb, G, G#/Ab, A, A#/Bb, B, puis C à l'octave. Chaque pas est un demi-ton, et le cycle se répète à l'octave.
+**La gamme chromatique.** Entre deux octaves, il y a douze demi-tons. En partant du C (Do), on obtient : C, C#/Db (Do dièse / Ré bémol), D, D#/Eb, E, F, F#/Gb, G, G#/Ab, A, A#/Bb, B, puis C à l'octave. Chaque pas est un demi-ton, et le cycle se répète à l'octave.
 
 **Les fréquences.** La note de référence internationale est le La 3 (A4 en notation anglo-saxonne), fixé à 440 Hz. Chaque demi-ton multiplie la fréquence par 2 à la puissance 1/12, soit environ 1,0595. Une octave, douze demi-tons, double la fréquence. Quelques valeurs utiles : C4 (Do central) vaut environ 261,6 Hz ; E4 environ 329,6 Hz ; G4 environ 392,0 Hz ; A4 440 Hz ; B4 environ 493,9 Hz ; C5 environ 523,3 Hz.
 

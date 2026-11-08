@@ -22,9 +22,9 @@ duree_min: 35
 
 ## 2 · Comprendre
 
-Imagine une porte qui s'ouvre sur une autre pièce. Dans la maison de Do (C), la porte principale mène au salon, c'est-à-dire à la tonique. Mais une fois, tu veux aller dans la chambre du fond : tu prends un petit couloir, que l'on appelle la dominante secondaire. Ce couloir a sa propre tension, il pousse vers la chambre, puis tu reviens dans la maison.
+Imagine une porte qui s'ouvre sur une autre pièce. Dans la maison de C (Do), la porte principale mène au salon, c'est-à-dire à la tonique. Mais une fois, tu veux aller dans la chambre du fond : tu prends un petit couloir, que l'on appelle la dominante secondaire. Ce couloir a sa propre tension, il pousse vers la chambre, puis tu reviens dans la maison.
 
-Concrètement, dans la tonalité de Do, la chambre du fond peut être Sol (G), Ré mineur (Dm), Mi mineur (Em), Fa (F) ou La mineur (Am). Pour chacune, il existe une dominante de passage : D7 vers G, A7 vers Dm, B7 vers Em, C7 vers F, E7 vers Am. Ce sont les dominantes secondaires.
+Concrètement, dans la tonalité de Do, la chambre du fond peut être G (Sol), Ré mineur (Dm), Mi mineur (Em), F (Fa) ou La mineur (Am). Pour chacune, il existe une dominante de passage : D7 vers G, A7 vers Dm, B7 vers Em, C7 vers F, E7 vers Am. Ce sont les dominantes secondaires.
 
 ## 3 · Sous le capot
 

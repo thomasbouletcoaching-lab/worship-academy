@@ -24,7 +24,7 @@ duree_min: 35
 
 Imagine une famille qui vit dans une maison claire, avec une porte qui donne sur le jardin d'à côté. Le jardin voisin est plus ombragé. De temps en temps, l'un des membres de la famille traverse la porte, prend un objet de là-bas, et le ramène. La maison ne change pas, mais elle s'enrichit.
 
-En musique, la gamme « jardin d'à côté » est la gamme mineure parallèle, c'est-à-dire la mineure qui a la même tonique. Pour Do (C) majeur, c'est Do (C) mineur. Quand tu empruntes un accord au mineur, tu ne changes pas de tonalité : tu gardes Do pour centre, et tu ajoutes une couleur sombre ou douce qui n'était pas dans la maison.
+En musique, la gamme « jardin d'à côté » est la gamme mineure parallèle, c'est-à-dire la mineure qui a la même tonique. Pour C (Do) majeur, c'est C (Do) mineur. Quand tu empruntes un accord au mineur, tu ne changes pas de tonalité : tu gardes Do pour centre, et tu ajoutes une couleur sombre ou douce qui n'était pas dans la maison.
 
 ## 3 · Sous le capot
 

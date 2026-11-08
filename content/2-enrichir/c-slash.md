@@ -60,7 +60,7 @@ Le slash est donc une information sur la basse : il dit au pianiste et au bassis
 
 **Exemple 2, en Sol majeur : G – G/F# – Em – Em/D – C – D.** La même logique s'applique en Sol : la basse descend G, F#, E, D, C, puis remonte. G/F# est une basse de Fa dièse sous l'accord de Sol ; Em/D est un mi mineur sur Ré.
 
-**Repère.** Le Si (B) est la touche blanche juste à gauche du Do de l'octave supérieure ; C4 est juste au-dessus. Pour C/B, la basse est donc la note blanche située un demi-ton sous C3.
+**Repère.** Le B (Si) est la touche blanche juste à gauche du Do de l'octave supérieure ; C4 est juste au-dessus. Pour C/B, la basse est donc la note blanche située un demi-ton sous C3.
 
 **Note de pratique.** Pour une basse descendante, garde la basse au pouce ou au petit doigt selon le confort, et change seulement la basse entre les mesures. Ne cherche pas à déplacer toute la main.
 

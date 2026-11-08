@@ -71,7 +71,7 @@ Pour l'accord de F (A3, C4, F4), de A3 à C4, 3 demi-tons (tierce mineure) ; de 
 
 Les mouvements de voix sont doux. Entre C (C4, E4, G4) et G (B3, D4, G4), la note G4 reste en place, et les deux autres voix descendent d'un demi-ton (C4 vers B3) ou d'un ton (E4 vers D4). Entre G et Am (A3, C4, E4), chaque voix descend d'un ou deux demi-tons. Pour éviter les sauts, garde les notes communes et déplace les autres au plus près.
 
-**I – V – vi – IV en Sol (G) : G – D – Em – C**
+**I – V – vi – IV en G (Sol) : G – D – Em – C**
 
 Les accords sont G (B3, D4, G4), D (A3, D4, F#4), Em (B3, E4, G4) et C (C4, E4, G4). Vérification : D (A3, D4, F#4) : de A3 à D4, 5 demi-tons (quarte) ; de D4 à F#4, 4 demi-tons (tierce majeure). Triade de Ré majeur confirmée. Em (B3, E4, G4) : de E4 à G4, 3 demi-tons (tierce mineure). Triade de Mi mineur confirmée.
 

@@ -32,7 +32,7 @@ Une autre image, de cuisine cette fois : le zeste de citron râpé en fin de cui
 
 **La formule.** L'accord majeur 7 se construit sur quatre degrés : la fondamentale (1), la tierce majeure (3M), la quinte juste (5J) et la septième majeure (7M). Mesurées en demi-tons au-dessus de la fondamentale, ces notes sont à 0, +4, +7 et +11.
 
-**Vérification sur Do (C), deux fois.**
+**Vérification sur C (Do), deux fois.**
 - C (Do) vers E (Mi) : 4 demi-tons, c'est la tierce majeure.
 - C (Do) vers G (Sol) : 7 demi-tons, c'est la quinte juste.
 - C (Do) vers B (Si) : 11 demi-tons, c'est la septième majeure, à un demi-ton sous le C de l'octave supérieure.

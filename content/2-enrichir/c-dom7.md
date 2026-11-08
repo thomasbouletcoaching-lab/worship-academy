@@ -32,7 +32,7 @@ Dans la louange, on sent très vite cette attente : le refrain se termine sur un
 
 **La formule.** L'accord de dominante 7 est composé de la fondamentale (1), de la tierce majeure (3M), de la quinte juste (5J) et de la septième mineure (7m). En demi-tons au-dessus de la fondamentale : 0, +4, +7, +10.
 
-**Vérification sur Sol (G), deux fois.**
+**Vérification sur G (Sol), deux fois.**
 - G (Sol) vers B (Si) : 4 demi-tons, c'est la tierce majeure.
 - G (Sol) vers D (Ré) : 7 demi-tons, c'est la quinte juste.
 - G (Sol) vers F (Fa) : 10 demi-tons, c'est la septième mineure, un ton sous l'octave.
@@ -62,7 +62,7 @@ Donc G7 = G – B – D – F. Recontrôle : de B à F il y a 6 demi-tons, un tr
 
 **Exemple 2, en Sol majeur : V7 – I.** D7 puis G. Dans D7, la tierce F# monte vers G (pas de F, la septième est C) : F#3 monte vers G3 (un demi-ton) et la septième C4 descend vers B3 (un demi-ton), qui devient la tierce de G.
 
-**Repère.** Le Si (B) est la note juste à gauche du Do de l'octave. Le Fa (F) est la touche blanche juste au-dessus du Mi. Repère-les à la vue avant de jouer.
+**Repère.** Le B (Si) est la note juste à gauche du Do de l'octave. Le F (Fa) est la touche blanche juste au-dessus du Mi. Repère-les à la vue avant de jouer.
 
 ## 5 · Dans la louange
 

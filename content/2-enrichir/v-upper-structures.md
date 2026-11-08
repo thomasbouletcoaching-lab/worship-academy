@@ -34,7 +34,7 @@ Prenons C7 (Do septième de dominante). Il contient C (Do), E (Mi), G (Sol) et B
 
 Vérifions les intervalles dans la triade elle-même : D vers F# fait 4 demi-tons (tierce majeure, 62 - 66 = 4), F# vers A fait 3 demi-tons (tierce mineure, 69 - 66 = 3). Confirmé : c'est bien une triade majeure. Et le total, de C à A, vaut 9 demi-tons pour la treizième.
 
-Deuxième exemple, en tonalité de Sol (G) : G7 contient G (Sol), B (Si), D (Ré) et F (Fa). Posons au-dessus la triade de La majeur (A, C#, E). A est à 2 demi-tons de G, c'est la neuvième. C# est à 6 demi-tons de G, c'est la #11. E est à 9 demi-tons de G, c'est la treizième. Donc G7(9, #11, 13), sans quinte, car la quinte D n'apparaît pas dans la triade : c'est un accord dense où la quinte se laisse deviner.
+Deuxième exemple, en tonalité de G (Sol) : G7 contient G (Sol), B (Si), D (Ré) et F (Fa). Posons au-dessus la triade de La majeur (A, C#, E). A est à 2 demi-tons de G, c'est la neuvième. C# est à 6 demi-tons de G, c'est la #11. E est à 9 demi-tons de G, c'est la treizième. Donc G7(9, #11, 13), sans quinte, car la quinte D n'apparaît pas dans la triade : c'est un accord dense où la quinte se laisse deviner.
 
 Un point d'attention concerne la tierce et la septième. Si la main droite n'a que la triade, la main gauche doit garder la tierce et la septième de la dominante, qui sont les notes qui définissent l'accord. Dans C7, ce sont E et Bb, séparées d'un triton (6 demi-tons). Dans G7, ce sont B et F, séparées aussi d'un triton. Le triton est la signature de la dominante : sans lui, l'accord perd son identité.
 

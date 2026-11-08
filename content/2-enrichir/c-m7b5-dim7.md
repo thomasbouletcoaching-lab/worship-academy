@@ -41,7 +41,7 @@ Donc Dm7b5 = D – F – Ab – C. Recontrôle : D vers F est une tierce mineure
 
 **Le dim7 (diminué 7).** Il se compose de la fondamentale, de la tierce mineure, de la quinte diminuée et de la septième diminuée, qui vaut 9 demi-tons, soit une sixte majeure sur la fondamentale, ou encore une septième diminuée que l'on entend comme une sixte. En demi-tons : 0, +3, +6, +9.
 
-**Vérification sur Si (B), deux fois.**
+**Vérification sur B (Si), deux fois.**
 - B (Si) vers D (Ré) : 3 demi-tons, tierce mineure.
 - B (Si) vers F (Fa) : 6 demi-tons, quinte diminuée.
 - B (Si) vers Ab (La bémol) : 9 demi-tons, septième diminuée.

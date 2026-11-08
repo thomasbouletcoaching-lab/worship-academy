@@ -67,7 +67,7 @@ Vérifications des triades : F4 à A4 : 4 demi-tons (tierce majeure) ; A4 à C5 
 
 Une note sur la voix du haut : sur la cadence G – C, la note B4 (71) monte vers C5 (72), soit un demi-ton. Joue ce mouvement avec le doigt 1 au-dessus, pour que la résolution soit audible.
 
-**I – IV – V – I en Sol (G) : G – C – D – G**
+**I – IV – V – I en G (Sol) : G – C – D – G**
 
 Les triades sont G (G4, B4, D5), C (C4, E4, G4), D (D4, F#4, A4) et G à nouveau. Vérification de D : de D4 à F#4, 4 demi-tons (tierce majeure) ; de F#4 à A4, 3 demi-tons (tierce mineure). Triade de Ré majeur confirmée.
 

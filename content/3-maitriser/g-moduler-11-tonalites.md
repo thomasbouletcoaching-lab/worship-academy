@@ -44,17 +44,17 @@ Exemple en do majeur (T = C) : Dm7 – G7 – Cmaj7. Vérification : Dm7 = D (2)
 
 | Tonalité | ii7 (1 mesure) | V7 (1 mesure) | I maj7 (2 mesures) |
 |---|---|---|---|
-| Sol (G) | Am7 : A C E G | D7 : D F# A C | Gmaj7 : G B D F# |
+| G (Sol) | Am7 : A C E G | D7 : D F# A C | Gmaj7 : G B D F# |
 | Ré (D) | Em7 : E G B D | A7 : A C# E G | Dmaj7 : D F# A C# |
-| La (A) | Bm7 : B D F# A | E7 : E G# B D | Amaj7 : A C# E G# |
-| Mi (E) | F#m7 : F# A C# E | B7 : B D# F# A | Emaj7 : E G# B D# |
-| Si (B) | C#m7 : C# E G# B | F#7 : F# A# C# E | Bmaj7 : B D# F# A# |
+| A (La) | Bm7 : B D F# A | E7 : E G# B D | Amaj7 : A C# E G# |
+| E (Mi) | F#m7 : F# A C# E | B7 : B D# F# A | Emaj7 : E G# B D# |
+| B (Si) | C#m7 : C# E G# B | F#7 : F# A# C# E | Bmaj7 : B D# F# A# |
 | Fa# (Gb) | Abm7 : Ab Cb Eb Gb | Db7 : Db F Ab Cb | Gbmaj7 : Gb Bb Db F |
 | Ré♭ (Db) | Ebm7 : Eb Gb Bb Db | Ab7 : Ab C Eb Gb | Dbmaj7 : Db F Ab C |
 | La♭ (Ab) | Bbm7 : Bb Db F Ab | Eb7 : Eb G Bb Db | Abmaj7 : Ab C Eb G |
 | Mi♭ (Eb) | Fm7 : F Ab C Eb | Bb7 : Bb D F Ab | Ebmaj7 : Eb G Bb D |
 | Si♭ (Bb) | Cm7 : C Eb G Bb | F7 : F A C Eb | Bbmaj7 : Bb D F A |
-| Fa (F) | Gm7 : G Bb D F | C7 : C E G Bb | Fmaj7 : F A C E |
+| F (Fa) | Gm7 : G Bb D F | C7 : C E G Bb | Fmaj7 : F A C E |
 
 Note sur l'orthographe : en fa dièse majeur (Gb), on écrit Cb pour B, ce qui garde chaque lettre distincte. Ne mélange pas les orthographes dans une même phrase.
 

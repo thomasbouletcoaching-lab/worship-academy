@@ -90,7 +90,7 @@ Quand la parole est dite par un intervenant, garde un seul accord de mode (Dm7 o
 
 ### 🟢 Palier 1 — Découverte
 
-Joue les sept modes de Do (C) avec la seule main droite, une octave, en noires, à 60 BPM. Tu annonces le nom du mode avant de le jouer. Critère : sept modes joués sans erreur de note, dans l'ordre, sur deux passages consécutifs.
+Joue les sept modes de C (Do) avec la seule main droite, une octave, en noires, à 60 BPM. Tu annonces le nom du mode avant de le jouer. Critère : sept modes joués sans erreur de note, dans l'ordre, sur deux passages consécutifs.
 
 ### 🟡 Palier 2 — Maîtrise
 

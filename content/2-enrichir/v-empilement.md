@@ -30,7 +30,7 @@ C'est ce que fait une technique de voicing dite « empilement ». La main gauche
 
 Le principe est une addition ensembliste : on prend les notes de l'accord du bas, on y ajoute les notes de l'accord du haut, et l'on regarde ce que cela produit. Tout l'art est de savoir quel accord superposer.
 
-Premier exemple, en Do (C), tu veux un Cmaj7. Il contient C (Do), E (Mi), G (Sol), B (Si). Si tu le sépares en deux accords, tu obtiens C (triade de Do majeur : C, E, G) et Em (triade de Mi mineur : E, G, B). Vérification : en réunissant les deux, tu obtiens C, E, G et B, soit exactement les quatre notes du Cmaj7. Donc Cmaj7 = C + Em.
+Premier exemple, en C (Do), tu veux un Cmaj7. Il contient C (Do), E (Mi), G (Sol), B (Si). Si tu le sépares en deux accords, tu obtiens C (triade de Do majeur : C, E, G) et Em (triade de Mi mineur : E, G, B). Vérification : en réunissant les deux, tu obtiens C, E, G et B, soit exactement les quatre notes du Cmaj7. Donc Cmaj7 = C + Em.
 
 Deuxième exemple : Cmaj9 contient en plus D (Ré), la neuvième. Il devient C + Em7, car Em7 contient E, G, B et D : la réunion donne C, E, G, B, D, soit Cmaj9. Vérifions : D est bien la neuvième, un ton au-dessus de la tonique (2 demi-tons plus l'octave, soit 14 demi-tons au total).
 
@@ -40,7 +40,7 @@ Quatrième exemple, plus coloré : C7b9 contient C, E, G, Bb et Db (ou C#). Il d
 
 Un point de vigilance : l'accord du haut n'a pas toujours sa racine sur la tierce de l'accord du bas. Dans Cmaj9 et Cm9, c'est le cas (E et Eb sont les tierces de C). Dans C7b9, la racine du haut est C#, qui est la neuvième mineure. Il ne faut donc pas appliquer une règle générale aveugle : il faut toujours vérifier la réunion des notes.
 
-Une autre tonalité, en Fa (F) : Fmaj9 = F + Am7. Am7 contient A, C, E, G ; la réunion avec F (F, A, C) donne F, A, C, E, G, soit Fmaj9. Vérifions : E est la septième majeure de F (11 demi-tons au-dessus de F), G est la neuvième (un ton au-dessus de la fondamentale, en octave, 14 demi-tons). Confirmé.
+Une autre tonalité, en F (Fa) : Fmaj9 = F + Am7. Am7 contient A, C, E, G ; la réunion avec F (F, A, C) donne F, A, C, E, G, soit Fmaj9. Vérifions : E est la septième majeure de F (11 demi-tons au-dessus de F), G est la neuvième (un ton au-dessus de la fondamentale, en octave, 14 demi-tons). Confirmé.
 
 Enfin, un mot sur les cas limites. Quand les deux accords partagent trop de notes, l'empilement est pauvre. Quand ils ne partagent rien, le résultat sonne comme deux accords qui se disputent. Le bon critère est que la réunion ait une identité claire, c'est-à-dire qu'on puisse la nommer.
 

@@ -66,7 +66,7 @@ Notes en lettres anglo-saxonnes, avec octave. Le Do central est C4 (Do), le Ré 
 
 ## 5 · Dans la louange
 
-Un chant est écrit en tonalité de Sol (G). Le pianiste reçoit de l'équipe une consigne : « on commence sur le Ré ». Pour le pianiste, cela signifie D4 si l'on est en octave centrale. Si l'on te demande de jouer « la tonique », il s'agit de G, et tu sais immédiatement où le poser, entre les deux premières noires du trio.
+Un chant est écrit en tonalité de G (Sol). Le pianiste reçoit de l'équipe une consigne : « on commence sur le Ré ». Pour le pianiste, cela signifie D4 si l'on est en octave centrale. Si l'on te demande de jouer « la tonique », il s'agit de G, et tu sais immédiatement où le poser, entre les deux premières noires du trio.
 
 Les lettres te servent aussi quand tu lis une grille de louange. Elle indique par exemple : G – D – Em – C. Tu dois savoir que Em est le mi mineur (E-G-B) et que C est le Do majeur. Le pianiste qui connaît ses noms transpose facilement d'une tonalité à l'autre, en gardant le même enchaînement de notes.
 

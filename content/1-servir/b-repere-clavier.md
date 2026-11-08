@@ -75,7 +75,7 @@ Notes en lettres anglo-saxonnes, avec octave. Repère de position donné pour le
 
 ## 5 · Dans la louange
 
-Imagine que tu accompagnes une prière. Le chant commence, le pasteur demande un moment de silence, puis un couplet doit reprendre en Sol (G). Tu ne peux pas te permettre de chercher ta note en regardant l'instrument. Tu poses ta main, tu repères le trio de noires : la tonique Sol se trouve entre la première et la deuxième noire de ce trio. Tu t'appuies sur ce repère, et tu poses ta main gauche plusieurs octaves plus bas, en te calant sur le duo.
+Imagine que tu accompagnes une prière. Le chant commence, le pasteur demande un moment de silence, puis un couplet doit reprendre en G (Sol). Tu ne peux pas te permettre de chercher ta note en regardant l'instrument. Tu poses ta main, tu repères le trio de noires : la tonique Sol se trouve entre la première et la deuxième noire de ce trio. Tu t'appuies sur ce repère, et tu poses ta main gauche plusieurs octaves plus bas, en te calant sur le duo.
 
 Le repérage sert aussi pendant une intro. Quand l'équipe commence un morceau, ton premier accord doit tomber au bon endroit du clavier. Si tu sais que le Do se trouve à gauche du duo, tu poses ta main sans hésiter, et l'attention reste sur l'ambiance, pas sur la recherche de touche.
 

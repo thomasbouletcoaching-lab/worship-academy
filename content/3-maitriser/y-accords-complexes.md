@@ -30,7 +30,7 @@ Dans une église, un accord complexe bien placé apporte une lumière nouvelle �
 
 **La base.** Un accord de dominante C7 contient C (Do), E (Mi), G (Sol) et Bb (Si♭). La fondamentale C, la tierce E et la septième Bb définissent l'accord. La quinte G peut être omise sans que l'accord perde son identité.
 
-**Les extensions.** Les extensions se comptent à partir de la fondamentale, en degrés de gamme : neuvième (9) = 14 demi-tons, onzième (11) = 17 demi-tons, treizième (13) = 21 demi-tons. Mais sur un accord, on ne garde que leur hauteur modulo 12 : 9 = Ré (D), 11 = Fa (F), 13 = La (A) sur C.
+**Les extensions.** Les extensions se comptent à partir de la fondamentale, en degrés de gamme : neuvième (9) = 14 demi-tons, onzième (11) = 17 demi-tons, treizième (13) = 21 demi-tons. Mais sur un accord, on ne garde que leur hauteur modulo 12 : 9 = Ré (D), 11 = F (Fa), 13 = A (La) sur C.
 
 **La règle de la onzième.** Le 11 (F) frotte la tierce E : F et E sont à un demi-ton. C'est pour cela qu'un accord de treizième ne garde pas le 11 naturel. On le retire, ou on le dièse : le #11 (F#, Fa#) ne frotte plus la tierce, il devient une couleur lumineuse, la « onzième augmentée ».
 

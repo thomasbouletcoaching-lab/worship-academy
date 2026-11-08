@@ -34,7 +34,7 @@ Enfin, un set est une chose vivante. Le dimanche, il faut parfois laisser la pla
 
 **Tonalité et tessiture.** Le choix de la tonalité se fait d'abord pour la voix. Une tessiture désigne l'étendue confortable d'un chanteur, du grave au aigu. Une note trop haute fatigue ; une note trop basse s'étouffe. Pour une voix d'homme en registre moyen, un chant dont le sommet tombe autour de E4 (Mi) passe bien ; pour une voix de femme, c'est souvent autour de A4 (La). Ce ne sont que des repères : on teste toujours avec le chanteur.
 
-**Les tonalités proches.** Deux tonalités se suivent facilement quand elles partagent beaucoup de notes. C majeur et G majeur ne diffèrent que par un Fa (F) remplacé par un Fa dièse (F#). Un enchaînement de C à G est donc une quinte ascendante, un mouvement très naturel : c'est le même passage qu'un enchaînement de I à V. Une transposition de C à D (un ton) exige plus d'attention, car elle ajoute deux dièses.
+**Les tonalités proches.** Deux tonalités se suivent facilement quand elles partagent beaucoup de notes. C majeur et G majeur ne diffèrent que par un F (Fa) remplacé par un Fa dièse (F#). Un enchaînement de C à G est donc une quinte ascendante, un mouvement très naturel : c'est le même passage qu'un enchaînement de I à V. Une transposition de C à D (un ton) exige plus d'attention, car elle ajoute deux dièses.
 
 **Les accords pivots.** Un pivot est un accord commun à deux tonalités ou deux chants. Entre C majeur et A mineur (son relatif), tous les accords partagent deux notes : C et E. Entre G et E mineur, les notes communes sont G et B. Le pivot permet de passer d'un chant à l'autre sans rupture : on termine le premier sur un accord commun, puis on démarre le second dessus.
 
