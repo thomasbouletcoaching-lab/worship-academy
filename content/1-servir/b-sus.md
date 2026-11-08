@@ -57,7 +57,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : C majeur, puis G et 
 |---|---|---|
 | Csus2 | C4 – D4 – G4 | 1 – 2 – 5 |
 | Csus4 | C4 – F4 – G4 | 1 – 2 – 5 |
-| Gsus4 | G3 – C4 – D4 (en main gauche : G2 – C3 – D3) | 5 – 4 – 2 (MG) |
+| Gsus4 | G4 – C5 – D5 | 1 – 2 – 5 |
 
 Note : le doigté 1-2-5 est une proposition ; le sus4 reste confortable avec 1-3-4 si la main est plus petite. Ce qui compte est de garder la note de la quinte (G) tenue.
 

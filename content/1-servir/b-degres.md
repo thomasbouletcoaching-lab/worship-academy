@@ -44,13 +44,13 @@ Pour un pianiste de louange, cela sert d'abord à comprendre ce qu'on attend de 
 
 **Les trois grandes fonctions.** On regroupe les degrés en trois familles : la **tonique** (I, III, VI : repos ou couleur de repos), la **sous-dominante** (II, IV : préparation et départ), la **dominante** (V, VII : tension qui appelle le retour). Ce regroupement est au cœur de l'harmonie fonctionnelle, que tu découvriras plus tard.
 
-**L'attraction de la sensible.** Le VII (B dans C majeur) se trouve à un demi-ton de la tonique (C). C'est pourquoi il sonne « tiré vers le haut » : l'oreille attend le C. Le même phénomène se retrouve avec la dominante (G) qui tire vers la tonique, par une quarte descendante ou une quinte ascendante.
+**L'attraction de la sensible.** Le VII (B dans C majeur) se trouve à un demi-ton de la tonique (C). C'est pourquoi il sonne « tiré vers le haut » : l'oreille attend le C. Le même phénomène se retrouve avec la dominante (G) qui tire vers la tonique, par une quinte descendante ou une quarte ascendante.
 
 **Les degrés comme positions.** Un degré n'est pas un accord : c'est une position dans la gamme. Le IV d'une gamme n'est pas forcément un accord de F majeur, il est la sous-dominante. Dans la fiche suivante, tu verras comment chaque degré porte un accord précis.
 
 **La transposition par degrés.** Quand une progression est écrite en chiffres (I – IV – V – I), elle se transpose sans effort. En C majeur, I = C, IV = F, V = G. En G majeur, I = G, IV = C, V = D. En F majeur, I = F, IV = Bb, V = C. La progression reste la même, seules les notes changent.
 
-**Cas limites.** Le II et le VI peuvent porter des accords mineurs, le VII un accord diminué. Le III est souvent mineur, car il contient une tierce mineure avec la tonique. Ces variations seront expliquées dans la fiche suivante ; pour l'instant, retiens les noms et les fonctions.
+**Cas limites.** Le II et le VI peuvent porter des accords mineurs, le VII un accord diminué. Le III est souvent mineur, car son accord (E – G – B) contient une tierce mineure (E – G). Ces variations seront expliquées dans la fiche suivante ; pour l'instant, retiens les noms et les fonctions.
 
 ## 4 · Au clavier
 
@@ -69,7 +69,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : C majeur, puis G maj
 
 Doigts indicatifs : 1, 2, 3, 1, 2, 3, 4, 5 (voir la fiche sur les doigtés des gammes).
 
-**Degrés en G majeur, à partir de G3.** I : G3 ; II : A3 ; III : B3 ; IV : C4 ; V : D4 ; VI : E4 ; VII : F#4 ; I : G4. Le VII est ici un fa dièse, qui se trouve entre les touches blanches E-F et F-G : tu le joues à la main droite au doigt 4.
+**Degrés en G majeur, à partir de G3.** I : G3 ; II : A3 ; III : B3 ; IV : C4 ; V : D4 ; VI : E4 ; VII : F#4 ; I : G4. Le VII est ici un fa dièse, touche noire située entre F et G : tu le joues à la main droite au doigt 4.
 
 **Exemple concret : la progression I – IV – V – I.** En C majeur : C4 (I), F4 (IV), G4 (V), C5 (I). En G majeur : G3 (I), C4 (IV), D4 (V), G4 (I). Les deux progressions ont exactement la même logique, seul le point de départ change.
 

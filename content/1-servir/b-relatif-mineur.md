@@ -88,7 +88,7 @@ Beaucoup de chants de louange sont en mineur relatif, car la couleur mineure est
 
 ### 🔴 Palier 3 — Virtuose
 
-À 100 BPM, joue la boucle Am – F – C – G (en A mineur, le vi-IV-I-V, mais ici la boucle est jouée sans changement de tonique : à toi de la lire comme un enchaînement de la famille de C majeur). Puis joue la même boucle en partant de C (C – Am – F – G), en changeant le centre de repos au moment du passage.
+À 100 BPM, joue la boucle Am – F – C – G en la lisant d'abord comme vi – IV – I – V de C majeur, puis comme i – VI – III – VII de A mineur. Annonce le centre de repos avant chaque lecture.
 **Critère de réussite** : deux boucles complètes sans erreur, le changement de centre entendu et annoncé, en moins de deux minutes au total.
 
 ## 7 · Oreille

@@ -60,7 +60,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : C majeur, avec G et 
 - En C majeur, à la main droite, la montée C4 – C5 se joue 1-2-3-1-2-3-4-5 : le pouce passe sur F4 après le majeur sur E4.
 - En G majeur, la montée G4 – G5 se joue 1-2-3-1-2-3-4-5 : le pouce passe sur C5 après le majeur sur B4, et le F# se place au doigt 4.
 
-Pour la descente de G majeur, le schéma est 5-4-3-2-1-3-2-1, le majeur passant par-dessus le pouce sur le F#, puis sur le B. Pour la descente de F majeur, le doigté change légèrement à cause du Bb (doigt 4 sur le Bb). Vérifie chaque tonalité au moment de la jouer.
+Pour la descente de G majeur, le schéma est 5-4-3-2-1-3-2-1, le majeur passe par-dessus le pouce sur le B, après le C joué au pouce. Pour la descente de F majeur, le doigté change légèrement à cause du Bb (doigt 4 sur le Bb). Vérifie chaque tonalité au moment de la jouer.
 
 **Note sur la tonalité de référence.** C majeur est la référence : sa montée et sa descente sont exactement inversées entre les deux mains, ce qui permet de comprendre le miroir. Quand tu passes à G ou F, tu gardes la logique et tu déplaces seulement les notes noires.
 

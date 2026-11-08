@@ -82,7 +82,7 @@ Pour la main gauche, joue la fondamentale une octave plus bas : C2, D2, E2, F2, 
 
 **Exemple concret : la boucle I – V – vi – IV.** En C majeur : C, G, Am, F. Main droite : C4-E4-G4, puis G4-B4-D5, puis A4-C5-E5, puis F4-A4-C5. Cette boucle est l'une des plus utilisées en louange : elle reprend quatre accords de la famille, sans sortir de la tonalité.
 
-**Note sur la tonalité de référence.** En C majeur, les accords se jouent presque uniquement sur les touches blanches. Le vii° B – D – F est le seul accord qui n'utilise que les notes blanches sans altération : toute la famille de C est blanche. C'est une belle occasion de comprendre la structure sans se soucier des noires.
+**Note sur la tonalité de référence.** En C majeur, les accords se jouent presque uniquement sur les touches blanches. Tous les accords de la famille de C majeur n'utilisent que des touches blanches : aucune altération n'est nécessaire. C'est une belle occasion de comprendre la structure sans se soucier des noires.
 
 ## 5 · Dans la louange
 
