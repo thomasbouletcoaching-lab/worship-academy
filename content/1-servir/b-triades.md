@@ -43,7 +43,7 @@ Pour un débutant, l'important est de comprendre que ces couleurs ne sont pas ar
 
 **Vérification pas à pas.** Dans la triade majeure, C à E fait quatre demi-tons (M3), E à G fait trois demi-tons (m3), et C à G fait sept demi-tons (P5). Pour la mineure, C à Eb fait trois (m3), Eb à G fait quatre (M3), total sept. Pour l'augmentée, C à E fait quatre, E à G# fait quatre, total huit, c'est-à-dire la quinte augmentée (A5). Pour la diminuée, C à Eb fait trois, Eb à Gb fait trois, total six, la quinte diminuée (d5).
 
-**Une même triade, plusieurs noms.** L'accord de C majeur, C – E – G, se nomme C ou Cmaj ou C majeur. L'accord de C mineur, C – Eb – G, se nomme Cm ou Cmin ou Cmineur. L'augmenté se note C+ ou Caug. Le diminué se note Cdim ou C°. En lettres, Eb est souvent noté D# par les musiciens qui écrivent en dièses, mais la lettre diffère : une tierce mineure s'écrit toujours avec une lettre différente de la fondamentale.
+**Une même triade, plusieurs noms.** L'accord de C majeur, C – E – G, se nomme C ou Cmaj ou C majeur. L'accord de C mineur, C – Eb – G, se nomme Cm ou Cmin ou Cmineur. L'augmenté se note C+ ou Caug. Le diminué se note Cdim ou C°. En lettres, la tierce mineure de C s'écrit Eb et non D# : une tierce utilise toujours la lettre qui suit celle de la fondamentale, ici E.
 
 **Triades sur d'autres fondamentales.** Pour construire une triade majeure sur D, il faut D – F# – A (quatre demi-tons entre D et F#, trois entre F# et A ; le total fait bien sept). Pour une triade mineure sur A, A – C – E (A à C : trois demi-tons ; C à E : quatre). Pour une diminuée sur B, B – D – F (B à D : trois ; D à F : trois). Ces exemples montrent que la règle s'applique à toute fondamentale.
 

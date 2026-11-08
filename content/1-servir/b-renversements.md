@@ -72,7 +72,7 @@ Une progression simple est I – IV – V – I, en C : C – F – G – C. Si 
 
 Pendant une prière, les renversements créent une douceur particulière : la tierce en basse sonne comme une main qui en soutient une autre. Un pianiste qui accompagne la parole, où le silence compte autant que la note, préfère souvent le premier renversement, plus léger.
 
-Le second renversement, lui, sert à créer une tension avant la résolution. Dans une cadence, un accord G/C (sol en basse, C dans l'accord) peut conduire à C : la basse qui se pose sur la fondamentale produit un sentiment de retour, de réponse. Un chant de louange qui se termine sur ce type de cadence paraît conclure avec naturel.
+Le second renversement, lui, sert à créer une tension avant la résolution. Dans une cadence, un accord C/G (sol en basse, C dans l'accord) peut précéder C : la basse qui se pose ensuite sur la fondamentale produit un sentiment de retour, de réponse. Un chant de louange qui se termine sur ce type de cadence paraît conclure avec naturel.
 
 ## 6 · Exercices
 

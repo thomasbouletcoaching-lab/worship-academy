@@ -58,7 +58,7 @@ Notation : C4 = do central. Tonalité de référence : **do majeur**. Les exempl
 | Piano-voix | G2 + D3 (doigts 5 et 1) | B3 + F#4 (doigts 1 et 5) |
 | Groupe | silence (la basse tient G) | B3 + F#4 (doigts 1 et 5) |
 
-Lecture du tableau : en piano seul, la MG pose la fondamentale et la quinte ; en piano-voix, elle garde la fondamentale seule ou la quinte (ici la fondamentale et la quinte, un espace ouvert) et la MD ne donne que les notes-guides ; en groupe, la MG se tait. En sol, **F#4** (Fa dièse) est la septième de G maj7 : G (Sol), B (Si), D (Ré), F# (Fa dièse), à 11 demi-tons de G. Vérifie : G à B = 4 demi-tons, G à D = 7, G à F# = 11. Tout est juste.
+Lecture du tableau : en piano seul, la MG pose la fondamentale et la quinte ; en piano-voix, elle garde la fondamentale et la quinte, dans un espace ouvert, et la MD ne donne que les notes-guides ; en groupe, la MG se tait. En sol, **F#4** (Fa dièse) est la septième de G maj7 : G (Sol), B (Si), D (Ré), F# (Fa dièse), à 11 demi-tons de G. Vérifie : G à B = 4 demi-tons, G à D = 7, G à F# = 11. Tout est juste.
 
 ## 5 · Dans la louange
 

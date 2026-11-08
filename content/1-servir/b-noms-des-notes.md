@@ -24,7 +24,7 @@ duree_min: 25
 
 Imagine une liste de prénoms qui se répète : Do, Ré, Mi, Fa, Sol, La, Si, puis de nouveau Do. C'est le même ordre que celui des lettres C, D, E, F, G, A, B, puis C. Le solfège (Do Ré Mi) et la notation anglo-saxonne (C D E) sont deux manières d'appeler les mêmes sept marches d'un escalier. En louange, on parle souvent en Do, Ré, Mi, mais les partitions, les logiciels, les grilles d'accords et les musiciens internationaux utilisent les lettres. Il faut donc savoir passer de l'un à l'autre sans effort.
 
-Le numéro d'octave joue le rôle d'un étage. Le Do central du piano est C4 : quatre étages au-dessus du sous-sol, comme un immeuble dont le rez-de-chaussée serait C0. Le C qui suit, C5, est le même nom, un étage plus haut.
+Le numéro d'octave joue le rôle d'un étage. Le Do central du piano est C4. Le premier Do du clavier, tout en grave, est C0 ; compter les étages, c'est donc compter les Do. Le C qui suit, C5, porte le même nom, un étage plus haut.
 
 Pour les touches noires, on ajoute un signe. Le dièse (#) monte d'un demi-ton, le bémol (b) descend d'un demi-ton. La touche noire juste à droite du Do s'appelle donc C# (Do dièse) ou Db (Ré bémol) : c'est la même touche, deux noms possibles.
 
@@ -99,7 +99,7 @@ Quand tu joues C4 puis E4, puis G4 ensemble, tu entends un son qui « sonne Do M
 
 - **Confondre Mi et Fa, ou Si et Do.** Correction : les deux paires Mi-Fa et Si-Do sont séparées d'un demi-ton. Retiens-les comme deux paires « serrées » et ne les écris jamais comme des tons.
 - **Penser qu'il y a une noire entre E et F.** Correction : E-F et B-C ne comportent aucune noire. Le nom « E#» existe, mais il désigne F ; « B#» désigne C.
-- **Choisir le mauvais nom pour une noire.** Correction : une noire porte deux noms. En tonalité de Sol, on utilise plutôt F# que Gb, car la gamme de Sol a un Fa dièse. Le nom dépend du contexte, l'hauteur reste la même.
+- **Choisir le mauvais nom pour une noire.** Correction : une noire porte deux noms. En tonalité de Sol, on utilise plutôt F# que Gb, car la gamme de Sol a un Fa dièse. Le nom dépend du contexte, la hauteur reste la même.
 - **Oublier le numéro d'octave.** Correction : écris toujours C4, jamais seulement C, quand la hauteur importe. Un C3 et un C4 n'ont pas le même registre.
 - **Mélanger le solfège et les lettres dans une même phrase.** Correction : choisis un système par exercice, puis traduis-le à voix haute.
 

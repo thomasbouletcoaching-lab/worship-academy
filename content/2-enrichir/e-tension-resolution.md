@@ -57,7 +57,7 @@ Pour jouer G7 vers C en main droite, pose le pouce sur G4 et le deuxième doigt 
 
 Plus simple : en Sol majeur, le retard se joue avec C sus4 transposé, soit G sus4 = G, C, D. Le C sur le haut descend vers B, la quarte devient tierce : G, C, D vers G, B, D.
 
-**Note sur la tonalité de référence.** En Do majeur, les trois résolutions à retenir sont B vers C (sensible), F vers E (septième de dominante) et F vers E (retard). Toutes les trois se font par demi-ton, ce qui les rend très fiables.
+**Note sur la tonalité de référence.** En Do majeur, les deux résolutions à retenir sont B vers C (sensible) et F vers E (septième de dominante, comme dans le retard de C sus4). Ces deux mouvements se font par demi-ton, ce qui les rend très fiables.
 
 ## 5 · Dans la louange
 

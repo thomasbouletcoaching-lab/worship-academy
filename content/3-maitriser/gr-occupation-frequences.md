@@ -40,13 +40,13 @@ Le problème le plus fréquent en groupe n'est pas le manque de notes mais l'exc
 
 Les fréquences des notes se calculent à partir du **la 440** : A4 = 440 Hz, et chaque demi-ton multiplie la fréquence par 2 puissance 1/12 (environ 1,0595). Une octave double la fréquence. Ainsi C3 = 130,8 Hz, C4 = 261,6 Hz, C5 = 523,3 Hz, et G4 = 392 Hz. Attention : 500 Hz tombe entre B4 (493,9) et C5 (523,3). Le piano commence donc sa zone médium juste au-dessus de la zone bas-médium.
 
-**Les harmoniques.** Une note de piano n'est pas une fréquence pure : elle contient des harmoniques, des multiples de sa fréquence fondamentale (2f, 3f, 4f…). Prenons C4 (261,6 Hz) : son harmonique 2 tombe à 523 Hz (C5), l'harmonique 3 à 785 Hz (G5), l'harmonique 4 à 1 047 Hz (C6). Un accord joué dans le médium a donc des harmoniques dans la zone de la voix et de la présence. C'est pourquoi un piano très brillant peut couvrir un chanteur même lorsqu'il joue doucement.
+**Les harmoniques.** Une note de piano n'est pas une fréquence pure : elle contient des harmoniques, des multiples de sa fréquence fondamentale (2f, 3f, 4f…). Prenons C4 (261,6 Hz) : son harmonique 2 tombe à 523 Hz (C5), l'harmonique 3 à 784 Hz (G5), l'harmonique 4 à 1 047 Hz (C6). Un accord joué dans le médium a donc des harmoniques dans la zone de la voix et de la présence. C'est pourquoi un piano très brillant peut couvrir un chanteur même lorsqu'il joue doucement.
 
-**La boue.** Quand plusieurs notes proches (seconde, tierce) se trouvent dans la bas-médium (250 – 500 Hz), leurs battements et leurs harmoniques se superposent et créent un son épais et flou. Un exemple : C4, D4, E4 (261, 294, 330 Hz) regroupés en cluster sont tous dans la bas-médium : c'est de la boue. Les mêmes notes espacées, C3 et E4, sonnent claires.
+**La boue.** Quand plusieurs notes proches (seconde, tierce) se trouvent dans la bas-médium (250 – 500 Hz), leurs battements et leurs harmoniques se superposent et créent un son épais et flou. Un exemple : C4, D4, E4 (261, 294, 330 Hz) regroupés en cluster sont tous dans la bas-médium : c'est de la boue. Les mêmes notes réparties plus largement, C3 et E4 par exemple, sonnent claires.
 
 **Règle de l'espacement.** Plus on descend, plus les intervalles doivent être larges (quinte, octave) ; plus on monte, plus on peut resserrer, car les notes aiguës occupent moins d'espace perceptif. Un voicing dense en bas est une faute ; un voicing dense en haut est une option.
 
-**Principe du trou.** Une voix chantée a besoin d'un espace entre 500 Hz et 5 kHz pour être intelligible. Un groupe qui remplit cet espace de la même manière ne laisse pas place au texte. Le pianiste laisse donc, en général, cette zone aux chanteurs et ne dépasse pas la médiane (C5) quand la voix est présente.
+**Principe du trou.** Une voix chantée a besoin d'un espace entre 500 Hz et 5 kHz pour être intelligible. Un groupe qui remplit cet espace de la même manière ne laisse pas place au texte. Le pianiste laisse donc, en général, cette zone aux chanteurs et ne dépasse pas C5 quand la voix est présente.
 
 ## 4 · Au clavier
 

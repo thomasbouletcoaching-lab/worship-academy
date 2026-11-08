@@ -44,7 +44,7 @@ Un point rassurant : tu n'as pas besoin de connaître tout le clavier pour jouer
 
 **La convention de nommage.** Le C central du piano porte le numéro d'octave 4 : on écrit C4, et c'est le Do central (en numérotation MIDI, il vaut 60). L'octave change à chaque C : B3 est la dernière touche blanche avant C4, C5 est l'octave suivante. La note A4, qui sert de référence d'accord, vibre à 440 Hz.
 
-**Un cas limite.** Le C situé juste à gauche du duo de noires n'est pas toujours le même dans tous les claviers : la numérotation dépend du fabricant, mais la convention scientifique (C4 = Do central) est universelle dans la formation. Vérifie toujours le numéro d'octave indiqué dans une fiche avant de jouer.
+**Un cas limite.** Le C situé juste à gauche du duo de noires n'est pas toujours le même dans tous les claviers : certains fabricants, notamment Yamaha, nomment ce même Do central C3 ; dans cette formation, on suit la convention scientifique : C4 = Do central. Vérifie toujours le numéro d'octave indiqué dans une fiche avant de jouer.
 
 ## 4 · Au clavier
 

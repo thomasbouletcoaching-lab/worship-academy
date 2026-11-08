@@ -42,7 +42,7 @@ Le cercle sert à trois choses au quotidien : connaître l'armure d'une tonalit�
 - Si♭ majeur : 2 bémols (B♭, E♭)
 - Mi♭ majeur : 3 bémols (B♭, E♭, A♭)
 
-**Le relatif mineur.** Chaque tonalité majeure a un relatif mineur qui partage exactement la même armure. Il se trouve 3 demi-tons sous la tonique : Do majeur a pour relatif La mineur (A est à 9 demi-tons de C, soit 3 demi-tons sous C, en comptant C = 12 vers A = 9 ; l'écart est bien de 3). Sol majeur a pour relatif Mi mineur (E = 4, G = 7 : 7 − 4 = 3). Fa majeur a pour relatif Ré mineur (D = 2, F = 5 : 5 − 2 = 3).
+**Le relatif mineur.** Chaque tonalité majeure a un relatif mineur qui partage exactement la même armure. Il se trouve 3 demi-tons sous la tonique : Do majeur a pour relatif La mineur : A (9) se trouve 3 demi-tons sous C (12). Sol majeur a pour relatif Mi mineur (E = 4, G = 7 : 7 − 4 = 3). Fa majeur a pour relatif Ré mineur (D = 2, F = 5 : 5 − 2 = 3).
 
 **Les accords qui tirent.** Dans une tonalité, le couple « dominante vers tonique » reste l'arme la plus puissante. Dans Do majeur, le ii-V-I s'écrit Dm7, G7, Cmaj7. Chaque étape descend d'une quinte (ou monte d'une quarte) : D vers G, G vers C. C'est exactement la logique du cercle, lue dans l'autre sens.
 

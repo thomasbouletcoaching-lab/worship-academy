@@ -24,7 +24,7 @@ duree_min: 25
 
 Imagine un pont suspendu qui oscille un peu sous les pas. Il tient, il porte, mais on sent qu'il bouge. Le m7b5 et le dim7 ont ce caractère : la quinte est abaissée, la base de l'accord n'est plus aussi solide, et l'oreille attend qu'il se stabilise.
 
-Les sept noms de base sont C (Do), D (Ré), E (Mi), F (Fa), G (Sol), A (La) et B (Si). Le m7b5 le plus utile est Dm7b5, construit sur Ré. Le dim7 le plus simple à retenir est Bdim7, construit sur Si, parce que c'est le vii° de Do majeur.
+Les sept noms de base sont C (Do), D (Ré), E (Mi), F (Fa), G (Sol), A (La) et B (Si). Le m7b5 le plus utile est Dm7b5, construit sur Ré. Le dim7 le plus simple à retenir est Bdim7, construit sur Si : c'est le vii°7 de Do mineur harmonique, et il sert souvent d'accord de passage vers Do majeur.
 
 Une image de la vie de tous les jours : une lampe qu'on règle avec un variateur à mi-course. La lumière n'est ni éteinte ni franche ; elle est suspendue, et l'on attend le moment où l'on va la mettre au niveau voulu.
 
@@ -37,7 +37,7 @@ Une image de la vie de tous les jours : une lampe qu'on règle avec un variateur
 - D (Ré) vers Ab (La bémol) : 6 demi-tons, quinte diminuée (une quinte juste aurait été 7 demi-tons, donc on a bien abaissé d'un demi-ton).
 - D (Ré) vers C (Do) : 10 demi-tons, septième mineure.
 
-Donc Dm7b5 = D – F – Ab – C. Recontrôle : de F à Ab il y a 3 demi-tons, de Ab à C il y a 4 demi-tons, et de C à D (en repartant du D) 2 demi-tons de plus : on retrouve bien les empilements de tierces mineure, mineure puis majeure, qui donnent la quinte diminuée au milieu.
+Donc Dm7b5 = D – F – Ab – C. Recontrôle : D vers F est une tierce mineure (3 demi-tons), F vers Ab est aussi une tierce mineure (3), et Ab vers C est une tierce majeure (4). L'accord s'empile donc en mineure, mineure puis majeure ; c'est la quinte diminuée Ab qui fait sa particularité.
 
 **Le dim7 (diminué 7).** Il se compose de la fondamentale, de la tierce mineure, de la quinte diminuée et de la septième diminuée, qui vaut 9 demi-tons, soit une sixte majeure sur la fondamentale, ou encore une septième diminuée que l'on entend comme une sixte. En demi-tons : 0, +3, +6, +9.
 
@@ -48,15 +48,15 @@ Donc Dm7b5 = D – F – Ab – C. Recontrôle : de F à Ab il y a 3 demi-tons, 
 
 Donc Bdim7 = B – D – F – Ab. Recontrôle : chaque intervalle entre deux notes voisines est une tierce mineure (3 demi-tons). Quatre notes, quatre tierces mineures : c'est la particularité du dim7, elle est symétrique.
 
-**La symétrie.** Puisque le dim7 se compose uniquement de tierces mineures, il existe seulement trois dim7 différents sur le clavier : Bdim7 (qui contient D, F, Ab), Cdim7 (C, Eb, Gb, A) et Ddim7... en réalité Ebdim7 contient les mêmes notes que Cdim7 et Gbdim7, etc. Ce constat est utile : une même dim7 peut être nommée de quatre façons différentes selon la fondamentale choisie.
+**La symétrie.** Puisque le dim7 se compose uniquement de tierces mineures, il n'existe que trois ensembles de notes différents : {C, Eb, Gb, A}, {Db, E, G, Bb} et {D, F, Ab, B}. Chacun peut porter quatre noms selon la note placée en basse : {D, F, Ab, B} est à la fois Bdim7, Ddim7, Fdim7 et Abdim7 (en écriture enharmonique). Ce constat est utile : une même dim7 se nomme différemment selon la basse choisie.
 
-**Relation avec la dominante.** Le m7b5 et la dominante 7 partagent une même tension : la tierce et la quinte diminuée forment le triton. Dans Dm7b5 (D – F – Ab – C), le triton est F – B? Non : il est entre F et Ab ? Vérifions : F (65) et Ab (68) sont séparés de 3 demi-tons, pas de 6. Le triton est donc entre F et B ? Non, B n'appartient pas à Dm7b5. Il est ici entre Ab et D : Ab (68) et D (74) séparés de 6 demi-tons. C'est bien le triton de l'accord, il résout vers le Do et le Sol.
+**Le triton du m7b5.** Dans Dm7b5 (D – F – Ab – C), l'intervalle le plus instable est celui entre la fondamentale D et la quinte diminuée Ab : 6 demi-tons, un triton. La dominante 7 porte aussi un triton, mais entre sa tierce et sa septième. Le m7b5 cherche donc lui aussi une résolution vers un accord de tonique, comme dans la progression ii°7 – V7 – i.
 
 **Cas limites.** Le m7b5 peut être confondu avec un mineur 7 à quinte juste si la quinte est mal jouée. Le dim7 est souvent confondu avec un accord de septième de dominante altérée ; ce n'est pas le même accord, car la septième de dominante est à 10 demi-tons alors que la diminuée est à 9.
 
 ## 4 · Au clavier
 
-**Tonalité de référence : Do mineur (Cm) pour le m7b5 ; Do majeur (C) pour le dim7 de la septième degré.**
+**Tonalité de référence : Do mineur (Cm).** Dm7b5 est le ii°7 de Do mineur naturel, Cm7 le i. Le V7 de cette tonalité est G7 avec la tierce majeure B, empruntée à la mineure harmonique. Bdim7 est le vii°7 de Do mineur harmonique ; on l'utilise aussi en Do majeur comme accord de passage.
 
 | Accord | Main gauche (basse) | Main droite | Doigtés MG / MD |
 |---|---|---|---|

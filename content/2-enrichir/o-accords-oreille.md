@@ -49,7 +49,7 @@ Vérification : un accord majeur de Do est C-E-G. C à E = 4 demi-tons, E à G =
 - m7b5 (C-Eb-Gb-Bb) : 3, 3, 4.
 - Diminué 7 (C-Eb-Gb-Bbb) : 3, 3, 3 (la septième diminuée est une note enharmonique du La, notée Bbb, qu'on entend comme La).
 
-Vérification de la dominante 7 : C-E = 4, E-G = 3, G-Bb = 3 : total de la tierce à la septième = 3 + 3 + 4 = 10 demi-tons, ce qui donne la septième mineure. Vérification du maj7 : C-E = 4, E-G = 3, G-B = 4 : la septième est majeure (B est à 11 demi-tons de C).
+Vérification de la dominante 7 : C-E = 4, E-G = 3, G-Bb = 3, et C à Bb fait 10 demi-tons, soit une septième mineure (la septième du C7 n'est pas la septième majeure B). Vérification du maj7 : C-E = 4, E-G = 3, G-B = 4 : la septième est majeure (B est à 11 demi-tons de C).
 
 **Les sus.** Un accord sus2 remplace la tierce par la seconde (C-D-G) ; un accord sus4 remplace la tierce par la quarte (C-F-G). Il n'y a pas de tierce, donc pas de majeur ni de mineur : le son est suspendu.
 

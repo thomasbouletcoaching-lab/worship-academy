@@ -32,7 +32,7 @@ Le pianiste de louange ne cherche pas la « bonne note » dans l'absolu. Il cher
 
 - **Position serrée** : C4 (0), E4 (+4), G4 (+7). Les intervalles entre notes voisines sont des tierces majeure et mineure. Sonorité compacte, intime.
 - **Position ouverte** : C3 (0), G3 (+7), E4 (+16), soit une quinte puis une dixième. Sonorité aérée, lumineuse, qui demande de la place.
-- **Renversement sur la tierce** : E2 à la basse, avec C et G au-dessus. Le son s'appelle C/E. Entre E2 et G2 la tierce mineure (3 demi-tons) donne une couleur douce, presque suspendue.
+- **Renversement sur la tierce** : E2 à la basse, avec C3 et G3 au-dessus. Le son s'appelle C/E. Entre E2 et G2 la tierce mineure (3 demi-tons) donne une couleur douce, presque suspendue, et la sixte mineure E2 vers C3 (8 demi-tons) ouvre une attente.
 
 **Le rôle de la basse.** Une même harmonie change de sens selon la note la plus grave. C/E (basse E) sonne plus léger que C (basse C), car la basse n'est plus la fondamentale : elle crée une attente. Vérification : E vers C (de E2 à C3) est une sixte mineure (8 demi-tons). Ce mouvement attend de se résoudre vers la tonique.
 
@@ -60,7 +60,7 @@ Pour l'intimité, pose les trois notes serrées sur les doigts 1, 2 et 4, en gar
 
 **Exemple en Sol majeur (G).** Les trois intentions se transposent : G serré (G4 · B4 · D5), G ouvert (G3 · D4 · B4 · G4 · D5 en MD, la fondamentale en MG), G/B (basse B2, avec G et D au-dessus). Le principe est identique : seule la note de basse change le sens.
 
-**Note sur la tonalité de référence.** En Do majeur, la basse E crée un intervalle de sixte mineure vers C ; c'est la raison pour laquelle C/E demande une résolution naturelle vers la tonique. En Sol majeur, la même logique donne G/B, avec la sixte mineure B vers G (mais en sens inverse de C/E vers C, car B est au-dessus de G dans sa position fondamentale).
+**Note sur la tonalité de référence.** En Do majeur, la basse E crée un intervalle de sixte mineure vers C ; c'est la raison pour laquelle C/E demande une résolution naturelle vers la tonique. En Sol majeur, G/B produit la même sixte mineure, de B2 vers G3 (8 demi-tons), qui attend elle aussi sa résolution vers la tonique.
 
 ## 5 · Dans la louange
 

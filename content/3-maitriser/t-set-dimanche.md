@@ -38,7 +38,7 @@ Enfin, un set est une chose vivante. Le dimanche, il faut parfois laisser la pla
 
 **Les accords pivots.** Un pivot est un accord commun à deux tonalités ou deux chants. Entre C majeur et A mineur (son relatif), tous les accords partagent deux notes : C et E. Entre G et E mineur, les notes communes sont G et B. Le pivot permet de passer d'un chant à l'autre sans rupture : on termine le premier sur un accord commun, puis on démarre le second dessus.
 
-**Les notes communes.** Quand deux accords se suivent, les notes qui restent en place et celles qui bougent d'un demi-ton ou d'un ton donnent une transition souple. Une note qui monte d'un demi-ton vers la note suivante s'appelle souvent une note sensible (la septième degré en gamme majeure, qui monte vers la tonique). Dans un enchaînement C–Am, la note G monte d'un ton jusqu'à A : c'est un mouvement doux.
+**Les notes communes.** Quand deux accords se suivent, les notes qui restent en place et celles qui bougent d'un demi-ton ou d'un ton donnent une transition souple. Une note qui monte d'un demi-ton vers la note suivante s'appelle souvent une note sensible (le septième degré en gamme majeure, qui monte vers la tonique). Dans un enchaînement C–Am, la note G monte d'un ton jusqu'à A : c'est un mouvement doux.
 
 **Le plan d'un set.** Un set de quatre chants peut suivre un arc en quatre temps : une entrée intime (un chant plus calme), une montée (un chant plus ouvert), un moment de prière ou de silence, puis une conclusion qui relance l'élan. Les repères de longueur sont simples : pas plus de trois chants en tempo rapide d'affilée, un chant lent après un chant rapide pour souffler.
 

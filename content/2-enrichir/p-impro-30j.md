@@ -101,7 +101,7 @@ Jargon : « boucle » désigne une progression qui se répète ; « répons » d
 
 ## 7 · Oreille
 
-Ce qu'il faut entendre : la différence entre une note qui **appartient** à l'accord et une note qui **frotte**. Joue C seul, puis C avec F en dessous (accord de F dessous) : tu entends la tension entre le E et le F, qui sont voisins d'un demi-ton (E = 4, F = 5).
+Ce qu'il faut entendre : la différence entre une note qui **appartient** à l'accord et une note qui **frotte**. Joue un E4 tenu, puis ajoute F4 : tu entends la tension entre deux notes voisines d'un demi-ton (E = 4, F = 5).
 
 **Test à l'oreille.** Demande à quelqu'un de jouer la boucle C–Am–F–G, en plaçant une note sur chaque accord. Ferme les yeux. Indique à chaque fois si la note est « dans » l'accord ou « à côté ». Tu dois réussir au moins huit fois sur dix.
 

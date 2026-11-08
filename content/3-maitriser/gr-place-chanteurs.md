@@ -58,7 +58,7 @@ Vérifie : C3 = 130,8 Hz, G2 = 98 Hz, A2 = 110 Hz, F2 = 87,3 Hz : toutes dans le
 | Em | E2 (Mi) | G3 (Sol) + B3 (Si) | 1 et 3 |
 | C | C3 (Do) | C4 (Do) + E4 (Mi) | 1 et 3 |
 
-Vérifie : D2 = 73,4 Hz, F#3 = 185 Hz, A3 = 220 Hz (D, F#, A : accord de ré majeur). E2 = 82,4 Hz, G3 = 196 Hz, B3 = 246,9 Hz (E, G, B : accord de mi mineur). Dans la dernière ligne, C4 et E4 forment la tierce de do majeur, sans quinte : la voix peut tenir G4 sans conflit.
+Vérifie : D2 = 73,4 Hz, F#3 = 185 Hz, A3 = 220 Hz (D, F#, A : accord de ré majeur). E2 = 82,4 Hz, G3 = 196 Hz, B3 = 246,9 Hz (E, G, B : accord de mi mineur). Dans la dernière ligne, C4 et E4 forment la fondamentale et la tierce de do majeur, sans quinte : la voix peut tenir G4 sans conflit.
 
 **Tonalité de référence.** En do majeur, les voicings se trouvent naturellement dans le grave et le bas-médium ; en sol majeur, ils montent un peu plus haut. Choisis la tonalité qui laisse le chanteur dans sa zone confortable avant d'ajuster l'accompagnement.
 

@@ -68,7 +68,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : C majeur, dont toute
 
 Les doigtés indiqués sont une suggestion, à ajuster pour que la main reste calme. L'essentiel est de compter les demi-tons.
 
-**Un ton et un demi-ton dans deux tonalités.** Dans C majeur, C4 vers D4 forme un ton (2 demi-tons), D4 vers E4 aussi, E4 vers F4 forme un demi-ton, et ainsi de suite. Dans G, la tonique G4 vers A4 est un ton (G# n'existe pas dans cet intervalle, puisque la gamme de Sol utilise 2 demi-tons de G4 à A4). Ces motifs se répètent quand on change de tonalité, mais les touches changent. C'est l'objet des fiches suivantes.
+**Un ton et un demi-ton dans deux tonalités.** Dans C majeur, C4 vers D4 forme un ton (2 demi-tons), D4 vers E4 aussi, E4 vers F4 forme un demi-ton, et ainsi de suite. Dans G, la tonique G4 vers A4 forme aussi un ton : la touche noire G#4 se trouve entre les deux, et elle compte pour le premier demi-ton. Ces motifs se répètent quand on change de tonalité, mais les touches changent. C'est l'objet des fiches suivantes.
 
 **Note sur la tonalité de référence.** Dans C majeur, les demi-tons se trouvent entre E-F et B-C ; les tons se trouvent partout ailleurs. C'est la signature de la gamme majeure, que tu découvriras à la fiche « La formule de la gamme majeure ».
 

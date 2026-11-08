@@ -30,18 +30,18 @@ Le piège est de vouloir tout apprendre d'un coup. La bonne méthode : un interv
 
 ## 3 · Sous le capot
 
-**Le principe de la reconnaissance.** Un intervalle se reconnaît selon trois critères : sa taille (le nombre de notes, en comptant la note de départ), sa qualité (majeure, mineure, juste, augmentée, diminuée) et sa direction (ascendante ou descendante). Un saut de tierce ascendant ne se confond pas avec une tierce descendante, même si le nombre de demi-tons est identique : la tierce descendante de C est A, l'ascendante est E.
+**Le principe de la reconnaissance.** Un intervalle se reconnaît selon trois critères : sa taille (le nombre de notes, en comptant la note de départ), sa qualité (majeure, mineure, juste, augmentée, diminuée) et sa direction (ascendante ou descendante). Un saut de tierce ascendant ne se confond pas avec une tierce descendante : la tierce mineure descendante de C mène à A, tandis que la tierce majeure ascendante mène à E.
 
-**Les ancres recommandées.** Voici des mélodies connues, pour lesquelles seules les deux premières notes servent d'ancre. Aucune parole n'est citée :
+**Les ancres recommandées.** Voici des mélodies connues, dont le saut initial sert d'ancre. Aucune parole n'est citée :
 
-| Intervalle | Demi-tons | Ancre (les deux premières notes) |
+| Intervalle | Demi-tons | Ancre (le saut à retenir) |
 |---|---|---|
-| m2 (seconde mineure) | 1 | « Les dents de la mer » : deux notes de tension très serrée (E – F) |
+| m2 (seconde mineure) | 1 | « Les dents de la mer » : le motif de tension très serrée (E – F) |
 | M2 (seconde majeure) | 2 | « Frère Jacques », les deux premières notes (C – D) |
 | m3 (tierce mineure) | 3 | « Smoke on the water », les premières notes du riff (G – Bb) |
 | M3 (tierce majeure) | 4 | « When the Saints Go Marching In », l'appel initial (C – E) |
 | P4 (quarte juste) | 5 | « Amazing Grace », la montée initiale (D – G) |
-| P5 (quinte juste) | 7 | « Twinkle, twinkle », les deux notes séparées (C – G) |
+| P5 (quinte juste) | 7 | « Twinkle, twinkle », le premier grand saut, après deux notes répétées (C – G) |
 | P8 (octave) | 12 | « Over the Rainbow », le saut initial (C – C aigu) |
 
 Pour les sixtes et septièmes, il est plus sûr de travailler par comparaison de la sensation que par ancre ; une ancre précise demande un répertoire que tu ne maîtrises peut-être pas encore.
@@ -107,7 +107,7 @@ Astuce : si tu hésites entre une tierce et une quarte, rejoue la paire et conce
 
 ## 8 · Erreurs fréquentes
 
-- **Confondre une tierce descendante avec une tierce ascendante.** Correction : vérifie la direction. De C à A en descendant, c'est une sixte, et non une tierce ; de C à A en montant, c'est une sixte majeure. Vérifie toujours la direction avant de nommer.
+- **Confondre une tierce descendante avec une tierce ascendante.** Correction : vérifie la direction. De C à A en descendant, c'est une tierce mineure ; de C à A en montant, c'est une sixte majeure. Vérifie toujours la direction avant de nommer.
 - **Se fier uniquement à l'ancre.** Correction : une ancre sert à démarrer. Compte toujours les demi-tons pour confirmer.
 - **Confondre P4 et P5 quand les notes sont aiguës.** Correction : la quarte fait cinq demi-tons, la quinte en fait sept. Chante la note aiguë pour sentir la différence avec la note de départ.
 - **Écouter sans chanter.** Correction : chanter la note aiguë sur « la » donne une référence physique. L'oreille progresse plus vite quand la voix suit.

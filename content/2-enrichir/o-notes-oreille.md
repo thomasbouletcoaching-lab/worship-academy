@@ -66,7 +66,7 @@ La tonalité de référence est Do majeur, car elle n'a ni dièse ni bémol : tu
 
 ## 5 · Dans la louange
 
-Un chanteur commence souvent un chant par une note sur laquelle il est à l'aise. Ta mission est de la retrouver instantanément. Si la note est un Mi4, tu sais que tu peux ancrer une tonique en Do majeur (la tierce est Mi) ou en La mineur (la note est la tierce de Do, et la tonique La est un ton plus bas). Ce choix dépend de la suite du chant.
+Un chanteur commence souvent un chant par une note sur laquelle il est à l'aise. Ta mission est de la retrouver instantanément. Si la note est un Mi, elle peut être la tierce d'un Do majeur, ou la quinte d'un La mineur (La à Mi forme une quinte juste, sept demi-tons). Ce choix dépend de la suite du chant : ce sont les notes qui suivent qui tranchent.
 
 Quand le chant est déjà lancé, la voix peut monter sur une note inattendue. Un pianiste qui entend un Sol aigu dans une phrase de Do majeur comprend immédiatement qu'il est sur la quinte, et qu'il peut accompagner avec le Do ou la fondamentale du moment. C'est une aide précieuse pour éviter les dissonances gênantes.
 

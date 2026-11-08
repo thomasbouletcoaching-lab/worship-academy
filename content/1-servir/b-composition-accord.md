@@ -93,7 +93,7 @@ Astuce : chante la fondamentale avant d'écouter l'accord. C'est la note de repo
 
 - **Oublier la tierce et ne jouer que fondamentale et quinte.** Correction : si la tierce manque, l'accord n'est ni majeur ni mineur. Ajoute la tierce ou assume explicitement un accord « sans couleur » (et nomme-le ainsi).
 - **Prendre la quinte pour la tierce.** Correction : une tierce est à trois ou quatre demi-tons, une quinte à sept. Compte toujours les demi-tons avant de nommer.
-- **Écrire une tierce mal orthographiée.** Correction : une tierce mineure de C est Eb, pas D#, car une tierce utilise toujours une lettre différente de la fondamentale (ici la lettre E).
+- **Écrire une tierce mal orthographiée.** Correction : une tierce mineure de C est Eb, pas D#, car une tierce utilise la lettre qui suit celle de la fondamentale (ici E).
 - **Confondre fondamentale et basse.** Correction : la fondamentale nomme l'accord, la basse est la note la plus grave jouée. Les deux coïncident en position fondamentale, mais pas en renversement.
 - **Jouer toutes les notes avec la même force.** Correction : la fondamentale doit être posée, la tierce doit ressortir légèrement, la quinte peut rester discrète.
 

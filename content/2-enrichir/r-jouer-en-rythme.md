@@ -56,7 +56,7 @@ Notation : le Do central est C4 (Do central). Notes utilisées : C3 (Do grave), 
 | F#4 | MD | 3 |
 | A4 | MD | 5 |
 
-Exercice 1, Do majeur (pouls et contretemps) : la MG joue C3 (doigt 5) sur chaque temps, en noires. La MD joue la note E4 (doigt 3) sur chaque « et » (croches à contretemps), puis G4 (doigt 5) sur le « et » suivant. Le pouls est porté par la basse, le contretemps par la main droite. Compte « un-et, deux-et, trois-et, quatre-et ».
+Exercice 1, Do majeur (pouls et contretemps) : la MG joue C3 (doigt 5) sur chaque temps, en noires. La MD joue E4 (doigt 3) et G4 (doigt 5) ensemble sur chaque « et » (croches à contretemps). Le pouls est porté par la basse, le contretemps par la main droite. Compte « un-et, deux-et, trois-et, quatre-et ».
 
 Exercice 2, Ré majeur : la MG joue D3 (doigt 5) sur les temps 1 et 3, puis A3 (doigt 3) sur les temps 2 et 4. La MD joue un accord D4-F#4-A4 (1-3-5) sur chaque « et ». Ré majeur est la tonalité plus exigeante : le fa dièse impose un doigté précis, et la basse alterne sur la quinte.
 

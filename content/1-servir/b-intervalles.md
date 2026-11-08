@@ -49,7 +49,7 @@ Le nom d'un intervalle se compose de deux éléments : un nombre (seconde, tierc
 | Septième majeure | M7 | 11 | C4 – B4 | rêve, tension douce |
 | Octave juste | P8 | 12 | C4 – C5 | identité, plénitude |
 
-**Le triton.** Il vaut six demi-tons et se nomme « quarte augmentée » (F à B) ou « quinte diminuée » (F à B aussi, mais écrit autrement selon le contexte). Dans le langage courant on dit « triton », l'intervalle le plus dissonant de la musique tonale.
+**Le triton.** Il vaut six demi-tons. Selon l'écriture, il se nomme « quarte augmentée » (F – B) ou « quinte diminuée » (B – F). Dans le langage courant on dit « triton », l'intervalle le plus dissonant de la musique tonale.
 
 **Les intervalles justes et les intervalles majeurs/mineurs.** Les unissons, quartes, quintes et octaves sont dits « justes » : leur qualité ne change pas (P4, P5, P8). Les secondes, tierces, sixtes et septièmes peuvent être majeures ou mineures (M2, m2, M3, m3…). Cette distinction est décisive : une tierce mineure transforme l'humeur d'un accord.
 
