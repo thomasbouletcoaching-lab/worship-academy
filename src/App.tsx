@@ -3,6 +3,9 @@ import { useMemo, useState } from 'react';
 import { loadFiches, Fiche } from './content/loader';
 import { renderMarkdown } from './features/markdown/markdown';
 import ChordDictionary from './features/chords/ChordDictionary';
+import NashvillePage from './features/nashville/NashvillePage';
+import EarTrainer from './features/ear/EarTrainer';
+import VirtualBand from './features/band/VirtualBand';
 
 const fiches = loadFiches();
 const NIVEAUX = [
@@ -45,6 +48,9 @@ function Shell({ children }: { children: React.ReactNode }) {
           <nav className="flex flex-wrap items-center gap-1 text-sm">
             <NavLink to="/bibliotheque" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Bibliothèque</NavLink>
             <NavLink to="/accords" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Accords</NavLink>
+            <NavLink to="/nashville" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Grilles</NavLink>
+            <NavLink to="/groupe" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Groupe</NavLink>
+            <NavLink to="/oreille" className={({ isActive }) => `${link} ${isActive ? 'font-semibold' : ''}`}>Oreille</NavLink>
             <ThemeToggle />
           </nav>
         </div>
@@ -128,6 +134,9 @@ export default function App() {
           <Route path="/bibliotheque" element={<Library />} />
           <Route path="/fiche/:id" element={<FicheView />} />
           <Route path="/accords" element={<ChordDictionary />} />
+          <Route path="/nashville" element={<NashvillePage />} />
+          <Route path="/oreille" element={<EarTrainer />} />
+          <Route path="/groupe" element={<VirtualBand />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </Shell>

@@ -36,7 +36,7 @@ Conduire ne signifie pas imposer. Une bonne conduite laisse de la place à l'ass
 
 **Le départ (count-in).** Avant de jouer, tu donnes la pulsation : une inspiration visible, un geste de la main qui descend puis remonte, et tu comptes « un, deux, trois, quatre ». Le premier temps de ton jeu tombe sur le moment où tu entres. En 4/4, une mesure de préparation suffit ; en 3/4, trois temps. Le groupe se règle davantage sur ta respiration que sur le chiffre prononcé.
 
-**Changer de tonalité.** Une transposition se mesure en demi-tons. De Do (C) à Ré (D) : +2 demi-tons, soit un ton. De Do (C) à Sol (G) : +7 demi-tons, soit une quinte juste. De Do (C) à Si♭ (Bb) : −2 demi-tons, soit un ton vers le bas. Pour éviter le calcul en direct, on passe par les chiffres Nashville (voir la fiche m-nashville) : le chant s'écrit 1–4–5–1 quelle que soit la tonalité, et tu n'as qu'à transposer ces degrés.
+**Changer de tonalité.** Une transposition se mesure en demi-tons. De C (Do) à D (Ré) : +2 demi-tons, soit un ton. De C à G (Sol) : +7 demi-tons, soit une quinte juste. De C à Bb (Si♭) : −2 demi-tons, soit un ton vers le bas. Pour éviter le calcul en direct, on passe par les chiffres Nashville (voir la fiche m-nashville) : le chant s'écrit 1–4–5–1 quelle que soit la tonalité, et tu n'as qu'à transposer ces degrés.
 
 **La fin.** Une fin se prépare. Il peut s'agir d'un ralentissement (ritardando, noté « rit. »), d'un accord tenu (point d'orgue) ou d'un tag, c'est-à-dire la répétition de la dernière phrase, parfois plusieurs fois, avec une dynamique qui s'éteint. Le tag est un outil de conduite : c'est toi qui décides quand il s'arrête.
 
@@ -44,11 +44,11 @@ Conduire ne signifie pas imposer. Une bonne conduite laisse de la place à l'ass
 
 ## 4 · Au clavier
 
-La tonalité de référence de cette fiche est **Do majeur** (C majeur) : aucune altération à la clé, donc l'œil et la main voient tout de suite les notes. Les exemples se jouent d'abord en Do, puis en Sol (G) pour vérifier la transposition.
+La tonalité de référence de cette fiche est **C majeur (Do)** : aucune altération à la clé, donc l'œil et la main voient tout de suite les notes. Les exemples se jouent d'abord en C, puis en G, pour vérifier la transposition.
 
-Le geste d'exemple est un tag I–IV–V–I, c'est-à-dire la fin classique d'une section : Do – Fa – Sol – Do. On le joue en 4 mesures à 80 BPM. Rappel des doigtés : 1 = pouce, 5 = auriculaire. MG = main gauche (basse), MD = main droite (triade).
+Le geste d'exemple est un tag I–IV–V–I, c'est-à-dire la fin classique d'une section : C (Do) – F (Fa) – G – C. On le joue en 4 mesures à 80 BPM. Rappel des doigtés : 1 = pouce, 5 = auriculaire. MG = main gauche (basse), MD = main droite (triade).
 
-**Tonalité de référence : Do majeur (C)**
+**Tonalité de référence : C majeur**
 
 | Mesure | Accord | Basse MG | Doigt MG | Triade MD | Doigts MD |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@ Le geste d'exemple est un tag I–IV–V–I, c'est-à-dire la fin classique d'u
 | 3 | G | G3 | 5 | G4 – B4 – D5 | 1 – 3 – 5 |
 | 4 | C | C3 | 5 | C4 – E4 – G4 | 1 – 3 – 5 |
 
-**Transposition en Sol majeur (G)** : le même tag monte de +7 demi-tons, une quinte juste. Les accords deviennent Sol – Do – Ré – Sol. La basse est ramenée dans la zone grave du clavier.
+**Transposition en G majeur** : le même tag monte de +7 demi-tons, une quinte juste. Les accords deviennent G – C – D – G. La basse est ramenée dans la zone grave du clavier.
 
 | Mesure | Accord | Basse MG | Doigt MG | Triade MD | Doigts MD |
 |---|---|---|---|---|---|
@@ -66,13 +66,13 @@ Le geste d'exemple est un tag I–IV–V–I, c'est-à-dire la fin classique d'u
 | 3 | D | D3 | 5 | D4 – F#4 – A4 | 1 – 3 – 5 |
 | 4 | G | G2 | 5 | G4 – B4 – D5 | 1 – 3 – 5 |
 
-Remarque sur la tonalité de Sol : l'accord de Ré contient un Fa dièse (F#4). C'est la seule altération du tag ; si ton doigt hésite, joue d'abord la triade de Ré seule, puis ajoute la basse.
+Remarque sur la tonalité de G : l'accord de D contient un Fa dièse (F#4). C'est la seule altération du tag ; si ton doigt hésite, joue d'abord la triade de Ré seule, puis ajoute la basse.
 
 Pour le geste de conduite lui-même, travaille ceci : à la fin de la mesure 3, la main droite lève la paume vers le haut, et à la mesure 4 elle se referme sur le Do. Ce geste de la main est annoncé une mesure avant : c'est lui qui fait entrer l'équipe.
 
 ## 5 · Dans la louange
 
-**Le départ.** Un dimanche matin, tu lances un chant en Do à 76 BPM. Tu prends une inspiration visible, tu fais descendre ta main, et tu entres sur le premier temps. Le chant commence ; tu jettes un coup d'œil à l'équipe pour vérifier que la batterie et la basse sont bien sur la même pulsation.
+**Le départ.** Un dimanche matin, tu lances un chant en C à 76 BPM. Tu prends une inspiration visible, tu fais descendre ta main, et tu entres sur le premier temps. Le chant commence ; tu jettes un coup d'œil à l'équipe pour vérifier que la batterie et la basse sont bien sur la même pulsation.
 
 **Le couplet.** Souvent, les premiers couplets sont plus intimes. Tu joues plus doux, tu laisses le chanteur porter la phrase, et tu n'indiques rien d'autre qu'un signe discret pour les instruments qui doivent rester en retrait.
 

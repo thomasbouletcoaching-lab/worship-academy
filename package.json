@@ -10,7 +10,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "content:check": "tsx scripts/check-content.ts",
-    "content:index": "tsx scripts/build-content-index.ts"
+    "content:index": "echo voir src/content/loader.ts"
   },
   "dependencies": {
     "react": "18.3.1",
