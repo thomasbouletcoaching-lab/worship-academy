@@ -64,7 +64,7 @@ Les doigtés pratiques : le pouce (1) tient la note la plus haute de la main gau
 
 **Exemple 2, en Sol majeur.** G2 D3 G3 pendant deux mesures, puis C3 G3 C4 (C3 étant la fondamentale du IV en Sol). La forme est la même, seule la fondamentale change.
 
-**Repère.** G2 se trouve à deux touches blanches à gauche de D3 ; C3 est la touche blanche située à gauche du D3 quand on regarde le registre médian. Pour trouver C2, descends de douze touches blanches depuis C3... Plus simple : repère les deux Do les plus graves du clavier, puis compte les demi-tons.
+**Repère.** C3 est le Do situé une octave sous le Do central (C4) ; C2 est une octave plus bas encore. G2 se trouve entre F2 et A2, c'est la touche blanche juste à droite de F2.
 
 ## 5 · Dans la louange
 
@@ -83,7 +83,7 @@ Les doigtés pratiques : le pouce (1) tient la note la plus haute de la main gau
 ### 🟡 Palier 2 — Maîtrise (75 BPM)
 
 - Reprends la même progression avec la main gauche en fondamentale et quinte, puis en fondamentale, quinte et octave pour le refrain.
-- **Critère de réussite** : trois formes enchaînées sans arrêt pendant 90 secondes, sans que la main gauche ne déborde vers la main droite (aucune note au-dessus de E3).
+- **Critère de réussite** : trois formes enchaînées sans arrêt pendant 90 secondes, sans que la main gauche ne déborde vers la main droite (aucune note au-dessus de A3).
 
 ### 🔴 Palier 3 — Virtuose (90 BPM)
 
@@ -94,7 +94,7 @@ Les doigtés pratiques : le pouce (1) tient la note la plus haute de la main gau
 
 - **Ce qu'il faut entendre** : une basse qui pose l'accord et qui donne son sens. On entend d'abord la basse, puis la couleur de la main droite.
 - **Comment l'identifier** : chante la note la plus grave de chaque accord. Si elle est la fondamentale, l'accord est en position fondamentale ; si elle est une autre note, c'est un renversement ou un accord slash.
-- **Petit test** : joue C – E – G en main droite, puis change seulement la basse : C, E, G. Écoute la différence : le premier sonne stable, le second plus léger. Ce sont les deux effets de la basse.
+- **Petit test** : joue C – E – G en main droite, avec C en basse (main gauche), puis E en basse sous la même main droite (C/E). Écoute la différence : le premier sonne stable, le second plus léger. C'est l'effet de la basse seule.
 
 ## 8 · Erreurs fréquentes
 

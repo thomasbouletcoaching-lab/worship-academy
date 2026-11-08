@@ -67,7 +67,7 @@ Une image pratique : un chef de cuisine qui ne garde que les épices, le sel res
 
 **Note sur la tonalité de référence.** Toujours vérifier la tonalité avant de nommer un accord : en Do majeur, Am7 est le vi ; en Sol majeur, Am7 est le ii. La même main droite peut servir à deux fonctions différentes, il faut le savoir.
 
-**Repère.** Le Do de l'octave centrale (C4) se trouve juste à gauche d'un groupe de deux touches noires. Le Mi (E4) est la touche blanche située deux touches blanches à droite du Do. Le Sol (G4) est trois touches blanches à droite du Do.
+**Repère.** Le Do de l'octave centrale (C4) se trouve juste à gauche d'un groupe de deux touches noires. Le Mi (E4) est la touche blanche située deux touches blanches à droite du Do. Le Sol (G4) est quatre touches blanches à droite du Do.
 
 ## 5 · Dans la louange
 

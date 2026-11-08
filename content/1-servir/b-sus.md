@@ -109,7 +109,7 @@ Astuce : pense à la note qui manque. Si tu n'entends ni E ni Eb, tu es probable
 - **Garder la tierce en même temps que le sus.** Correction : un Csus4 qui contient E n'est plus un sus, c'est un accord ajouté. Retire le E pour garder la couleur suspendue.
 - **Confondre sus2 et add9.** Correction : un sus2 ne contient pas de tierce ; un add9 (C – E – G – D) contient la tierce. Vérifie si le E est présent.
 - **Résoudre le sus4 vers le mauvais côté.** Correction : F descend vers E (vers la tierce), il ne monte pas vers G. Le mouvement naturel du sus4 est la descente d'un demi-ton.
-- **Oublier la quinte.** Correction : le G du Csus4 est nécessaire pour la stabilité. Sans lui, l'accord perd sa structure et se confond avec un simple intervalle de quarte.
+- **Oublier la quinte.** Correction : le G du Csus4 est nécessaire pour la stabilité. Sans lui, il ne reste que C et F, un simple intervalle de quarte qui ne forme plus d'accord.
 
 ## 9 · Liens
 

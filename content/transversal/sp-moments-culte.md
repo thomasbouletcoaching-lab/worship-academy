@@ -95,7 +95,7 @@ Le vocabulaire utile : une *cène* est le repas du Seigneur, un moment de mémoi
 ### 🔴 Palier 3 — Virtuose
 
 **Tempo : 75 BPM.** Enchaîne les quatre moments d'une liturgie simulée : prière (pédale C), appel (boucle C–F–G–C avec montée d'intensité), cène (C–Am–F–C), offrande (C–G–Am–F). Chaque transition est annoncée par un geste et une mesure.
-**Critère de réussite :** les quatre moments sont distincts pour l'auditeur, les transitions sont fluides, et la durée totale est tenue dans le temps prévu (environ 12 minutes à 75 BPM pour ces quatre tours).
+**Critère de réussite :** les quatre moments sont distincts pour l'auditeur, les transitions sont fluides, et la durée totale ne dépasse pas celle que tu as notée sur ton plan avant de commencer.
 
 ## 7 · Oreille
 

@@ -64,7 +64,7 @@ Une image de cuisine : une sauce réduite à son essentiel, le jus et la matièr
 
 Le résultat : un enchaînement très fluide, où chaque accord partage une note avec le suivant, et le déplacement se réduit à un demi-ton.
 
-**Exemple 2, en Sol majeur : ii – V – I.** Am7 (C4, G4), D7 (F#3, C4), Gmaj7 (F#3, B3). Vérification sur les déplacements : de Am7 à D7, G4 descend vers F#4 ? Non : pour rester dans le même registre, l'exemple est donné en shells plus haut. Garde simplement en tête que chaque shell est choisi pour être voisin du précédent.
+**Exemple 2, en Sol majeur : ii – V – I.** Am7 (C4, G4), D7 (C4, F#4), Gmaj7 (B3, F#4). Vérification : de Am7 à D7, C4 reste en place et G4 descend d'un demi-ton vers F#4 ; de D7 à Gmaj7, F#4 reste en place et C4 descend d'un demi-ton vers B3. Dans les deux cas, une note reste et l'autre descend d'un demi-ton.
 
 **Repère.** Le Mi3 (E3) est la touche blanche située juste au-dessus de D3 ; le Si3 (B3) est la touche blanche juste à gauche de C4. Pour le Fa3 (F3), repère la touche blanche située juste en dessous de F#3.
 
