@@ -54,9 +54,9 @@ Donc G7 = G – B – D – F. Recontrôle : de B à F il y a 6 demi-tons, un tr
 | Accord | Main gauche (basse) | Main droite | Doigtés MG / MD |
 |---|---|---|---|
 | G7 | G2 | B3, D4, F4 | MG 5 ; MD 1-3-5 |
-| C (tonique) | C3 | E4, G4, C5 | MG 5 ; MD 1-3-5 |
+| C (tonique) | C3 | C4, E4, G4 | MG 5 ; MD 1-3-5 |
 | D7 (en Sol) | D2 | F#3, A3, C4 | MG 5 ; MD 1-3-5 |
-| G (tonique en Sol) | G2 | B3, D4, G4 | MG 5 ; MD 1-3-5 |
+| G (tonique en Sol) | G2 | G3, B3, D4 | MG 5 ; MD 1-3-5 |
 
 **Exemple 1, en Do majeur : V7 – I.** G7 pendant deux mesures, puis C pendant deux mesures. Dans la main droite, la tierce de G7 (B3) monte vers C4, et la septième (F4) descend vers E4. Ces deux mouvements d'un demi-ton sont la clé de la résolution.
 
@@ -97,7 +97,7 @@ Donc G7 = G – B – D – F. Recontrôle : de B à F il y a 6 demi-tons, un tr
 ## 8 · Erreurs fréquentes
 
 - **Confondre dominante 7 et septième majeure.** G7 (F) et Gmaj7 (F#) ne sonnent pas pareil. **Correction** : compte 10 demi-tons pour la dominante, 11 pour le majeur 7.
-- **Oublier la tierce.** Un G7 sans B sonne comme un G sus avec une septième, flou. **Correction** : garde B, la tierce, dans la main droite.
+- **Oublier la tierce.** Un G7 sans B (G – D – F) sonne creux et ambigu, ni majeur ni mineur. **Correction** : garde B, la tierce, dans la main droite.
 - **Ne pas résoudre la septième.** Le F reste en place et l'accord paraît figé. **Correction** : fais descendre F vers E au moment de la résolution.
 - **Jouer la dominante en fondamentale aiguë.** Le G7 devient difficile à entendre dans la voix. **Correction** : place la basse en G2 ou G3, pas plus haut.
 

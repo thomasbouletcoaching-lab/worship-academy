@@ -54,15 +54,15 @@ Une image de la vie quotidienne : une semelle de chaussure. Elle protège le pie
 | Accord | Fondamentale seule | Fondamentale + quinte | Fondamentale + quinte + octave |
 |---|---|---|---|
 | C | C3 | C2, G2 | C2, G2, C3 |
-| Am | A2 | A1, E2 | A2, E3, A3 |
+| Am | A2 | A2, E3 | A2, E3, A3 |
 | F | F2 | F2, C3 | F2, C3, F3 |
-| G | G2 | G1, D2 | G2, D3, G3 |
+| G | G2 | G2, D3 | G2, D3, G3 |
 
 Les doigtés pratiques : le pouce (1) tient la note la plus haute de la main gauche, l'auriculaire (5) la plus basse. Pour la forme à trois notes, le pouce tient l'octave, le majeur la quinte, l'auriculaire la fondamentale.
 
 **Exemple 1, en Do majeur.** C2 G2 C3 pendant deux mesures, puis F2 C3 F3 pendant deux mesures. Le passage de C à F se fait par la quinte : F2 reprend la fondamentale, C3 devient la quinte de F. La main gauche garde une structure identique.
 
-**Exemple 2, en Sol majeur.** G2 D3 G3 pendant deux mesures, puis C3 G3 C4 (C3 étant la fondamentale du IV en Sol). La forme est la même, seule la fondamentale change.
+**Exemple 2, en Sol majeur.** G2 D3 G3 pendant deux mesures, puis C2 G2 C3 (C étant la fondamentale du IV en Sol). La forme est la même, seule la fondamentale change.
 
 **Repère.** C3 est le Do situé une octave sous le Do central (C4) ; C2 est une octave plus bas encore. G2 se trouve entre F2 et A2, c'est la touche blanche juste à droite de F2.
 

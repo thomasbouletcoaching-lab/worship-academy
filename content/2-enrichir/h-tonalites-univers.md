@@ -46,11 +46,11 @@ Il faut pourtant rester humble. Ces couleurs sont des tendances, pas des lois. U
 
 Vérification : le relatif mineur est une tierce mineure sous la tonique. Pour Do majeur, le relatif est La mineur : de La à Do, on compte La-Si (2 demi-tons) puis Si-Do (1 demi-ton), soit 3. Pour Sol majeur, le relatif est Mi mineur : de Mi à Sol, on compte Mi-Fa (1), Fa-Fa dièse (1), Fa dièse-Sol (1), soit 3. Pour La♭ majeur, le relatif est Fa mineur : de Fa à La♭, on compte Fa-Sol♭ (1), Sol♭-Sol (1), Sol-La♭ (1), soit 3.
 
-**La fréquence et la hauteur.** Une tonalité peut se transposer d'un demi-ton vers le haut, ce qui multiplie chaque fréquence par 2 à la puissance 1/12, soit environ 1,06. Monter d'un demi-ton augmente donc chaque fréquence d'environ 6 %. Un chant en Mi bémol sonne légèrement plus grave qu'en Mi, et un chant en La bémol plus grave encore : l'écart est imperceptible pour un auditeur, mais la voix du chanteur, elle, le sent.
+**La fréquence et la hauteur.** Une tonalité peut se transposer d'un demi-ton vers le haut, ce qui multiplie chaque fréquence par 2 à la puissance 1/12, soit environ 1,06. Monter d'un demi-ton augmente donc chaque fréquence d'environ 6 %. Un chant en Mi bémol sonne légèrement plus grave qu'en Mi : l'écart est imperceptible pour un auditeur, mais la voix du chanteur, elle, le sent.
 
 **Pourquoi ça marche.** L'oreille associe chaque tonalité à une expérience. Les tonalités à beaucoup de dièses (Mi, La, Si) sonnent souvent brillantes ; celles à beaucoup de bémols (Mi♭, La♭, Si♭) sonnent plus chaudes et veloutées. Cette impression vient en partie de la facilité de jeu sur le piano, et en partie de l'habitude culturelle. Les deux influencent le ressenti.
 
-**Cas limites.** Le relatif mineur change la couleur sans changer l'armure : un chant en Do mineur (aussi trois bémols) n'est pas en Mi♭ majeur, bien qu'ils partagent l'armure. Le mode détermine la tonique, pas seulement les notes.
+**Cas limites.** Le relatif mineur change la couleur sans changer l'armure : un chant en Do mineur (aussi trois bémols) n'est pas en Mi♭ majeur, bien qu'ils partagent l'armure. C'est la tonique qui détermine le mode, pas seulement les notes.
 
 ## 4 · Au clavier
 
@@ -101,7 +101,7 @@ Demande à quelqu'un de jouer une progression dans une tonalité que tu ne conna
 
 Ce qu'il faut entendre : la couleur de la tonalité. Une tonalité aux dièses sonne souvent claire et brillante ; une tonalité aux bémols sonne plus veloutée et dense. La tonique est le point de repos, le centre de gravité qui attire toute la musique.
 
-Comment l'identifier : écoute la fin de la phrase, puis cherche la note sur laquelle elle se pose. Si elle se pose sur C, la tonalité est probablement Do ou La mineur. Si elle se pose sur G, Sol ou Mi mineur. Si elle se pose sur Ab, c'est La♭ majeur ou Fa mineur.
+Comment l'identifier : écoute la fin de la phrase, puis cherche la note sur laquelle elle se pose. Si elle se pose sur C, la tonalité est probablement Do. Si elle se pose sur G, Sol. Si elle se pose sur Ab, c'est La♭ majeur. Avec les mêmes notes, une phrase qui se pose sur A, E ou F désigne le relatif mineur (La, Mi ou Fa mineur).
 
 Petit test : écoute deux chants joués dans deux tonalités, l'un en Do majeur, l'autre en La♭ majeur. Dis lequel est plus clair et lequel est plus chaud. Tu dois sentir que le premier brille et que le second se pose. Si tu hésites, joue les deux accords de tonique et compare.
 

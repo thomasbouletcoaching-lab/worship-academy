@@ -32,7 +32,7 @@ Le défi du débutant n'est pas de jouer fort, mais de jouer ensemble. Trois not
 
 Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (Fa), G (Sol), A (La), B (Si).
 
-**Ce qu'est un plaqué.** Toutes les notes de l'accord partent au même moment. Dans la pratique, l'écart entre la première et la dernière note reste inférieur à quelques dizaines de millisecondes, ce qui l'oreille perçoit comme une seule attaque. Au-delà, on entend un arpège.
+**Ce qu'est un plaqué.** Toutes les notes de l'accord partent au même moment. Dans la pratique, l'écart entre la première et la dernière note reste inférieur à quelques dizaines de millisecondes, ce que l'oreille perçoit comme une seule attaque. Au-delà, on entend un arpège.
 
 **La structure la plus simple.** Une main gauche qui tient la fondamentale, une main droite qui plaque les deux ou trois autres tons. Exemple en C : C3 (Do grave) à la main gauche ; à la main droite C4, E4, G4, soit un intervalle de 7 demi-tons entre le premier et le dernier son (C4 à G4) et une tierce majeure entre C4 et E4 (4 demi-tons).
 
@@ -59,7 +59,7 @@ Notes avec octave (C4 = Do central). Exemples donnés en plaqué : main gauche s
 
 Vérification des intervalles : F3 vers A3 = 4 demi-tons (tierce majeure), A3 vers C4 = 3 (tierce mineure), F3 vers C4 = 7 (quinte juste). G3 vers B3 = 4, B3 vers D4 = 3, G3 vers D4 = 7. Les accords sont bien en position fondamentale.
 
-**Exemple en G majeur.** Accord de G : G2 à la main gauche ; à la main droite G3, B3, D4. Accord de C : C3 à la main gauche ; C4, E4, G4 à la main droite. Accord de D : D2 à la main gauche ; D3, F#3, A3 à la main droite. Vérification : D3 vers F#3 = 4 demi-tons, F#3 vers A3 = 3, D3 vers A3 = 7. La F# est la note à ne pas oublier : elle donne la tierce majeure de l'accord de D.
+**Exemple en G majeur.** Accord de G : G2 à la main gauche ; à la main droite G3, B3, D4. Accord de C : C3 à la main gauche ; C4, E4, G4 à la main droite. Accord de D : D2 à la main gauche ; D3, F#3, A3 à la main droite. Vérification : D3 vers F#3 = 4 demi-tons, F#3 vers A3 = 3, D3 vers A3 = 7. Le F# est la note à ne pas oublier : elle donne la tierce majeure de l'accord de D.
 
 **Rythme de travail.** Joue chaque plaqué sur le temps 1 seulement, tenu une mesure entière, puis sur le temps 1 et le temps 3, puis avec un plaqué sur le « et » du temps 2 et du temps 4. Le même enchaînement I – IV – V – I sert à tous ces rythmes, ce qui te permet de te concentrer sur la synchronisation.
 

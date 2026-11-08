@@ -55,7 +55,7 @@ Vérification : la neuvième naturelle est A (2 demi-tons), donc b9 = Ab (1) et 
 
 **La gamme altérée.** Quand on veut toutes les altérations à la fois (b9, #9, #11, b5, #5, b13), la gamme qui les contient est la gamme altérée : G – Ab – Bb – B – Db – Eb – F. Sa formule en demi-tons est 1 – 2 – 1 – 2 – 2 – 2 – 2 (demi-ton, ton, demi-ton, ton, ton, ton, ton). C'est le septième mode de la mineure mélodique, joué un demi-ton au-dessus de la fondamentale : la gamme altérée de G est donc le mode de la mineure mélodique de Ab (La♭). Ce n'est pas une gamme à jouer en boucle, c'est une réserve de notes parmi lesquelles on pioche.
 
-**Cas limites.** Une altération n'a de sens que sur une dominante, c'est-à-dire un accord qui veut résoudre sur une tonique ou une cible proche. Une altération sur un accord qui ne veut rien résoudre (un accord de repos) devient du bruit. Enfin, la mélodie peut imposer l'altération : si le chant tient une note précise, on choisit l'altération qui lui donne une place, plutôt que l'inverse.
+**Cas limites.** Ces altérations prennent tout leur sens sur une dominante, c'est-à-dire un accord qui veut résoudre sur une tonique ou une cible proche. Une altération sur un accord qui ne veut rien résoudre (un accord de repos) devient du bruit. Enfin, la mélodie peut imposer l'altération : si le chant tient une note précise, on choisit l'altération qui lui donne une place, plutôt que l'inverse.
 
 ## 4 · Au clavier
 
@@ -91,7 +91,7 @@ Une altération est un outil de chef de chœur : elle se donne, elle ne s'impose
 
 **Le couplet en prière.** La voix avance doucement, la tonique C (Do) est tenue. Pour annoncer le refrain, on pose G7 b9 au dernier temps de la huitième mesure, puis on résout sur C au début du refrain. L'auditeur ressent l'attente sans que rien ne claque.
 
-**L'appel au refrain.** Le chantre monte sur la note Db (Ré♭) ou sur la quinte. Un G7 #11 (avec C#) sous cette montée soutient le geste sans le dépasser. Le retour sur G7 sans altération ferme l'élan.
+**L'appel au refrain.** Le chantre monte sur la note C# (Do dièse) ou sur la quinte. Un G7 #11 (avec C#) sous cette montée soutient le geste sans le dépasser. Le retour sur G7 sans altération ferme l'élan.
 
 **La parole et la cène.** Pendant qu'un pasteur ou un intervenant parle, on évite les altérations : elles attirent l'oreille et concurrencent le message. Une altération peut revenir après la parole, quand le moment de louange reprend, pour marquer le passage.
 
@@ -113,7 +113,7 @@ Dans les trois cas, la règle est la même : une altération = une cadence, pas 
 
 ### 🔴 Palier 3 — Virtuose
 
-**Tempo : 100 BPM.** Enchaîne trois cadences altérées dans trois tonalités : do majeur (G7 altéré vers C), fa majeur (C7 altéré vers F), si bémol majeur (F7 altéré vers Bb : F7 b9 = F, A, C, Eb, Gb). Tiens chaque tonique deux mesures.
+**Tempo : 100 BPM.** Enchaîne trois cadences altérées dans trois tonalités : do majeur (G7 altéré vers C), fa majeur (C7 altéré vers F), si bémol majeur (F7 altéré vers Bb : F7 b9 = F, A, Eb, Gb, quinte C omise). Tiens chaque tonique deux mesures.
 
 **Critère de réussite** : deux minutes sans arrêt, trois tonalités enchaînées, zéro quinte juste sur accord altéré, et une résolution sur la tonique à chaque cadence.
 

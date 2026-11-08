@@ -22,7 +22,7 @@ duree_min: 25
 
 ## 2 · Comprendre
 
-Imagine une porte qui s'ouvre en deux temps. Une noire pointée, c'est une porte qui s'ouvre lentement puis se referme d'un coup : la note tient un peu plus longtemps que la moitié d'un temps, puis la suivante arrive vite. Un triolet, c'est un petit pas de danse qui découpe un temps en trois, comme on coupe une tarte en trois parts égales au lieu de deux.
+Imagine une porte qui s'ouvre en deux temps. Une noire pointée, c'est une porte qui s'ouvre lentement puis se referme d'un coup : la note tient un temps et demi au lieu d'un, puis la suivante arrive vite. Un triolet, c'est un petit pas de danse qui découpe un temps en trois, comme on coupe une tarte en trois parts égales au lieu de deux.
 
 Dans la louange, ces deux figures sont partout. Une ballade intime s'appuie souvent sur des triolets d'arpèges : le piano tourne doucement, comme une respiration sous la voix. Un refrain plus enlevé utilise des notes pointées : le « ta-ta » qui fait sourire le groupe et donne envie de frapper dans les mains. Tu les reconnaîtras dans les chants où la phrase semble « claudiquer » gracieusement, ce boitement contrôlé qui fait le charme du gospel.
 
@@ -60,15 +60,15 @@ Exercice 1, Do majeur (triolets) : la MG tient C3 (doigt 5) sur chaque temps. La
 
 Exercice 2, Do majeur (pointé-double) : la MD joue une croche pointée C4 (doigt 1) suivie d'une double croche E4 (doigt 3), puis une noire G4 (doigt 5). Le motif fait 2 temps. La MG marque la basse C3 sur le premier temps seulement.
 
-Exercice 3, Si bémol majeur : la MG joue Bb2 (doigt 5) sur le temps 1 ; la MD joue le triolet Bb4-D5-F5 (doigts 1-3-5) sur le même temps. Vérifie la lisibilité : Bb4 est une touche noire, ce qui impose un doigté précis. Si tu as du mal, remplace la basse par Bb2 et joue l'arpège lentement à 60 BPM.
+Exercice 3, Si bémol majeur : la MG joue Bb2 (doigt 5) sur le temps 1 ; la MD joue le triolet Bb4-D5-F5 (doigts 1-3-5) sur le même temps. Vérifie la lisibilité : Bb4 est une touche noire, ce qui impose un doigté précis. Si tu as du mal, joue d'abord l'arpège seul, lentement, à 60 BPM.
 
-La tonalité de référence est Do majeur : si tu n'es pas sûr d'une note, reviens à C4-E4-G4 et vérifie sur les touches blanches. En Si bémol, les dièses sont remplacés par des bémols, et les notes noires font la différence.
+La tonalité de référence est Do majeur : si tu n'es pas sûr d'une note, reviens à C4-E4-G4 et vérifie sur les touches blanches. En Si bémol, deux bémols (Bb, Eb) entrent en jeu, et les notes noires font la différence.
 
 ## 5 · Dans la louange
 
 Un refrain de confiance peut s'ouvrir par un triolet d'arpège à 72 BPM : le piano tourne doucement, la voix se pose dessus. Le triolet crée un halo sonore sans écraser la mélodie. C'est un geste très utile sous une prière prononcée, quand le pasteur ou l'animateur a besoin d'espace.
 
-Les notes pointées conviennent aux chants de célébration : une noire pointée sur le temps fort, une croche sur le temps suivant, répétée pour créer un rebond. Le groupe s'y accroche facilement et chante avec plus d'allant. Attention à ne pas aller trop vite : le « ta-ta » perd son charme si le tempo monte au-delà de 100 BPM.
+Les notes pointées conviennent aux chants de célébration : une noire pointée sur le temps fort, une croche sur le « et » du temps suivant, répétée pour créer un rebond. Le groupe s'y accroche facilement et chante avec plus d'allant. Attention à ne pas aller trop vite : le « ta-ta » perd son charme si le tempo monte au-delà de 100 BPM.
 
 Dans un temps spontané, combine les deux : un triolet à la MG, un pointé-double à la MD. Le résultat est une marche légère, qui se transforme facilement en tapis lorsque la voix s'arrête. Pense au chanteur : il doit pouvoir reprendre la mesure sans effort, donc garde toujours la pulsation visible dans la basse.
 

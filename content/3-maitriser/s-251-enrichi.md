@@ -31,7 +31,7 @@ Le point de départ est le même : un accord mineur 7 prépare, une dominante po
 Les extensions se calculent en demi-tons par rapport à la fondamentale. Vérifie-le avec les intervalles suivants :
 
 - **9** : 2 demi-tons au-dessus de la fondamentale (une seconde, une octave plus haut).
-- **♭9** : 1 demi-ton au-dessus.
+- **♭9** : 1 demi-ton au-dessus (une seconde mineure, une octave plus haut : 13 demi-tons).
 - **♯11** : 6 demi-tons au-dessus (une quarte augmentée, ou triton).
 - **13** : 9 demi-tons au-dessus (une sixte majeure, une octave plus haut).
 
@@ -70,8 +70,8 @@ Repère : C4 est le Do central. Tonalité de référence : Do majeur. Seconde to
 | Bb (Sib) | Cm9 (C Eb G Bb D) | F7(♭9) : F A C Eb + Gb | Bbmaj9 (Bb D F A C) |
 | Eb (Mib) | Fm9 (F Ab C Eb G) | Bb7(♭9) : Bb D F Ab + Cb (= B) | Ebmaj9 (Eb G Bb D F) |
 | Ab (Lab) | Bbm9 (Bb Db F Ab C) | Eb7(♭9) : Eb G Bb Db + Fb (= E) | Abmaj9 (Ab C Eb G Bb) |
-| Db (Réb) | Ebm9 (Eb Gb Bb Db F) | Ab7(♭9) : Ab C Eb Gb + A | Dbmaj9 (Db F Ab C Eb) |
-| Gb (Solb) | Abm9 (Ab Cb Eb Gb Bb) | Db7(♭9) : Db F Ab Cb + D | Gbmaj9 (Gb Bb Db F Ab) |
+| Db (Réb) | Ebm9 (Eb Gb Bb Db F) | Ab7(♭9) : Ab C Eb Gb + Bbb (= A) | Dbmaj9 (Db F Ab C Eb) |
+| Gb (Solb) | Abm9 (Ab Cb Eb Gb Bb) | Db7(♭9) : Db F Ab Cb + Ebb (= D) | Gbmaj9 (Gb Bb Db F Ab) |
 | G (Sol) | Am9 (A C E G B) | D7(♭9) : D F# A C + Eb | Gmaj9 (G B D F# A) |
 | D (Ré) | Em9 (E G B D F#) | A7(♭9) : A C# E G + Bb | Dmaj9 (D F# A C# E) |
 | A (La) | Bm9 (B D F# A C#) | E7(♭9) : E G# B D + F | Amaj9 (A C# E G# B) |
@@ -104,7 +104,7 @@ Joue le 2-5-1 enrichi en Do, Fa, Sib et Mib (accords du tableau de Fa adaptés, 
 
 ### 🔴 Palier 3 — Virtuose
 
-Joue le 2-5-1 enrichi dans les douze tonalités, en progression continue (chaque 2-5-1 se termine sur sa tonique qui devient le ii suivant), à 112 BPM. Critère : enregistrement de trois minutes où les douze progressions sont jouées sans pause, et tu peux, à l'écoute, dire quelle est la tonique de chacune.
+Joue le 2-5-1 enrichi dans les douze tonalités, en progression continue, dans l'ordre du tableau (chaque 2-5-1 se termine sur sa tonique, et le ii suivant enchaîne sans pause), à 112 BPM. Critère : enregistrement de trois minutes où les douze progressions sont jouées sans pause, et tu peux, à l'écoute, dire quelle est la tonique de chacune.
 
 ## 7 · Oreille
 
@@ -119,7 +119,7 @@ Test. Un ami joue un G7 avec ou sans Ab. Question : l'accord contient-il une ten
 1. **Mettre la 9e à la basse.** Une 9e dans la main gauche change la fondamentale et brouille la fonction. Correction : garde la racine en basse, la 9e dans les voix supérieures.
 2. **Utiliser la 11e naturelle sur la dominante.** Le C sur G7 frotte le B. Correction : remplace-la par la ♯11 (C# sur G7), ou ne l'utilise pas.
 3. **Oublier la ♭9 en transposant.** Dans une nouvelle tonalité, la ♭9 suit la dominante : sur F, c'est Db sur C7. Correction : calcule un demi-ton au-dessus de la fondamentale.
-4. **Enrichir sans changer la fonction.** Un Dm9 qui devient un Dm7(♭5) ne prépare plus la dominante. Correction : garde le mineur 7 pour le ii, ajoute la 9e sans toucher à la tierce.
+4. **Changer la fonction en voulant enrichir.** Un Dm9 qui devient un Dm7(♭5) ne prépare plus la dominante. Correction : garde le mineur 7 pour le ii, ajoute la 9e sans toucher à la tierce.
 5. **Empiler toutes les tensions en même temps.** Un accord à cinq couleurs fatigue l'oreille. Correction : choisis une ou deux extensions par accord, pas plus.
 
 ## 9 · Liens

@@ -40,7 +40,7 @@ Le principe est simple : le pouce passe toujours sous le majeur (main droite, en
 
 **La gamme de G majeur.** En main droite, montée de G4 à G5 : G (1), A (2), B (3), C (1), D (2), E (3), F# (4), G (5). Le schéma reste proche de celui de C majeur, car les demi-tons tombent aux mêmes positions relatives (3-4 et 7-8 dans la gamme). Le F# se joue au doigt 4, car il est à un demi-ton de G.
 
-**La gamme de F majeur.** En main droite, montée de F4 à F5 : F (1), G (2), A (3), Bb (4), C (1), D (2), E (3), F (1). Le Bb est joué au doigt 4 : c'est la note noire qui se trouve entre A et C, et le passage de pouce se fait sur C.
+**La gamme de F majeur.** En main droite, montée de F4 à F5 : F (1), G (2), A (3), Bb (4), C (1), D (2), E (3), F (4). Le Bb est joué au doigt 4 : c'est la note noire qui se trouve entre A et C, et le passage de pouce se fait sur C.
 
 **Un principe pour toutes les tonalités.** Quelle que soit la gamme, le pouce passe après le majeur en montée (main droite) et le majeur passe par-dessus le pouce en montée (main gauche). Les doigts se placent ensuite selon l'ordre des notes. Une gamme peut donc se doigter sans mémoriser une liste par tonalité.
 
@@ -53,7 +53,7 @@ Notes en lettres anglo-saxonnes, avec octave. Référence : C majeur, avec G et 
 | C majeur (Do) | MD | 1-2-3-1-2-3-4-5 | 5-4-3-2-1-3-2-1 |
 | C majeur (Do) | MG | 5-4-3-2-1-3-2-1 | 1-2-3-1-2-3-4-5 |
 | G majeur (Sol) | MD | 1-2-3-1-2-3-4-5 | 5-4-3-2-1-3-2-1 |
-| F majeur (Fa) | MD | 1-2-3-4-1-2-3-1 | 1-3-2-1-4-3-2-1 |
+| F majeur (Fa) | MD | 1-2-3-4-1-2-3-4 | 4-3-2-1-4-3-2-1 |
 
 **Exemples dans deux tonalités.**
 

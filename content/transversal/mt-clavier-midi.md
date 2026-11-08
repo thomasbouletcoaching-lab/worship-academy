@@ -59,7 +59,7 @@ La tonalité de référence de cette fiche est **C (Do) majeur**. Pour vérifier
 
 Pendant l'enchaînement, enfonce la pédale de sustain au premier accord et relâche-la au dernier. Si la pédale est inversée, les notes s'arrêtent au lieu de se prolonger.
 
-**Même test en G majeur (+7 demi-tons, numéros + 7)**
+**Même test en G majeur (I – IV – V – I de G, accords gardés dans le même registre)**
 
 | Accord | Notes (nom) | Numéros MIDI | Doigts MD |
 |---|---|---|---|
@@ -68,7 +68,7 @@ Pendant l'enchaînement, enfonce la pédale de sustain au premier accord et rel�
 | D | D4 – F#4 – A4 | 62 – 66 – 69 | 1 – 3 – 5 |
 | G | G4 – B4 – D5 | 67 – 71 – 74 | 1 – 3 – 5 |
 
-Dans la tonalité de G, le F#4 (numéro 66) est le seul dièse de l'exemple. Si ton logiciel affiche 65 au lieu de 66 sur ce Fa, c'est un décalage de transposition à corriger dans le patch.
+Dans la tonalité de G, le F#4 (numéro 66) est le seul dièse de l'exemple. Si ton logiciel affiche 65 au lieu de 66 sur ce Fa, c'est soit une fausse note (F au lieu de F#), soit un décalage de transposition de −1 sur toutes les notes (le G4 s'afficherait alors 66) : dans ce cas, corrige-le dans le patch.
 
 **Réglage des zones.** Sur un clavier à deux zones, la basse se joue sous le point de partage (souvent C3 ou B2), et la main droite au-dessus. Choisis ce point une fois pour toutes et écris-le sur le clavier.
 

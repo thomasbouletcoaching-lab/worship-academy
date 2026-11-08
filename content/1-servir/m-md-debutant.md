@@ -61,9 +61,9 @@ Notes avec octave (C4 = Do central). Position serrée, doigts 1, 3, 5 de la main
 
 **Exemple en C majeur, avec la basse.** Main gauche sur les temps 1 et 3 (fondamentale), main droite plaquée sur les temps 2 et 4. Mesure 1 (C) : la main gauche joue C3 sur les temps 1 et 3, la main droite plaque C4, E4, G4 sur les temps 2 et 4. Mesure 2 (F) : F2 à la main gauche, puis F4, A4, C5 à la main droite. Mesure 3 (G) : G2, puis G4, B4, D5. Mesure 4 (C) : retour à C3, puis C4, E4, G4.
 
-**Exemple en G majeur.** Progression G – C – D – G. Main droite : G4, B4, D5 ; C4, E4, G4 ; D4, F#4, A4 ; G4, B4, D5. Vérification : D4 vers F#4 = 4 demi-tons, F#4 vers A4 = 3, D4 vers A4 = 7. La F# est indispensable pour que l'accord soit un D majeur.
+**Exemple en G majeur.** Progression G – C – D – G. Main droite : G4, B4, D5 ; C4, E4, G4 ; D4, F#4, A4 ; G4, B4, D5. Vérification : D4 vers F#4 = 4 demi-tons, F#4 vers A4 = 3, D4 vers A4 = 7. Le F# est indispensable pour que l'accord soit un D majeur.
 
-**Note sur la tonalité de référence.** En C, toutes les notes de l'accord sont naturelles. En G, retiens la F# dans l'accord de D, qui est la seule altération de la main droite dans cette progression simple.
+**Note sur la tonalité de référence.** En C, toutes les notes de l'accord sont naturelles. En G, retiens le F# dans l'accord de D, qui est la seule altération de la main droite dans cette progression simple.
 
 ## 5 · Dans la louange
 
@@ -103,9 +103,9 @@ Ce qu'il faut entendre : la main droite colore sans dominer. La note la plus hau
 ## 8 · Erreurs fréquentes
 
 - **Jouer la main droite trop fort.** Correction : elle doit soutenir la voix, pas la couvrir. Joue-la en dessous du volume de la voix ou de la mélodie principale.
-- **Doubler la fondamentale à la main droite.** Correction : la main droite doit jouer tierce, quinte, et éventuellement une octave. La fondamentale appartient à la main gauche.
+- **Toujours placer la fondamentale en bas de la main droite.** Correction : la fondamentale est déjà à la main gauche ; la main droite peut aussi jouer tierce, quinte et octave (E4 – G4 – C5), comme au palier 3, pour bouger moins d'un accord à l'autre.
 - **Accord trop aigu ou trop grave.** Correction : reste dans le registre C4–C5 pour la main droite. Un accord trop aigu devient strident, un accord trop grave devient lourd.
-- **Oublier la F# en G majeur.** Correction : l'accord de D exige F#. Nomme les trois tons avant de jouer : « D, F#, A ».
+- **Oublier le F# en G majeur.** Correction : l'accord de D exige F#. Nomme les trois tons avant de jouer : « D, F#, A ».
 - **Jouer les notes les unes après les autres.** Correction : plaque les trois notes ensemble. Si tu veux un arpège, fais-le consciemment, pas par accident.
 
 ## 9 · Liens

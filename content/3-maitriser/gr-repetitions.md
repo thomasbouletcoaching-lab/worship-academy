@@ -44,7 +44,7 @@ Ce découpage n'est pas une loi. Il sert de point de départ et montre qu'une r�
 
 **La tessiture.** Un chanteur doit rester dans sa zone de confort. Si la tonalité est trop haute, il force, il pousse la voix et il perd l'intelligibilité du texte. Si elle est trop basse, il perd le brillant. Une bonne répétition vérifie la tonalité avec le chanteur avant le travail des chants.
 
-**Gérer une équipe.** La gestion d'une équipe repose sur trois principes : la clarté (chacun sait ce qu'il doit faire), la confiance (chacun peut proposer sans crainte), et l'attention (on écoute les autres avant de corriger). Un retour se formule en trois temps : ce qui a bien marché, ce qui peut être amélioré, une encouragement concret. C'est la méthode du « sandwich » : on commence par le positif, on dit la correction, on termine par un encouragement qui reconnaît l'effort.
+**Gérer une équipe.** La gestion d'une équipe repose sur trois principes : la clarté (chacun sait ce qu'il doit faire), la confiance (chacun peut proposer sans crainte), et l'attention (on écoute les autres avant de corriger). Un retour se formule en trois temps : ce qui a bien marché, ce qui peut être amélioré, un encouragement concret. C'est la méthode du « sandwich » : on commence par le positif, on dit la correction, on termine par un encouragement qui reconnaît l'effort.
 
 ## 4 · Au clavier
 

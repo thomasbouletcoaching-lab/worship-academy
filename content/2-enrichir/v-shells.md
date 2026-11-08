@@ -41,7 +41,7 @@ Une image de cuisine : une sauce réduite à son essentiel, le jus et la matièr
 
 **Vérification sur Sol.** B est à 4 demi-tons de G : tierce majeure. F est à 10 demi-tons de G : septième mineure. Donc G7 = B + F. Tu peux vérifier : G7 contient bien G, B, D, F, et le shell B + F est la partie qui le définit.
 
-**Le tritone de la dominante.** Le shell de dominante contient la tierce et la septième, qui forment un triton (6 demi-tons). Dans G7, B et F forment le triton. C'est pour cela que ce shell est si utile : il contient la tension essentielle de la dominante, celle qui se résout en tonique.
+**Le triton de la dominante.** Le shell de dominante contient la tierce et la septième, qui forment un triton (6 demi-tons). Dans G7, B et F forment le triton. C'est pour cela que ce shell est si utile : il contient la tension essentielle de la dominante, celle qui se résout en tonique.
 
 **Le déplacement des shells.** Comme les shells ne contiennent que deux notes, les mouvements sont très courts : une note reste, l'autre monte ou descend d'un demi-ton. C'est la forme la plus économique du jeu d'accords. Un enchaînement ii – V – I en shells contient souvent un seul mouvement de demi-ton par accord.
 
@@ -97,7 +97,7 @@ Le résultat : un enchaînement très fluide, où chaque accord partage une note
 ## 7 · Oreille
 
 - **Ce qu'il faut entendre** : deux notes qui sonnent comme un accord complet. L'oreille reconstruit la fondamentale sans qu'on la joue.
-- **Comment l'identifier** : écoute l'intervalle entre les deux notes. Un écart de 4 + 11 demi-tons donne un maj7 ; un écart de 4 + 10 demi-tons donne une dominante ; un écart de 3 + 10 demi-tons donne un mineur 7.
+- **Comment l'identifier** : mesure chaque note depuis la fondamentale (en basse). 4 et 11 demi-tons donnent un maj7 ; 4 et 10 demi-tons une dominante ; 3 et 10 demi-tons un mineur 7. Entre les deux notes seules, le triton (6 demi-tons) signale la dominante, alors que maj7 et m7 donnent tous deux une quinte juste (7).
 - **Petit test** : joue E – B (maj7), E – Bb (dominante), Eb – Bb (mineur 7). Ferme les yeux et identifie chaque shell. Ensuite, joue les accords complets pour vérifier.
 
 ## 8 · Erreurs fréquentes

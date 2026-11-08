@@ -56,18 +56,20 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Trois voicings �
 | MD | 3 | D4 | neuvième |
 | MD | 5 | A4 | treizième |
 
-**Voicing 2 : A/G (la sur sol), structure supérieure sur G7.** Notes : G (basse), A, C#, E. Le sol de la basse porte la dominante ; la triade d'A majeur, en main droite, apporte la neuvième, la onzième augmentée et la treizième.
+**Voicing 2 : A/G (la sur sol), structure supérieure sur G7.** Notes : G (basse), F, B, A, C#, E. Le sol de la basse porte la dominante, F et B (septième et tierce) gardent sa fonction ; la triade d'A majeur, en main droite, apporte la neuvième, la onzième augmentée et la treizième.
 
 | Main | Doigt | Note | Rôle |
 |---|---|---|---|
 | MG | 5 | G2 | fondamentale (sol) |
-| MD | 1 | A3 | neuvième |
+| MG | 1 | F3 | septième |
+| MD | 1 | B3 | tierce |
 | MD | 2 | C#4 | onzième augmentée |
 | MD | 3 | E4 | treizième |
+| MD | 5 | A4 | neuvième |
 
-**Voicing 3 : C7 #11 sans quinte.** Notes : C, E, Bb, F#. La main gauche tient C2, la main droite joue E3, Bb3, F#4 (doigts 1, 2, 4). C'est la couleur de l'accord lumineux, sans neuvième.
+**Voicing 3 : C7 #11 sans quinte.** Notes : C, E, Bb, F#. La main gauche tient C2, la main droite joue E3, Bb3, F#4 (doigts 1, 2, 5). C'est la couleur de l'accord lumineux, sans neuvième.
 
-**Note sur la tonalité de référence.** Les exemples sont en do majeur. Pour une tonalité de fa majeur, le C13 devient une dominante de fa : C13 vers F. La structure supérieure se transpose aussi : D/C (D majeur sur basse C) devient G/F en fa majeur. Garde toujours la logique : la basse reste la fondamentale de l'accord, la structure reste au-dessus.
+**Note sur la tonalité de référence.** Les exemples sont en do majeur. Pour une tonalité de fa majeur, le C13 devient une dominante de fa : C13 vers F. La structure supérieure se transpose aussi : A/G (sur G7, dominante de do) devient D/C (D majeur sur basse C, sur C7, dominante de fa). Garde toujours la logique : la basse reste la fondamentale de l'accord, la structure reste au-dessus.
 
 ## 5 · Dans la louange
 
@@ -89,7 +91,7 @@ Un accord complexe à la main droite demande de la place : si la chorale est nom
 
 ### 🟡 Palier 2 — Maîtrise
 
-**Tempo : 80 BPM.** Boucle de quatre mesures : A/G, G7 (sans quinte), A/G, C (accord majeur simple). Puis reprends la même boucle en sol majeur : D/C, C7 (sans quinte), D/C, G.
+**Tempo : 80 BPM.** Boucle de quatre mesures : A/G, G7 (sans quinte), A/G, C (accord majeur simple). Puis reprends la même boucle en sol majeur : E/D, D7 (sans quinte), E/D, G.
 
 **Critère de réussite** : la tierce et la septième de chaque dominante sont présentes à chaque mesure ; le retour sur C (ou G) est un temps fort, pas une fin dispersée.
 

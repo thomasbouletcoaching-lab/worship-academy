@@ -46,7 +46,7 @@ Dans la louange, cette compétence te permet de suivre une grille sans la lire. 
 
 Vérification : D à F = 3 demi-tons, F à A = 4 : c'est un ré mineur. E à G = 3, G à B = 4 : mi mineur. F à A = 4, A à C = 3 : fa majeur. G à B = 4, B à D = 3 : sol majeur. A à C = 3, C à E = 4 : la mineur. B à D = 3, D à F = 3 : si diminué.
 
-**Les fonctions.** Le degré I est la tonique, le repos. Le IV est la sous-dominante, qui éloigne et prépare. Le V est la dominante, qui tire vers I (le trio V-I est la cadence parfaite). Le ii, le vi et le iii sont des accords de passage ou de couleur, selon le contexte. Le vii° est une dominante incomplète : il tire fortement vers I.
+**Les fonctions.** Le degré I est la tonique, le repos. Le IV est la sous-dominante, qui éloigne et prépare. Le V est la dominante, qui tire vers I (l'enchaînement V-I est la cadence parfaite). Le ii, le vi et le iii sont des accords de passage ou de couleur, selon le contexte. Le vii° est une dominante incomplète : il tire fortement vers I.
 
 **Entendre un degré.** Un degré n'est pas seulement une note : c'est un ensemble de tensions. Le I se pose, le V pousse, le IV ouvre. Le vi est doux et mineur, le ii est plus fluide, le iii est léger et suspendu. L'oreille reconnaît ces sensations, même sans nommer les notes.
 
@@ -101,7 +101,7 @@ Demande à quelqu'un de jouer une progression de six accords dans une tonalité 
 
 Ce qu'il faut entendre : le I se pose, le V pousse vers le I, le IV ouvre et éloigne, le vi est doux et mineur, le ii est fluide et ouvert, le vii° est tendu et veut se résoudre sur le I.
 
-Comment l'identifier : cherche d'abord la tonique (le I), en écoutant la fin de la phrase : elle se pose presque toujours sur le I. Ensuite, compare chaque accord au I : est-il plus haut (IV, V) ou plus bas (vi, ii) ? Est-il plus tendu (V, vii°) ou plus détendu (IV, vi) ?
+Comment l'identifier : cherche d'abord la tonique (le I), en écoutant la fin de la phrase : elle se pose presque toujours sur le I. Ensuite, compare chaque accord au I : est-il majeur (IV, V) ou mineur (ii, vi) ? Est-il plus tendu (V, vii°) ou plus détendu (IV, vi) ?
 
 Petit test : enregistre une progression I-IV-V-I, puis I-vi-IV-V, et écoute-les sans regarder. Dis quel degré est le plus tendu, et lequel te ramène à la maison. Si tu entends que le V pousse et que le I résout, ton oreille fonctionne.
 

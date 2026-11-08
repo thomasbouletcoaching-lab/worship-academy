@@ -22,7 +22,7 @@ duree_min: 25
 
 ## 2 · Comprendre
 
-Imagine un chœur de quatre pupitres (sopranos, altos, ténors, basses) qui chante serré, tous les chanteurs dans la même tranche de hauteurs. Le son est plein, mais il est un peu compact : les voix se gênent, et l'auditeur n'entend plus très bien qui fait quoi. Maintenant, demande au ténor de descendre d'une octave et à la basse de s'écarter encore vers le bas. Chacun a plus de place, la voix du milieu respire, et l'ensemble sonne large, comme une cathédrale plutôt qu'une salle de réunion.
+Imagine un chœur de quatre pupitres (sopranos, altos, ténors, basses) qui chante serré, tous les chanteurs dans la même tranche de hauteurs. Le son est plein, mais il est un peu compact : les voix se gênent, et l'auditeur n'entend plus très bien qui fait quoi. Maintenant, demande à l'alto (la deuxième voix en partant du haut) de descendre d'une octave et à la basse de s'écarter encore vers le bas. Chacun a plus de place, la voix du milieu respire, et l'ensemble sonne large, comme une cathédrale plutôt qu'une salle de réunion.
 
 Le drop 2-4 fait exactement cela au piano. Tu prends un accord « serré » et tu fais descendre deux voix précises d'une octave : la deuxième en partant du haut, et la quatrième, c'est-à-dire la plus grave. Le résultat n'est pas un nouvel accord. Ce sont les mêmes notes, réparties autrement sur le clavier. C'est une affaire de disposition, et c'est pour cela que ce geste est si précieux dans la louange : il laisse un trou clair au milieu de l'accord, là où le chanteur pose sa mélodie.
 

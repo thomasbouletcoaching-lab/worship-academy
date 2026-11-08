@@ -24,7 +24,7 @@ duree_min: 25
 
 Imagine un pont suspendu qui oscille un peu sous les pas. Il tient, il porte, mais on sent qu'il bouge. Le m7b5 et le dim7 ont ce caractère : la quinte est abaissée, la base de l'accord n'est plus aussi solide, et l'oreille attend qu'il se stabilise.
 
-Les sept noms de base sont C (Do), D (Ré), E (Mi), F (Fa), G (Sol), A (La) et B (Si). Le m7b5 le plus utile est Dm7b5, construit sur Ré. Le dim7 le plus simple à retenir est Bdim7, construit sur Si : c'est le vii°7 de Do mineur harmonique, et il sert souvent d'accord de passage vers Do majeur.
+Les sept noms de base sont C (Do), D (Ré), E (Mi), F (Fa), G (Sol), A (La) et B (Si). Le m7b5 le plus utile est Dm7b5, construit sur Ré. Le dim7 le plus simple à retenir est Bdim7, construit sur Si : c'est le viiø7 de Do mineur harmonique, et il sert souvent d'accord de passage vers Do majeur.
 
 Une image de la vie de tous les jours : une lampe qu'on règle avec un variateur à mi-course. La lumière n'est ni éteinte ni franche ; elle est suspendue, et l'on attend le moment où l'on va la mettre au niveau voulu.
 
@@ -50,13 +50,13 @@ Donc Bdim7 = B – D – F – Ab. Recontrôle : chaque intervalle entre deux no
 
 **La symétrie.** Puisque le dim7 se compose uniquement de tierces mineures, il n'existe que trois ensembles de notes différents : {C, Eb, Gb, A}, {Db, E, G, Bb} et {D, F, Ab, B}. Chacun peut porter quatre noms selon la note placée en basse : {D, F, Ab, B} est à la fois Bdim7, Ddim7, Fdim7 et Abdim7 (en écriture enharmonique). Ce constat est utile : une même dim7 se nomme différemment selon la basse choisie.
 
-**Le triton du m7b5.** Dans Dm7b5 (D – F – Ab – C), l'intervalle le plus instable est celui entre la fondamentale D et la quinte diminuée Ab : 6 demi-tons, un triton. La dominante 7 porte aussi un triton, mais entre sa tierce et sa septième. Le m7b5 cherche donc lui aussi une résolution vers un accord de tonique, comme dans la progression ii°7 – V7 – i.
+**Le triton du m7b5.** Dans Dm7b5 (D – F – Ab – C), l'intervalle le plus instable est celui entre la fondamentale D et la quinte diminuée Ab : 6 demi-tons, un triton. La dominante 7 porte aussi un triton, mais entre sa tierce et sa septième. Le m7b5 cherche donc lui aussi une résolution : il prépare la dominante, qui mène à la tonique, comme dans la progression iiø7 – V7 – i.
 
 **Cas limites.** Le m7b5 peut être confondu avec un mineur 7 à quinte juste si la quinte est mal jouée. Le dim7 est souvent confondu avec un accord de septième de dominante altérée ; ce n'est pas le même accord, car la septième de dominante est à 10 demi-tons alors que la diminuée est à 9.
 
 ## 4 · Au clavier
 
-**Tonalité de référence : Do mineur (Cm).** Dm7b5 est le ii°7 de Do mineur naturel, Cm7 le i. Le V7 de cette tonalité est G7 avec la tierce majeure B, empruntée à la mineure harmonique. Bdim7 est le vii°7 de Do mineur harmonique ; on l'utilise aussi en Do majeur comme accord de passage.
+**Tonalité de référence : Do mineur (Cm).** Dm7b5 est le iiø7 de Do mineur naturel, Cm7 le i. Le V7 de cette tonalité est G7 avec la tierce majeure B, empruntée à la mineure harmonique. Bdim7 est le viiø7 de Do mineur harmonique ; on l'utilise aussi en Do majeur comme accord de passage.
 
 | Accord | Main gauche (basse) | Main droite | Doigtés MG / MD |
 |---|---|---|---|
@@ -65,16 +65,16 @@ Donc Bdim7 = B – D – F – Ab. Recontrôle : chaque intervalle entre deux no
 | Cm7 | C2 | Eb4, G4, Bb4 | MG 5 ; MD 1-3-5 |
 | Bdim7 | B1 | D4, F4, Ab4 | MG 5 ; MD 1-3-5 |
 
-**Exemple 1, en Do mineur : ii°7 – V7 – i.** Dm7b5 pendant deux mesures, G7 pendant deux mesures, puis Cm7 pendant quatre mesures. C'est la progression la plus classique du mineur. Dans Dm7b5, la main droite joue F4, Ab4 et C5 ; la quinte Ab est l'élément qui crée l'instabilité.
+**Exemple 1, en Do mineur : iiø7 – V7 – i.** Dm7b5 pendant deux mesures, G7 pendant deux mesures, puis Cm7 pendant quatre mesures. C'est la progression la plus classique du mineur. Dans Dm7b5, la main droite joue F4, Ab4 et C5 ; la quinte Ab est l'élément qui crée l'instabilité.
 
-**Exemple 2, en Do majeur : vii°7 – I.** Bdim7 pendant une mesure, puis C pendant trois mesures. Le dim7 mène naturellement à la tonique, car sa fondamentale est un demi-ton sous le Do, et la septième diminuée (Ab) peut descendre vers G.
+**Exemple 2, en Do majeur : viiø7 – I.** Bdim7 pendant une mesure, puis C pendant trois mesures. Le dim7 mène naturellement à la tonique, car sa fondamentale est un demi-ton sous le Do, et la septième diminuée (Ab) peut descendre vers G.
 
 **Repère.** Ab se trouve une touche noire à droite du Sol, juste à gauche du La : c'est la note juste au-dessus du Sol. Sur le clavier, un dim7 se joue facilement en mains séparées.
 
 ## 5 · Dans la louange
 
 - **Une couleur de repentance** : Dm7b5 pendant une prière de confession, pour que l'instabilité reflète la honte qui se dit à voix basse.
-- **Un passage vers la grâce** : ii°7 – V7 – I, où le V7 mène au I au moment où la parole annonce la réconciliation. La tension devient repos.
+- **Un passage vers la grâce** : iiø7 – V7 – I, où le V7 mène au I au moment où la parole annonce la réconciliation. La tension devient repos.
 - **Un passage de transition** : Bdim7 en une mesure pour basculer de la strophe au refrain, sans appuyer.
 - **Prudence** : un dim7 répété trop longtemps paraît sinistre. Une mesure suffit généralement ; garde-le comme une respiration.
 
@@ -87,12 +87,12 @@ Donc Bdim7 = B – D – F – Ab. Recontrôle : chaque intervalle entre deux no
 
 ### 🟡 Palier 2 — Maîtrise (75 BPM)
 
-- Enchaîne ii°7 – V7 – i en Do mineur (Dm7b5, G7, Cm7), puis en Sol mineur (Am7b5, D7, Gm7). Pour Am7b5 : basse A2, main droite C4, Eb4, G4.
+- Enchaîne iiø7 – V7 – i en Do mineur (Dm7b5, G7, Cm7), puis en Sol mineur (Am7b5, D7, Gm7). Pour Am7b5 : basse A2, main droite C4, Eb4, G4.
 - **Critère de réussite** : deux tonalités enchaînées sans arrêt pendant 90 secondes, avec la tension du V7 bien perceptible avant le I.
 
 ### 🔴 Palier 3 — Virtuose (90 BPM)
 
-- Joue vii°7 – I en Do majeur (Bdim7 vers C) puis en Ré majeur (C#dim7 vers D). Pour C#dim7 : basse C#2, main droite E4, G4, Bb4.
+- Joue viiø7 – I en Do majeur (Bdim7 vers C) puis en Ré majeur (C#dim7 vers D). Pour C#dim7 : basse C#2, main droite E4, G4, Bb4.
 - **Critère de réussite** : un enregistrement de deux minutes où chaque dim7 se résout proprement sur la tonique, et où tu peux nommer les quatre notes de chaque accord en moins de cinq secondes.
 
 ## 7 · Oreille

@@ -50,7 +50,7 @@ Contrôle des tierces : C vers E, 4 demi-tons (majeure), E vers G, 3 (mineure) :
 
 **Les notes sûres et les notes à risque.** Sur l'accord de I (C majeur : C, E, G), les trois notes de l'accord sont sûres sur un temps fort. Les quatre autres notes de la gamme se comportent différemment :
 
-- **D** (Ré) est à 14 demi-tons de C4, soit une neuvième. Elle colore sans frotter, elle est souvent appréciée en fin de phrase.
+- **D** (Ré) est à 2 demi-tons de C ; placée une octave au-dessus, à 14 demi-tons, c'est une neuvième. Elle colore sans frotter, elle est souvent appréciée en fin de phrase.
 - **A** (La) est à 9 demi-tons de C, soit une sixte majeure. Elle sonne doux, presque lumineux.
 - **F** (Fa) est à 5 demi-tons de C, une quarte juste, mais elle forme une seconde mineure (un seul demi-ton) avec E. C'est le frottement le plus net de la gamme sur C.
 - **B** (Si) est à 11 demi-tons de C, une septième majeure. Elle appelle très fortement le C voisin : elle est une tension qui demande à se résoudre.

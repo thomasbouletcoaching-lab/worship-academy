@@ -30,7 +30,7 @@ Il y a trois outils : les **signes de main** (pour ce qui se voit d'un coup d'œ
 
 **Les signes de main.** Il n'existe pas de norme unique. Une équipe peut décider que le poing fermé veut dire « stop », la main ouverte « on garde », le pouce vers le haut « plus fort », le pouce vers le bas « plus doux », l'index levé « une fois de plus ». L'essentiel est de limiter le vocabulaire à cinq ou six signes, et de les répéter en répétition.
 
-**Le Nashville Number System.** Ce système remplace le nom des accords par des chiffres, relatifs à la tonalité. Le degré 1 est la tonique ; le degré 4 est la quatrième note de la gamme ; ainsi de suite. Une lettre majuscule indique un accord majeur, une minuscule un accord mineur, et le symbole ° un accord diminué. Dans une gamme majeure, les degrés se répartissent ainsi : I (majeur), ii (mineur), iii (mineur), IV (majeur), V (majeur), vi (mineur), vii° (diminué).
+**Le Nashville Number System.** Ce système remplace le nom des accords par des chiffres, relatifs à la tonalité. Le degré 1 est la tonique ; le degré 4 est la quatrième note de la gamme ; ainsi de suite. En chiffres romains, une majuscule indique un accord majeur, une minuscule un accord mineur, et le symbole ° un accord diminué ; en chiffres Nashville, on écrit 6m (ou 6-) pour un mineur et 7° pour un diminué. Dans une gamme majeure, les degrés se répartissent ainsi : I (majeur), ii (mineur), iii (mineur), IV (majeur), V (majeur), vi (mineur), vii° (diminué).
 
 Vérifie en do majeur : I = C (Do), ii = Dm (Ré mineur : D, F, A), iii = Em (Mi mineur : E, G, B), IV = F (Fa majeur : F, A, C), V = G (Sol majeur : G, B, D), vi = Am (La mineur : A, C, E), vii° = Bdim (Si diminué : B, D, F). Le chiffre donne la fonction ; la tonalité donne la hauteur réelle.
 

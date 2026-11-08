@@ -32,7 +32,7 @@ Le pianiste de louange ne cherche pas la « bonne note » dans l'absolu. Il cher
 
 - **Position serrée** : C4 (0), E4 (+4), G4 (+7). Les intervalles entre notes voisines sont des tierces majeure et mineure. Sonorité compacte, intime.
 - **Position ouverte** : C3 (0), G3 (+7), E4 (+16), soit une quinte puis une dixième. Sonorité aérée, lumineuse, qui demande de la place.
-- **Renversement sur la tierce** : E2 à la basse, avec C3 et G3 au-dessus. Le son s'appelle C/E. Entre E2 et G2 la tierce mineure (3 demi-tons) donne une couleur douce, presque suspendue, et la sixte mineure E2 vers C3 (8 demi-tons) ouvre une attente.
+- **Renversement sur la tierce** : E2 à la basse, avec C3 et G3 au-dessus. Le son s'appelle C/E. Entre E2 et G3, la tierce mineure élargie d'une octave (15 demi-tons) donne une couleur douce, presque suspendue, et la sixte mineure E2 vers C3 (8 demi-tons) ouvre une attente.
 
 **Le rôle de la basse.** Une même harmonie change de sens selon la note la plus grave. C/E (basse E) sonne plus léger que C (basse C), car la basse n'est plus la fondamentale : elle crée une attente. Vérification : E vers C (de E2 à C3) est une sixte mineure (8 demi-tons). Ce mouvement attend de se résoudre vers la tonique.
 
@@ -52,13 +52,13 @@ Le pianiste de louange ne cherche pas la « bonne note » dans l'absolu. Il cher
 
 | Intention | Version | Notes (main droite) | Doigtés MD |
 |---|---|---|---|
-| Intimité | C serré | C4 · E4 · G4 | 1 · 2 · 4 |
+| Intimité | C serré | C4 · E4 · G4 | 1 · 3 · 5 |
 | Victoire | C ouvert | C3 · G3 (MG) puis E4 · G4 · C5 (MD) | MG 5 · 1 ; MD 1 · 3 · 5 |
 | Attente | C/E | E2 (MG) ; C4 · G4 (MD) | MG 5 ; MD 1 · 5 |
 
-Pour l'intimité, pose les trois notes serrées sur les doigts 1, 2 et 4, en gardant la main souple. Pour la victoire, la main gauche tient la fondamentale C3 (doigt 5), et la main droite pose E4, G4, C5 avec 1, 3, 5. Pour l'attente, la basse E2 se joue avec le petit doigt de la main gauche, et la main droite garde C4 et G4.
+Pour l'intimité, pose les trois notes serrées sur les doigts 1, 3 et 5, en gardant la main souple. Pour la victoire, la main gauche tient la fondamentale C3 (doigt 5), et la main droite pose E4, G4, C5 avec 1, 3, 5. Pour l'attente, la basse E2 se joue avec le petit doigt de la main gauche, et la main droite garde C4 et G4.
 
-**Exemple en Sol majeur (G).** Les trois intentions se transposent : G serré (G4 · B4 · D5), G ouvert (D4 · B4 · G4 · D5 en MD, G2 en MG), G/B (basse B2, avec G et D au-dessus). Le principe est identique : seule la note de basse change le sens.
+**Exemple en Sol majeur (G).** Les trois intentions se transposent : G serré (G4 · B4 · D5), G ouvert (G2 · D3 en MG, puis B3 · D4 · G4 en MD), G/B (basse B2, avec G et D au-dessus). Le principe est identique : seule la note de basse change le sens.
 
 **Note sur la tonalité de référence.** En Do majeur, la basse E crée un intervalle de sixte mineure vers C ; c'est la raison pour laquelle C/E demande une résolution naturelle vers la tonique. En Sol majeur, G/B produit la même sixte mineure, de B2 vers G3 (8 demi-tons), qui attend elle aussi sa résolution vers la tonique.
 

@@ -99,7 +99,7 @@ Le vocabulaire utile : un *temps spontané* est un moment de louange libre, non 
 
 Ce qu'il faut entendre : le centre (la note qui donne le repos), la tension d'une dominante qui attend sa résolution, et le moment où la voix quitte le centre pour explorer.
 
-**Test.** Joue C puis G7 (G, B, D, F), puis revient à C. Écoute la tension de G7 : une attente qui cherche à se résoudre. Joue ensuite G7 sans jamais revenir à C : l'oreille reste dans le vide. Joue ensuite Csus2, qui ne crée pas d'attente forte, et observe la différence.
+**Test.** Joue C puis G7 (G, B, D, F), puis reviens à C. Écoute la tension de G7 : une attente qui cherche à se résoudre. Joue ensuite G7 sans jamais revenir à C : l'oreille reste dans le vide. Joue ensuite Csus2, qui ne crée pas d'attente forte, et observe la différence.
 
 ## 8 · Erreurs fréquentes
 

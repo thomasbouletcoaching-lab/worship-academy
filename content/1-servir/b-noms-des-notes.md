@@ -56,7 +56,7 @@ Notes en lettres anglo-saxonnes, avec octave. Le Do central est C4 (Do), le Ré 
 | La | A | A4 | entre la 2e et la 3e noire du trio |
 | Si | B | B4 | à droite du trio |
 
-**Les noires à connaître.** C#4 (Do dièse, ou Db4 : Ré bémol) juste à droite de C4 ; D#4 (Mi bémol, ou Eb4) ; F#4 (Fa dièse, ou Gb4) ; G#4 (Sol dièse, ou Ab4) ; A#4 (La dièse, ou Bb4).
+**Les noires à connaître.** C#4 (Do dièse, ou Db4 : Ré bémol) juste à droite de C4 ; D#4 (Ré dièse, ou Eb4 : Mi bémol) ; F#4 (Fa dièse, ou Gb4) ; G#4 (Sol dièse, ou Ab4) ; A#4 (La dièse, ou Bb4).
 
 **Doigtés pour une gamme nommée.** La main droite joue C4 (pouce, doigt 1), D4 (2), E4 (3), F4 (1, le pouce passe sous la main), G4 (2), A4 (3), B4 (4), C5 (5). Ce doigté sera détaillé plus tard : retiens pour l'instant le principe, le pouce repasse sous la main après le majeur.
 

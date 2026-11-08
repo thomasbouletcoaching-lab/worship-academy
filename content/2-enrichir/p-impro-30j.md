@@ -64,7 +64,7 @@ Vérifions les tierces : dans C, C vers E = 4 demi-tons (tierce majeure), E vers
 
 **Jour 6 — arpèges.** Mesure 1 : C4 (1), E4 (2), G4 (3), C5 (5). Mesure 2 : A3 (1), C4 (2), E4 (3), A4 (5). Mesure 3 : F3 (1), A3 (2), C4 (3), F4 (5). Mesure 4 : G3 (1), B3 (2), D4 (3), G4 (5). Les intervalles des arpèges sont ceux des accords vus plus haut.
 
-**Jour 16 — pentatonique.** Le motif C4 (1), D4 (2), E4 (3), G4 (5) est un bon point de départ. Sur F, on peut jouer A4 (1), G4 (3), F4 (2), puis la note de l'accord suivant. Vérifie que la note d'arrivée de chaque mesure appartient à l'accord suivant.
+**Jour 16 — pentatonique.** Le motif C4 (1), D4 (2), E4 (3), G4 (5) est un bon point de départ. Sur F, on peut jouer A4 (3), G4 (2), F4 (1), puis la note de l'accord suivant. Vérifie que la note d'arrivée de chaque mesure appartient à l'accord suivant.
 
 **Jour 26 — question et réponse.** Question (deux mesures sur C) : G4 (5), E4 (3), D4 (2), C4 (1) ; réponse (deux mesures sur G) : D5 (5), B4 (3), A4 (2), G4 (1). Vérification : le motif de la réponse est le même que celui de la question, décalé d'une quinte. C'est un moyen simple et puissant de donner une forme à ton improvisation.
 

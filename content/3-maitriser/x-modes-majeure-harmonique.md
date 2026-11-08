@@ -18,24 +18,24 @@ duree_min: 35
 
 ## 1 · L'idée en une phrase
 
-**La majeure harmonique garde la brillance du majeur, mais abaisse sa sixte d'un demi-ton et crée une augmentée seconde : le résultat est lumineux et mystérieux à la fois.**
+**La majeure harmonique garde la brillance du majeur, mais abaisse sa sixte d'un demi-ton et crée une seconde augmentée : le résultat est lumineux et mystérieux à la fois.**
 
 ## 2 · Comprendre
 
 Imagine une fenêtre de chapelle dont une vitre est teintée d'un bleu un peu sombre. Le reste de la pièce est clair, mais une seule couleur change l'ambiance. La majeure harmonique, c'est cela : elle sonne majeure, elle s'ouvre comme une gamme de Do, puis une seule note, le La bémol, teinte l'ensemble.
 
-Cette note est la sixte abaissée. Elle crée un intervalle plus large entre Ab et B, qu'on appelle augmentée seconde. C'est le même mécanisme que dans la mineure harmonique, mais posé sur une gamme majeure. On obtient alors une couleur qui n'est ni tout à fait majeure ni tout à fait mineure : une lumière filtrée.
+Cette note est la sixte abaissée. Elle crée un intervalle plus large entre Ab et B, qu'on appelle seconde augmentée. C'est le même mécanisme que dans la mineure harmonique, mais posé sur une gamme majeure. On obtient alors une couleur qui n'est ni tout à fait majeure ni tout à fait mineure : une lumière filtrée.
 
 ## 3 · Sous le capot
 
-La majeure harmonique part de C (Do) et suit la formule T T S T S A2 S, où A2 vaut 3 demi-tons (augmentée seconde). Les notes sont C D E F G Ab B C. Vérification du total : 2 + 2 + 1 + 2 + 1 + 3 + 1 = 12.
+La majeure harmonique part de C (Do) et suit la formule T T S T S A2 S, où A2 vaut 3 demi-tons (seconde augmentée). Les notes sont C D E F G Ab B C. Vérification du total : 2 + 2 + 1 + 2 + 1 + 3 + 1 = 12.
 
 Par rapport au Do majeur, une seule note change : la sixte, A devient Ab. Tous les modes à partir de cette gamme héritent de ce déplacement, mais chacun l'exprime à sa manière.
 
 | Mode | Tonique | Notes | Formule | Demi-tons depuis la tonique | Accord de base |
 |---|---|---|---|---|---|
 | Majeure harmonique | C (Do) | C D E F G Ab B | T T S T S A2 S | 0 2 4 5 7 8 11 | CΔ7 ♭6 (C E G B, Ab) |
-| Dorien ♭5 | D (Ré) | D E F G Ab B C | T S T S A2 S T | 0 2 3 5 6 9 11 | Dm7 ♭5 (D F Ab C) |
+| Dorien ♭5 | D (Ré) | D E F G Ab B C | T S T S A2 S T | 0 2 3 5 6 9 10 | Dm7 ♭5 (D F Ab C) |
 | Phrygien ♭4 | E (Mi) | E F G Ab B C D | S T S A2 S T T | 0 1 3 4 7 8 10 | Em7 ♭9 (E G B D, F) |
 | Lydien ♭3 | F (Fa) | F G Ab B C D E | T S A2 S T T S | 0 2 3 6 7 9 11 | FmΔ7 ♯11 (F Ab C E, B) |
 | Mixolydien ♭2 | G (Sol) | G Ab B C D E F | S A2 S T T S T | 0 1 4 5 7 9 10 | G7 ♭9 13 (G B D F, Ab, E) |
@@ -92,7 +92,7 @@ Pour le culte, garde les modes harmoniques pour les passages, pas pour le corps 
 
 ### 🟢 Palier 1 — Découverte
 
-Joue la majeure harmonique de Do, montante puis descendante, une octave, en noires, à 60 BPM. Critère : le Ab est joué à chaque passage, et l'augmentée seconde Ab → B est exécutée sans glissade, deux fois de suite.
+Joue la majeure harmonique de Do, montante puis descendante, une octave, en noires, à 60 BPM. Critère : le Ab est joué à chaque passage, et la seconde augmentée Ab → B est exécutée sans glissade, deux fois de suite.
 
 ### 🟡 Palier 2 — Maîtrise
 
@@ -100,7 +100,7 @@ Joue les modes ♭5 sur D, ♭4 sur E et ♭2 sur G, en croches, sur deux octave
 
 ### 🔴 Palier 3 — Virtuose
 
-Enchaîne une grille de quatre mesures : CΔ7 ♭6 – Em7 ♭9 – G7 ♭9 13 – CΔ7 ♭6 à 112 BPM, avec une improvisation de la main droite sur les modes correspondants. Critère : enregistrement de deux minutes dans lequel chaque accord est identifiable, la tension du G7 se résout clairement sur le retour à C, et le Ab reste présent.
+Enchaîne une grille de quatre mesures : CΔ7 ♭6 – Em7 ♭9 – G7 ♭9 13 – CΔ7 ♭6 à 96 BPM, avec une improvisation de la main droite sur les modes correspondants. Critère : enregistrement de deux minutes dans lequel chaque accord est identifiable, la tension du G7 se résout clairement sur le retour à C, et le Ab reste présent.
 
 ## 7 · Oreille
 
@@ -113,10 +113,10 @@ Test. Un ami joue un Do majeur avec ou sans Ab. Question : la sixte est-elle A o
 ## 8 · Erreurs fréquentes
 
 1. **Confondre majeure harmonique et majeure ordinaire.** L'Ab n'est pas une erreur de frappe. Correction : repère la sixte avant de nommer le mode.
-2. **Doigter l'augmentée seconde comme un ton.** Ab → B est trois demi-tons, il faut le sentir. Correction : joue la séquence lentement en comptant les demi-tons, puis accélère.
+2. **Doigter la seconde augmentée comme un ton.** Ab → B est trois demi-tons, il faut le sentir. Correction : joue la séquence lentement en comptant les demi-tons, puis accélère.
 3. **Oublier le ♭9 du phrygien.** En Mi, le F sonne comme une couleur importante. Correction : vérifie la note après le E avant de l'utiliser.
 4. **Nommer Lydien ♭3 un mode avec une tierce majeure.** Le lydien ♭3 a une tierce mineure (Ab sur F). Correction : repère la tierce d'abord.
-5. **Confondre locrien ♭♭7 et super-locrien.** Le premier a un A bémol (Ab) comme septième, le second a un Eb. Correction : compte la quatrième note avant de nommer le mode.
+5. **Confondre locrien ♭♭7 et super-locrien.** Sur B, le premier a une quarte juste E et un Ab (♭♭7) ; le second (B C D Eb F G A) a un Eb (♭4) et un A (♭7). Correction : compte la quatrième note avant de nommer le mode.
 
 ## 9 · Liens
 

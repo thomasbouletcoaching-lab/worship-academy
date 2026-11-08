@@ -42,7 +42,7 @@ Les notes sont données en lettres anglo-saxonnes : C (Do), D (Ré), E (Mi), F (
 
 **La pulsation.** En 4/4, le motif se joue en croches (huit par mesure) ou en noires (quatre par mesure). Les croches sont plus enveloppantes, les noires plus posées. Garde la même répartition sur toute la mesure : fondamentale sur le temps 1, quinte sur le « et » du temps 1, octave sur le temps 2, quinte sur le « et » du temps 2, puis le motif recommence sur le temps 3.
 
-**Les écarts de l'accord de Am.** Pour Am, A2 (45) – E3 (52) – A3 (57) – E3 (52) : A2 vers E3 = 7 (quinte juste), E3 vers A3 = 5 (quarte juste). Total 12. Le motif sonne mineur à l'oreille, grâce à la tierce absente de la basse : ce sont les notes voisines de la main droite qui donnent la tierce mineure.
+**Les écarts de l'accord de Am.** Pour Am, A2 (45) – E3 (52) – A3 (57) – E3 (52) : A2 vers E3 = 7 (quinte juste), E3 vers A3 = 5 (quarte juste). Total 12. La basse ne contient pas de tierce : c'est la main droite qui donne la tierce mineure (C) et fait sonner l'accord mineur.
 
 ## 4 · Au clavier
 
@@ -59,7 +59,7 @@ Notes avec octave (C4 = Do central). Motif 1-5-8-5, en croches, à la main gauch
 
 **Exemple en C majeur.** Progression C – F – G – C, motif 1-5-8-5 en croches sur chaque mesure. La main droite joue une noire par temps, avec l'accord en position fondamentale (C4, E4, G4 ; F4, A4, C5 ; G4, B4, D5 ; C4, E4, G4).
 
-**Exemple en G majeur.** Progression G – C – D – G. Motif de G : G2, D3, G3, D3 ; de C : C3, G3, C4, G3 ; de D : D2, A2, D3, A2 (vérification : D2 vers A2 = 7, A2 vers D3 = 5 ; total 12) ; et retour à G.
+**Exemple en G majeur.** Progression G – C – D – G. Motif de G : G2, D3, G3, D3 ; de C : C2, G2, C3, G2 ; de D : D2, A2, D3, A2 (vérification : D2 vers A2 = 7, A2 vers D3 = 5 ; total 12) ; et retour à G.
 
 **Note sur la tonalité de référence.** En C, la basse ne porte aucune altération. En G, la basse de D ne contient pas de F#, c'est la main droite qui doit fournir la tierce F#. Ici, la main gauche reste neutre.
 

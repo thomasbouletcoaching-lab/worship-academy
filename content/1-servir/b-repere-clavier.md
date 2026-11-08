@@ -40,7 +40,7 @@ Un point rassurant : tu n'as pas besoin de connaître tout le clavier pour jouer
 
 **Les noires et leurs deux noms.** Une touche noire porte toujours deux noms possibles : C# et Db désignent la même touche ; D# et Eb, F# et Gb, G# et Ab, A# et Bb aussi. On les appelle des enharmonies. Le contexte décide du nom à écrire, nous y reviendrons dans la fiche suivante.
 
-**Pourquoi pas de noire entre E et F, ni entre B et C.** Entre ces deux paires, il n'y a qu'un demi-ton : les touches sont directement voisines. Le motif est donc : duo de noires, puis Do, Ré, Mi, puis Fa, Sol, La, Si. Le trio de noires commence après le Fa.
+**Pourquoi pas de noire entre E et F, ni entre B et C.** Entre ces deux paires, il n'y a qu'un demi-ton : les touches sont directement voisines. Le motif est donc : Do, Ré, Mi autour du duo de noires, puis Fa, Sol, La, Si autour du trio. Le trio de noires commence après le Fa.
 
 **La convention de nommage.** Le C central du piano porte le numéro d'octave 4 : on écrit C4, et c'est le Do central (en numérotation MIDI, il vaut 60). L'octave change à chaque C : B3 est la dernière touche blanche avant C4, C5 est l'octave suivante. La note A4, qui sert de référence d'accord, vibre à 440 Hz.
 
@@ -75,7 +75,7 @@ Notes en lettres anglo-saxonnes, avec octave. Repère de position donné pour le
 
 ## 5 · Dans la louange
 
-Imagine que tu accompagnes une prière. Le chant commence, le pasteur demande un moment de silence, puis un couplet doit reprendre en G (Sol). Tu ne peux pas te permettre de chercher ta note en regardant l'instrument. Tu poses ta main, tu repères le trio de noires : la tonique Sol se trouve entre la première et la deuxième noire de ce trio. Tu t'appuies sur ce repère, et tu poses ta main gauche plusieurs octaves plus bas, en te calant sur le duo.
+Imagine que tu accompagnes une prière. Le chant commence, le pasteur demande un moment de silence, puis un couplet doit reprendre en G (Sol). Tu ne peux pas te permettre de chercher ta note en regardant l'instrument. Tu poses ta main, tu repères le trio de noires : la tonique Sol se trouve entre la première et la deuxième noire de ce trio. Tu t'appuies sur ce repère, et tu poses ta main gauche une ou deux octaves plus bas, en te calant sur le même repère du trio.
 
 Le repérage sert aussi pendant une intro. Quand l'équipe commence un morceau, ton premier accord doit tomber au bon endroit du clavier. Si tu sais que le Do se trouve à gauche du duo, tu poses ta main sans hésiter, et l'attention reste sur l'ambiance, pas sur la recherche de touche.
 
@@ -90,7 +90,7 @@ Pose la main droite sur C4 (pouce) et joue les touches blanches successives C4, 
 
 ### 🟡 Palier 2 — Maîtrise
 
-Au métronome réglé sur 80 BPM, joue une note par temps sur deux octaves, de C4 à C6 puis retour, en nommant chaque note à voix haute (Do, Ré, Mi…). Enchaîne avec les noires : D#4, F#4, G#4, A#4 en partant du repère du duo puis du trio.
+Au métronome réglé sur 80 BPM, joue une note par temps sur deux octaves, de C4 à C6 puis retour, en nommant chaque note à voix haute (Do, Ré, Mi…). Enchaîne avec les noires : C#4, D#4, F#4, G#4, A#4 en partant du repère du duo puis du trio.
 **Critère de réussite** : zéro erreur de nom sur deux aller-retour complets, et chaque noire trouvée sans tâtonnement (une seule tentative).
 
 ### 🔴 Palier 3 — Virtuose

@@ -82,7 +82,7 @@ Règle une réverbération courte (environ une seconde, pre-delay de 10 ms, mix 
 
 ### 🟡 Palier 2 — Maîtrise
 
-Règle le delay à 72 BPM sur une croche pointée (625 ms), feedback modéré, mix de 20 %. Joue C arpégé (C4, E4, G4, E4, C4) à **72 BPM** pendant seize mesures. **Critère de réussite** : chaque écho tombe sur un temps de la pulsation, la répétition n'accumule pas de bruit, et la voix d'un partenaire reste audible.
+Règle le delay à 72 BPM sur une croche pointée (625 ms), feedback modéré, mix de 20 %. Joue C arpégé (C4, E4, G4, E4, C4) à **72 BPM** pendant seize mesures. **Critère de réussite** : chaque écho tombe régulièrement entre deux temps (3/4 de temps après la note), la répétition n'accumule pas de bruit, et la voix d'un partenaire reste audible.
 
 ### 🔴 Palier 3 — Virtuose
 
@@ -97,7 +97,7 @@ Enchaîne une prière de quatre minutes à **66 BPM** : réverbération longue e
 ## 8 · Erreurs fréquentes
 
 - **Réverbération trop longue.** La voix devient lointaine et les accords se mélangent. *Correction* : réduis le temps de réverbération et le mix jusqu'à retrouver l'intelligibilité.
-- **Delay désynchronisé.** Les échos tombent entre les temps et créent du flou. *Correction* : règle le delay en millisecondes calculées à partir du BPM.
+- **Delay désynchronisé.** Les échos tombent à côté des subdivisions du tempo et créent du flou. *Correction* : règle le delay en millisecondes calculées à partir du BPM.
 - **Chorus trop fort.** Le son devient mou et instable. *Correction* : réduis la profondeur et la vitesse du LFO.
 - **Pédale de sustain toujours enfoncée.** Les accords se superposent. *Correction* : relâche la pédale à chaque changement, ou utilise les demi-coups.
 - **Confondre pédale d'expression et pédale de volume.** Le swell se fait au mauvais endroit. *Correction* : affecte l'expression aux nappes, et le volume à l'entrée ou à la sortie du set.

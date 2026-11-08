@@ -30,7 +30,7 @@ Le cercle sert à trois choses au quotidien : connaître l'armure d'une tonalit�
 
 **La quinte juste.** Un pas du cercle équivaut à une quinte juste, soit 7 demi-tons. Vérifions quelques pas en partant de Do (C = 0) : C vers G = 7 ; G (7) vers D (14, soit 2 après une octave) = 7 ; D (2) vers A (9) = 7 ; A (9) vers E (16, soit 4) = 7. Le cercle complet se referme après douze pas, car 12 × 7 = 84 = 7 × 12, soit sept octaves, ce qui est un retour exact au point de départ.
 
-**L'ordre du cercle.** En tournant dans le sens des aiguilles d'une montre, on rencontre : C, G, D, A, E, B, F♯ (ou G♭), D♭, A♭, E♭, B♭, F. Le passage de B à F♯ (ou G♭) est le point le plus éloigné : il s'agit du **triton**, un intervalle de 6 demi-tons. De l'autre côté, F et C se rejoignent. Vérification de la fermeture : de F (5) vers C (12) = 7, correct.
+**L'ordre du cercle.** En tournant dans le sens des aiguilles d'une montre, on rencontre : C, G, D, A, E, B, F♯ (ou G♭), D♭, A♭, E♭, B♭, F. F♯ (ou G♭), en face de C sur le cercle, est la tonalité la plus éloignée de Do : de C à F♯, il y a un **triton**, un intervalle de 6 demi-tons. De l'autre côté, F et C se rejoignent. Vérification de la fermeture : de F (5) vers C (12) = 7, correct.
 
 **Les armures.** En tournant dans le sens horaire, on ajoute un dièse à chaque étape. L'ordre des dièses est toujours le même : Fa, Do, Sol, Ré, La, Mi, Si. En tournant dans l'autre sens, on ajoute un bémol : l'ordre est Si, Mi, La, Ré, Sol, Do, Fa. Donc :
 
@@ -83,7 +83,7 @@ Le jargon : « ii-V-I » désigne la séquence du deuxième, cinquième et premi
 
 - **Tempo** : 60 BPM, métronome sur les temps.
 - **Consigne** : récite à voix haute l'armure des tonalités C, G, D, F, B♭ et E♭, puis le relatif mineur de chacune. Ensuite, joue le I–IV–V–I de Do majeur, puis celui de Sol majeur, chaque accord tenu une mesure.
-- **Critère de réussite** : cinq armures et cinq relatifs donnés sans erreur en moins de trente secondes, puis deux cadences jouées sans note fausse.
+- **Critère de réussite** : six armures et six relatifs donnés sans erreur en moins de trente secondes, puis deux cadences jouées sans note fausse.
 
 ### 🟡 Palier 2 — Maîtrise
 
@@ -108,7 +108,7 @@ Ce qu'il faut entendre : la **tension** d'un accord de dominante qui réclame sa
 1. **Confondre quinte et quarte.** Monter d'une quinte et descendre d'une quarte donnent la même tonalité voisine, mais dans l'autre sens. Correction : retiens que le cercle avance par quintes montantes (7 demi-tons), et que la descente d'une quinte équivaut à la montée d'une quarte (5 demi-tons).
 2. **Chercher le relatif mineur au-dessus.** Le relatif est toujours 3 demi-tons sous la tonique. Correction : Do majeur a La mineur (3 demi-tons plus bas), et non pas Mi mineur.
 3. **Mélanger dièses et bémols.** Le sens horaire ajoute des dièses, le sens antihoraire ajoute des bémols. Correction : mémorise l'ordre « Fa, Do, Sol, Ré, La, Mi, Si » pour les dièses.
-4. **Oublier l'enharmonie au tri-ton.** F♯ et G♭ désignent la même touche, mais la lecture de l'armure change. Correction : choisis la notation qui correspond à la tonalité choisie.
+4. **Oublier l'enharmonie au triton.** F♯ et G♭ désignent la même touche, mais la lecture de l'armure change. Correction : choisis la notation qui correspond à la tonalité choisie.
 5. **Plaquer le ii-V-I sans écoute.** Le geste mécanique ne crée pas de tension. Correction : chante la tonique en même temps que tu la joues.
 
 ## 9 · Liens

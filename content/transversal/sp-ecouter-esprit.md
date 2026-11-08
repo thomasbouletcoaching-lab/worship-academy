@@ -60,7 +60,7 @@ Le C ouvert répartit les notes : la basse est à deux octaves du C, la main dro
 | G ouvert | G2 – D3 | 5 – 1 | G3 – D4 – B4 | 1 – 3 – 5 |
 | Em ouvert | E2 – B2 | 5 – 1 | E4 – G4 – B4 | 1 – 3 – 5 |
 
-Le G ouvert a une basse plus grave que le C ouvert : garde la main gauche légère pour ne pas étouffer la salle. Dans la tonalité de G, il faudra surveiller le Fa dièse dans les accords ultérieurs, mais cette pédale reste dans les notes G, B, D et E : aucun dièse n'apparaît dans les accords de cet exemple.
+Le G ouvert place la main droite plus bas (dès G3) que le C ouvert : garde les deux mains légères pour ne pas étouffer la salle. Dans la tonalité de G, il faudra surveiller le Fa dièse dans les accords ultérieurs, mais cette pédale reste dans les notes G, B, D et E : aucun dièse n'apparaît dans les accords de cet exemple.
 
 ## 5 · Dans la louange
 

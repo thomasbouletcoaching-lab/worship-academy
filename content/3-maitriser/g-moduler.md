@@ -36,13 +36,13 @@ Dans un culte, une modulation sert à relancer le chant, à monter d'un demi-ton
 - Em (Mi mineur) : iii en do, vi en sol. Il appartient aux deux.
 - Am (La mineur) : vi en do, ii en sol. Il appartient aux deux.
 
-Ces accords sont des pivots : on les joue dans l'ancienne tonalité, et l'oreille les réentend comme une tonique nouvelle.
+Ces accords sont des pivots : on les joue dans l'ancienne tonalité, et l'oreille les réentend comme des accords de la nouvelle tonalité.
 
 **Le pivot.** Une modulation par pivot se fait en trois temps : (1) jouer l'accord pivot dans la tonalité de départ ; (2) le réinterpréter comme accord de la nouvelle tonalité ; (3) enchaîner la dominante de la nouvelle tonique, puis la tonique. Exemple : C – Em (pivot) – D7 – G. Em est le iii de do et le vi de sol ; une fois Em joué, l'oreille accepte que la nouvelle tonique soit G, puis D7 (V de sol, avec F#) prépare G.
 
 **La dominante secondaire.** Une modulation directe s'appuie sur la dominante de la nouvelle tonique, appelée dominante secondaire quand elle n'appartient pas à la tonalité de départ. Exemple : C – A7 – D. A7 (A C# E G) est la dominante de D (ré majeur). Le C# est une note étrangère à la gamme de do : c'est précisément ce qui signale le changement. Dès que C# est joué, l'oreille comprend qu'on se dirige vers D.
 
-**La modulation vers la sous-dominante.** On peut aussi passer par le IV de la nouvelle tonique, mais cela demande plus de préparation. Exemple : C – Dm (pivot) – C7 – F. Dm est le ii de do et le vi de fa majeur (F A C ; ici Dm = D F A : vi de fa). Une fois Dm joué, C7 (V de fa, avec Bb) prépare F.
+**La modulation vers la sous-dominante.** On peut aussi moduler vers la tonalité du IV (fa majeur, depuis do), mais cela demande plus de préparation. Exemple : C – Dm (pivot) – C7 – F. Dm (D F A) est le ii de do et le vi de fa majeur (gamme F G A Bb C D E). Une fois Dm joué, C7 (V de fa, avec Bb) prépare F.
 
 **Le cas limite.** Une modulation qui s'installe change de tonalité ; une modulation qui revient à la tonique de départ n'est qu'une digression, un détour. Dans une progression de louange, on décide à l'avance laquelle des deux l'on joue, et l'on sait où l'on veut finir.
 
@@ -64,7 +64,7 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Trois modulation
 | Mesure | Accord | Main gauche | Main droite | Rôle |
 |---|---|---|---|---|
 | 1 | C | C2 (5) | C4 (1), E4 (3), G4 (5) | tonique de départ |
-| 2 | A7 | A2 (5) | C#4 (2), E4 (3), G4 (4) | dominante de ré, C# annonce |
+| 2 | A7 | A2 (5) | C#4 (2), E4 (3), G4 (5) | dominante de ré, C# annonce |
 | 3 | D | D2 (5) | D4 (1), F#4 (3), A4 (5) | nouvelle tonique |
 
 **Modulation 3, par pivot (C vers F) : C – Dm – C7 – F.**
@@ -73,7 +73,7 @@ Référence : tonalité de do majeur (C), avec C4 = do central. Trois modulation
 |---|---|---|---|---|
 | 1 | C | C2 (5) | C4 (1), E4 (3), G4 (5) | tonique de départ |
 | 2 | Dm | D2 (5) | D4 (1), F4 (3), A4 (5) | pivot : ii en do, vi en fa |
-| 3 | C7 | C2 (5) | C4 (1), E4 (2), Bb4 (4) | dominante de fa, Bb annonce |
+| 3 | C7 | C2 (5) | C4 (1), E4 (2), Bb4 (5) | dominante de fa, Bb annonce |
 | 4 | F | F2 (5) | F4 (1), A4 (3), C5 (5) | nouvelle tonique |
 
 **Note sur la tonalité de référence.** Les trois modulations partent de do majeur, la tonalité de référence. Pour les refaire en sol majeur, transpose chaque accord d'une quinte : C devient G, Em devient Bm, D7 devient A7, G devient D. Garde les mêmes mots : pivot, dominante, tonique.

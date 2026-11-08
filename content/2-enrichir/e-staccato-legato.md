@@ -54,7 +54,7 @@ Ces deux styles ne sont pas des techniques réservées aux virtuoses. Ils sont d
 
 **Mélange de styles.** Joue une mesure en legato (accord tenu sur deux temps) puis une mesure en staccato (accords détachés sur les contretemps). Le passage d'un style à l'autre doit être fluide : le mouvement de la main reste le même, seule la durée change.
 
-**Pédale en legato.** Pose le pied sur la pédale droite au premier temps de la mesure, relâche-la au second, puis repose-la au premier temps suivant. Cette façon de faire donne un legato propre sans flou.
+**Pédale en legato.** À chaque changement d'accord, relève la pédale droite au moment précis où tu joues le nouvel accord, puis repose-la juste après l'attaque (pédale « syncopée »). Cette façon de faire donne un legato propre sans flou ni trou.
 
 ## 5 · Dans la louange
 
