@@ -48,19 +48,19 @@ La tonalité de référence de cette fiche est **C (Do) majeur**. Une grande par
 
 | Accord | Basse MG | Doigts MG | Notes MD | Doigts MD |
 |---|---|---|---|---|
-| C ouvert | C2 – G2 | 5 – 1 | C4 – G4 – E5 | 1 – 3 – 5 |
+| C ouvert | C2 – G2 | 5 – 1 | G4 – C5 – E5 | 1 – 3 – 5 |
 | Am ouvert | A2 – E3 | 5 – 1 | A4 – C5 – E5 | 1 – 3 – 5 |
 
-Le C ouvert répartit les notes : la basse est à deux octaves du C, la main droite étale les trois notes sur un écart de plus d'une octave. Cet espace donne une impression d'ouverture, adaptée à l'écoute. Pour jouer la pédale, tiens la basse de C2 pendant que la main droite passe de C ouvert à Am ouvert : c'est une écoute continue, sans changement brusque.
+Le C ouvert répartit les notes : la basse est à deux octaves du C, la main droite reste dans une octave (G4 – E5, une sixte), loin au-dessus de la main gauche. Cet espace entre les mains donne une impression d'ouverture, adaptée à l'écoute. Pour jouer la pédale, tiens la basse de C2 pendant que la main droite passe de C ouvert à Am ouvert : c'est une écoute continue, sans changement brusque.
 
 **Transposition en G majeur (+7 demi-tons)**
 
 | Accord | Basse MG | Doigts MG | Notes MD | Doigts MD |
 |---|---|---|---|---|
-| G ouvert | G2 – D3 | 5 – 1 | G3 – D4 – B4 | 1 – 3 – 5 |
+| G ouvert | G2 – D3 | 5 – 1 | D4 – G4 – B4 | 1 – 3 – 5 |
 | Em ouvert | E2 – B2 | 5 – 1 | E4 – G4 – B4 | 1 – 3 – 5 |
 
-Le G ouvert place la main droite plus bas (dès G3) que le C ouvert : garde les deux mains légères pour ne pas étouffer la salle. Dans la tonalité de G, il faudra surveiller le Fa dièse dans les accords ultérieurs, mais cette pédale reste dans les notes G, B, D et E : aucun dièse n'apparaît dans les accords de cet exemple.
+Le G ouvert place la main droite plus bas (dès D4) que le C ouvert : garde les deux mains légères pour ne pas étouffer la salle. Dans la tonalité de G, il faudra surveiller le Fa dièse dans les accords ultérieurs, mais cette pédale reste dans les notes G, B, D et E : aucun dièse n'apparaît dans les accords de cet exemple.
 
 ## 5 · Dans la louange
 

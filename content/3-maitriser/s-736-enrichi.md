@@ -105,7 +105,7 @@ Joue la chaîne enrichie en Do, puis en Sol, avec les voicings du tableau, en ar
 
 ### 🔴 Palier 3 — Virtuose
 
-Joue la chaîne enrichie dans les douze tonalités, en enchaînant les tonalités par quintes descendantes (Do, Fa, Sib, Mib, etc.), en gardant la basse seule au début de chaque chaîne, à 112 BPM. Critère : enregistrement de trois minutes sans pause, dans lequel la tonalité change toutes les deux mesures et où tu peux nommer le VII, le III et le VI à chaque changement.
+Joue la chaîne enrichie dans les douze tonalités, en enchaînant les tonalités par quintes descendantes (Do, Fa, Sib, Mib, etc.), en gardant la basse seule au début de chaque chaîne, à 112 BPM. Critère : enregistrement d'un tour complet des douze tonalités sans pause (36 mesures, environ 1 min 20 à 112 BPM), dans lequel la tonalité change toutes les trois mesures (un accord par mesure) et où tu peux nommer le VII, le III et le VI à chaque changement.
 
 ## 7 · Oreille
 

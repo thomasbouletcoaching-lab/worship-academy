@@ -34,7 +34,7 @@ Une chorale qui chante un « amen » après une prière s'appuie sur ce même sc
 - **Sous-dominante (S)** : IV (Fa majeur) et ii (Ré mineur). Ils préparent le mouvement.
 - **Dominante (D)** : V (Sol majeur) et vii° (Si diminué). Ils réclament la tonique.
 
-Dans Do majeur, voici les accords : C (I), Dm (ii), Em (iii), F (IV), G (V), Am (vi), Bdim (vii°). L'iii (Em) est un cas particulier : il a une tonalité proche de la tonique, mais il se comporte plutôt comme une dominante faible, ce qui en fait un accord de transition.
+Dans Do majeur, voici les accords : C (I), Dm (ii), Em (iii), F (IV), G (V), Am (vi), Bdim (vii°). L'iii (Em) est un cas particulier : il partage deux notes avec la tonique (E et G), il fonctionne donc d'abord comme un substitut de tonique ; dans certains contextes, il peut prendre une couleur de dominante, ce qui en fait aussi un accord de transition.
 
 **La tension de la dominante.** L'accord de G (G, B, D) peut être enrichi en septième de dominante : G7 = G, B, D, F. Vérifions les intervalles : G vers B = 4 demi-tons (tierce majeure), B vers D = 3 (tierce mineure), D vers F = 3 (tierce mineure). Le F est la septième de l'accord. Il est à 10 demi-tons de G, donc une septième mineure.
 

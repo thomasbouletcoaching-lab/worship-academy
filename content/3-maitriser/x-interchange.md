@@ -48,7 +48,7 @@ Cas limites. Le iv et le ♭VI sont les plus utilisés, parce que leur couleur e
 
 ## 4 · Au clavier
 
-Repère : C4 est le Do central. Tonalité de référence : Do majeur. Seconde tonalité : Sol majeur (G), où l'on emprunte Gm à la place de G, avec Bb au lieu de B.
+Repère : C4 est le Do central. Tonalité de référence : Do majeur. Seconde tonalité : Sol majeur (G), où le iv emprunté à Sol mineur est Cm (C Eb G) à la place de C (C E G), avec Eb au lieu de E.
 
 Voicings proposés, chacun justifié : la basse (fondamentale) est dans la main gauche, la tierce et la quinte sont au-dessus, en position serrée pour rester dans un registre confortable.
 
@@ -61,7 +61,7 @@ Voicings proposés, chacun justifié : la basse (fondamentale) est dans la main 
 | Eb (♭III) | Eb3 | G3 Bb3 | Fondamentale Eb3, tierce G3, quinte Bb3 : position fondamentale, avec la main droite au-dessus de la gauche. |
 | Dm7♭5 (iiø) | D3 | F3 Ab3 C4 | Fondamentale D3 en basse, septième C4 au-dessus, tierce mineure et quinte diminuée (F3, Ab3) : l'accord demi-diminué. |
 
-Joue la séquence Do – Fa – Fm – Do, puis Do – Ab – Bb – Do. Garde la basse la plus lisse possible : le mouvement doit être conjoint.
+Joue la séquence Do – Fa – Fm – Do, puis Do – Ab – Bb – Do. En Sol, joue G – Cm – G : MG G2 puis C3 puis G2, MD B3 D4 G4 puis C4 Eb4 G4 puis B3 D4 G4 ; le G4 reste commun, D4 monte à Eb4 et B3 monte à C4. Garde la basse la plus lisse possible : le mouvement doit être conjoint.
 
 ## 5 · Dans la louange
 

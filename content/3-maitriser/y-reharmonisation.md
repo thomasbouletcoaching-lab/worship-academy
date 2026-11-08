@@ -34,7 +34,7 @@ Dans une église, cela sert souvent à rendre un refrain connu plus ouvert, ou �
 
 1. **La substitution relative.** Un accord majeur et son relatif mineur partagent deux notes sur trois. C = C E G et Am = A C E partagent C et E. Donc remplacer C par Am, ou Am par C, garde la mélodie en place sur les notes communes.
 2. **La substitution tritonique.** Un accord de dominante G7 (G B D F) peut être remplacé par Db7 (Db F Ab B). Les deux accords sont séparés d'un triton : Db et G sont à six demi-tons l'un de l'autre. Le point essentiel : la tierce B de G7 devient la septième (Cb = B) de Db7, et la septième F de G7 devient la tierce de Db7. Les deux notes-guides changent de rôle mais restent présentes, donc la résolution sur C fonctionne toujours.
-3. **L'accord de passage (walk-up).** Entre deux accords, on glisse une basse chromatique. Entre C et Am, on peut écrire C – C/B – Am : la basse descend de C vers B (un demi-ton), puis de B vers A (un ton). C/B signifie « accord de do majeur joué sur une basse de si ».
+3. **L'accord de passage (walk-down, basse descendante).** Entre deux accords, on glisse une basse chromatique. Entre C et Am, on peut écrire C – C/B – Am : la basse descend de C vers B (un demi-ton), puis de B vers A (un ton). C/B signifie « accord de do majeur joué sur une basse de si ».
 
 **La méthode de vérification.** Pour chaque note de la mélodie, pose trois questions : cette note est-elle un son de l'accord (fondamentale, tierce, quinte, septième) ? Est-elle une tension acceptable (9, 11, 13) et est-elle résolue dans la mesure suivante ? Si la réponse est non deux fois, change l'accord.
 
@@ -71,7 +71,7 @@ Dans cette version, le G7 d'origine devient Db7 : la mélodie B reste sur le mê
 
 **Note sur la tonalité de référence.** Toutes les réharmonisations sont données en do majeur (C). Pour passer en sol majeur (G), transpose l'ensemble d'une quinte : C devient G, Am devient Em, F devient C, G devient D. La substitution tritonique change elle aussi : la dominante de sol est D7, et son triton est Ab7 (Ab C Eb Gb), qui résout sur G. Vérifie chaque substitution à la main, car la transposition ne suffit pas toujours à garder la même couleur.
 
-**Le walk-up en pratique.** La progression C – C/B – Am se joue en trois mesures : la basse C, B, A descend d'un demi-ton puis d'un ton, et la main droite tient les notes communes (C et E) pendant le mouvement. Le walk-up relie deux accords sans leur donner de nouvelle fonction.
+**Le walk-down en pratique.** La progression C – C/B – Am se joue en trois mesures : la basse C, B, A descend d'un demi-ton puis d'un ton, et la main droite tient les notes communes (C et E) pendant le mouvement. Le walk-down relie deux accords sans leur donner de nouvelle fonction.
 
 ## 5 · Dans la louange
 
@@ -93,13 +93,13 @@ Dans tous les cas, la voix du chanteur est le juge : si la note qu'il tient se m
 
 ### 🟡 Palier 2 — Maîtrise
 
-**Tempo : 80 BPM.** Sur huit mesures : ajoute un V/V (D7) avant le G (Sol), fais descendre la basse par demi-ton entre deux accords (walk-up), et change au plus deux accords sur quatre.
+**Tempo : 80 BPM.** Sur huit mesures : ajoute un V/V (D7) avant le G (Sol), fais descendre la basse par demi-ton entre deux accords (walk-down), et change au plus deux accords sur quatre.
 
 **Critère de réussite** : les huit mesures réharmonisées ont une cadence claire, la mélodie tombe sur une note de l'accord sur 3 temps forts sur 4, et la basse ne saute pas de plus d'une quinte.
 
 ### 🔴 Palier 3 — Virtuose
 
-**Tempo : 90-100 BPM.** Réharmonise un chant de seize mesures (de ton choix, sans paroles), en gardant les cadences d'origine et en ajoutant au moins deux substitutions (relative, tritonique), un walk-up et une dominante secondaire.
+**Tempo : 90-100 BPM.** Réharmonise un chant de seize mesures (de ton choix, sans paroles), en gardant les cadences d'origine et en ajoutant au moins deux substitutions (relative, tritonique), un walk-down et une dominante secondaire.
 
 **Critère de réussite** : au moins 90 % des notes mélodiques sont tierce, quinte, fondamentale ou tension résolue ; aucune mesure ne présente deux notes en conflit de demi-ton dans la main droite ; le retour sur la tonique final est net.
 

@@ -104,9 +104,9 @@ Critère de réussite : quatre passages consécutifs où la transition est nette
 
 ### 🔴 Palier 3 — Virtuose
 
-Tempo : 90 BPM. Sur une grille en Sol majeur, pose le cluster F#4-G4-A4 à la main droite sur les deux premiers temps de chaque mesure, puis joue une mélodie simple avec la main gauche dans le médium, avec une basse G2 tenue.
+Tempo : 90 BPM. Sur une grille en Sol majeur, pose le cluster F#4-G4-A4 à la main droite sur les deux premiers temps de chaque mesure, puis joue une mélodie simple à la main droite au-dessus de la grappe (à partir de B4), avec une basse G2 tenue à la main gauche.
 
-Critère de réussite : deux minutes sans interruption, la mélodie de la main gauche reste lisible, et le cluster n'étouffe aucune note du chant.
+Critère de réussite : deux minutes sans interruption, la mélodie reste lisible au-dessus du cluster, et le cluster n'étouffe aucune note du chant.
 
 ## 7 · Oreille
 

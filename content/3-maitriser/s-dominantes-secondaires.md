@@ -86,7 +86,7 @@ Joue les cinq dominantes secondaires de Do, chacune suivie de sa cible (D7–G, 
 
 ### 🔴 Palier 3 — Virtuose
 
-Improvise une grille de huit mesures en Do qui contient au moins trois dominantes secondaires différentes, à 112 BPM. Critère : enregistrement de deux minutes où chaque dominante est suivie de sa cible, sans rupture de pulsation, et tu peux nommer la cible de chacune à l'écoute.
+Improvise une grille de huit mesures en Do qui contient au moins trois dominantes secondaires différentes, à 96 BPM. Critère : enregistrement de deux minutes où chaque dominante est suivie de sa cible, sans rupture de pulsation, et tu peux nommer la cible de chacune à l'écoute.
 
 ## 7 · Oreille
 

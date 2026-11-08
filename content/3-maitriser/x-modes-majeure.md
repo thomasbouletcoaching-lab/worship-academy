@@ -98,7 +98,7 @@ Joue chaque mode de Do en croches, sur deux octaves, à 84 BPM, avec la main gau
 
 ### 🔴 Palier 3 — Virtuose
 
-Enchaîne trois modes sur une pédale de Do tenue dans la main gauche, à 112 BPM : dorien, mixolydien, ionien. Enregistre deux minutes. Critère : le changement de mode est audible à chaque passage, sans interruption de la pulsation, et tu peux nommer chaque mode à l'écoute de l'enregistrement.
+Enchaîne trois modes sur une pédale de Do tenue dans la main gauche, à 96 BPM : dorien, mixolydien, ionien. Enregistre deux minutes. Critère : le changement de mode est audible à chaque passage, sans interruption de la pulsation, et tu peux nommer chaque mode à l'écoute de l'enregistrement.
 
 ## 7 · Oreille
 
@@ -111,7 +111,7 @@ Test. Joue, ou demande à quelqu'un de jouer, deux fois la note ré avec un acco
 1. **Confondre mode et tonalité.** Dire « dorien sur D, c'est du ré mineur » est incomplet. Le dorien est un mineur avec 6e majeure. Correction : repère toujours la note caractéristique avant de nommer le mode.
 2. **Jouer la gamme sans jamais écouter la tonique.** Le mode ne tient que si la note de repos est claire. Correction : pose la tonique dans la main gauche, au moins au début et à la fin.
 3. **Mettre des dièses ou des bémols par réflexe.** En Do majeur, le dorien ne contient que des touches blanches. Correction : vérifie la formule (T S T T T S T) plutôt que de chercher les altérations à la clé.
-4. **Utiliser le même doigté pour tous les modes.** Le pouce doit passer sur la 4e note de chaque mode, qui n'est pas la même partout. Correction : repère la 4e note, puis place le pouce dessus.
+4. **Improviser les passages de pouce.** Un passage mal placé casse la régularité de la gamme. Correction : à la main droite, le pouce passe sous le 3e doigt sur la 4e note du mode (G4 en ré dorien) ; à la main gauche, le 3e doigt passe par-dessus le pouce après la 5e note (B3 après A3). Repère ces deux passages avant de jouer.
 5. **Confondre mixolydien et majeur.** Le sol mixolydien contient F naturel, pas F#. Correction : compte la 7e note, elle doit être mineure dans le mixolydien.
 
 ## 9 · Liens

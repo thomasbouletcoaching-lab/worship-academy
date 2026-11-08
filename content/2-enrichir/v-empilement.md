@@ -80,7 +80,7 @@ Vérifications : 60 - 53 = 7 (quinte juste) ; 69 - 60 = 9 (sixte majeure, l'empi
 
 Le cas le plus utile est une prière ou un moment de recueillement sur une pédale. Pendant que l'assemblée prie, la main gauche tient C3 et G3 comme une base immobile. La main droite, elle, change de couleur : elle joue Em7 (E, G, B, D) pendant une mesure, puis Am7 (A, C, E, G) la mesure suivante. Avec la pédale sur C, ces deux positions donnent Cmaj9, puis C6 : deux couleurs proches qui accompagnent une parole sans la contredire.
 
-Un deuxième cas est le moment de l'action de grâce, en tonalité de Fa. La main gauche pose F3 et C4, la main droite prend Am7 en position haute, et la progression vers Dm7, où la main droite passe de A4-C5-E5-G5 à D4-F4-A4-C5, crée un mouvement doux. C'est une progression d'élan, pour un moment de louange qui s'ouvre progressivement.
+Un deuxième cas est le moment de l'action de grâce, en tonalité de Fa. La main gauche pose F3 et C4, la main droite prend Am7 en position haute, et la progression où la main droite passe de A4-C5-E5-G5 à D4-F4-A4-C5 (un Dm7) crée un mouvement doux. Attention : au-dessus de la basse F, la réunion donne F, A, C, D, soit un F6 (D est à 9 demi-tons de F, une sixte majeure), et non un Dm7. C'est une progression d'élan, pour un moment de louange qui s'ouvre progressivement.
 
 Troisième cas : l'accompagnement de la cène. Les accords doivent rester discrets, et l'empilement, bien dosé, offre une richesse sans agitation. Joue les deux mains très doucement, et garde la MD sous le volume de la voix.
 

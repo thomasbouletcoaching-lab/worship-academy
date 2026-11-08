@@ -36,7 +36,7 @@ Aucun n'est meilleur. Un piano acoustique dans une petite salle peut être trop 
 
 **Le piano numérique.** Le piano numérique utilise des échantillons (samples) de vrais pianos ou des modèles physiques qui calculent le son. Ses atouts : les réglages de toucher, le volume, la personnalisation. Son point faible : certains registres sonnent moins naturellement, et l'attaque de chaque touche peut sembler identique à la répétition si le toucher n'est pas varié. Le toucher lourd (hammer action) est un critère de qualité : il donne une résistance proche de la mécanique du piano acoustique.
 
-**La pédale de sustain.** Sur les trois instruments, la pédale de sustain prolonge les sons. Sur un piano numérique, elle est un message MIDI (CC64) : une valeur de 64 ou plus l'active. Sur un Rhodes, elle prolonge aussi les lames, mais de façon plus courte.
+**La pédale de sustain.** Sur les trois instruments, la pédale de sustain prolonge les sons. Sur un piano numérique, elle est un message MIDI (CC64) : une valeur de 64 ou plus l'active. Sur un Rhodes, elle prolonge aussi les lames, dont le son est déjà naturellement long, après une attaque en cloche.
 
 ## 4 · Au clavier
 
