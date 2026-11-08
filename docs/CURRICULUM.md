@@ -128,7 +128,7 @@ Niveaux : **1 SERVIR** (M1–M6), **2 ENRICHIR** (M7–M12), **3 MAÎTRISER** (M
 - s-dominantes-secondaires — Dominantes secondaires
 - s-tritonique — Substitution tritonique
 - s-substitutions — Substitutions d'accords (relatif, tons communs)
-- s-altérations — Les altérations (b9, #9, #11, b5, #5, b13) et leur usage
+- s-alterations — Les altérations (b9, #9, #11, b5, #5, b13) et leur usage
 - s-gammes-dominantes — Gammes pour dominantes altérées
 - s-licks-jazz — Licks pour la louange
 
