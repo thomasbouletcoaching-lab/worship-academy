@@ -2,7 +2,7 @@
 
 La formation de piano de louange : passer de « je voudrais servir par la musique » à « j’accompagne la louange en autonomie ».
 
-**App** : https://thomasbouletcoaching-lab.github.io/worship-acaemy/ (après activation de GitHub Pages, voir `docs/BLOCKERS.md`)
+**App** : https://thomasbouletcoaching-lab.github.io/worship-academy/ (après activation de GitHub Pages, voir `docs/BLOCKERS.md`)
 
 ## Ce que contient le dépôt
 - **133 fiches** (`content/`) : niveaux 1 Servir, 2 Enrichir, 3 Maîtriser, et transversal (sons, matériel, spirituel). Format en 9 blocs : `docs/FORMAT.md`. Sommaire : `docs/CURRICULUM.md`.

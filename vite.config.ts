@@ -30,7 +30,7 @@ function serviceWorker(): Plugin {
 // Déploiement GitHub Pages : base = /<nom-du-dépôt>/.
 export default defineConfig({
   plugins: [react(), serviceWorker()],
-  base: '/worship-acaemy/',
+  base: '/worship-academy/',
   test: {
     globals: true,
     environment: 'node',

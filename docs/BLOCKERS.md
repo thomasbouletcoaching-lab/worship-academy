@@ -5,14 +5,14 @@ Le workflow `.github/workflows/deploy.yml` construit et teste l’app avec succ�
 « Failed to create deployment (status: 404) … Ensure GitHub Pages has been enabled ».
 
 À faire (2 minutes) :
-1. Ouvre https://github.com/thomasbouletcoaching-lab/worship-acaemy/settings/pages
+1. Ouvre https://github.com/thomasbouletcoaching-lab/worship-academy/settings/pages
 2. « Build and deployment » → Source : **GitHub Actions**.
 3. Par défaut, l’environnement `github-pages` n’accepte souvent que la branche par défaut (`main`). Deux options :
    - fusionner la branche `claude/exciting-pasteur-66lo86` dans `main` (recommandé), ou
    - dans Settings → Environments → github-pages, autoriser aussi `claude/*`.
 4. Relance le workflow (onglet Actions → « Déployer sur GitHub Pages » → Run workflow).
 
-L’app sera alors à : https://thomasbouletcoaching-lab.github.io/worship-acaemy/
+L’app sera alors à : https://thomasbouletcoaching-lab.github.io/worship-academy/
 
 ## Notion
 Base « Bibliothèque » : https://app.notion.com/p/17b1396e26d54167818dc8acca2c71e4

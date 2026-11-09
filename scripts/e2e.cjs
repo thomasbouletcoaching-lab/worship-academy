@@ -1,7 +1,7 @@
 // Test de bout en bout (Playwright) sur le build de production servi par `vite preview`.
 // Usage : npm run build && npx vite preview --port 4173 & node scripts/e2e.cjs
 const { chromium } = require('playwright');
-const BASE = process.env.BASE_URL || 'http://localhost:4173/worship-acaemy/';
+const BASE = process.env.BASE_URL || 'http://localhost:4173/worship-academy/';
 // Route → début du titre attendu (les pages sont chargées à la demande : on attend le bon titre).
 const ROUTES = {
   '': 'Accompagner la louange', parcours: 'Mon parcours', bibliotheque: 'Bibliothèque', 'fiche/v-drop2': 'Drop 2',
