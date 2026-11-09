@@ -1,7 +1,7 @@
 // Grilles en Nashville Number System : chiffres (1..7) → accords, transposition instantanée.
 // Aucune parole : uniquement des grilles et des structures.
 import { parseNote } from '../../theory/notes';
-import { buildChord, Chord } from '../../theory/chords';
+import { buildChord, Chord, QUALITIES } from '../../theory/chords';
 import { buildScale, MODES } from '../../theory/scales';
 import { pc, Note } from '../../theory/notes';
 
@@ -34,19 +34,19 @@ export function degreeToChord(tonic: Note, mode: string, token: string): Chord {
   const third = (pc(b) - pc(a) + 12) % 12;
   const fifth = (pc(c) - pc(a) + 12) % 12;
   let quality = third === 4 && fifth === 7 ? 'maj' : third === 3 && fifth === 7 ? 'min' : third === 3 && fifth === 6 ? 'dim' : 'maj';
-  if (alter) quality = quality; // altérer la fondamentale ne change pas la qualité par défaut
-  const rest = suffix.toLowerCase();
-  if (rest === '' ) return buildChord(root, quality);
-  if (rest === 'm') return buildChord(root, 'min');
+  // Degré altéré : b3, b6, b7 = accords majeurs empruntés ; #4 (et autres dièses) = diminué de passage.
+  if (alter === -1) quality = 'maj';
+  if (alter === 1) quality = 'dim';
+  const rest = suffix.trim();
+  if (rest === '') return buildChord(root, quality);
+  if (rest === 'm' || rest === '-') return buildChord(root, 'min');
   if (rest === '7') return buildChord(root, quality === 'min' ? 'm7' : quality === 'dim' ? 'm7b5' : '7');
-  if (rest === 'maj7') return buildChord(root, 'maj7');
-  if (rest === 'm7') return buildChord(root, 'm7');
-  if (rest === 'sus4') return buildChord(root, 'sus4');
-  if (rest === 'add9') return buildChord(root, 'add9');
-  if (rest === '9') return buildChord(root, quality === 'min' ? 'm9' : '9');
-  if (rest === 'dim') return buildChord(root, 'dim');
-  if (rest === 'm7b5') return buildChord(root, 'm7b5');
-  throw new Error(`Suffixe non géré : ${token}`);
+  if (rest === 'sus') return buildChord(root, 'sus4');
+  if (rest === '°' || rest === 'o') return buildChord(root, 'dim');
+  if (rest === 'ø' || rest === 'ø7') return buildChord(root, 'm7b5');
+  if (rest === 'M7' || rest === 'Δ' || rest === 'Δ7') return buildChord(root, 'maj7');
+  if (QUALITIES[rest]) return buildChord(root, rest);
+  throw new Error(`Suffixe non reconnu : « ${token} »`);
 }
 
 /** Tonique depuis une tonalité « G » ou « Am » (mineur naturel). */
@@ -76,3 +76,44 @@ export function renderChart(chart: Chart): { section: string; bars: string[][] }
 }
 
 export { MODES };
+
+/** Accord d'une grille, avec basse éventuelle (accord slash : « 1/3 » = I avec la tierce à la basse). */
+export interface ChartChord { chord: Chord; bass?: Note; symbol: string; }
+
+const noteStr = (n: Note) => `${n.letter}${n.acc === 1 ? '#' : n.acc === -1 ? 'b' : n.acc === 2 ? '##' : n.acc === -2 ? 'bb' : ''}`;
+
+export function tokenToChartChord(key: string, token: string): ChartChord {
+  const { tonic, mode } = parseKey(key);
+  const [main, bassTok] = token.split('/');
+  const chord = degreeToChord(tonic, mode, main);
+  if (!bassTok) return { chord, symbol: chord.symbol };
+  const b = degreeToChord(tonic, mode, bassTok.replace(/[^#b1-7]/g, '')).root;
+  return { chord, bass: b, symbol: `${chord.symbol}/${noteStr(b)}` };
+}
+
+export function barToChartChords(key: string, bar: string): ChartChord[] {
+  return bar.trim().split(/\s+/).filter(Boolean).filter((t) => t !== '%').map((t) => tokenToChartChord(key, t));
+}
+
+/** Découpe le texte d'une section en mesures : séparateurs « | » ou retours à la ligne. « % » répète la mesure précédente. */
+export function parseBars(text: string): string[] {
+  const raw = text.split(/[|\n]/).map((b) => b.trim()).filter(Boolean);
+  const out: string[] = [];
+  for (const b of raw) out.push(b === '%' && out.length ? out[out.length - 1] : b);
+  return out;
+}
+
+/** Erreurs d'une grille (une par mesure fautive), en français. */
+export function chartErrors(chart: Chart): string[] {
+  const errs: string[] = [];
+  try { parseKey(chart.key); } catch { errs.push(`Tonalité inconnue : « ${chart.key} »`); return errs; }
+  chart.sections.forEach((s) => s.bars.forEach((b, i) => {
+    try { barToChartChords(chart.key, b); } catch (e) { errs.push(`${s.name}, mesure ${i + 1} : ${(e as Error).message}`); }
+  }));
+  return errs;
+}
+
+/** Rendu en symboles avec accords slash. */
+export function renderChartSymbols(chart: Chart): { section: string; bars: string[][] }[] {
+  return chart.sections.map((s) => ({ section: s.name, bars: s.bars.map((b) => { try { return barToChartChords(chart.key, b).map((c) => c.symbol); } catch { return ['?']; } }) }));
+}

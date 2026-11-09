@@ -19,3 +19,18 @@ describe('markdown', () => {
     expect(renderMarkdown('> note')).toBe('<blockquote>note</blockquote>');
   });
 });
+
+describe('boutons clavier', () => {
+  it('ajoute un bouton aux lignes avec au moins deux notes', () => {
+    const html = renderMarkdown('- Cmaj7 drop 2 : G3 C4 E4 B4\n- Rien ici', { pitchButtons: true });
+    expect(html).toContain('data-midis="55,60,64,71"');
+    expect(html.match(/class="kb"/g)?.length).toBe(1);
+  });
+  it('ligne de tableau : prend les notes de toute la ligne (hors 1re colonne)', () => {
+    const html = renderMarkdown('| Accord | MG | MD |\n|---|---|---|\n| Cmaj7 | C3 G3 | E4 B4 |', { pitchButtons: true });
+    expect(html).toContain('data-midis="48,55,64,71"');
+  });
+  it('sans option, aucun bouton', () => {
+    expect(renderMarkdown('C4 E4 G4')).not.toContain('kb');
+  });
+});

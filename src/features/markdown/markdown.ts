@@ -1,4 +1,6 @@
 // Rendu Markdown minimal et sûr pour les fiches (titres, listes, tableaux, callouts, gras, code).
+// Option `pitchButtons` : ajoute un bouton 🎹 aux lignes qui contiennent au moins deux notes avec octave.
+import { extractPitches } from '../../theory/pitch';
 const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 export function inline(s: string): string {
@@ -13,14 +15,24 @@ export function inline(s: string): string {
 const isTableSep = (l: string) => /^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$/.test(l);
 const splitRow = (l: string) => l.trim().replace(/^\|/, '').replace(/\|$/, '').split('|').map((c) => c.trim());
 
-export function renderMarkdown(src: string): string {
+export interface RenderOptions { pitchButtons?: boolean; }
+
+/** Bouton clavier pour une ligne de texte brut (vide si moins de deux notes). */
+export function pitchButton(raw: string): string {
+  const midis = [...new Set(extractPitches(raw))];
+  if (midis.length < 2) return '';
+  return `<button type="button" class="kb" data-midis="${midis.join(',')}" aria-label="Voir sur le clavier et écouter">🎹</button>`;
+}
+
+export function renderMarkdown(src: string, opts: RenderOptions = {}): string {
+  const kb = (raw: string) => (opts.pitchButtons ? pitchButton(raw) : '');
   const lines = src.split(/\r?\n/);
   const html: string[] = [];
   let i = 0;
   const para: string[] = [];
   const flush = () => {
     if (para.length) {
-      html.push(`<p>${inline(para.join(' '))}</p>`);
+      html.push(`<p>${inline(para.join(' '))}${kb(para.join(' '))}</p>`);
       para.length = 0;
     }
   };
@@ -47,7 +59,7 @@ export function renderMarkdown(src: string): string {
         '<div class="table-wrap"><table><thead><tr>' +
           head.map((c) => `<th>${inline(c)}</th>`).join('') +
           '</tr></thead><tbody>' +
-          rows.map((r) => '<tr>' + r.map((c) => `<td>${inline(c)}</td>`).join('') + '</tr>').join('') +
+          rows.map((r) => '<tr>' + r.map((c, j) => `<td>${inline(c)}${j === 0 ? kb(r.slice(1).join(' ') || c) : ''}</td>`).join('') + '</tr>').join('') +
           '</tbody></table></div>',
       );
       continue;
@@ -56,14 +68,14 @@ export function renderMarkdown(src: string): string {
       flush();
       const items: string[] = [];
       while (i < lines.length && /^\s*[-*]\s+/.test(lines[i])) { items.push(lines[i].replace(/^\s*[-*]\s+/, '')); i++; }
-      html.push('<ul>' + items.map((x) => `<li>${inline(x)}</li>`).join('') + '</ul>');
+      html.push('<ul>' + items.map((x) => `<li>${inline(x)}${kb(x)}</li>`).join('') + '</ul>');
       continue;
     }
     if (/^\s*\d+\.\s+/.test(line)) {
       flush();
       const items: string[] = [];
       while (i < lines.length && /^\s*\d+\.\s+/.test(lines[i])) { items.push(lines[i].replace(/^\s*\d+\.\s+/, '')); i++; }
-      html.push('<ol>' + items.map((x) => `<li>${inline(x)}</li>`).join('') + '</ol>');
+      html.push('<ol>' + items.map((x) => `<li>${inline(x)}${kb(x)}</li>`).join('') + '</ol>');
       continue;
     }
     para.push(line.trim());

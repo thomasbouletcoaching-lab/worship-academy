@@ -16,7 +16,38 @@ export interface Fiche {
   body: string;
   sections: { title: string; content: string }[];
   path: string;
+  /** Section du sommaire (docs/CURRICULUM.md), déduite du préfixe de l'id. */
+  section: string;
+  /** 1, 2, 3, ou 0 pour le transversal (déduit du dossier). */
+  groupe: number;
+  /** Nombre de mots du corps (pour la durée de lecture). */
+  mots: number;
 }
+
+/** Préfixe d'id → section du sommaire. L'ordre compte : « gr- » avant « g- ». */
+export const SECTIONS: [string, string][] = [
+  ['gr-', 'Jouer en groupe'],
+  ['sn-', 'Sons et effets'],
+  ['mt-', 'Matériel'],
+  ['sp-', 'Spirituel et pastoral'],
+  ['b-', 'Bases'],
+  ['a-', 'Application'],
+  ['m-', 'Morceaux'],
+  ['l-', 'Louange de base'],
+  ['e-', 'Tension et expressivité'],
+  ['c-', 'Accords à 4 sons'],
+  ['v-', 'Voicings et empilement'],
+  ['p-', 'Progressions et fills'],
+  ['r-', 'Rythme'],
+  ['o-', 'Oreille'],
+  ['h-', 'Harmonie louange'],
+  ['x-', 'Modes et couleurs'],
+  ['s-', 'Dominantes et substitutions'],
+  ['y-', 'Réharmonisation'],
+  ['g-', 'Spontané et modulations'],
+  ['t-', 'Conduire, transcrire, transmettre'],
+];
+export const sectionOf = (id: string) => SECTIONS.find(([p]) => id.startsWith(p))?.[1] ?? 'Autres';
 
 const modules = import.meta.glob('/content/**/*.md', { query: '?raw', import: 'default', eager: true }) as Record<string, string>;
 
@@ -45,7 +76,12 @@ export function loadFiches(source: Record<string, string> = modules): Fiche[] {
       body,
       sections: splitSections(body),
       path,
+      section: sectionOf(id),
+      groupe: path.includes('/transversal/') ? 0 : num(meta.niveau, 1),
+      mots: body.split(/\s+/).filter(Boolean).length,
     });
   }
-  return out.sort((a, b) => a.niveau - b.niveau || a.module.localeCompare(b.module) || a.ordre - b.ordre || a.id.localeCompare(b.id));
+  const g = (x: Fiche) => (x.groupe === 0 ? 9 : x.groupe);
+  const modNum = (m: string) => (/^M(\d+)/.exec(m) ? Number(/^M(\d+)/.exec(m)![1]) : 99);
+  return out.sort((a, b) => g(a) - g(b) || modNum(a.module) - modNum(b.module) || a.section.localeCompare(b.section) || a.ordre - b.ordre || a.id.localeCompare(b.id));
 }
