@@ -1,9 +1,27 @@
 # Blocages et contournements
 
-- **Notion** : accessible en lecture (fetch). Contenu lu : Didactique, Blueprint, fiche modèle Drop 2. Pas d'écriture pour l'instant : la base « Bibliothèque » est reportée (le dépôt reste la source de vérité).
-- **Sous-agents mal lancés** : une première vague de 10 rédacteurs a été lancée sans liste d'ids (erreur de consigne). Elle n'a rien produit. Relancée avec les listes dans le prompt. Aucun fichier de la première vague n'a été conservé.
-- **Interaction avec le navigateur** : non vérifiée dans cette session (pas de test manuel du clavier MIDI, ni de l'audio réel).
+## Mise en ligne : GitHub Pages n’est pas activé (action requise)
+Le workflow `.github/workflows/deploy.yml` construit et teste l’app avec succès, mais l’étape de déploiement échoue :
+« Failed to create deployment (status: 404) … Ensure GitHub Pages has been enabled ».
 
-## À reprendre à la relecture
-- `content/2-enrichir/p-enrichies.md` : le titre annonce « 25 progressions », la fiche présente surtout la méthode et quelques exemples. À compléter ou renommer.
-- Catégories : `FORMAT.md` ne fixe pas la liste des catégories ; plusieurs fiches utilisent des noms libres (Progressions, Pentatonique, Avancé, Composition, Voicings, Modulations, Louange). À normaliser sur `docs/CURRICULUM.md`.
+À faire (2 minutes) :
+1. Ouvre https://github.com/thomasbouletcoaching-lab/worship-acaemy/settings/pages
+2. « Build and deployment » → Source : **GitHub Actions**.
+3. Par défaut, l’environnement `github-pages` n’accepte souvent que la branche par défaut (`main`). Deux options :
+   - fusionner la branche `claude/exciting-pasteur-66lo86` dans `main` (recommandé), ou
+   - dans Settings → Environments → github-pages, autoriser aussi `claude/*`.
+4. Relance le workflow (onglet Actions → « Déployer sur GitHub Pages » → Run workflow).
+
+L’app sera alors à : https://thomasbouletcoaching-lab.github.io/worship-acaemy/
+
+## Notion
+Base « Bibliothèque » : https://app.notion.com/p/17b1396e26d54167818dc8acca2c71e4
+Publiée par 9 agents (un premier lot de 13, puis 8 tranches). Une limite d’usage a interrompu la publication une fois ; les agents ont repris en vérifiant les Id existants pour éviter les doublons.
+
+## Non vérifié avec du matériel
+- Clavier MIDI réel et micro réel : la logique (détection, évaluation) est testée avec des signaux simulés, pas avec un instrument.
+- Le son est synthétisé (pas d’échantillons) : correct pour apprendre, pas un piano de concert.
+
+## Historique
+- Première vague de rédacteurs et de relecteurs lancée sans liste de fichiers (erreur de consigne) : relancée correctement.
+- Limites d’usage atteintes deux fois par les agents ; travail repris après la réinitialisation.
