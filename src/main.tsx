@@ -17,3 +17,10 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <App />
   </React.StrictMode>,
 );
+
+// Hors ligne : le service worker met toute l'app en cache après la première visite (production uniquement).
+if (import.meta.env.PROD && 'serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch(() => { /* hors ligne indisponible : l'app fonctionne quand même */ });
+  });
+}
