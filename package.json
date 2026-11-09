@@ -10,7 +10,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "content:check": "tsx scripts/check-content.ts",
-    "content:index": "echo voir src/content/loader.ts"
+    "content:index": "echo voir src/content/loader.ts",
+    "e2e": "node scripts/e2e.cjs"
   },
   "dependencies": {
     "react": "18.3.1",

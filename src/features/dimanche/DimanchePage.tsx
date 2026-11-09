@@ -5,7 +5,7 @@ import { getCharts } from '../nashville/charts';
 import { repo } from '../../lib/repository';
 import { logPractice } from '../../lib/progress';
 
-const input = 'rounded-lg border border-black/15 bg-transparent p-2 dark:border-white/20 dark:bg-nuit';
+const input = 'min-w-0 rounded-lg border border-black/15 bg-transparent p-2 dark:border-white/20 dark:bg-nuit';
 
 export default function DimanchePage() {
   const [set, setSetState] = useState<WorshipSet>(getSet);
@@ -31,7 +31,7 @@ export default function DimanchePage() {
       </label>
       <div className="space-y-3">
         {set.chants.map((s, i) => (
-          <div key={i} className="grid gap-2 rounded-xl border border-black/10 p-3 dark:border-white/10 sm:grid-cols-[2fr_1fr_1fr_2fr_auto]">
+          <div key={i} className="grid gap-2 rounded-xl border border-black/10 p-3 dark:border-white/10 sm:grid-cols-[minmax(0,2fr)_minmax(0,1fr)_minmax(0,1fr)_minmax(0,2fr)_auto]">
             <input aria-label="Titre" placeholder={`Chant ${i + 1}`} value={s.titre} onChange={(e) => setSong(i, { titre: e.target.value })} className={input} />
             <input aria-label="Tonalité" placeholder="Tonalité" value={s.tonalite} onChange={(e) => setSong(i, { tonalite: e.target.value })} className={input} />
             <input aria-label="Tempo" type="number" value={s.bpm} onChange={(e) => setSong(i, { bpm: Number(e.target.value) })} className={input} />
