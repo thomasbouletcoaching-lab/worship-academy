@@ -27,10 +27,13 @@ function serviceWorker(): Plugin {
   };
 }
 
-// Déploiement GitHub Pages : base = /<nom-du-dépôt>/.
+// Chemin de base : Vercel sert l'app à la racine ; GitHub Pages sous /<nom-du-dépôt>/.
+// Vercel définit VERCEL=1 pendant son build.
+const base = process.env.VERCEL ? '/' : '/worship-academy/';
+
 export default defineConfig({
   plugins: [react(), serviceWorker()],
-  base: '/worship-academy/',
+  base,
   test: {
     globals: true,
     environment: 'node',
