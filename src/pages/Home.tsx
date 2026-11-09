@@ -25,18 +25,18 @@ export default function Home() {
         </p>
       </div>
 
-      <div className="grid gap-3 sm:grid-cols-3">
-        <div className="rounded-2xl border border-black/10 p-4 dark:border-white/10">
-          <p className="text-xs uppercase opacity-60">Fiches validées</p>
-          <p className="text-3xl font-semibold tabular-nums">{data.valides.size}<span className="text-base opacity-60"> / {fiches.length}</span></p>
+      <div className="grid grid-cols-3 gap-2 sm:gap-3">
+        <div className="rounded-2xl border border-black/10 p-3 dark:border-white/10 sm:p-4">
+          <p className="text-[10px] uppercase opacity-60 sm:text-xs">Fiches validées</p>
+          <p className="text-2xl font-semibold tabular-nums sm:text-3xl">{data.valides.size}<span className="text-sm opacity-60 sm:text-base"> / {fiches.length}</span></p>
         </div>
-        <div className="rounded-2xl border border-black/10 p-4 dark:border-white/10">
-          <p className="text-xs uppercase opacity-60">Série</p>
-          <p className="text-3xl font-semibold tabular-nums">{data.serie} <span className="text-base opacity-60">jour{data.serie > 1 ? 's' : ''}</span></p>
+        <div className="rounded-2xl border border-black/10 p-3 dark:border-white/10 sm:p-4">
+          <p className="text-[10px] uppercase opacity-60 sm:text-xs">Série</p>
+          <p className="text-2xl font-semibold tabular-nums sm:text-3xl">{data.serie} <span className="text-sm opacity-60 sm:text-base">j</span></p>
         </div>
-        <div className="rounded-2xl border border-black/10 p-4 dark:border-white/10">
-          <p className="text-xs uppercase opacity-60">Révisions du jour</p>
-          <p className="text-3xl font-semibold tabular-nums">{data.dues.length}</p>
+        <div className="rounded-2xl border border-black/10 p-3 dark:border-white/10 sm:p-4">
+          <p className="text-[10px] uppercase opacity-60 sm:text-xs">Révisions du jour</p>
+          <p className="text-2xl font-semibold tabular-nums sm:text-3xl">{data.dues.length}</p>
         </div>
       </div>
 

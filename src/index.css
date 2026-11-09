@@ -18,3 +18,9 @@
 .prose-fiche th { @apply bg-black/5 dark:bg-white/5; }
 .prose-fiche hr { @apply my-6 border-black/10 dark:border-white/10; }
 .prose-fiche a { @apply text-or underline; }
+.prose-fiche .kb { @apply ml-1.5 inline-flex h-7 items-center rounded-md border border-or/60 bg-or/10 px-1.5 align-middle text-sm leading-none hover:bg-or/25; }
+.prose-fiche li, .prose-fiche td { overflow-wrap: anywhere; }
+@media print {
+  header, nav, .kb { display: none !important; }
+  body { background: #fff; color: #000; }
+}

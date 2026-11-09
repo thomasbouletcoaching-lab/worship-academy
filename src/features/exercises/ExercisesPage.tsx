@@ -97,7 +97,7 @@ function ChordExercise({ palier, listen }: { palier: Palier; listen: (h: ((e: Mi
         <p className="mt-1 text-sm opacity-70">{target.chord.name}</p>
         <p className="mt-2 text-xs opacity-60">Score : {score.ok}/{score.total}</p>
       </div>
-      <Keyboard from={48} octaves={3} marks={marks} onKey={toggle} />
+      <Keyboard from={48} octaves={typeof window !== 'undefined' && window.innerWidth < 640 ? 2 : 3} marks={marks} onKey={toggle} />
       <div className="flex flex-wrap gap-2">
         <button type="button" className={btnSec} onClick={() => playNotes(closeVoicing(target.chord.notes, toMidi(target.chord.notes[0], 4)), 1.5)}>▶ Écouter</button>
         <button type="button" className={btnSec} onClick={() => evaluate(held)}>Valider</button>
